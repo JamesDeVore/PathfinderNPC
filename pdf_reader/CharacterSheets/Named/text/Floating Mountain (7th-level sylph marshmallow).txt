@@ -1,0 +1,112 @@
+
+
+Sajan “Floating Mountain” Viraj 
+Male sylph monk 7 (drunken master, monk of the four winds) 
+LG Medium humanoid (human)/outsider (native) 
+Init +3; Senses darkvision 60 ft.; Perception +13 
+Languages Common, Dwarven, Halfling 
+DEFENSE 
+AC 22, touch 19, flat-footed 18 (+2 armor, +1 deflection, +3 Dex, +1 
+dodge, +1 monk, +1 natural, +3 Wis); +2 vs. nonmagical ranged 
+attacks 
+hp 52 (7 HD) 
+Fort +6, Ref +8, Will +8 
+Defensive Abilities breeze kissed, evasion 
+OFFENSE 
+Speed 70 ft. (14 squares) 
+Melee unarmed strike +9 (1d8+4) or 
+unarmed strike +9/+9 (1d8+4) with Flurry of Blows 
+Ranged javelin +8 (1d6+4) 
+Racial Spell-like Ability (CL 7
+th; Concentration +6) 
+1/day – speak with animals (flying animals only) 
+Special Attacks breeze kissed 1/day, elemental fist 7/day (+2d6 energy damage), flurry of blows, unarmed 
+strike (1d8) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 16 (+3), Con 13 (+1), Int 14 (+2), Wis 16 (+3), Cha 8 (–1) 
+Base Atk +5; CMB +11; CMD 25 
+Feats Dodge
+B, Elemental FistB, Fleet (3), Improved Unarmed Strike
+B, Mobility
+B, Scorpion Style
+B (3 rounds, DC 
+16), Spring Attack 
+Skills Acrobatics +13 (+36 when jumping), Climb +14, Escape Artist +13, Perception +13, Stealth +13, Swim 
++14 
+SQ drunken ki (up to 3 points), fast movement, high jump, ki pool (6 points, cold iron, magic, silver), like the 
+wind, maneuver training, mostly human, slow fall 30 ft., wholeness of body (cures 7 hp) 
+Combat Gear ale of life (as restorative ointment, 5 uses remaining), tankards of ale (9); Other Gear bead 
+necklace (worth 250gp), amulet of natural armor +1, belt of physical might +2 (strength, constitution), 
+bracers of armor +2, cloak of resistance +1, masterwork javelins (4), ring of protection +1, tender 
+(41gp, 4sp, 6cp) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 29 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+AC Bonus (Ex) When unarmored and unencumbered, you add your Wisdom bonus +1 to your AC and your 
+CMD (included above). These bonuses to AC apply even against touch attacks or when you are flat-
+footed. You lose these bonuses when you are immobilized or helpless, when you wear any armor, or 
+when you carry a shield or medium or greater load. 
+Breeze-Kissed (Su) Breezes seem to follow most sylphs wherever they go, but you are better able to control 
+these winds than others. You can surround yourself with swirling winds, gaining a +2 racial bonus to 
+AC against nonmagical ranged attacks. You can calm or renew these winds as a swift action. Once per 
+day, you may channel this wind into a single gust, making a bull rush or trip combat maneuver attempt 
+against one creature within 30 feet. Whether or not the attempt succeeds, the winds are exhausted and no 
+longer provide a bonus to your AC for 24 hours. 
+Drunken Ki (Su) You can drink a tankard of ale or strong alcohol and gain one temporary ki point. The act of 
+drinking is a standard action that does not provoke attacks of opportunity. There is a limit to how many 
+drunken ki points you can have at once (shown above). These drunken ki points last for 1 hour or until 
+
+spent, whichever is shorter. As long as you have at least 1 drunken ki point, you can spend 1 ki point as 
+a swift action to move 5 feet without provoking attacks of opportunity. 
+Drunken Strength (Su) You can spend 1 point of ki as a swift action to inflict 1d6 extra points of damage on a 
+single successful melee attack. You may choose to apply the damage after the attack roll is made. You 
+must have at least 1 drunken ki point to use this ability. 
+Elemental Fist (Su) You gain Elemental Fist as a bonus feat, even if you do not meet the prerequisites. You 
+also benefit from increased energy damage (as shown above). 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. Evasion can be used only if you are wearing light 
+armor or no armor. If you are helpless, you do not gain the benefit of evasion. 
+Fast Movement (Ex) If wearing no armor and not carrying a medium load, you gain a +20 enhancement bonus 
+to your base land speed. 
+Flurry of Blows (Ex) You can make a flurry of blows as a full-attack action. When doing so you may make one 
+additional attack using any combination of unarmed strikes or attacks with a special monk as if using the 
+Two-Weapon Fighting feat (even if you do not meet the prerequisites for the feat). For the purpose of 
+these attacks, your base attack bonus is equal to your monk level. For all other purposes, such as 
+qualifying for a feat or a prestige class, you use your normal base attack bonus. You apply your full 
+Strength bonus to your damage rolls for all successful attacks made with flurry of blows, whether the 
+attacks are made with an off-hand or with a weapon wielded in both hands. You may substitute disarm, 
+sunder, and trip combat maneuvers for unarmed attacks as part of a flurry of blows. You cannot use any 
+weapon other than an unarmed strike or a special monk weapon as part of a flurry of blows. You cannot 
+use natural weapons as part of a flurry of blows, nor can you make natural attacks in addition to your 
+flurry of blows attacks. 
+High Jump (Ex) You add your monk level to all Acrobatics checks made to jump, both for vertical jumps and 
+horizontal jumps (included above). In addition, you always count as having a running start when making 
+jump checks using Acrobatics. By spending 1 point from your ki pool as a swift action, you gain a +20 
+bonus on Acrobatics checks made to jump for 1 round. 
+Ki Pool (Su) You gain 6 ki points. As long as you have at least 1 point in your ki pool, you can make a ki 
+strike. Your ki strike allows your unarmed attacks to be treated as magic weapons for the purpose of 
+overcoming damage reduction. By spending 1 point from your ki pool, you can make one additional 
+attack at your highest attack bonus when making a flurry of blows attack. In addition, you can spend 1 
+point to increase your speed by 20 feet for 1 round. Finally, you can spend 1 point from your ki pool to 
+give yourself a +4 dodge bonus to AC for 1 round. Each of these powers is activated as a swift action. 
+The ki pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be 
+consecutive. 
+Like the Wind You gain a +5 foot bonus to your base speed (included above). 
+Maneuver Training (Ex) You use your monk level in place of your base attack bonus when calculating your 
+Combat Maneuver Bonus (included above). Base attack bonuses granted from other classes are 
+unaffected and are added normally. 
+Sky Speaker (Sp) You feel kinship toward the creatures of the air, and can use speak with animals once per day 
+to speak to birds or other flying animals. Your caster level for this effect is equal to your level. 
+Slow Fall (Ex) When within arm’s reach of a wall you can use it to slow your descent. You take damage as if 
+the fall were 30 feet shorter than it actually is. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat. Your attacks may be with fist, elbows, 
+knees, and feet. This means that you may make unarmed strikes with his hands full. There is no such 
+thing as an off-hand attack for you. You may apply your full Strength bonus on damage rolls for all of 
+your unarmed strikes. Usually your unarmed strikes deal lethal damage, but you can choose to deal 
+nonlethal damage instead with no penalty on your attack roll. You have the same choice to deal lethal or 
+nonlethal damage while grappling. Your unarmed strike is treated as both a manufactured weapon and a 
+natural weapon for the purpose of spells and effects that enhance or improve either manufactured 
+weapons or natural weapons. You deal more damage with your unarmed strikes than a normal person 
+would, as shown above. 
+
+Wholeness of Body (Su) You can heal your own wounds as a standard action. You can heal a number of hit 
+points of damage equal to your monk level by using 2 points from your ki pool. 
