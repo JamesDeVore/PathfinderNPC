@@ -1,0 +1,73 @@
+
+
+Bread Crumbs 
+“Who’s hungry?” 
+ 
+Bread Crumbs is a lone kobold who was exiled from his tribe for accidentally poisoning their chief. Now he lives 
+as a wayward trap smith creating or finding and disabling traps on behalf of various explorers and adventurers. 
+Not one for direct confrontation, Bread Crumbs generally prefers to hide and use ambush tactics when combat is 
+called for, relying on sniping foes with his poisoned sling bullets. Despite being somewhat cowardly,  Bread 
+Crumbs is an accomplished cook and miner in addition to being an accomplished trap smith, which is generally 
+enough to convince his clients to overlook his heritage and various faults. 
+ 
+During combat Bread Crumbs usually waits until his victims are either trapped in his traps, or passed out from 
+poison or sleep, though he doesn’t shy away from using a poisoned sling bullet or ladle to finish off one or two 
+stragglers. If captured by enemies, Bread Crumbs begs for his life, offering to serve his new masters as faithful 
+cook and slave until such a time that he can escape (killing his captors if he can). 
+ 
+Bread Crumbs 
+Kobold, investigator 1 
+LN Small humanoid (reptilian) 
+Init +4; Senses darkvision 60 ft., trapfinding; Perception +8 
+Languages Common, Draconic, Dwarven, Gnome 
+DFENSE 
+AC 18, touch 14, flat-footed 15 (+3 armor, +3 Dex, +1 natural, +1 size) 
+hp 10 (1 HD) 
+Fort +1, Ref +5, Will +4 
+Weaknesses light sensitivity 
+OFFENSE 
+Speed 20 ft. (4 squares); 30 ft. when unencumbered 
+Melee short sword +5 (1d4/19-20 plus poison) or 
+sap +5 (1d4 nonlethal) or 
+heavy ladle +5 (1d4 plus poison) 
+Ranged sling +5 (1d3 plus poison) 
+Alchemist Extracts Prepared (CL 1
+st) 
+1
+st  (2/day) – reduce person, shield 
+STATISTICS 
+Abilities Str 10 (+0), Dex 16 (+3), Con 12 (+1), Int 16 (+3), Wis 14 (+2), Cha 7 (–2) 
+Base Atk +1; CMB +0 (+3 with Weapon Finesse); CMD 13 
+Feats Weapon Finesse 
+Skills Craft (alchemy) +8, Craft (trapmaking) +9, Disable Device +7, Escape Artist +6, Perception +8 (+9 to 
+find traps), Profession (cook) +6, Profession (miner) +8, Sleight of Hand +6, Stealth +10; Check 
+Penalty –1 (–6 when encumbered); Racial Bonuses +2 Craft (trapmaking), +2 Perception, +2 
+Profession (miner) 
+SQ alchemy, crafty, inspiration (3/day), trapfinding +1 
+Combat Gear blue whinnis poison (3), sling bullets (10); Other Gear alchemy crafting kit, cooking kit, 
+cookware armor (as wooden armor), folding shovel, heavy ladle (battle aspergillum), mess kit, miner’s 
+pick, sap, short sword, sling, tender (3gp, 7sp), trespasser’s boots (5) 
+Formula Book 1st-level—cure light wounds, expeditious retreat, reduce person, shield, true strike 
+Encumbrance light 24 lb. 12 oz., medium 49 lb. 8 oz., heavy 75 lb.; Weight Carried 73 lb. 3 oz. (excluding 
+tender) 
+   
+
+SPECIAL ABILITIES 
+Alchemy (Su) You are highly trained in the creation of mundane alchemical substances and magical potion-like 
+extracts. When using Craft (alchemy) to create an alchemical item, you gain a competence bonus equal 
+to you inquisitor class level on the skill check. In addition, you can use Craft (alchemy) to identify 
+potions as if using detect magic. You must hold the potion for 1 round to attempt such a check. 
+Crafty (Ex) Craft (trapmaking) and Stealth are always class skills for a kobold. 
+Inspiration (Ex) You have an inspiration pool equal to ½ your investigator level + your Intelligence modifier 
+(minimum 1). Your inspiration pool refreshes each day, typically after you get a restful night’s sleep. As 
+a free action, you can expend one use of inspiration from your pool to add 1d6 to the result of that 
+check, including any on which you take 10 or 20. This choice is made after the check is rolled and 
+before the results are revealed. You can only use inspiration once per check or roll. You can use 
+inspiration on any Knowledge, Linguistics, or Spellcraft skill checks without expending a use of 
+inspiration, provided you are trained in the skill. Inspiration can also be used on attack rolls and saving 
+throws, at the cost of expending two uses of inspiration each time from your pool. In the case of saving 
+throws, using inspiration is an immediate action rather than a free action. 
+Poison Blue whinnis—injury; save Fort DC 14, frequency 1/round for 2 rounds, effect 1 Con/unconsciousness 
+1d3 hours, cure 1 save. 
+Trapfinding You add ½ your level to Perception skill checks made to locate traps and to Disable Device 
+checks (minimum 1). You can use Disable Device to disarm magical traps. 

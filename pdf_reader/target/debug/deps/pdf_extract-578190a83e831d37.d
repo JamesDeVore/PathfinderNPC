@@ -1,0 +1,11 @@
+C:\Users\jdevo\Desktop\Projects\PathfinderAI\pdf_reader\target\debug\deps\pdf_extract-578190a83e831d37.rmeta: C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\lib.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\core_fonts.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\glyphnames.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\zapfglyphnames.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\encodings.rs
+
+C:\Users\jdevo\Desktop\Projects\PathfinderAI\pdf_reader\target\debug\deps\libpdf_extract-578190a83e831d37.rlib: C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\lib.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\core_fonts.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\glyphnames.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\zapfglyphnames.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\encodings.rs
+
+C:\Users\jdevo\Desktop\Projects\PathfinderAI\pdf_reader\target\debug\deps\pdf_extract-578190a83e831d37.d: C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\lib.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\core_fonts.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\glyphnames.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\zapfglyphnames.rs C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\encodings.rs
+
+C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\lib.rs:
+C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\core_fonts.rs:
+C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\glyphnames.rs:
+C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\zapfglyphnames.rs:
+C:\Users\jdevo\.cargo\registry\src\github.com-1ecc6299db9ec823\pdf-extract-0.6.1\src\encodings.rs:

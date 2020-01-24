@@ -1,0 +1,170 @@
+
+
+Alleunti Dilesi, the Great Deceiver 
+“If you knew what I know about those abominable fiends, you would abandon your 
+silly crusades and spend what time you have left with those closest to you. That is 
+why I seldom speak of such things—for the sake of the world, for the sake of hope.” 
+ 
+Lady Dilesi is a product of the Worldwound incursion. Having lived in Sarkoris as 
+the adopted daughter of a tribal witch who foresaw a time of chaos and a thinning 
+of the borders between realities, Alleunti was raised under the shadow of 
+cataclysm. Despite this advanced knowledge, it was mere happenstance that she 
+came to see firsthand the formation of the mile-long cosmic blight, rimmed by jet 
+black flames, southwest of the city of Iz—what would later become known as the 
+very birthplace of the Worldwound. Due to her close proximity to the event, the 
+immense energies involved in its initial formation would change her forever, 
+imbuing her with mythic power and granting her a glimpse of the abyss beyond. 
+ 
+Confused and terrified of what she had seen, and of the strange, inescapable 
+energies coalescing about her young form, Alleunti fled in the hopes of warning the nearby citizens of Iz. She 
+never made it, however, as her still glowing form attracted the attention of one of the first fiends to step forth 
+from the nightmare beyond. Before she got very far, she was intercepted and captured by a possessing demon. 
+Her body was then used for many long decades to spy on mortal-kind and to commit a multitude of horrific 
+atrocities. The fiend eventually abandoned her tortured body, having transformed it into a spent and useless 
+husk, and left her for dead. Nevertheless, she managed to endure. Lost and left wondering alone in an 
+ever-growing wasteland, she eventually stumbled into the front lines of what would later be known as the First 
+Mendevian Crusade. 
+ 
+Due to her terrible ordeal and the years of exposure to fiends, Alleunti had learned more about demon-kind than 
+most great sages could ever hope to learn in a dozen lifetimes. Nevertheless, the experience robbed her of her 
+youth and left her emotionally and mentally scarred. Having lost her home and family to the demonic incursions 
+of the abyss, she continued to wonder the growing blight as a paranoid, forlorn elf hermit for nearly a century—
+ever fearful that those she encountered were demon-possessed, as she had been. In spite of the gnawing fear that 
+she would once again be taken by those horrible monsters, she nevertheless waged a personal war against the 
+fiends during that period, continuing to learn everything she could about their strengths and weaknesses, always 
+expanding her knowledge and newfound power. 
+ 
+Even with her ill reputation as a former spy for fiend-kind (having long ago earned the moniker “The Great 
+Deceiver”) and as a half-mad mage who speaks in tongues, few can deny her intimate knowledge and fiery 
+hatred of demon-kind, or her clear mastery of the arcane arts. She has therefore served as an invaluable sage and 
+artificer to each of the five Mendevian Crusades at various points throughout their long history.   
+
+Alleunti Dilesi 
+Female elf arcanist 6 (mythic archmage 1) 
+CN Medium humanoid (elf) 
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +10 
+Languages Abyssal, Aquan, Auran, Celestial, Common, Draconic, Elven, Goblin, 
+Gnoll, Ignan, Infernal, Orc, Protean, Terran 
+DEFENSE 
+AC 18, touch 14, flat-footed 14 (+4 armor, +4 Dex); mage armor 
+hp 50 plus false life (6 HD) 
+Fort +5, Ref +6, Will +7; +2 vs. enchantment and fear effects 
+Defensive Abilities hard to kill, ongoing spells; DR 10/magic vs. ranged weapons 
+Immunities magic sleep effects 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee mwk longspear +3 (1d8–1/×3) 
+Ranged heavy crossbow +7 (1d10/19-20) 
+Special Attacks arcane reservoir (6/day, 9 max), archmage arcana (arcane surge), mythic power (5/day, surge 
++1d6) 
+Arcanist Spells Prepared (CL 6
+th; Concentration +11) 
+3rd  (3/day) – fly 
+2
+nd (5/day) – blindness/deafness (mythic), invisibility 
+1
+st  (6/day) – magic missile, protection from evil, shield, silent image 
+0  (at will) – dancing lights, detect magic, light, mage hand, mending, message, prestidigitation 
+STATISTICS 
+Abilities Str 8 (–1), Dex 18 (+4), Con 15 (+2), Int 20 (+5), Wis 14 (+2), Cha 8 (–1) 
+Base Atk +3; CMB +2; CMD 16; Hero Points 3 
+Feats Demonologist, Glimpse Beyond (incomplete), Mythic Spell LoreM, Orator, Skill Focus (linguisticsB) 
+Skills Bluff +4 (+23 to tell a falsehood or conceal information), Diplomacy –1 (+18 to change the attitude of a 
+creature), Fly +13 (+16 with fly spell), Intimidate –1 (+18 to force a creature to cooperate), Knowledge 
+(arcana) +14, Knowledge (planes) +14 (+16 vs. evil outsiders, +18 vs. demons; may take 10 vs. 
+demons), Linguistics +18, Perception +10, Spellcraft +14, Stealth +10; Racial Bonuses +2 Perception 
+SQ arcanist exploits (dimensional slide, potent magic, quick study), consume spells (1/day), crafting 
+mastery, human-raised, traits (forlorn, paranoid, possessed, unintentional linguist) 
+Combat Gear crossbow bolts (10); Gear belt of mighty constitution +2, blessed book (696 pages remaining), 
+demon caul of fiendish lies (see below), headband of vast intelligence +2 (fly), heavy crossbow, 
+masterwork longspear, spell component pouch, spring-loaded wrist sheathe, tender (101gp, 5sp), 
+traveler’s any-tool 
+Spellbook all core spells of 3
+rd-level and lower 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 27 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Arcane Focus You gain a +2 racial bonus on Concentration checks made to cast arcane spells defensively. 
+Arcane Reservoir (Su) You have an innate pool of magical energy that you can draw upon to fuel your arcanist 
+exploits and enhance your spells. Your arcane reservoir can hold a maximum amount of magical energy 
+equal to 3 + your arcanist level. Each day, when preparing spells, your arcane reservoir fills with raw 
+magical energy, gaining a number of points equal to 3 + ½ your arcanist level. Any points you had from 
+the previous day are lost. You can also regain these points through the consume spells class feature and 
+some arcanist exploits. The arcane reservoir can never hold more points than the maximum amount 
+noted above; points gained in excess of this total are lost. Points from the arcanist reservoir are used to 
+fuel many of your arcanist powers. In addition, you can expend 1 point from your arcane reservoir as a 
+free action whenever you cast an arcanist spell. If you do, you can choose to increase the caster level by 
+
+1 or increase the spell’s DC by 1. You can expend no more than 1 point from your reservoir on a given 
+spell in this way. 
+Arcane Surge (Su) As a swift action, you can expend one use of mythic power to cast any one arcane spell 
+without expending a prepared spell or spell slot. If you prepare spells, this spell must be one you 
+prepared today (even if you have already cast it); if you’re a spontaneous caster, this spell must be one 
+of your spells known. If the spell requires a saving throw, any non-mythic creatures affected by the spell 
+roll twice and take the lower result. If you must attempt a caster level check for the spell to overcome a 
+creature’s spell resistance, you can roll your caster level check twice (adding your tier to each) and take 
+the higher result. You can’t add a metamagic feat to a spell you cast using this ability. 
+Consume Spells (Su) You can expend an available arcanist spell slot as a move action, making it unavailable 
+for the rest of the day, just as if you had used it to cast a spell. You can use this ability a number of times 
+per day equal to your Charisma modifier (minimum 1). Doing this adds a number of points to your 
+arcane reservoir equal to the level of the spell slot consumed. You cannot consume cantrips (0 level 
+spells) in this way. Points gained in excess of the reservoir’s maximum are lost. 
+Crafting Mastery (Ex) You can craft any magic item as if you had the necessary item creation feats. If you 
+actually have the item creation feat needed for a magic item you’re crafting, whenever you attempt a 
+skill check to create that item, roll twice and use the higher result, and you make twice as much progress 
+on the item for any time spent. This ability does not reduce the item’s cost or any other requirements. 
+Dimensional Slide (Su) You can expend 1 point from your arcane reservoir to create a dimensional crack that 
+you can step through to reach another location. This ability is used as part of a move action or withdraw 
+action, allowing you to move up to 10 feet per arcanist level to any location you can see. This counts as 
+5 feet of movement. You can only use this ability once per round. You do not provoke attacks of 
+opportunity when moving in this way, but any other movement you attempt as part of your move action 
+provokes as normal. 
+Forlorn You gain a +1 trait bonus to Fortitude saves. 
+Glimpse Beyond You gain a +2 bonus on Knowledge (dungeoneering) checks to identify the vulnerabilities 
+and powers of aberrations, Knowledge (planes) checks to identify the vulnerabilities and powers of evil 
+outsiders, and Knowledge (religion) checks to identify the vulnerabilities and powers of undead, and you 
+can make such checks untrained. If you have 10 or more ranks in any of these Knowledge skills, the 
+bonus increases to +4 for the appropriate skill. In addition, you gain a +2 bonus on saves against fear 
+effects. If you are ever killed or driven insane (as determined by the GM) by an aberration, evil outsider, 
+or undead your mind is left permanently marked. From that point forward, any sane creature that 
+attempts to read your thoughts takes 1d6 points of Wisdom damage (Will DC 10 + 1/2 your level + your 
+Charisma modified negates). In addition, the effect of any ability damage, ability drain, or penalty to 
+your Intelligence, Wisdom, or Charisma is halved (minimum 1). You take a –2 penalty on Will saving 
+throws. Whenever you roll a save against a mind-affecting effect, roll twice and keep the better result. 
+Hard to Kill (Ex) Whenever you’re below 0 hit points, you automatically stabilize without needing to attempt a 
+Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose 
+hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points 
+when below 0 hit points. In addition, you don’t die until your total number of negative hit points is equal 
+to or greater than double your Constitution score. 
+Ongoing Spells You regularly cast the following spells upon yourself while adventuring, using your arcane 
+reservoir to re-prepare spells as necessary, and their effects are included above where appropriate 
+(though their resource cost is not): darkvision, false life, mage armor, protection from arrows. 
+Paranoid Anyone who attempts an aid another action of any type to assist you must succeed at a DC 15 check 
+instead of the normal DC 10 check. 
+Possessed Once per day, you can attempt a Knowledge check of your choice even if you are not trained in that 
+skill and it is not usually possible to use that skill untrained. If you can normally use that skill untrained, 
+you gain a +2 trait bonus on the check. 
+Potent Magic (Su) Whenever you expend 1 point from your arcane reservoir to increase the caster level of a 
+spell, the caster level increases by 2 instead of 1. Whenever you expend 1 point from your arcane 
+reservoir to increase the spell’s DC, it increases by 2 instead of 1. 
+
+Quick Study (Ex) You can prepare a spell in place of an existing spell by expending 1 point from your arcane 
+reservoir. Using this ability is a full-round action that provokes an attack of opportunity. You must be 
+able to reference her spellbook when using this ability. The spell prepared must be of the same level as 
+the spell being replaced. 
+Unintentional Linguist You gain a +1 trait bonus on all Linguistics checks, and you begin play knowing 
+Protean. 
+ 
+DEMON CAUL OF FIENDISH LIES 
+Aura moderate transmutation; CL 6
+th 
+
+Slot head; Price 2,500gp; Weight 1 lb. 
+DESCRIPTION 
+An elaborate caul hat made from mithral wire, precious gems, and the bones of fiends great and small, the 
+demon caul of fiendish lies is a unique magical headpiece that grants its wearer uncanny abilities of deceit. It 
+magically adheres to the wearer’s scalp, granting the subject a distinctly demonic appearance and making 
+accidental removal virtually impossible. When worn, this caul conceals emotions that might be betrayed by 
+one’s facial expression behind a calm façade and transforms one’s voice into a cold, heartless monotone, 
+granting a +5 competence bonus on all Bluff checks. 
+CONSTRUCTION 
+Requirements Craft Wondrous Item, innocence; Cost 1,250gp 

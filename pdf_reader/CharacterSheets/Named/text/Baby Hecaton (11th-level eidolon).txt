@@ -1,0 +1,71 @@
+
+
+Baby Hecatoncheires 
+“You are a mere mortal. It is your very nature to die.” 
+ 
+This large abomination stands nearly 12 feet tall and, like a 
+living tree bulging with knobby boles, has dozens of arms and 
+nearly as many heads. Words fail to describe the monstrosity of 
+its form, or the brutality of its many visages. Every hand appears 
+to be armed with a weapon, either a fine sword or a small 
+boulder. Its girth is so massive, that it can only ever bring a 
+fraction of its weapons to bear at any given time. The monstrous 
+eidolon wears magic half plate which, due to its amorphous 
+nature, might well be part of the very creature itself. 
+ 
+Before it was even fully formed, this terrifying creature was 
+wrenched from the realm of the Proteans by a young summoner 
+who would bind it into service. Impressed with the monster he 
+had cowed, the summoner swore to “raise” the young abomination until it became as strong as the legendary 
+“hundred handed ones,” ancient beings which were known for slaying entire deific pantheons in legends of old. 
+Only then would the insane summoner grant the abomination its freedom, unleashing doom upon the world. 
+ 
+In order to be played, Baby Hecaton requires an 11
+th-level summoner with at least 15 Evolution Points). 
+ 
+Baby Hecaton 
+Serpent Eidolon 
+CE Large outsider 
+Init +4; Senses darkvision 60 ft., Perception +20 
+Languages As summoner 
+DEFENSE 
+AC 25, touch 13, flat-footed 21 (+4 Dex, +12 natural, –1 size) 
+hp 83 (9 HD) 
+Fort +6, Ref +10, Will +6; +4 vs. enchantment effects 
+Defensive Abilities devotion, evasion; Immunity prone condition 
+OFFENSE 
+Speed 20 ft. (4 squares), climb 20 ft. 
+Melee mwk longsword +15/+10 (2d6+11/19-20) and 
+9 mwk longswords +15 (2d6+11/19-20) and 
+bite +14/+9 (1d8+5) and 
+tail slap +14 (1d8+5) with Multiweapon Fighting 
+Ranged rock +11 (1d8+11) and 
+9 rocks +11 (1d8+11) with Multiweapon Fighting and Throw Anything 
+Space 10 ft.; Reach 5 ft. (10 ft. with bite) 
+STATISTICS 
+Abilities Str 32 (+11), Dex 18 (+4), Con 17 (+3), Int 7 (–2), Wis 10 (+0), Cha 11 (+0) 
+Base Atk +9; CMB +21; CMD 35 (immune to trip) 
+Feats Double Slice, Intimidating Prowess, Martial Weapon Proficiency (longsword), Multiweapon Fighting, 
+Throw Anything 
+Skills Acrobatics +13 (+15 to balance), Climb +17, Intimidate +23, Perception +20, Stealth +9, Swim +17; 
+Racial Modifiers +2 Acrobatics to balance, +8 Perception 
+SQ darkvision 60 ft., devotion, evasion, evolutions, link, multiattack, share spells 
+Gear bag of holding (type I), belt of giant strength +6, masterwork longswords (10), throwing rocks 
+Encumbrance light 2,076 lb., medium 4,152 lb., heavy 6,240 lb.; Weight Carried 96 lb. 
+SPECIAL ABILITIES 
+Devotion (Ex) An eidolon receives a +4 morale bonus on Will saves versus enchantment spells and effects. 
+Evolutions bite
+F, climbF, large, limbs (arms) (5), reach (bite
+F), skilled (perception), tailF, tail slapF 
+Link You and your eidolon share a mental link that allows for communication across any distance (as long as 
+you are on the same plane). This communication is a free action, allowing you to give orders to your 
+eidolon at any time. What’s more, magic items interfere with this link, so that you and your eidolon 
+must share magic item slots. When both you and the eidolon are wearing a magic item in the same slot, 
+your magic item continues to function while the eidolon’s becomes dormant. An eidolon must still have 
+the appropriate magical item slot in order to be able to use of a given magic item. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your eidolon (as a spell with a range of 
+touch) instead of on yourself. You may cast spells on your eidolon even if the spells normally do not 
+affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner 
+spell list. This ability does not allow your eidolon to share abilities that are not spells, even if they 
+function like spells. 
+ 

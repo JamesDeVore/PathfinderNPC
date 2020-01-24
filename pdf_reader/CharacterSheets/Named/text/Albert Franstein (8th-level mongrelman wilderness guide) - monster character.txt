@@ -1,0 +1,210 @@
+
+
+Albert Franstein 
+“You may think me a foul and uncouth beast from the nightmares of young children, but when you find yourself 
+lost and alone, freezing to death in the night’s blizzard, you’ll wish you had hired me for your guide.” 
+ 
+Albert Franstein was born a proud member of the mongrel folk—a race generally despised by most others. With 
+the head and torso of a rotund walrus, the eyes of a great cat, the stout legs of an elephant, and the burly arms of 
+an orc, however, he quickly learned that no amount of pride would protect him from the fear and violence of 
+other races, however. So he too hid away from the busy pockets of civilization and disappeared into the far 
+wilds of the north, where he adventures with his only permanent companion, the white tiger Frostwind, and 
+works as a wilderness guide for any who might look past his appearance and hire him. 
+ 
+Albert Franstein 
+Male mongrelman hunter 8 
+NG Medium monstrous humanoid 
+Init +2; Senses darkvision 60 ft., low-light vision, 
+Perception +16 
+Languages Common, Sylvan, Undercommon 
+DEFENSE 
+AC 20, touch 12, flat-footed 18 (+6 armor, +2 Dex, +2 
+natural) 
+hp 116 (10 HD) 
+Fort +10, Ref +11, Will +8 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. unarmored 
+Melee +1 impact sugliin +15/+10 (3d6+10/×3) or 
++1 impact sugliin +15/+7 (3d6+19/×3) with Power Attack, or 
++1 impact sugliin +15 (6d6+19/×3) with Power Attack and Vital Strike 
+Ranged +1 composite longbow +11/+6 (1d8+6/×3) 
+Special Attacks precise companion (outflank), hunter tactics 
+Hunter Spells Known (CL 8
+th; Concentration +11) 
+3rd  (3/day) – call lightning, diminish plants, plant growth 
+2nd (5/day) – acute senses
+UM, barkskin, eagle eyeAPG, speak with plants 
+1st  (5/day) – animal messenger, call animal, commune with birds, entangle, speak with animals 
+0  (at will) – create water, detect magic, guidance, know direction, light, spark
+APG 
+STATISTICS 
+Abilities Str 22 (+6), Dex 14 (+2), Con 18 (+4), Int 13 (+1), Wis 16 (+3), Cha 6 (–2) 
+Base Atk +8; CMB +14; CMD 26 
+Feats Furious Focus, Improved Spell Sharing
+B (variable), LookoutB, OutflankB, Power Attack, Skill Focus 
+(stealth), Stealth Synergy, Vital Strike 
+Skills Handle Animal +13 (+17 with animal companion), Heal +16, Knowledge (geography) +14, Knowledge 
+(nature) +12, Perception +16, Sleight of Hand +4 (untrained), Stealth +23, Survival +16 (+20 when 
+tracking); Armor Check Penalty −2; Racial Bonuses +4 Sleight of Hand, +4 Stealth 
+SQ animal focus (8 minutes/day), improved empathic link, nature training, second animal focus, swift 
+tracker, track +4, wild empathy +8, woodland stride 
+Combat Gear arrows (20), pheromone arrows (20), wand of cure light wounds (50 charges); Other Gear +1 
+adaptive composite longbow, +1 impact sugliin (as earth breaker), +2 hide armor, hunter’s kit, ring of 
+sacred mistletoe, tender (35gp) 
+Encumbrance light 306 lb., medium 613 lb., heavy 920 lb.; Weight Carried 71 lb. 3 oz. (excluding tender) 
+SPECIAL ABILITIES 
+
+Animal Focus (Su) You can take on the aspect of an animal as a swift action. You must select one type of 
+animal to emulate, gaining a bonus or special ability based on the type of animal emulated and your 
+hunter level. You can use this ability for a number of minutes per day equal to your hunter level. This 
+duration does not need to be consecutive, but must be spent in 1-minute increments. You can emulate 
+only one animal at a time. You can also apply one of these aspects to your animal companion. Unlike 
+with yourself, there is no duration on the animal aspect applied to your animal companion. An aspect 
+applied in this way does not count against your minutes of duration per day—it remains in effect until 
+you change it. The companion’s aspect can be the same aspect you have taken on or a different one. You 
+can select or change the animal foci on both yourself and your animal companion as part of the same 
+swift action. If your animal companion is dead, you can apply your companion’s animal focus to 
+yourself instead of your animal companion. This is in addition to the normal one you can choose, and (as 
+with a companion’s focus) remains in effect until you change it instead of counting against your minutes 
+per day. A list of animal aspects are shown below. 
+Hunter Tactics (Ex) You automatically grant your teamwork feats to your animal companion. The companion 
+doesn’t need to meet the prerequisites of these teamwork feats. 
+Improved Empathic Link (Su) You gain an empathic link with your animal companion out to one mile. You 
+can communicate empathically with your animal companion and can also see through a companion’s 
+eyes as a swift action, maintaining this connection as long as you like (as long as the companion is 
+within 1 mile) and ending it as a free action. You are blinded while maintaining this connection. 
+Because of the link’s limited nature, only general emotions can be shared. You have the same 
+connection to an item or place that your animal companion does. 
+Nature Training (Ex) You count your total hunter level as both druid levels and ranger levels for the purpose 
+of qualifying for feats, traits, and options that modify or improve an animal companion. 
+Second Animal Focus (Su) Whenever you use your animal focus ability, you select two different animal 
+aspects for yourself instead of one, and can assign two aspects to your animal companion instead of one. 
+As with the companion’s previous aspect, the second one does not count against the minutes per day you 
+can take on an aspect. If your animal companion is dead and you have applied the companion’s animal 
+aspect to yourself, that aspect does not count toward your maximum of two aspects at once. You can still 
+apply only one of your dead companion’s aspects to yourself, not both. 
+Swift Tracker (Ex) You can move at your normal speed while using Survival to follow tracks without taking 
+the normal −5 penalty. You take only a −10 penalty (instead of the normal −20) when moving at up to 
+twice normal speed while tracking. 
+Teamwork Feat As a standard action, you can choose to learn a new bonus teamwork feat in place of the most 
+recent bonus teamwork feat you have already learned. In effect, you lose the bonus feat in exchange for 
+the new one. You can change only the most recent teamwork feat gained, and must meet the 
+prerequisites for the newly selected feat. You can change your most recent teamwork feat a number of 
+times per day equal to your Wisdom modifier (minimum 1). Whenever you gain a new teamwork feat, 
+your previous teamwork feats become permanent. 
+Track (Ex) You add ½ your hunter level to Survival skill checks made to follow tracks. 
+Wild Empathy (Ex) You can improve the initial attitude of an animal. This ability functions as a Diplomacy 
+check to improve the attitude of a person, but you roll 1d20 and add your hunter level and your 
+Charisma modifier to determine the wild empathy check result. The typical domestic animal has a 
+starting attitude of indifferent, while wild animals are usually unfriendly. To use wild empathy, you and 
+the animal must be within 30 feet of one another under normal conditions. Generally, influencing an 
+animal in this way takes 1 minute but, as with influencing people, it might take more or less time. You 
+can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but you take a 
+−4 penalty on the check. 
+Woodland Stride (Ex) You and your animal companion may move through any sort of undergrowth (such as 
+natural thorns, briars, overgrown areas, and similar terrain) at your normal speed and without taking 
+damage or suffering any other impairment. Thorns, briars, and overgrown areas that are enchanted or 
+magically manipulated to impede motion will still affect you and your animal companion. 
+ 
+
+Frostwind 
+Tiger Animal Companion 
+N Large animal 
+Init +3; Senses low-light vision, scent; Perception +6 
+DEFENSE 
+AC 19, touch 12, flat-footed 16 (+3 Dex, +7 natural, −1 size) 
+hp 52 (7 HD) 
+Fort +8, Ref +8, Will +4; +4 vs. enchantment spells and effects 
+Defensive Abilities devotion, evasion 
+OFFENSE 
+Speed 50 ft. (10 squares); run ×5 
+Melee 2 claws +12 (1d6+7 plus grab) and bite +11 (1d8+7 plus grab) or 
+2 claws +10 (1d6+11 plus grab) and bite +9 (1d8+11 plus grab) with Power Attack 
+Space 10 ft.; Reach 5 ft. 
+Special Attacks pounce, rake (2 claws +12, 1d6+7) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 17 (+3), Con 17 (+3), Int 2 (−4), Wis 15 (+2), Cha 10 (+0) 
+Base Atk +5; CMB +13 (+17 grapple); CMD 26 
+Feats Improved Spell Sharing
+B, LookoutB, Narrow Frame, Outflank
+B, Power Attack, Run, Stealth Synergy
+B, 
+Weapon Focus (claw) 
+Skills Escape Artist +7, Perception +6, Stealth +7 
+SQ animal aspects (bull, stag), combat trained, link, share spells, tricks (advanced attack, defend, down, 
+flank, guard, heel, hunt, sneak, watch) 
+Gear none 
+Encumbrance light 699 lb., medium 1,398 lb., heavy 2,100 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Devotion (Ex) An animal companion gains a +4 morale bonus on Will saves against enchantment spells and 
+effects. 
+Evasion (Ex) If an animal companion is subjected to an attack that normally allows a Reflex save for half 
+damage, it takes no damage if it makes a successful saving throw. 
+Grab (Ex) If your animal companion hits with the indicated attack, it deals normal damage and attempts to start 
+a grapple as a free action without provoking an attack of opportunity. Unless otherwise noted, grab can 
+only be used against targets of a size equal to or smaller than your animal companion. Your animal 
+companion has the option to conduct the grapple normally, or simply use the part of its body it used in 
+the grab to hold the opponent. If it chooses to do the latter, it takes a −20 penalty on its CMB check to 
+make and maintain the grapple, but does not gain the grappled condition itself. A successful hold does 
+not deal any extra damage unless your animal companion also has the constrict special attack. If the 
+creature does not constrict, each successful grapple check it makes during successive rounds 
+automatically deals the damage indicated for the attack that established the hold. Otherwise, it deals 
+constriction damage as well (the amount is given in the creature’s descriptive text). Creatures with the 
+grab special attack receive a +4 bonus on combat maneuver checks made to start and maintain a grapple. 
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding an animal companion. 
+Pounce (Ex) When your animal companion makes a charge, it can make a full attack (including rake attacks). 
+Rake (Ex) Your animal companion gains extra natural attacks under certain conditions, typically when it 
+grapples its foe. In addition to the options available to all grapplers, your animal companion gains two 
+free claw attacks that it can use only against a grappled foe. The bonus and damage caused by these 
+attacks is included above. Your animal companion must begin its turn already grappling to use its 
+rake—it can’t begin a grapple and rake in the same turn. 
+
+Share Spells (Ex) You may cast a spell with a target of “You” on your animal companion (as a spell with a 
+range of touch) instead of on yourself. You may cast spells on your animal companion even if the spells 
+normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come 
+from a class that grants an animal companion. This ability does not allow the animal to share abilities 
+that are not spells, even if they function like spells. 
+ 
+ANIMAL ASPECTS 
+Bat: The creature gains darkvision to a range of 60 feet. At 8
+th-level, the range increases by 30 feet. At 
+15th-level, the creature also gains blindsense to a range of 10 feet. 
+Bear: The creature gains a +2 enhancement bonus to Constitution. This bonus increases to +4 at 8
+th-level and 
++6 at 15
+th-level. 
+Bull: The creature gains a +2 enhancement bonus to Strength. This bonus increases to +4 at 8th-level and +6 at 
+15th-level. 
+Falcon: The creature gains a +4 competence bonus on Perception checks. This bonus increases to +6 at 8th-level 
+and +8 at 15th-level. 
+Frog: The creature gains a +4 competence bonus on Swim checks and on Acrobatics checks to jump. These 
+bonuses increase to +6 at 8
+th-level and +8 at 15
+th-level. 
+Monkey: The creature gains a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th-level 
+and +8 at 15th-level. 
+Mouse: The creature gains evasion, as the rogue class feature. At 12
+th-level, this increases to improved evasion, 
+as the rogue advanced talent. 
+Owl: The creature gains a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8
+th-level and 
++8 at 15
+th-level. 
+Snake: The creature gains a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge bonus 
+to AC against attacks of opportunity. These bonuses increase to +4 at 8th-level and +6 at 15th-level. 
+Stag: The creature gains a 5-foot enhancement bonus to its base land speed. This bonus increases to 10 feet at 
+8
+th-level and 20 feet at 15th-level. 
+Tiger: The creature gains a +2 enhancement bonus to Dexterity. This bonus increases to +4 at 8th-level and +6 
+at 15
+th-level. 
+Wolf: The creature gains the scent ability with a range of 10 feet. The range of this sense increases to 20 feet at 
+8th-level and 30 feet at 15
+th-level. The range doubles if the opponent is upwind, and is halved if the 
+opponent is downwind. 
+ 
+HUNTER’S KIT 
+This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, rope, torches (10), 
+trail rations (5 days), and a waterskin. 

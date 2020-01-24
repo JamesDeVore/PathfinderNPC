@@ -1,0 +1,162 @@
+
+
+Balasar Frollo 
+“Those who oppose Iomedae shall know pain without end.” 
+ 
+Balasar is a noble born priest devoted to Iomedae, the Great Inheritor who helped 
+to  form civilization out of chaos and liberate  the humanoid races  from their 
+barbarism. Balasar is a powerful healer, a consummate Samaritan, a paragon of his 
+faith, and a completely fanatic zealot. He never tolerates insults against his faith 
+and  is  quick to accuse such dissenters of being  heretical heathens deserving of 
+nothing less than a highly public execution. What’s more, Balasar’s station as the 
+local judge and his lofty position within the church’s hierarchy gives him some 
+leeway in carrying out such public executions. 
+
+A master of subtly manipulating evidence, of bending laws to his favor, and of 
+convincing the people of his community of any allegations he decides to lie upon 
+his unfortunate foes, Balasar possesses near absolute control over the lives of his 
+citizenry. Despite his crazed devotion to his faith, the vast majority of people love 
+him for his extreme dedication to the bettering of their community. After all, any 
+who questioned the morality of his behavior have long since been “legitimately” 
+burned at the stake or imprisoned for their heresy. 
+
+If ever confronted by an obvious superior about the high number of executions in 
+his community, Balasar is quick to dismiss it with a warning, sometimes laced with a 
+veiled threat: “If we are not constantly vigilant against the lawless terrorists who would dare attempt to undo all 
+the efforts of  the almighty  Iomedae, then  we  are no more deserving of his lord’s  gifts than the heretics 
+themselves.” Balasar’s skills of control through deception are such that even fellow faithful and those of 
+superior station are not necessarily safe from his potential wrath. 
+
+   
+
+Balasar Frolo 
+  
+
+Male human inquisitor 9 
+LN Medium humanoid (human) 
+Init +4; Senses Perception +16 
+Languages Common, Celestial, Osiriani 
+DEFENCE 
+AC 24, touch 12, flat-footed 24 (+8 armor, +2 deflection, +2 natural, +2 shield) 
+hp 65 (9 HD) 
+Fort +8, Ref +5, Will +12 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee walking cane +6/+1 (1d6) 
+Ranged by weapon +6/+1 
+Inquisitor Spell-like Abilities (CL 9
+th; Concentration +13) 
+At-will – detect chaos, detect evil, detect good, detect law, discern lies 
+(immediate action, up to 9 rounds/day) 
+7/day – inspiring word 
+Inquisitor Spells Known (CL 9th; Concentration +13) 
+3rd-level (3/day) – invisibility purge, prayer, seek thoughtsAPG 
+2nd-level (5/day) – calm emotions, castigate
+APG, confessAPG, honeyed tongueAPG 
+1st-level (5/day) – bane, command, doom, sanctuary, true strike 
+0-level (at will) – brandAPG, create water, detect magic, detect poison, guidance, siftAPG 
+Deity Iomedae; Domain Nobility 
+Special Attacks bane (9 rounds), judgment 3/day (any two) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 10 (+0), Con 10 (+0), Int 14 (+2), Wis 18 (+4), Cha 20 (+5) 
+Base Atk +6; CMB +6; CMD 18 
+SQ cunning initiative, focused study, inspiring word, leadership, monster lore +4, second judgment, solo tactics, 
+stern gaze +4, teamwork feat (4/day), track +4 
+Feats Deceitful, Duck and Cover
+B, LeadershipB (20 base, 20 followers, 22 cohort), LookoutB, Persuasive, Skill 
+Focus (bluffB, diplomacy
+B, intimidate, sense motive), Swap Places
+B, Toughness 
+Skills Bluff +25, Diplomacy +25, Disguise +7, Intimidate +29, Knowledge (local) +11 (+15 vs. creatures), 
+Knowledge (nobility) +11, Knowledge (planes) +14 (+18 vs. creatures), Knowledge (religion) +14 (+18 
+vs. creatures), Perception +16, Sense Motive +22, Survival +4 (+8 tracking); Armor Check Penalty –2 
+Combat Gear holy water (3), wand of cure light wounds (50 charges); Other Gear +2 mithral chainmail, 
+amulet of natural armor +2, cloak of resistance +2, hat of divine station (as circlet of persuasion), 
+headband of alluring charisma +2, ring of force shield, ring of protection +2, silver holy symbol, spell 
+component pouch, sunrods (5), tender (9pp), walking cane (as quarterstaff) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 29 lb. (excluding tender) 
+ 
+   
+
+SPECIAL ABILITIES 
+Bane (Su) You can imbue one of your weapons with the bane weapon special ability as a swift action. You 
+must select one creature type when you use this ability (and a subtype if the creature type selected is 
+humanoid or outsider). Once selected, the type can be changed as a swift action. This ability only 
+functions while you wield the weapon. If dropped or taken, the weapon resumes granting this ability if it 
+is returned to you before the duration expires. This ability lasts for a number of rounds per day equal to 
+your inquisitor level. These rounds do not need to be consecutive. 
+Cunning Initiative (Ex) You add your Wisdom modifier on initiative checks, in addition to your Dexterity 
+modifier (included above). 
+Detect Alignment (Sp) At will, you can use detect chaos, detect evil, detect good, or detect law. You can only 
+use one of these at any given time. 
+Discern Lies (Sp) You can discern lies, as per the spell, for a number of rounds per day equal to your inquisitor 
+level. These rounds do not need to be consecutive. Activating this ability is an immediate action. 
+Inspiring Word (Sp) As a standard action, you can speak an inspiring word to a creature within 30 feet. That 
+creature receives a +2 morale bonus on attack rolls, skill checks, ability checks, and saving throws for a 
+number of rounds equal to ½ your inquisitor level. You can use this power a number of times per day 
+equal to 3 + your Wisdom modifier. 
+Judgment (Su) You can pronounce judgment upon your foes as a swift action. Starting when the judgment is 
+made, you receive a bonus or special ability based on the type of judgment made. Once activated, this 
+ability lasts until the combat ends, at which point all of the bonuses immediately end. You must 
+participate in the combat to gain these bonuses. If you are frightened, panicked, paralyzed, stunned, 
+unconscious, or otherwise prevented from participating in the combat, the ability does not end, but the 
+bonuses do not resume until you can participate in the combat again. When you use this ability, you 
+must select two types of judgments to make. As a swift action, you can change this judgment to another 
+type. All your judgment bonuses are profane bonuses. The types of judgments are shown below. 
+Leadership (Ex) You receive Leadership as a bonus feat. In addition, you gain a +2 bonus on your leadership 
+score as long as you uphold the tenets of your deity (included above). 
+Monster Lore (Ex) You add your Wisdom modifier on Knowledge skill checks in addition to your Intelligence 
+modifier, when making skill checks to identify the abilities and weaknesses of creatures (included 
+above). 
+Solo Tactics (Ex) All of your allies are treated as if they possessed the same teamwork feats as you do for the 
+purpose of determining whether you receive a bonus from your teamwork feats. Your allies do not 
+receive any bonuses from these feats unless they actually possess the feats themselves. The allies’ 
+positioning and actions must still meet the prerequisites listed in the teamwork feat for you to receive the 
+listed bonus. 
+Stern Gaze (Ex) You receive a morale bonus on all Intimidate and Sense Motive checks equal to ½ your 
+inquisitor level (included above). 
+Teamwork Feat As a standard action, you can choose to learn a new bonus teamwork feat in place of the most 
+recent bonus teamwork feat you have already learned. In effect, you lose the bonus feat in exchange for 
+the new one. You can only change the most recent teamwork feat gained. Whenever you gain a new 
+teamwork feat, the previous teamwork feat becomes set and cannot be changed again. You can change 
+your most recent teamwork feat a number of times per day equal to your Wisdom modifier. 
+Track (Ex) You add half your inquisitor level on Survival skill checks made to follow or identify tracks 
+(included above). 
+ 
+   
+
+JUDGMENT SELECTIONS 
+Destruction You are filled with divine wrath, gaining a +1 profane bonus on all weapon damage rolls. This 
+bonus increases by +1 for every three inquisitor levels you possess. 
+Healing You are surrounded by a healing light, gaining fast healing 1. This causes you to heal 1 point of 
+damage each round as long as you are alive and the judgment lasts. The amount of healing increases by 
+1 point for every three inquisitor levels you possess. 
+Justice This judgment spurs you to seek justice, granting a +1 sacred bonus on all attack rolls. This bonus 
+increases by +1 for every five inquisitor levels you possess. At 10
+th level, this bonus is doubled on all 
+attack rolls made to confirm critical hits. 
+Piercing This judgment gives you great focus and makes your spells more potent. This benefit grants a +1 
+sacred bonus on concentration checks and caster level checks made to overcome a target’s spell 
+resistance. This bonus increases by +1 for every three inquisitor levels you possess. 
+Protection You are surrounded by a protective aura, granting a +1 sacred bonus to Armor Class. This bonus 
+increases by +1 for every five inquisitor levels you possess. At 10
+th level, this bonus is doubled against 
+attack rolls made to confirm critical hits against you. 
+Purity You are protected from the vile taint of your foes, gaining a +1 sacred bonus on all saving throws. This 
+bonus increases by +1 for every five inquisitor levels you possess. At 10
+th level, the bonus is doubled 
+against curses, diseases, and poisons. 
+Resiliency This judgment makes you resistant to harm, granting DR 1/magic. This DR increases by 1 for every 
+five levels you possess. At 10
+th level, this DR changes from magic to an alignment (chaotic, evil, good, 
+or lawful) that is opposite of yours. If you are neutral, you do not receive this increase. 
+Resistance You are shielded by a flickering aura, gaining 2 points of energy resistance against one energy type 
+(acid, cold, electricity, fire, or sonic) chosen when the judgment is declared. The protection increases by 
+2 for every three inquisitor levels you possess. 
+Smiting This judgment bathes your weapons in a divine light. Your weapons count as magic for the purposes of 
+bypassing damage reduction. At 6
+th level, your weapons also count as one alignment type (chaotic, evil, 
+good, or lawful) for the purpose of bypassing damage reduction. The type selected must match one of 
+your alignments. If you are neutral, you do not receive this bonus. At 10th level, your weapons also 
+count as adamantine for the purpose of overcoming damage reduction (but not for reducing hardness). 
+ 

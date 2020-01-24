@@ -1,0 +1,73 @@
+
+
+Bumi Mei Fong 
+Male human barbarian 1/fighter 10/oracle 1 (hurler, weapon master) 
+CN Medium humanoid 
+Init +2; Senses Perception +14 
+Languages Common 
+DEFENSE 
+AC 30, touch 14, flat-footed 28 (+11 armor, +2 deflection, +2 Dex, +1 natural, +4 
+shield) 
+hp 117 (12 HD) 
+Fort +13, Ref +7, Will +7; +4 vs. disease 
+Defensive Abilities mirror move +4, weapon guard +2; Immunity sicken 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. without armor 
+Melee +1 rock +25/+20/+15 (1d8+12/19-20) with one hand, or 
++1 rock +25/+20/+15 (1d8+15/19-20) with two hands 
+Ranged +1 rock +26/+21/+16 (2d4+17/19-20) or 
++1 rock +23/+18/+13 (2d4+23/19-20) with Deadly Aim, or 
++1 rock +24/+24/+19/+14 (2d4+17/19-20) with Rapid Shot, or 
++1 rock +21/+21/+16/+11 (2d4+23/19-20) with Deadly Aim and Rapid Shot 
+Mystery Stone 
+Special Attacks rage (6 rounds/day), rock throwing, weapon training (rock +4) 
+STATISTICS 
+Abilities Str 26 (+8), Dex 14 (+2), Con 14 (+2), Int 10 (+0), Wis 10 (+0), Cha 8 (–1) 
+Base Atk +11; CMB +19; CMD 33 (35 vs. the disarm/sunder of your rocks) 
+Feats Clustered ShotsB, Deadly Aim, Disposable WeaponB, Distance ThrowerB, Far ShotB, Improvised Weapon 
+Mastery
+B, Point Blank Shot, Precise Shot, Quick Draw, Rapid Shot, Splintering WeaponB, Throw 
+Anything
+B, Weapon Focus (rock) 
+
+Skills Acrobatics +12, Appraise +15, Climb +6, Intimidate +14, Perception +15, Survival +15, Swim +6; 
+Armor Check Penalty –5 (–6 with shield) 
+SQ oracle’s curse (wasting), traits (prismati player; strong arm, supple wrist) 
+Gear +3 O-yoroi, +2 heavy steel shield, +1 armored coat (not normally worn), amulet of natural armor +1, 
+bag of holding (type I, filled with rocks), boots of speed, cloak of resistance +2, gloves of improvised 
+might +1 (doubles as gloves of dueling), greater belt of mighty hurling, heavy pick, hunter’s sight, ring 
+of protection +2, tender (72gp), various gemstones (100gp worth) 
+Encumbrance light 306 lb., medium 613 lb., heavy 920 lb.; Weight Carried 104 lb. (excluding rocks and 
+tender) 
+SPECIAL ABILITIES 
+Mirror Move (Ex) You gain your weapon training bonus as an insight bonus to AC when attacked by rocks or 
+rock-like objects. 
+Prismati Player You gain a +1 trait bonus on attack rolls with fist sized rocks or similarly shaped objects, and a 
++1 trait bonus on concentration checks. 
+Rage (Ex) You can enter a rage as a free action for 12 rounds each day. The total number of rounds of rage per 
+day is renewed after resting for 8 hours, although these hours do not need to be consecutive. While in 
+rage, you gain a +4 morale bonus to your Strength and Constitution, as well as a +2 morale bonus on 
+Will saves. In addition, you take a –2 penalty to Armor Class. The increase to Constitution grants you 2 
+hit points per Hit Dice, but these disappear when the rage ends and are not lost first like temporary hit 
+points. While in rage, you cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except 
+Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration. You can end 
+your rage as a free action and you become fatigued afterwards for a number of rounds equal to 2 times 
+the number of rounds spent in the rage. You cannot enter a new rage while fatigued or exhausted but can 
+
+otherwise enter rage multiple times during a single encounter or combat. If you fall unconscious, your 
+rage immediately ends, placing you in peril of death. 
+Reliable Strike (Ex) You may reroll an attack roll, critical hit confirmation roll, miss chance check, or damage 
+roll with a rock as an immediate action. You must accept the second roll even if it is worse. You can use 
+this ability twice per day. 
+Rock Throwing (Ex) You have a +1 racial bonus on attack rolls with thrown rocks. You can hurl rocks up to 
+two categories smaller than your own size. The range increment for a rock is 20 feet, and you can hurl it 
+up to 5 range increments. Base damage for a hurled rock is 2d4 for a Medium creature, plus 1½ your 
+Strength bonus. 
+Skilled Thrower (Ex) Increase the range increment of any thrown weapon or object by 10 feet. 
+Strong Arm, Supple Wrist Whenever you move at least 10 feet before making an attack with a thrown 
+weapon, you add 10 feet to the range increment of the weapon thrown. 
+Wasting (Ex) You take a –4 penalty on Charisma-based skill checks, except for Intimidate. You gain a +4 
+competence bonus on saves made against disease and are immune to the sickened condition. 
+Weapon Guard (Ex) You gain a +2 bonus to CMD against disarm and sunder attempts while wielding rocks. 
+This bonus also applies on saves against any effect that targets your rocks. 
+Weapon Training (Ex) You gain a +4 bonus on attack and damage rolls with rocks. 

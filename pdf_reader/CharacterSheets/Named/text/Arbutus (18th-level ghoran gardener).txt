@@ -1,0 +1,376 @@
+
+
+Arbutus, Prince of Flowers 
+“Your blade may sever every limb, but my power will always bloom!” 
+  
+A unique plant creature spawned in the First World and transplanted into the soil of the 
+Material Plane, Arbutus grew into a unique being very much akin to the ghoran of Nex, 
+though he does not share that race’s origin. Arbutus holds no memory of his early past 
+and to date the story behind his origin remains a mystery. 
+ 
+Arbutus grew to be an artist and hermit who loves to create beautiful gardens in 
+isolation. He expresses his art in the forms of the plants that he grows, shaping them 
+into visions of beauty. He loves his plants, often thinking of them as his children. In 
+contrast, he holds sentient humanoids in low regard due to their habit of treating plants 
+and nature like disposable objects and using them for crass purposes (cutting trees into 
+lumber, burning wood for warmth, allowing smoke to pollute the air and block out the sun, 
+collecting flowers to die a slow death in a vase), thus in return he often treats humans as 
+uncaringly as they would treat his plants. 
+ 
+Arbutus is dry, cynical, acts somewhat like a gentleman, and values beauty in many 
+forms. He thinks highly of himself and of nature, often claiming that he and his 
+powers are eternal. Despite his antagonistic attitude towards humanoids, Arbutus is 
+not an evil being, simply displaying a great deal of love for—and a strong desire to 
+protect—his gardens just as a family loves and protects its members. A rare few humanoids (hermit druids 
+mostly), have recently taught him that not all humanity is bad, as some still appreciate nature; the beauty of a 
+flower, the shade of a tree, the joy of planting a seed and watching it grow. Nevertheless, Arbutus is slow to 
+trust newcomers to his isolated realm. 
+ 
+Long ago, a powerful adventurer far from his homeland, stumbled into and began exploring Arbutus’ magical 
+garden kingdom. The adventurer made the mistake of plucking a beautiful flower as a gift for his lady-love—a 
+charming princess—which spurred the wrath of the garden’s protector. To quell his anger, the adventurer 
+promised Arbutus whatever he wanted; Arbutus agreed, vowing that when the intruder was an old man lacking 
+the power to stop him, he would come and take the old man’s dearest treasure. 
+ 
+Half a centry later, came he did. Arbutus infiltrated the now-Sultan’s palace and took what was dearest to the 
+Sultan: his only daughter, a young princess born late to the Sultan in life. Stealing the princess away to his 
+mysterious garden, Arbutus intended to have her become a part of his growing work of art and to act as a 
+critique of his ongoing projects. Initially, he treated her cruelly, expressing his hatred of humanity’s actions 
+against nature. After a time, however, the princess came to understand why he treated her so harshly, and would 
+ultimately prove instrumental in changing Arbutus’ prejudice against humanoids. Just as a burgeoning 
+friendship was beginning to develop between the two, the Sultan’s army suddenly appeared, having 
+rediscovered the hidden garden after long months of searching. Slashing through Arbutus’ beautiful garden with 
+their sabers and crushing his roses under their thick boots, the Sultan’s men slew Arbutus and put the area to the 
+torch, despite the princessess’ protests. 
+ 
+Arbutus grew again, from a small seed containing his life force that he had planted prior to the attack. Since the 
+assault on his garden, Arbutus has traveled across Golarion. Initially eager for revenge for the wrongs laid 
+against him, he came to learn that the Sultan had died of natural causes while awaiting his daughter’s return. 
+Not having the heart to take his anger out on the princess herself, or the people that she so loved, he left his 
+ruined past behind, becoming a lonesome refugee looking for the perfect grove in which to start again, all the 
+while struggling to come to terms with conflicting ideas about humanity. 
+ 
+
+Normally bright and colorful in appearance, as a garden in full bloom during Spring or Summer, Arbutus turns 
+cold and hard when his anger is roused. His leaves and flowers begin to fall away, revealing a gnarled body 
+covered in menacing bare branches and barbs underneath, as though a deadly winter had suddenly struck. 
+ 
+Arbutus, Prince of Flowers 
+Male personality unique ghoran phytokineticist 18 
+LN Medium plant (extraplanar) 
+Init +6; Senses Perception +2 
+Languages Common, Sylvan 
+DEFENSE 
+AC 34, touch 20, flat-footed 29 (+6 armor, +5 deflection, +5 Dex, +3 natural, +5 shield) 
+hp 360 (18 HD), fast healing 1; maxed hit points via retraining 
+Fort +27, Ref +22, Will +13 
+Defensive Abilities disgusting; Resist fire 30 
+Immune plant traits 
+Weakness light dependent 
+OFFENSE 
+Speed 30 ft. (6 squares), burrow 30 ft.; earth glide, woodland stride 
+Melee wood blade +20/+15/+10 (9d6+19 bludgeoning, piercing, or slashing) or 
+earth blade +20/+15/+10 (9d6+19 bludgeoning, piercing, or slashing) or 
+cold blade +20/+15/+10 touch (9d6+5 cold) or 
+autumn blade +20/+15/+10 (18d6+28 half each of any two physical damage types) or 
+winter blade +20/+15/+10 (18d6+28 half cold, half bludgeoning, piercing, or slashing) 
+Ranged wood blast +20 (9d6+3d8+19 bludgeoning, piercing, or slashing) or 
+earth blast +20 (9d6+19 bludgeoning, piercing, or slashing) or 
+cold blast +20 touch (9d6+5 cold) or 
+autumn blast +20 (18d6+3d8+28 half each of any two physical damage types) or 
+winter blast +20 (18d6+3d8+28 half cold, half bludgeoning, piercing, or slashing) 
+Special Attacks elemental overflow +6, kinetic blast, metakinesis (empower, maximize, quicken, twice) 
+Spell-Like Abilities (CL 18PthP; Concentration +20) 
+1/day – detect poison, goodberry, purify food and drink 
+Kineticist Wild Talents Known (CL 18th; Concentration +28) 
+Defense – flesh of wood (+1 enhancement to natural armor) 
+Infusions – deadly earth (4 burn), entangling infusion (2 burn, Ref DC 29 negates), extended range (1 
+burn), grappling infusion (3 burn, +30 modifier), impale (2 burn), kinetic blade (1 burn), kinetic 
+whip (2 burn) 
+Kinetic Blasts – autumn blast (2 burn), cold blast, earth blast, winter blast (2 burn), wood blast 
+Utility – basic aerokinesis, basic geokinesis, basic phytokinesis, earth climb, earth glide, green tongue, 
+plant puppet, shape wood, skilled kineticist, thorn flesh (1 burn), tremorsense, warp wood, wild 
+growth, wood soldiers (1 burn), woodland step 
+STATISTICS 
+Abilities Str 7 (–1), Dex 20 (+6), Con 30 (+11), Int 10 (+1), Wis 12 (+2), Cha 15 (+3) 
+Base Atk +13; CMB +12 (+19 with Weapon Finesse); CMD 31 (33 vs. certain grapples) 
+Feats Combat Reflexes, Extra Wild Talent (3), Point Blank Shot, Precise Shot, Toughness, Weapon Finesse, 
+Weapon Focus (kinetic blast) 
+Skills Craft (sculpture) +22, Escape Artist +6 (+8 to escape grapples vs. creatures with bite/grab), Handle 
+Animal +12 (untrained), Knowledge (geography) +23, Knowledge (nature) +32, Profession (gardener) 
++23; Racial Bonuses +2 Escape Artist to escape grapples vs. creatures with bite/grab 
+SQ basic geokinesis, basic hydrokinesis, basic phytokinesis, burn (6 points/round, maximum 13), 
+composite specialization, expanded element (air, earth), gather power, ghorus seed, infusion 
+specialization 5, internal buffer 3, supercharge 
+
+Gear +4 darkleaf cloth leather armor of greater fire resistance, +4 light darkwood shield, belt of physical 
+might +6 (Dexterity, Constitution), four-leaf clover, greater kineticist’s diadem, pale green prism ioun 
+stone (implanted), ring of protection +5, ring of regeneration, tender (35gp), vest of resistance +5 (as 
+cloak of resistance), wooden sculpture of the Sultan’s princess (worth 750gp) 
+Encumbrance light 23 lb., medium 46 lb., heavy 70 lb.; Weight Carried 15 lb. (excluding tender) 
+ 
+Arbutus, Prince of Flowers (with elemental overflow) 
+As above, except as follows… 
+Init +9; Senses Perception +2 
+DEFENSE 
+AC 42, touch 23, flat-footed 34 (+6 armor, +5 deflection, +8 Dex, +8 natural, +5 shield) 
+hp 396 with 7 burn, fast healing 1 (18 HD); maxed hit points via retraining 
+Fort +29, Ref +25, Will +13 
+Defensive Abilities disgusting, fortification (35%); Resist fire 30 
+OFFENSE 
+Melee wood blade +29/+24/+19 (9d6+21 bludgeoning, piercing, or slashing) or 
+earth blade +29/+24/+19 (9d6+21 bludgeoning, piercing, or slashing) or 
+cold blade +29/+24/+19 touch (9d6+6 bludgeoning) or 
+autumn blade +29/+24/+19 (18d6+30 half each of any two physical damage types) or 
+winter blade +29 (18d6+30 half cold, half bludgeoning, piercing, or slashing) 
+Ranged wood blast +29 (9d6+3d8+33 bludgeoning, piercing, or slashing) or 
+earth blast +29 (9d6+33 bludgeoning, piercing, or slashing) or 
+cold blast +29 touch (9d6+3d6+18 bludgeoning) or 
+autumn blast +29 (18d6+3d8+42 half each of any two physical damage types) or 
+winter blast +29 (18d6+3d8+42 half cold, half bludgeoning, piercing, or slashing) 
+Kineticist Wild Talents Known (CL 18th; Concentration +30) 
+Defense – flesh of wood (base +1 enhancement to natural armor) 
+Infusions – deadly earth (4 burn), entangling infusion (2 burn, Ref DC 31 negates), extended range (1 
+burn), grappling infusion (3 burn, +32 modifier), impale (2 burn), kinetic blade (1 burn), kinetic 
+whip (2 burn) 
+Kinetic Blasts – autumn blast (2 burn), cold blast, earth blast, winter blast (2 burn), wood blast 
+Utility – basic aerokinesis, basic geokinesis, basic phytokinesis, earth climb, earth glide, green tongue, 
+plant puppet, shape wood, skilled kineticist, thorn flesh (1 burn), tremorsense, warp wood, wild 
+growth, wood soldiers (1 burn), woodland step 
+STATISTICS 
+Abilities Str 9 (+0), Dex 26 (+9), Con 34 (+13), Int 10 (+1), Wis 12 (+2), Cha 15 (+3) 
+Base Atk +13; CMB +13 (+22 with Weapon Finesse); CMD 35 (37 vs. certain grapples) 
+Skills Craft (sculpture) +22, Escape Artist +9 (+11 to escape grapples vs. creatures with bite/grab), Handle 
+Animal +12 (untrained), Knowledge (geography) +23, Knowledge (nature) +32, Profession (gardener) 
++23; Racial Bonuses +2 Escape Artist to escape grapples vs. creatures with bite/grab 
+SQ basic geokinesis, basic hydrokinesis, basic phytokinesis, burn (6 points/round, maximum 15), 
+composite specialization, expanded element (earth, water), gather power, ghorus seed, infusion 
+specialization 5, internal buffer 3, supercharge 
+Encumbrance light 30 lb., medium 60 lb., heavy 90 lb.; Weight Carried 15 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Burn (Ex) Some of your wild talents allow you to accept burn in exchange for a greater effect, while others 
+require you to accept a certain amount of burn to use that talent at all. For each point of burn you accept, 
+you take 1 point of nonlethal damage per character level. This damage can’t be healed by any means 
+other than getting a full night’s rest, which removes all burn and associated nonlethal damage. Nonlethal 
+damage from burn can’t be reduced or redirected, and if you are incapable of taking nonlethal damage 
+then you can’t accept burn. You can accept only 6 points of burn per round. You can’t choose to accept 
+
+burn if it would put your total number of points of burn higher than 3 + you Constitution modifier 
+(though you can be forced to accept more burn from a source outside your control). Whilst you possess 
+burn you can never benefit from abilities that allow you to ignore or alter the affects you receive from 
+nonlethal damage. 
+Elemental Defense (Su) You have the following defense wild talent. 
+Flesh of Wood: Your skin toughens like timber and can turn aside some blows. You gain a +1 
+enhancement bonus to your existing natural armor bonus. By accepting 1 point of burn, you can increase 
+this enhancement bonus by 1. For every 3 levels beyond 2nd, you can accept 1 additional point of burn to 
+further increase this enhancement bonus by 1 (to a maximum of +7 at 17th-level). Whenever you accept 
+burn while using a wood wild talent, phytokinetic power causes your full natural armor bonus to apply 
+to your touch AC for 1 round. You can dismiss and restore this effect as an immediate action. 
+Disgusting You gain a +2 racial bonus on Escape Artist and combat maneuver checks to escape a grapple 
+against any creature that has a bite attack with the grab ability. 
+Elemental Overflow (Ex) Your body surges with energy from your element whenever you accept burn, 
+causing you to glow with a nimbus of fire, weep water from your pores, or experience some other 
+thematic effect. You receive a bonus on your attack rolls with kinetic blasts equal to the total number of 
+points of burn you currently possess, to a maximum bonus of +1 for every 3 kineticist levels you 
+possess. You also receive a bonus on damage rolls with your kinetic blast equal to double the bonus on 
+attack rolls. You can suppress the visual effects of elemental overflow by concentrating for 1 full round, 
+but doing so suppresses all of this ability’s other benefits, as well. The next time you use any wild talent, 
+the visual effects and benefits return instantly. As your body becomes more and more suffused with your 
+element, you begin to gain more powerful benefits. Whenever you possess at least 3 points of burn, you 
+gain a +2 size bonus to two physical ability scores of your choice. Whenever you have at least 5 points 
+of burn, these bonuses increase to a +4 size bonus to one physical ability score of your choice and a +2 
+size bonus to each of your other two physical ability scores. Whenever you have at least 7 points of 
+burn, these bonuses increase to a +6 size bonus to one physical ability score of your choice, a +4 size 
+bonus to a second physical ability score of your choice, and a +2 size bonus to the remaining physical 
+ability score. You also gain a chance to ignore the effects of a critical hit or sneak attack equal to 5% × 
+your current number of points of burn. 
+Gather Power (Su) If you have both hands free you can gather energy or elemental matter as a move action. 
+Gathering power creates an extremely loud, visible display in a 20-foot radius centered on you, as the 
+energy or matter swirls around you. Gathering power in this way allows you to reduce the total burn cost 
+of a blast wild talent you use in the same round by 1 point. You can instead gather power for 1 full 
+round in order to reduce the total burn cost of a blast wild talent used on your next turn by 2 points (to a 
+minimum of 0 points). If you do so, you can also gather power as a move action during your next turn to 
+reduce the burn cost by a total of 3 points. If you take damage during or after gathering power and 
+before using the kinetic blast that releases it, you must succeed at a concentration check (DC = 10 + 
+damage taken + effective spell level of your kinetic blast) or lose the energy in a wild surge that forces 
+you to accept a number of points of burn equal to the number of points by which your gathered power 
+would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 
+points. 
+Ghorus Seed As a full-round action, you can expel your ghorus seed from an orifice in your abdomen. If 
+planted in fertile ground and left undisturbed for 2d6 days, the seed grows into a healthy duplicate of 
+yourself, save that the duplicate may reallocate all of its skill ranks upon sprouting. Once you expel your 
+seed, you gain 1 negative level, and you die as soon as your duplicate sprouts. This duplicate replaces 
+your previous character. 
+Infusion Specialization (Ex) Whenever you use one or more infusions with a blast, you reduce the combined 
+burn cost of the infusions by 5. This can’t reduce the total cost of the infusions used below 0. 
+Infusions (Su) The following infusions alter your blasts. You can apply at most one form infusion and one 
+substance infusion to your blasts. 
+Deadly Earth (form): You infuse the ground in a 20-foot radius anywhere within 120 feet of you on 
+an earthen surface. The ground roils and buckles beneath the affected area. All creatures and objects in 
+
+contact with the ground within the area when you create it automatically take ¼ of the normal damage 
+from your blast with no saving throw. Any time a creature enters the area, it takes half the normal 
+damage from your blast, as do creatures that end their turns in the area. The entire area counts as 
+difficult terrain. This infusion lasts for a number of rounds equal to your Constitution modifier or until 
+you use it again. 
+Entangling Infusion (substance): Your kinetic blast surrounds your foes in elemental matter. 
+Whenever a blast with this infusion deals damage to a foe, that foe becomes entangled for 1 minute. The 
+foe can remove this condition as a standard action with a successful Escape Artist or Strength check 
+(with the same DC as for saves against your kinetic blast) or by dealing an amount of damage to the 
+entangling matter equal to double your kineticist level (the matter has hardness 0). If the foe was already 
+entangled by this infusion and fails its save against a second instance of this infusion, the increased 
+amount of elemental matter fuses to the ground, causing the foe to be rooted in place as though anchored 
+to an immobile object. 
+Extended Range (form): Your kinetic blast can strike any target within 120 feet. 
+Grappling Infusion (substance): Your cloud, deadly earth, or wall blast grows tendrils that hold your 
+enemies in place. Whenever a creature takes damage from the infused blast, you can attempt a combat 
+maneuver check to have the blast grapple that opponent. Your bonus on this check is equal to 2 + your 
+kineticist level + your Constitution modifier (treat the blast as a Huge creature). The blast only grapples 
+opponents; it can’t perform other functions of grapple maneuvers such as pinning or moving the 
+opponent. If the blast is already grappling an opponent, it receives a +5 bonus on its combat maneuver 
+check to maintain the grapple, as normal. You can use this infusion only if you also use the cloud, 
+deadly earth, or wall form infusion. 
+Impale (form): You extend a long, sharp spike of elemental matter along a line, impaling multiple 
+foes. Make a single attack roll against each creature or object in a 30-foot line, starting with the closest 
+target. If the result is a critical threat, roll to confirm against only the first target you hit. Calculate 
+damage against each target you hit, starting from the closest. If your attack hits a target but fails to deal 
+physical damage to that target, the spike fails to penetrate and the infused blast doesn’t continue. A blast 
+with the impale infusion can penetrate solid barriers, but it must deal enough damage to destroy the 
+barrier in order to continue through. Infused earth and metal blasts always deal piercing damage. 
+Kinetic Blade (form): By accepting 1 point of burn you form a weapon using your kinetic abilities. 
+You create a non-reach, light or one-handed weapon in your hand formed of pure energy or elemental 
+matter. The kinetic blade’s shape is purely cosmetic and doesn’t affect the damage dice, critical threat 
+range, or critical multiplier of the kinetic blade, nor does it grant the kinetic blade any weapon special 
+features. You can use this form infusion once as part of an attack action, a charge action, or a full-attack 
+action in order to make melee attacks with your kinetic blade. Since it’s part of another action (and isn’t 
+an action itself), using this wild talent doesn’t provoke any additional attacks of opportunity. The kinetic 
+blade deals your kinetic blast damage on each hit (applying any modifiers to your kinetic blast’s damage 
+as normal, but not your Strength modifier). The blade disappears at the end of your turn. The weapon 
+deals the same damage type that your kinetic blast deals, and it interacts with Armor Class and spell 
+resistance as normal for a blast of its type. The kinetic blade doesn’t add the damage bonus from 
+elemental overflow. 
+Kinetic Whip (form): By accepting 2 points of burn, you form a long tendril of energy or elemental 
+matter. This functions as kinetic blade but counts as a reach weapon appropriate for your size. Unlike 
+most reach weapons, the kinetic whip can also attack nearby creatures. The kinetic whip disappears at 
+the beginning of your next turn, but in the intervening time, it threatens all squares within its reach, 
+allowing you to make attacks of opportunity that deal the whip’s usual damage. 
+Internal Buffer (Su) You possess an internal buffer with which to store extra energy. The buffer starts empty 
+and doesn’t replenish each day, but you can accept 1 point of burn to add 1 point to the buffer as a 
+full-round action, to a maximum of 3 points total. Once you add points to your buffer, they remain 
+indefinitely until you spend them. When you would otherwise accept burn, you can spend 1 point from 
+your buffer to avoid accepting 1 point of burn. You cannot spend more than 1 point from your buffer in 
+this way for a single wild talent. Points spent from the internal buffer don’t activate elemental overflow 
+
+or add to its effects. Similarly, this buffer can be used to exceed the limit on the number of points of 
+burn you can accept in a single turn. 
+Kinetic Blast (Sp) As a standard action, you can unleash a kinetic blast at a single target up to a range of 30 
+feet. You must have at least one hand free to aim the blast. All damage from a kinetic blast is treated as 
+magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the 
+purpose of feats such as Weapon Focus. You are never considered to be wielding or gripping the kinetic 
+blast (regardless of effects from form infusions), and you can’t use Vital Strike feats with kinetic blasts. 
+Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts 
+always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms). A 
+readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its 
+descriptor. A kinetic blast that deals energy damage of any type (including force) has the corresponding 
+descriptor. 
+Light Dependent You take 1d4 points of Constitution damage each day you go without exposure to sunlight. 
+Metakinesis (Su) You gain the ability to alter your kinetic blasts as if with metamagic feats by accepting burn. 
+By accepting 1 point of burn, you can empower your kinetic blast (as if using Empower Spell); by 
+accepting 2 points of burn, you can maximize your kinetic blast as if using Maximize Spell; by 
+accepting 3 points of burn, you can quicken your kinetic blast as if using Quicken Spell; and by 
+accepting 4 points of burn, you can use your kinetic blast twice with the same standard action, or swift 
+action if you also use metakinesis to quicken the blast. When you use a double kinetic blast, all 
+modifications, such as metakinesis and infusions, apply to both of the blasts, but you kineticist need to 
+pay the burn cost only once. 
+Past-Life Knowledge You treat all Knowledge skills as class skills. 
+Supercharge (Su) When using gather power as a move action, you can reduce the total burn cost of a single 
+wild talent by 2 points instead of 1. When using gather power for 1 full round, you can reduce the burn 
+cost of a single wild talent by 3 points instead of 2. 
+Utility You have the following utility wild talents. 
+Basic Geokinesis (Sp): You can move up to 5 pounds per kineticist level of rocks, loose earth, sand, 
+clay, and other similar materials up to 15 feet as a move action. You can search earthen and stone areas 
+from a distance as if using the siftAPG cantrip. 
+Basic Hydrokinesis (Sp): You can create water as the cantrip create water, purify water as if using 
+purify food and drink, and dry wet creatures and objects as if using prestidigitation. While you cannot 
+lift water into the air using this ability, you can create mild currents in a body of water by concentrating. 
+These currents are strong enough to run a water mill as if the mill were being turned manually by a 
+creature with a Strength score equal to your Constitution score. 
+Basic Phytokinesis (Sp): You can prune and otherwise tend plants within 30 feet without using 
+gardening tools. You can search wooded areas and other plant-heavy areas from a distance as if using 
+the siftAPG cantrip. By concentrating, you can detect plants within 120 feet as if using detect animals or 
+plants. 
+Earth Climb (Su): You use your connection to earth to meld slightly into stone and earthen surfaces, 
+granting you a climb speed equal to your base land speed when climbing such surfaces. 
+Earth Glide (Su): You can glide through earth, as an earth elemental’s earth glide ability, with a 
+burrow speed equal to your base land speed. 
+Green Tongue (Su): You can speak to plants and hear their whispers, as if constantly under the 
+effects of speak with plants. 
+Plant Disguise (Sp): You can assume the shape of an immobile plant, as per tree shape but 
+transforming into any ordinary Small or Medium plant. 
+Plant Puppet (Sp): You can control plants, causing them to attack your foes. This functions as the 
+aether puppet wild talent, except it controls plants instead of objects. Large and larger animated plants 
+gain hardness 5. 
+Shape Wood (Sp): You reshape wood to suit your purposes, as per wood shape. 
+
+Skilled Kineticist (Su): You gain a bonus equal to ½ your kineticist level on skill checks with the 
+skills your primary element added to your class skill list, and you can use the Knowledge skill associated 
+with your primary element to identify elementals of your primary element’s subtype. 
+Thorn Flesh (Sp): You grow barbed thorns from your flesh. Until the next time your burn is 
+removed, while your thorn flesh is active, any creature that strikes you with an unarmed strike or natural 
+weapon or that grapples you takes 1d6 points of piercing damage. Weapons that strike you also take this 
+damage, though the damage is unlikely to penetrate the weapon’s hardness. 
+Tremorsense (Su): You can take a move action to gain tremorsense 30 feet for 1 round on any earth 
+or stone surface that you touch. You can accept 1 point of burn to increase the duration to 1 round per 
+kineticist level you possess. While benefiting from this tremorsense, your earth blasts and composite 
+blasts that include earth components don’t suffer a miss chance from concealment or total concealment 
+against creatures you detect with your tremorsense. 
+Warp Wood (Sp): You can bend and twist plants and wooden objects. This functions as warp wood. 
+Wild Growth (Sp): You can charge plants with life energy, hindering your enemies or aiding local 
+farmers. This functions as plant growth. 
+Wood Soldiers (Su): Your presence animates surrounding plant life and causes it to fight by your 
+side. Each time you recover burn, you automatically use this ability once and ignore the burn cost. This 
+functions as wooden phalanxUM, except you always animate four golems, and the duration lasts until the 
+next time you recover burn. If you have spring blast, one of your golems gains a 30-foot fly speed 
+(average maneuverability). If you have summer blast, one of your golems is healed by fire damage, is 
+vulnerable to cold, and deals 1d6 extra points of fire damage on slam attacks and when splintering. If 
+you have autumn blast, one of your golems gains a 20-foot burrow speed. If you have winter blast, one 
+of your golems deals 1d6 extra points of cold damage on its slam attacks and when splintering. Each of 
+the above modifications must apply to a different golem. 
+Woodland Step (Su): You gain woodland stride, as per the druid ability. Due to your ability to 
+manipulate plants, you can attempt a caster level check (DC = 11 + the spell’s caster level) as a standard 
+action to also ignore magically manipulated plants (but not creatures of the plant type). 
+   
+
+Wooden Soldiers (4) 
+N Medium construct 
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +5 
+DEFENSE 
+AC 23, touch 15, flat-footed 18 (+5 Dex, +8 natural) 
+hp 64 (8d10+20) 
+Fort +2, Ref +7, Will +7 
+DR 5/adamantine; Immune construct traits, magic 
+Weaknesses vulnerable to fire 
+OFFENSE 
+Speed 30 ft., burrow 20 ft. (autumn soldier only) 
+Melee 2 slams +14 (2d6+6) or 
+2 slams +14 (2d6+6 plus 1d6 cold) (winter soldier only) 
+Special Attacks splintering 
+STATISTICS 
+Abilities Str 22, Dex 21, Con –, Int –, Wis 21, Cha 5 
+Base Atk +8; CMB +14; CMD 29 
+SPECIAL ABILITIES 
+Immunity to Magic (Ex) A wood golem is immune to any spell or spell-like ability that allows spell resistance, 
+with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. 
+In addition, certain spells and effects function differently against the creature, as noted below. Warp 
+wood or wood shape slows a wood golem (as the slow spell) for 2d6 rounds (no save). Repel 
+wood drives the golem back 60 feet and deals 2d12 points of damage to it (no save). A magical attack 
+that deals cold damage breaks any slow effect on the golem and heals 1 point of damage for every 3 
+points of damage the attack would otherwise deal. If the amount of healing would cause the golem to 
+exceed its full normal hit points, it gains any excess as temporary hit points. A wood golem gets no 
+saving throw against attacks that deal cold damage. 
+Splintering (Su) As a free action once every 1d4+1 rounds, a wood golem can launch a barrage of razor-sharp 
+wooden splinters from its body in a 20-foot-radius burst. All creatures caught within this area take 6d6 
+points of slashing damage (Reflex DC 14 halves). The winter soldier also deals an additional 1d6 cold 
+damage. The save DC is Constitution-based. 
+ 
+  

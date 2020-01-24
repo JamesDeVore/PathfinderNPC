@@ -1,0 +1,96 @@
+
+
+Balasar Frollo 
+“Those who oppose Iomedae shall know pain without end.” 
+ 
+Balasar is a noble born cleric devoted to Iomedae, the Great Inheritor who 
+helped to form civilization out of chaos and liberate the humanoid races from 
+their barbarism. Balasar is a powerful healer, a consummate Samaritan, a 
+paragon of his faith, and a completely fanatic zealot. He never tolerates insults 
+against his faith and is quick to accuse such dissenters of being heretical 
+heathens deserving of nothing less than a highly public execution. What’s more, 
+Balasar’s station as the local judge and his lofty position within the church’s 
+hierarchy gives him some leeway in carrying out such public executions. 
+ 
+A master of subtly manipulating evidence, of bending laws to his favor, and of 
+convincing the people of his community of any allegations he decides to lie 
+upon his unfortunate foes, Balasar possesses near absolute control over the lives 
+of his citizenry. Despite his crazed devotion to his faith, the vast majority of 
+people love him for his extreme dedication to the bettering of their community. 
+After all, any who questioned the morality of his behavior have long since been 
+“legitimately” burned at the stake or imprisoned for their heresy. 
+ 
+If ever confronted by an obvious superior about the high number of executions 
+in his community, Balasar is quick to dismiss it with a warning, sometimes laced with a veiled threat: “If we are 
+not constantly vigilant against the lawless terrorists who would dare attempt to undo all the efforts of the 
+almighty Iomedae, then we are no more deserving of his lord’s gifts than the heretics themselves.” Balasar’s 
+skills of control through deception are such that even fellow faithful and those of superior station are not 
+necessarily safe from his potential wrath. 
+   
+
+Balasar Frolo 
+Male human cleric 9 of Iomedae 
+LN Medium humanoid 
+Init +0; Senses Perception +4 
+Languages Common, Celestial, Osiriani 
+DEFENSE 
+AC 24, touch 12, flat-footed 24 (+8 armor, +2 deflection, +2 natural, +2 shield) 
+hp 65 (9 HD) 
+Fort +8, Ref +5, Will +12 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee walking cane +6/+1 (1d6) 
+Ranged by weapon +6/+1 
+Special Attacks channel positive energy 8/day (5d6, DC 19 or 21 half) 
+Domain Spell-like Abilities (CL 9
+th) 
+7/day – inspiring word (4 rounds), touch of law 
+Cleric Spells Prepared (CL 9
+th; Concentration +13) 
+5
+th  (2/day) – dispel chaosD, flame strike 
+4
+th  (4/day) – discern lies, holy smite
+D, neutralize poison, order’s wrath 
+3rd  (5/day) – create food and water, remove blindness/deafness, remove disease, searing light
+D, speak 
+with dead 
+2nd (6/day) – bless weapon
+D, calm emotions, lesser restoration, make whole, remove paralysis, shield 
+otherF 
+1st  (6/day) – command, detect evil, detect undead, sanctuary, remove fear, shield of faith
+D 
+0  (4/day) – detect magic, detect poison, light, purify food and drink 
+D Domain spell; Domains Law, Nobility 
+STATISTICS 
+Abilities Str 10 (+0), Dex 10 (+0), Con 10 (+0), Int 14 (+2), Wis 18 (+4), Cha 20 (+5) 
+Base Atk +6; CMB +6; CMD 19 
+Feats Alignment Channel (evil), Deceitful, Leadership
+B (base 20/cohort 20/followers 22), Persuasive, Skill 
+Focus (bluff
+B, diplomacy
+B, intimidate), Toughness 
+Skills Bluff +22, Diplomacy +25, Intimidate +22, Knowledge (local) +14, Knowledge (nobility) +14, 
+Knowledge (religion) +14; Armor Check Penalty –2 
+SQ aura of good (strong), divine presence (Will DC 18 negates, 9 rounds/day), focused study, leadership, 
+spontaneous casting (cure spells), staff of order 
+Combat Gear holy water (3), wand of cure light wounds (50 charges); Other Gear +2 mithral chainmail, 
+amulet of natural armor +2, cloak of resistance +2, hat of divine station (as circlet of persuasion), 
+headband of alluring charisma +2, ring of force shield, ring of protection +2, silver holy symbol, spell 
+component pouch, sunrods (5), tender (9pp), walking cane (as quarterstaff) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 29 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Channel Energy (Su) Eight times per day you may release a burst of positive energy in a 30-ft. radius burst as 
+a standard action. When doing so you can choose to heal living creatures in the area (5d6 healing) or to 
+harm undead or evil outsiders (5d6 damage, Will DC 21 half against undead, DC 19 against outsiders). 
+Inspiring Word (Sp) Seven times per day, as a standard action, you can speak an inspiring word to a creature 
+within 30 feet. That creature receives a +2 morale bonus on attack rolls, skill checks, ability checks, and 
+saving throws for a number of rounds equal to ½ your cleric level. 
+Leadership (Ex) You receive Leadership as a bonus feat. In addition, you gain a +2 bonus on your leadership 
+score as long as you uphold the tenets of your deity. 
+
+Staff of Order (Su) Once per day, you can give a weapon touched the axiomatic special weapon quality for a 
+number of rounds equal to ½ your cleric level. 
+Touch of Law (Sp) Seven times per day you can touch a willing creature as a standard action, infusing it with 
+the power of divine order and allowing it to treat all attack rolls, skill checks, ability checks, and saving 
+throws for 1 round as if the natural d20 roll resulted in an 11. 

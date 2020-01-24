@@ -1,0 +1,248 @@
+
+
+Badbella (aka Bad Bella, or simply, Bella) 
+Female human geokineticist 9/mammoth rider 1 
+N Medium humanoid 
+Init +7; Senses Perception +0 
+Languages Common 
+DEFENSE 
+AC 25, touch 18, flat-footed 18 (+3 armor, +1 deflection, +7 Dex, +1 natural, 
++3 shield) 
+hp 173 (10 HD); maxed hit points via retraining 
+Fort +17, Ref +15, Will +5 
+DR 5/adamantine; DR 3/– vs. small ranged weapons 
+OFFENSE 
+Speed 30 ft. (6 squares), climb 30 ft. (earthen surfaces only) 
+Melee earth blade +14/+9 (5d6+13 bludgeoning, piercing, or slashing) or 
+metal blade +14/+9 (10d6+18 bludgeoning, piercing, or slashing) 
+Ranged earth blast +14 (5d6+13 bludgeoning, piercing, or slashing) or 
+metal blast +14 (10d6+18 bludgeoning, piercing, or slashing) 
+Special Attacks elemental overflow +3, kinetic blast, metakinesis (empower, maximize) 
+Kineticist Wild Talents Known (CL 9
+th; Concentration +17) 
+Defense – flesh of stone (DR 5/adamantine) 
+Infusions – bowling infusion (2 burn, +15 modifier), entangling infusion (2 burn, Ref DC 22 negates), 
+impale (2 burn), kinetic blade (1 burn), pushing infusion (1 burn) 
+Kinetic Blasts – earth blast, metal blast (2 burn) 
+Utility – basic geokinesis, earth climb, earth walk, kinetic cover (max 12), shift earth, tremorsense 
+STATISTICS 
+Abilities Str 7 (–2), Dex 24 (+7), Con 26 (+8), Int 8 (–1), Wis 11 (+0), Cha 7 (–2) 
+Base Atk +7; CMB +5 (+14 with Weapon Finesse); CMD 23 (26 vs. vs. forced movement/trip on earthen 
+terrain) 
+Feats Animal Ally, Boon Companion, Mounted Combat, Nature Soul, Weapon Finesse 
+Skills Acrobatics +7 (+10 to balance on earthen terrain), Handle Animal +11, Knowledge (nature) +1 
+(untrained), Ride +20, Survival +17 
+SQ basic geokinesis, burn (2 points/round, maximum 11), dual talent, expanded element (earth), gather 
+power, gigantic steed, infusion specialization 2, internal buffer 1, steed,  wild coercion –3 
+Gear +1 quilted cloth, +2 light wooden shield, amulet of natural armor +1, belt of physical might +4 
+(Dexterity, Constitution), cloak of resistance +2, Jammaker (rhino steed, see below), ring of protection 
++1, tender (628gp, 2sp; carried by Jammaker) 
+Encumbrance light 23 lb., medium 46 lb., heavy 70 lb.; Weight Carried 22 lb. 
+ 
+   
+
+Badbella (with elemental overflow) 
+As above, except as follows… 
+Init +8; Senses Perception +0 
+DEFENSE 
+AC 26, touch 19, flat-footed 18 (+3 armor, +1 deflection, +8 Dex, +1 natural, 
++3 shield) 
+hp 183 with 3 burn (10 HD); maxed hit points via retraining 
+Fort +18, Ref +16, Will +5 
+DR 8/adamantine; DR 3/– vs. small ranged weapons 
+OFFENSE 
+Melee earth blade +18/+13 (5d6+14 bludgeoning, piercing, or slashing) or 
+metal blade +18/+13 (10d6+19 bludgeoning, piercing, or slashing) 
+Ranged earth blast +18 (5d6+20 bludgeoning, piercing, or slashing) or 
+metal blast +18 (10d6+26 bludgeoning, piercing, or slashing) 
+Kineticist Wild Talents Known (CL 9
+th; Concentration +18) 
+Defense – flesh of stone (base DR 5/adamantine) 
+Infusions – bowling infusion (2 burn, +19 modifier), entangling infusion (2 burn, Ref DC 23 negates), 
+impale (2 burn), kinetic blade (1 burn), pushing infusion (1 burn) 
+Kinetic Blasts – earth blast, metal blast (2 burn) 
+Utility – basic geokinesis, earth climb, earth walk, kinetic cover (max 12), shift earth, tremorsense 
+STATISTICS 
+Abilities Str 7 (–2), Dex 26 (+8), Con 28 (+9), Int 8 (–1), Wis 11 (+0), Cha 7 (–2) 
+Base Atk +7; CMB +5 (+15 with Weapon Finesse); CMD 24 (27 vs. forced movement/trip on earthen terrain) 
+Skills Acrobatics +8 (+11 to balance on earthen terrain), Handle Animal +11, Knowledge (nature) +1 
+(untrained), Ride +21, Survival +17 
+SQ basic geokinesis, burn (2 points/round, maximum 12), dual talent, expanded element (earth), gather 
+power, gigantic steed, infusion specialization 2, internal buffer 1, steed, wild coercion –3 
+SPECIAL ABILITIES 
+Burn (Ex) Some of your wild talents allow you to accept burn in exchange for a greater effect, while others 
+require you to accept a certain amount of burn to use that talent at all. For each point of burn you accept, 
+you take 1 point of nonlethal damage per character level. This damage can’t be healed by any means 
+other than getting a full night’s rest, which removes all burn and associated nonlethal damage. Nonlethal 
+damage from burn can’t be reduced or redirected, and if you are incapable of taking nonlethal damage 
+then you can’t accept burn. You can accept only 3 points of burn per round. You can’t choose to accept 
+burn if it would put your total number of points of burn higher than 3 + you Constitution modifier 
+(though you can be forced to accept more burn from a source outside your control). Whilst you possess 
+burn you can never benefit from abilities that allow you to ignore or alter the affects you receive from 
+nonlethal damage. 
+Elemental Defense (Su) You have the following defense wild talent. 
+Flesh of Stone: Your skin hardens like stone, dampening the impact of most attacks. You gain DR 
+1/adamantine. This DR increases by 1 for every 2 kineticist levels you possess beyond 2nd. By accepting 
+1 point of burn, you can increase the DR by 1 until the next time your burn is removed, to a maximum 
+DR equal to your kineticist level. Whenever you accept burn while using an earth wild talent, the energy 
+surging through you causes your damage reduction to change from DR/adamantine to DR/– for 1 round. 
+You can dismiss and restore this effect as an immediate action. 
+Elemental Overflow (Ex) Your body surges with energy from your element whenever you accept burn, 
+causing you to glow with a nimbus of fire, weep water from your pores, or experience some other 
+thematic effect. You receive a bonus on your attack rolls with kinetic blasts equal to the total number of 
+points of burn you currently possess, to a maximum bonus of +1 for every 3 kineticist levels you 
+possess. You also receive a bonus on damage rolls with your kinetic blast equal to double the bonus on 
+
+attack rolls. You can suppress the visual effects of elemental overflow by concentrating for 1 full round, 
+but doing so suppresses all of this ability’s other benefits, as well. The next time you use any wild talent, 
+the visual effects and benefits return instantly. As your body becomes more and more suffused with your 
+element, you begin to gain more powerful benefits. Whenever you possess at least 3 points of burn, you 
+gain a +2 size bonus to two physical ability scores of your choice. You also gain a chance to ignore the 
+effects of a critical hit or sneak attack equal to 5% × your current number of points of burn. 
+Gather Power (Su) If you have both hands free you can gather energy or elemental matter as a move action. 
+Gathering power creates an extremely loud, visible display in a 20-foot radius centered on you, as the 
+energy or matter swirls around you. Gathering power in this way allows you to reduce the total burn cost 
+of a blast wild talent you use in the same round by 1 point. You can instead gather power for 1 full 
+round in order to reduce the total burn cost of a blast wild talent used on your next turn by 2 points (to a 
+minimum of 0 points). If you do so, you can also gather power as a move action during your next turn to 
+reduce the burn cost by a total of 3 points. If you take damage during or after gathering power and 
+before using the kinetic blast that releases it, you must succeed at a concentration check (DC = 10 + 
+damage taken + effective spell level of your kinetic blast) or lose the energy in a wild surge that forces 
+you to accept a number of points of burn equal to the number of points by which your gathered power 
+would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 
+points. 
+Gigantic Steed (Ex) A mammoth rider’s steed increases to Huge size. The creature receives a –1 penalty on 
+attack rolls and to AC, and a –2 penalty to Dexterity (to a minimum of 1); its base damage increases by 
+one size category; and its reach increases to 10 feet. It also gains a +2 size bonus to its Strength and 
+Constitution.  
+Infusion Specialization (Ex) Whenever you use one or more infusions with a blast, you reduce the combined 
+burn cost of the infusions by 2. This can’t reduce the total cost of the infusions used below 0. 
+Infusions (Su) The following infusions alter your blasts. You can apply at most one form infusion and one 
+substance infusion to your blasts. 
+Bowling Infusion (substance): You bowl your foes over with the sheer mass of your kinetic blast. 
+Attempt a trip combat maneuver check against each target damaged by your infused blast, using your 
+Constitution modifier instead of your Strength modifier to determine your Combat Maneuver Bonus. 
+Entangling Infusion (substance): Your kinetic blast surrounds your foes in elemental matter. 
+Whenever a blast with this infusion deals damage to a foe, that foe becomes entangled for 1 minute. The 
+foe can remove this condition as a standard action with a successful Escape Artist or Strength check 
+(with the same DC as for saves against your kinetic blast) or by dealing an amount of damage to the 
+entangling matter equal to double your kineticist level (the matter has hardness 0). If the foe was already 
+entangled by this infusion and fails its save against a second instance of this infusion, the increased 
+amount of elemental matter fuses to the ground, causing the foe to be rooted in place as though anchored 
+to an immobile object. 
+Impale (form): You extend a long, sharp spike of elemental matter along a line, impaling multiple 
+foes. Make a single attack roll against each creature or object in a 30-foot line, starting with the closest 
+target. If the result is a critical threat, roll to confirm against only the first target you hit. Calculate 
+damage against each target you hit, starting from the closest. If your attack hits a target but fails to deal 
+physical damage to that target, the spike fails to penetrate and the infused blast doesn’t continue. A blast 
+with the impale infusion can penetrate solid barriers, but it must deal enough damage to destroy the 
+barrier in order to continue through. Infused earth and metal blasts always deal piercing damage. 
+Kinetic Blade (form): You form a weapon using your kinetic abilities. You create a non-reach, light 
+or one-handed weapon in your hand formed of pure energy or elemental matter. The kinetic blade’s 
+shape is purely cosmetic and doesn’t affect the damage dice, critical threat range, or critical multiplier of 
+the kinetic blade, nor does it grant the kinetic blade any weapon special features. 
+You can use this form infusion once as part of an attack action, a charge action, or a full-attack 
+action in order to make melee attacks with your kinetic blade. Since it’s part of another action (and isn’t 
+an action itself), using this wild talent doesn’t provoke any additional attacks of opportunity. The kinetic 
+blade deals your kinetic blast damage on each hit (applying any modifiers to your kinetic blast’s damage 
+
+as normal, but not your Strength modifier). The blade disappears at the end of your turn. The weapon 
+deals the same damage type that your kinetic blast deals, and it interacts with Armor Class and spell 
+resistance as normal for a blast of its type. The kinetic blade doesn’t add the damage bonus from 
+elemental overflow. 
+Pushing Infusion (substance): The momentum of your kinetic blast knocks foes back. Attempt a bull 
+rush combat maneuver check against each target damaged by your infused blast, using your Constitution 
+modifier instead of your Strength modifier to determine your bonus. This infusion can push a foe back 
+by a maximum of 5 feet. You can increase the burn cost of this infusion to increase the maximum 
+distance pushed by 5 feet per additional point of burn accepted. You can’t use this infusion with a form 
+infusion such as cloud that causes your kinetic blast to lack a clear direction to push. 
+Internal Buffer (Su) You possess an internal buffer with which to store extra energy. The buffer starts empty 
+and doesn’t replenish each day, but you can accept 1 point of burn to add 1 point to the buffer as a 
+full-round action, to a maximum of 1 point total. Once you add points to your buffer, they remain 
+indefinitely until you spend them. When you would otherwise accept burn, you can spend 1 point from 
+your buffer to avoid accepting 1 point of burn. You cannot spend more than 1 point from your buffer in 
+this way for a single wild talent. Points spent from the internal buffer don’t activate elemental overflow 
+or add to its effects. Similarly, this buffer can be used to exceed the limit on the number of points of 
+burn you can accept in a single turn. 
+Kinetic Blast (Sp) As a standard action, you can unleash a kinetic blast at a single target up to a range of 30 
+feet. You must have at least one hand free to aim the blast. All damage from a kinetic blast is treated as 
+magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the 
+purpose of feats such as Weapon Focus. You are never considered to be wielding or gripping the kinetic 
+blast (regardless of effects from form infusions), and you can’t use Vital Strike feats with kinetic blasts. 
+Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts 
+always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms). A 
+readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its 
+descriptor. A kinetic blast that deals energy damage of any type (including force) has the corresponding 
+descriptor. 
+Metakinesis (Su) You gain the ability to alter your kinetic blasts as if with metamagic feats by accepting burn. 
+By accepting 1 point of burn, you can empower your kinetic blast (as if using Empower Spell), or by 
+accepting 2 points of burn, you can maximize your kinetic blast as if using Maximize Spell. 
+Steed (Ex) A mammoth rider can choose from among the following animal companions to serve as her loyal 
+steed: arsinoitheriumB2, aurochs, baluchitheriumB3, camel, cat (big), elkB3, horse, mastodon, 
+megalocerosB2, rhinoceros, triceratops, wolf, or woolly mammoth (use stats for a mastodon). A GM 
+might expand this list to include other possible steeds. This steed functions as a druid’s animal 
+companion, replacing any animal companion or mount gained from another class. The mammoth rider’s 
+class levels stack with other classes that grant an animal companion to determine her effective druid 
+level. 
+Utility You have the following utility wild talents. 
+Basic Geokinesis (Sp): You can move up to 5 pounds per kineticist level of rocks, loose earth, sand, 
+clay, and other similar materials up to 15 feet as a move action. You can search earthen and stone areas 
+from a distance as if using the sift
+APG cantrip. 
+Earth Climb (Su): You use your connection to earth to meld slightly into stone and earthen surfaces, 
+granting you a climb speed equal to your base land speed when climbing such surfaces. 
+Earth Walk (Su): Because you meld very slightly into the earth, when you are standing on an earthen 
+surface, you ignore difficult terrain caused by rocks, earth, or mud, and while on such surfaces you add 
+your elemental overflow bonus to your CMD against being moved or tripped and on Acrobatics checks 
+to balance. 
+Kinetic Cover (Sp): You call up elemental matter to defend yourself and your allies from attacks. As 
+a standard action, you can select one face of a square within 30 feet of you and move elemental matter to 
+block that face, providing total cover from that direction. The face you select must be supported by the 
+ground, and the kinetic cover cannot support more than 5 pounds of weight. Water, ice, and telekinetic 
+
+force are translucent, but earth, metal, mud, and the like are opaque and block line of sight. A creature 
+who strikes the cover can easily destroy it. Regardless of its composition, the cover has hardness 0, AC 
+5, and 2 hit points per kineticist level you possess. You can have a number of kinetic covers in existence 
+equal to your Constitution modifier + ½ your kineticist level. 
+Shift Earth (Sp): As a standard action, you can push or pull a 5-foot cube of earth or unworked stone 
+within 30 feet, moving the cube 5 feet in any direction. You can create raised platforms, stairs up a cliff, 
+holes, or other useful features. This doesn’t cause the earth to float in the air, although in areas with 
+plenty of earth, you can move a cube upward, creating a short pillar. If you move the earth beneath a 
+creature’s feet, it can attempt a DC 20 Reflex save to leap elsewhere and avoid moving along with the 
+earth. 
+Tremorsense (Su): You can take a move action to gain tremorsense 30 feet for 1 round on any earth 
+or stone surface that you touch. You can accept 1 point of burn to increase the duration to 1 round per 
+kineticist level you possess. While benefiting from this tremorsense, your earth blasts and composite 
+blasts that include earth components don’t suffer a miss chance from concealment or total concealment 
+against creatures you detect with your tremorsense. 
+Wild Coercion (Ex) You gain the wild empathy ability. In addition, you can use your wild empathy to 
+demoralize an animal or magical beast, or force it to be friendly to you, as if using Intimidate rather than 
+Diplomacy. You add your Strength modifier to these checks in addition to your Charisma modifier. 
+ 
+Jammaker 
+Male rhino animal companion 
+N Huge animal 
+Init +2; Senses scent; Perception +12 
+DEFENSE 
+AC 27, touch 10, flat-footed 25 (+4 armor, +2 Dex, +13 natural, 
+–2 size) 
+hp 85 (9 HD) 
+Fort +11, Ref +8, Will +4; +2 vs. enchantment 
+Defensive Abilities devotion, evasion 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee gore +14 (8d6+19) with Power Attack and Vital Strike, or 
+gore +14/+9 (4d6+13) with Multiattack, or 
+gore +14/+7 (4d6+19) with Multiattack and Power Attack 
+Space 15 ft.; Reach 15 ft. 
+Special Attacks powerful charge (gore, 8d6+32) 
+STATISTICS 
+Abilities Str 28 (+9), Dex 14 (+2), Con 21 (+5), Int 2 (–4), Wis 13 (+1), Cha 5 (–3) 
+Base Atk +6; CMB +17; CMD 29 (33 vs. overrun and trip) 
+Feats Furious Focus, Improved Natural Attack (gore), MultiattackB, Power Attack, Vital Strike, Weapon Focus 
+(gore) 
+Skills Perception +12 
+SQ link, share spells, tricks (advanced attack, come, defend, down, guard, heel, stay, track, work) 
+Gear +1 studded leather barding, bit and bridle, exotic military saddle, rhino feed (4 days worth), saddlebags 
+(4) 
+Encumbrance light 2,400 lb., medium 4,800 lb., heavy 7,200 lb.; Weight Carried 333 lb. 

@@ -1,0 +1,120 @@
+
+
+Ben “Blind” Ganji 
+Male human monk 15 (weapon adept) 
+LN Medium humanoid 
+Init +3; Senses blindsight 30 ft., scent; Perception +34 
+Languages Common 
+DEFENSE 
+AC 37, touch 28, flat-footed 33 (+6 armor, +3 deflection, +3 Dex, +1 dodge, 
++5 monk, +3 natural, +6 Wis) 
+hp 122 (15 HD) 
+Fort +11, Ref +12, Will +15; +2 vs. enchantment effects 
+Defensive Abilities evasion; Immune disease, poison; SR 25 
+OFFENSE 
+Speed 80 ft. (16 squares) 
+Melee +5 temple sword +22/+17/+12 (1d8+14/17-20) or 
++5 temple sword +24/+24/+19/+19/+14/+14 (1d8+12/17-20) with 
+Flurry of Blows, or 
+mwk brass knuckles +17/+12/+7 (2d10+5) or 
+mwk brass knuckles +19/+19/+14/+14/+9/+9 (2d10+5) with Flurry of Blows 
+Ranged 9 flying greatswords +13 each (2d6 each) with ring of telekinesis, or 
+iron sphere +13 (9d6) with ring of telekinesis, or 
+mwk shuriken +15/+10/+5 (1d2+5) or 
+mwk shuriken +17/+17/+12/+12/+7/+7 (1d2+5) with Flurry of Blows 
+Special Attacks flurry of blows, quivering palm (DC 25) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 16 (+3), Con 14 (+2), Int 10 (+0), Wis 22 (+6), Cha 8 (–1) 
+Base Atk +11; CMB +20 (+22 trip); CMD 44 (46 vs. trip) 
+Feats Ability Focus (quivering palm), Alertness, Blind-Fight, Blinded Blade Style, Blinded Competence, 
+Blinded Master, Deflect Arrows
+B, Dodge
+B, Greater Blind-Fight, Improved Blind-Fight, Improved 
+Critical (temple swordB), Improved Trip
+B, Perfect Strike
+B, Skill Focus (perceptionB, sense motive
+B), 
+Spring AttackB, Weapon Focus (temple swordB), Weapon Specialization (temple swordB) 
+Skills Acrobatics +21 (+56 when jumping), Climb +23, Perception +34 (+38 with hearing or smell), Sense 
+Motive +34, Stealth +21, Swim +23 
+SQ abundant step, fast movement, focused study, high jump, ki pool (13 points, cold iron, lawful, magic, 
+silver), maneuver training, slow fall 70 ft., wholeness of body 
+Combat Gear masterwork shuriken (50); Other Gear +5 temple sword, amulet of natural armor +3, belt of 
+physical might +2 (strength, dexterity), bracers of armor +6, cold iron greatswords (9), cold iron sphere 
+(weighs 225 lbs.), headband of inspired wisdom +4, monk’s robe, muleback cords, ring of protection 
++3, ring of telekinesis, tender (100sp) 
+Encumbrance light 400 lb., medium 800 lb., heavy 1,200 lb.; Weight Carried 308 lb. 4 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Abundant Step (Su) You can slip magically between spaces, as if using the spell dimension door. Using this 
+ability is a move action that consumes 2 points from your ki pool. Your caster level for this effect is 
+equal to your monk level. You cannot take other creatures with you when you use this ability. 
+AC Bonus (Ex) When unarmored and unencumbered, you add your Wisdom bonus +5 to your AC and your 
+CMD (included above). These bonuses to AC apply even against touch attacks or when you are 
+flat-footed. You lose these bonuses when you are immobilized or helpless, when you wear any armor, or 
+when you carry a shield or medium or greater load. 
+Diamond Body (Su) You gain immunity to poisons of all kinds. 
+Diamond Soul (Ex) You gain spell resistance equal to your current monk level + 10. 
+
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. Evasion can be used only if you are wearing light 
+armor or no armor. If you are helpless, you do not gain the benefit of evasion. 
+Fast Movement (Ex) If wearing no armor and not carrying a medium load, you gain a +50 enhancement bonus 
+to your base land speed. 
+Flurry of Blows (Ex) You can make a flurry of blows as a full-attack action. When doing so you may make 
+three additional attacks using any combination of unarmed strikes or attacks with a special monk as if 
+using the Greater Two-Weapon Fighting feat (even if you do not meet the prerequisites for the feat). For 
+the purpose of these attacks, your base attack bonus is equal to your monk level. For all other purposes, 
+such as qualifying for a feat or a prestige class, you use your normal base attack bonus. You apply your 
+full Strength bonus to your damage rolls for all successful attacks made with flurry of blows, whether 
+the attacks are made with an off-hand or with a weapon wielded in both hands. You may substitute 
+disarm, sunder, and trip combat maneuvers for unarmed attacks as part of a flurry of blows. You cannot 
+use any weapon other than an unarmed strike or a special monk weapon as part of a flurry of blows. You 
+cannot use natural weapons as part of a flurry of blows, nor can you make natural attacks in addition to 
+your flurry of blows attacks. 
+High Jump (Ex) You add your monk level to all Acrobatics checks made to jump, both for vertical jumps and 
+horizontal jumps (included above). In addition, you always count as having a running start when making 
+jump checks using Acrobatics. By spending 1 point from your ki pool as a swift action, you gain a +20 
+bonus on Acrobatics checks made to jump for 1 round. 
+Ki Pool (Su) You gain ki points equal to half your monk level + your Wis modifier. As long as you have at 
+least 1 point in your ki pool, you can make a ki strike. Your ki strike allows your unarmed attacks to be 
+treated as magic and lawful weapons for the purpose of overcoming damage reduction. By spending 1 
+point from your ki pool, you can make one additional attack at your highest attack bonus when making a 
+flurry of blows attack. In addition, you can spend 1 point to increase your speed by 20 feet for 1 round. 
+Finally, you can spend 1 point from your ki pool to give yourself a +4 dodge bonus to AC for 1 round. 
+Each of these powers is activated as a swift action. The ki pool is replenished each morning after 8 hours 
+of rest or meditation; these hours do not need to be consecutive. 
+Maneuver Training (Ex) You use your monk level in place of your base attack bonus when calculating your 
+Combat Maneuver Bonus (included above). Base attack bonuses granted from other classes are 
+unaffected and are added normally. 
+Perfect Strike (Ex) You gain Perfect Strike as a bonus feat, even if you do not meet the prerequisites. You can 
+roll your attack roll three times and take the higher result. If one of these rolls is a critical threat, you can 
+choose which one of your other two rolls to use as his confirmation roll. 
+Purity of Body (Ex) You gain immunity to all diseases, including supernatural and magical diseases. 
+Quivering Palm (Su) You can set up vibrations within the body of another creature that can thereafter be fatal 
+if you so desire. You can use this quivering palm attack once per day, and you must announce your 
+intent before making your attack roll. Creatures immune to critical hits cannot be affected. Otherwise, if 
+you strike successfully and the target takes damage from the blow, the quivering palm attack succeeds. 
+Thereafter, you can try to slay the victim at any later time, as long as the attempt is made within a 
+number of days equal to your monk level. To make such an attempt, you merely will the target to die (a 
+free action), and unless the target makes a Fortitude saving throw (DC 10 + ½ your monk level + your 
+Wis modifier), it dies. If the saving throw is successful, the target is no longer in danger from that 
+particular quivering palm attack, but it may still be affected by another one at a later time. You can have 
+no more than 1 quivering palm in effect at one time. If you use quivering palm while another is still in 
+effect, the previous effect is negated. 
+Slow Fall (Ex) When within arm’s reach of a wall you can use it to slow your descent. You take damage as if 
+the fall were 70 feet shorter than it actually is. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat. Your attacks may be with fist, elbows, 
+knees, and feet. This means that you may make unarmed strikes with his hands full. There is no such 
+thing as an off-hand attack for you. You may apply your full Strength bonus on damage rolls for all of 
+your unarmed strikes. Usually your unarmed strikes deal lethal damage, but you can choose to deal 
+
+nonlethal damage instead with no penalty on your attack roll. You have the same choice to deal lethal or 
+nonlethal damage while grappling. Your unarmed strike is treated as both a manufactured weapon and a 
+natural weapon for the purpose of spells and effects that enhance or improve either manufactured 
+weapons or natural weapons. You deal more damage with your unarmed strikes than a normal person 
+would, as shown above. 
+Way of the Weapon Master (Ex) You gain Weapon Focus as a bonus feat with one of your monk weapons. 
+Additionally you gain Weapon Specialization with the same weapon as the bonus feat, even if you do 
+not meet the prerequisites. 
+Wholeness of Body (Su) You can heal your own wounds as a standard action. You can heal a number of hit 
+points of damage equal to your monk level by using 2 points from your ki pool. 

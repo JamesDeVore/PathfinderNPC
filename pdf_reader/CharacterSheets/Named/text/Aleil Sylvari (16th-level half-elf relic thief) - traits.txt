@@ -1,0 +1,161 @@
+
+
+Aleil Sylvari 
+Female half-elf diviner 4/rogue 1/assassin 1/arcane trickster 10 
+CE Medium humanoid (elf, human) 
+Init +15; Senses low-light vision, trapfinding; Perception +13 
+Languages Aboleth, Abyssal, Aklo, Aquan, Auran, Celestial, Common, Dark 
+Folk, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Gnoll, Halfling, 
+Ignan, Infernal, Orc, Sylvan, Terran, Undercommon 
+DEFENSE 
+AC 37, touch 20, flat-footed 31 (+7 armor, +4 deflection, +6 Dex, +7 natural, +3 
+shield) 
+hp 111 (16 HD) 
+Fort +13, Ref +22, Will +15 
+Immune magical sleep effects 
+OFFENSE 
+Speed 30 ft. (6 squares), 40 ft. fly (good); overland flight 
+Melee +1 dagger +15/+10 (1d4+1 plus poison/19-20) or 
+poisoned glove +14/+9 touch (contact poison) 
+Ranged +5 shuriken +19/+14 (1d4+5 plus poison) 
+Special Attacks death attack (DC 18, 1d6+1 rounds), impromptu sneak attack 2/day, sneak attack +8d6, 
+surprise spells 
+Arcane Spell-Like Abilities (CL 16
+th; Concentration +23) 
+10/day – diviner’s fortune (+2) 
+Wizard Spells Prepared (CL 16
+th, cast spells as 14
+th; Concentration +23) 
+7th  (4/day) – greater scrying, greater teleport (2), mage’s magnificent mansion 
+6th  (5/day) – analyze dweomer
+F, greater dispel magic, mislead, true seeing
+M, veil 
+5th  (5/day) – cone of cold
+O, overland flight, prying eyes, telekinesis 
+4th  (6/day) – detect scrying, dimension door, enervationO (2) 
+3rd  (6/day) – fireballO, gaseous form, lightning bolt
+O, nondetectionM 
+2nd (7/day) – alter self, detect thoughts (2), invisibility (2), locate object, obscure object 
+1st  (7/day) – arcane pocket
+BM, feather fall, grease, shield, silent image, true strike, unseen servant 
+0  (at will) – acid splash, detect magic, mage hand, vacuous vessel
+BM 
+Arcane School divination; O Opposition spells; Opposition Schools evocation, necromancy 
+STATISTICS 
+Abilities Str 10 (+0), Dex 24 (+7), Con 16 (+3), Int 24 (+7), Wis 10 (+0), Cha 22 (+6) 
+Base Atk +7; CMB +7 (+15 with dagger); CMD 38 
+Feats Accomplished Sneak Attacker, Craft Rod, Craft Wondrous Item, Defensive Combat Training, Improved 
+Initiative, Scale and Skin, Scribe Scroll
+B, Skill Focus (stealthB), Stealthy, Weapon Finesse 
+Skills Acrobatics +18, Bluff +25, Craft (alchemy) +11, Diplomacy +25, Disable Device +23, Disguise +17, 
+Escape Artist +36, Intimidate +25, Knowledge (arcana) +26, Linguistics +26, Perception +13 (+14 vs. 
+traps), Sense Motive +11, Sleight of Hand +18, Spellcraft +26, Stealth +36; Racial Modifiers +2 
+Perception 
+SQ adaptability, arcane bond (ring), diviner’s fortune, elf blood, forewarned, invisible thief (10 
+rounds/day), poison use, ranged legerdemain, trapfinding, traits (magical knack: wizard, reactionary), 
+tricky spells 5/day 
+Combat Gear +5 shuriken (6 per month), antitoxin (3), arcane spell scrolls (detect secret doors 10, dimension 
+door 2, enervation 4, false vision 3, floating disk [CL 5
+th] 6, greater teleport 2, identify 8, knock 10), 
+poison doses (black lotus extract 10, nightmare vapor 5, terinav root 15), spell focus components 
+(analyze dweomer, contingency, mage’s magnificent mansion, scrying, vision), spell material 
+components (false vision 4, nondetection 6, true seeing 4, vision 6); Other Gear +1 dagger 
+(concealed/sequestered), +2 mithral buckler, amulet of natural armor +4, belt of physical might +6 
+(dexterity, constitution), blessed book (665 pages remaining, concealed/sequestered), bracers of armor 
+
++7, cloak of resistance +5, hat of disguise, headband of mental prowess +6 (intelligence, charisma; 
+bluff, diplomacy, intimidate), metamagic rods (extend, maximize, quicken), poisoner’s gloves (laced 
+with black lotus extract, sequestered), ring of protection +4 (bonded object), ring of sustenance, robe of 
+stars, spell component pouches (2; one concealed/sequestered), tender (468gp), vest of escape 
+Spellbook 7th—banishment, ethereal jaunt, finger of deathO, greater scrying, greater teleport, mage’s 
+magnificent mansion, plane shift, sequester, teleport object, visionM; 6th—analyze dweomerF, 
+contingency
+O, geas/quest, greater dispel magic, mass suggestion, mislead, true seeing, veil; 5th—cone of 
+cold
+O, dominate person, fabricate
+M, false vision
+M, overland flight, permanency
+O, prying eyes, sending, 
+telekinesis, teleport; 4th—black tentacles, detect scrying, dimension door, dimensional anchor, 
+enervation
+O, greater invisibility, scryingF; 3rd—fireballO, gaseous form, lightning bolt
+O, nondetectionM, 
+touch injection
+UC; 2nd—alter self, darknessO, darkvision, detect thoughts, glitterdust, invisibility, knock, 
+locate object, obscure object; 1st—detect secret doors, feather fall, floating disk
+O, grease, identify, 
+magic missile
+O, shield, silent image, true strike, unseen servant; 0—all; 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 28 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Death Attack (Ex) If you study your victim for 3 rounds and then make a sneak attack with a melee weapon 
+that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or 
+killing the target (your choice). Studying the victim is a standard action. The death attack fails if the 
+target detects you or recognizes you as an enemy (although the attack might still be a sneak attack if the 
+target is denied his Dexterity bonus to his Armor Class or is flanked). If the victim of such a death attack 
+fails a Fortitude save (DC 18) against the kill effect, they die. If the saving throw fails against the 
+paralysis effect, the victim is rendered helpless and unable to act for 1d6+1 rounds. If the victim’s 
+saving throw succeeds, the attack is just a normal sneak attack. Once you have completed the 3 rounds 
+of study, you must make the death attack within the next 3 rounds. If a death attack is attempted and 
+fails (the victim makes their save) or if you do not launch the attack within 3 rounds of completing the 
+study, 3 new rounds of study are required before you can attempt another death attack. 
+Diviner’s Fortune (Sp) Ten times per day you can touch any creature as a standard action to give it a +2 
+insight bonus on all of its attack rolls, skill checks, ability checks, and saving throws for 1 round. 
+Forewarned (Su) You can always act in the surprise round even if you fail to make a Perception roll to notice a 
+foe, but you are still considered flat-footed until you take an action. In addition, you receive a bonus on 
+initiative checks equal to ½ your wizard level (included above). 
+Impromptu Sneak Attack (Ex) Twice per day you can declare one melee or ranged attack you make to be a 
+sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged 
+attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that 
+attack. The power can be used against any target, but creatures that are not subject to critical hits take no 
+extra damage (though they still lose any Dexterity bonus to AC against the attack). 
+Invisible Thief (Su) You can become invisible, as if under the effects of greater invisibility, as a free action. 
+You can remain invisible for up to 10 rounds per day. Your caster level for this effect is equal to your 
+caster level. These rounds need not be consecutive. 
+Ongoing Spells You have cast the contingency, detect scrying, and overland flight spells upon yourself. Should 
+you ever be made helpless against your will (such as when knocked unconscious, paralyzed, petrified, 
+securely bound, or forcefully put to sleep), you are immediately teleported (as per the teleport spell) to 
+the nearest known temple dedicated to your deity. Your person carries upon it a note with detailed 
+
+instructions for the temple’s priests should you not be in a position to direct them to your aid personally. 
+All ongoing spell effects function at 16
+th-caster level (and thus require a DC 27 caster level check to 
+dispel) and their effects are included in the above stats where appropriate. 
+Poison Use You are trained in the use of poison and cannot accidentally poison yourself when applying poison 
+to a blade. 
+Poisons You carry of variety of poisons, primarily for use with your poisoner’s glove: 
+Black lotus extract—contact; save Fort DC 20, onset 1 minute, frequency 1/round for 6 rounds, effect 
+1d3 Str, cure 2 consecutive saves. 
+Nightmare vapor—inhaled; save Fort DC 20, frequency 1/round for 6 rounds, effect 1d6 Con, cure 2 
+consecutive saves. 
+Terinav root—contact; save Fort DC 16, onset 1 minute, frequency 1/minute for 6 minutes, effect 1d3 
+Dex, cure 1 save. 
+Ranged Legerdemain (Su) You can use Disable Device and Sleight of Hand at a range of 30 feet. Working at 
+a distance increases the normal skill check DC by 5, and you cannot take 10 on this check. Any object to 
+be manipulated must weigh 5 pounds or less. 
+Sneak Attack Your attack deals 8d6 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Should you 
+score a critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as 
+sneak attacks only if the target is within 30 feet. With a weapon that deals nonlethal damage (like a sap, 
+whip, or an unarmed strike), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, 
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with 
+concealment. 
+Surprise Spells You can add your sneak attack damage to any spell that deals damage, if the targets are flat-
+footed. This additional damage only applies to spells that deal hit point damage, and the additional 
+damage is of the same type as the spell. If the spell allows a saving throw to negate or halve the damage, 
+it also negates or halves the sneak attack damage. 
+Trapfinding You add ½ your rogue level to Perception skill checks made to locate traps and to Disable Device 
+skill checks (minimum +1). You may also use Disable Device to disarm magic traps. 
+Tricky Spells (Su) Five times per day you can cast your spells without their somatic or verbal components, as if 
+using the Still Spell and Silent Spell feats. Spells cast using this ability do not increase in spell level or 
+casting time. You decide to use this ability at the time of casting. 

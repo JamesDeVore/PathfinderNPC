@@ -1,0 +1,48 @@
+
+
+Bao Zheng 
+Male human fighter 8 
+N Medium humanoid 
+Init +4; Senses Perception +1 
+Languages Common 
+DEFENSE 
+AC 33, touch 18, flat-footed 29 (+11 armor, +4 Dex, +8 shield) 
+hp 79 (8 HD) 
+Fort +9, Ref +7, Will +4; +3 vs. fear 
+Defensive Abilities bravery +3 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 keen adamantine nodachi +14/+9 (1d10+8/15-20) or 
++1 keen adamantine nodachi +14/+6 (1d10+17/15-20) with 
+Power Attack 
+Ranged mwk composite longbow +13/+8 (1d8+4/×3) 
+Special Attacks weapon training (polearms +1) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 18 (+4), Con 14 (+2), Int 10 (+0), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +8; CMB +12 (+14 with nodachi); CMD 26 (34 vs. bull rush/disarm/overrun/sunder, 35 to 
+disarm/sunder nodachi) 
+Feats Furious Focus, Improved Shield Focus, Mobile Bulwark Style
+B, Mobile FortressB, Mobile Stronghold
+B, 
+Power Attack
+B, Shield Brace
+B, Shield FocusB, Tower Shield Specialist, Weapon Focus (nodachi) 
+Skills Climb +9, Survival +12, Swim +9; Armor Check Penalty –6 
+SQ armor training 3 
+Combat Gear durable arrows (20), potions (enlarge person 10); Other Gear +1 keen adamantine nodachi, +2 
+full plate, +3 darkwood tower shield, cloak of resistance +1, fighter’s kit, masterwork composite 
+longbow (+4 strength bonus), sash of the war champion, tender (61gp) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 118 lb. 2 oz. (89 lb. 2 oz. without 
+backpack containing fighter’s kit; values exclude tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 3 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 3. In addition, your speed is not 
+reduced for wearing medium or heavy armor. 
+Bravery (Ex) You gain a +3 bonus on Will saves against fear effects (included above). 
+Weapon Training (Ex) You receive a +1 bonus to attack and damage rolls when using polearms, to any 
+combat maneuver checks made with polearms, and to your Combat Maneuver Defense when defending 
+against disarm and sunder attempts made against polearms. 
+ 
+FIGHTER’S KIT 
+This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, rope, soap, torches 
+(10), trail rations (5 days), and a waterskin. 

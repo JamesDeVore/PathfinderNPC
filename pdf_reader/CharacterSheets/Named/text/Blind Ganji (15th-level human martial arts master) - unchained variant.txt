@@ -1,0 +1,125 @@
+
+
+Ben “Blind” Ganji 
+Male human unchained monk 15 
+LN Medium humanoid (human) 
+Init +3; Senses blindsight 30 ft., scent; Perception +34 
+Languages Common; tongue of the sun and moon 
+DEFENSE 
+AC 39, touch 28, flat-footed 35 (+6 armor, +3 deflection, +3 Dex, +1 dodge, 
++5 monk, +5 natural, +6 Wis); barkskin 
+hp 145 (15 HD) 
+Fort +15, Ref +16, Will +15; +2 vs. enchantment effects 
+Defensive Abilities improved evasion; Immune disease 
+OFFENSE 
+Speed 80 ft. (16 squares) 
+Melee unarmed strike +23/+18/+13 (2d10+8) or 
+unarmed strike +23/+23/+23/+18/+13 (2d10+8) with Flurry of Blows 
+Ranged 9 flying greatswords +15 each (2d6 each) with ring of telekinesis, or 
+iron sphere +15 (9d6) with ring of telekinesis, or 
+mwk shuriken +19/+14/+9 (1d2+5) or 
+mwk shuriken +19/+19/+19/+14/+9 (1d2+5) with Flurry of Blows 
+Special Attacks flurry of blows, stunning fist (15/day, DC 23), style strike (elbow smash, flying kick, 
+hammerblow) 
+Spell-like Abilities (CL 15th; Concentration +21) 
+At-will – barkskin (costs 1 ki point) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 16 (+3), Con 14 (+2), Int 10 (+0), Wis 22 (+6), Cha 8 (–1) 
+Base Atk +15; CMB +20 (+22 trip); CMD 48 (50 vs. trip) 
+Feats Alertness, Blind-Fight, Blinded Blade Style, Blinded Competence, Blinded Master, Deflect Arrows
+B, 
+Dodge
+B, Greater Blind-Fight, Improved Blind-Fight, Improved TripB, Signature Skill (perception), Skill 
+Focus (perception
+B, sense motive
+B), Spring AttackB 
+Skills Acrobatics +21 (+56 when jumping), Climb +23, Perception +39 (+43 with hearing or scent, +44 vs. 
+invisible targets, +48 with both), Sense Motive +34, Stealth +31, Swim +23 
+SQ fast movement, focused study, ki pool (13 points, cold iron, lawful, magic, silver), ki powers (insightful 
+wisdom, ki visions, qinggong power, sudden speed), purity of body, still mind 
+Combat Gear feather tokens (bird 3), masterwork shuriken (50); Other Gear amulet of mighty fists +3, belt of 
+physical might +2 (strength, dexterity), bracers of armor +6, cloak of resistance +4 (doubles as 
+muleback cords), cold iron greatswords (9), cold iron sphere (weighs 225 lbs.), eyes of the eagle, 
+headband of inspired wisdom +4, monk’s robe, ring of protection +3, ring of chameleon power, ring of 
+telekinesis, tender (120sp) 
+Encumbrance light 400 lb., medium 800 lb., heavy 1,200 lb.; Weight Carried 306 lb. 4 oz. (excluding tender) 
+SPECIAL ABILITIES 
+AC Bonus (Ex) When unarmored and unencumbered, you add your Wisdom bonus +5 to your AC and your 
+CMD (included above). These bonuses to AC apply even against touch attacks or when you are 
+flat-footed. You lose these bonuses when you are immobilized or helpless, when you wear any armor, or 
+when you carry a shield or medium or greater load. 
+Fast Movement (Ex) If wearing no armor and not carrying a medium load, you gain a +50 enhancement bonus 
+to your base land speed. 
+Flurry of Blows (Ex) You can make a flurry of blows as a full-attack action. When making a flurry of blows, 
+you can make two additional attacks at your highest base attack bonus. These additional attacks stack 
+with the bonus attacks from haste and other similar effects. When using this ability, you can make these 
+attacks with any combination of your unarmed strikes and weapons that have the monk special weapon 
+
+quality. You take no penalty for using multiple weapons when making a flurry of blows, but you do not 
+gain any additional attacks beyond what’s already granted by the flurry for doing so. (You can still gain 
+additional attacks from a high base attack bonus, from this ability, and from haste and similar effects). 
+Improved Evasion (Ex) You can avoid damage from many area-effect attacks. If you succeed at a Reflex 
+saving throw against an attack that normally deals half damage on a successful save, you instead take no 
+damage. If you fail, you only take half damage. You can only use evasion while wearing light armor or 
+no armor and are not helpless. 
+Insightful Wisdom (Su) You can spend 2 ki points as an immediate action to give another ally within 30 feet 
+just the right word of advice to prevent disaster. If the ally can hear you, they can reroll a single attack 
+roll or saving throw. The ally must take the second result, even if it is worse. 
+Ki Pool (Su) You gain a pool of ki points, supernatural energy you can use to accomplish amazing feats. The 
+number of points in your ki pool is equal to ½ your monk level + your Wisdom modifier. As long as you 
+have at least 1 point in your ki pool, you can make a ki strike. A ki strike allows your unarmed attacks to 
+be treated as cold iron, lawful, magic, silver weapons for the purpose of overcoming damage reduction. 
+By spending 1 point from your ki pool as a swift action, you can make one additional unarmed strike at 
+your highest attack bonus when making a flurry of blows attack. This bonus attack stacks with all bonus 
+attacks gained from flurry of blows, as well as those from haste and similar effects. The ki pool is 
+replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. 
+Ki Visions (Su) You often see visions of spirits or hear the voice of your departed mentor in your dreams. On 
+any given night during which you dream, you can use this ability to gain the benefits of a divination. If 
+you do, you spend 2 ki points from the next day’s total. 
+Purity of Body (Ex) You gain immunity to all diseases, including supernatural and magical diseases. 
+Signature Skill You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. You gain the skill unlock powers for that skill as appropriate for your 
+number of ranks in that skill. 
+Perception: You remain alert to sounds even in your sleep, and the normal DC increase to 
+Perception checks when you are sleeping is halved. The distance modifier on the DC of Perception 
+checks you attempt is reduced to +1 per 40 feet. In addition, you gain a +5 bonus on Perception checks 
+to notice or locate an invisible creature or objects. You remain alert to sounds even in your sleep, and 
+the normal DC increase to Perception checks when you are sleeping doesn’t apply to you. 
+Still Mind (Ex) You gain a +2 bonus on saving throws against enchantment spells and effects. 
+Stunning Fist (Ex) You gain Stunning Fist as a bonus feat, even if you do not meet the prerequisites. You also 
+possess the ability to apply a new condition to the target of your Stunning Fist. This condition replaces 
+stunning the target for 1 round, and a successful saving throw still negates the effect. You can choose to 
+make the target fatigued, sickened for 1 minute, or staggered for 1d6+1 rounds. You must choose which 
+condition to apply before the attack roll is made. These effects do not stack with themselves (a creature 
+fatigued by Stunning Fist cannot become exhausted if hit by Stunning Fist again), but additional hits do 
+increase the duration. 
+Style Strike (Ex) You have learned a number of style strikes. Whenever you make a flurry of blows, you can 
+designate up to two of your unarmed strikes as a style strike. This attack is resolved as normal, but it has 
+an additional effect depending on the type of strike chosen. You must choose which style strike to apply 
+before the attack roll is made. You can choose from any of the following strikes: 
+Elbow Smash: You follow up a punch with a strike from your elbow. If the attack hits, you can make 
+an additional attack using the same attack bonus as the punch at a –5 penalty. If this second attack hits, it 
+deals damage as normal, but all of the damage is nonlethal. You must attack with a fist to use this style 
+strike. 
+Flying Kick: You leap through the air to strike a foe with a kick. Before the attack, you can move a 
+distance equal to your fast movement bonus. This movement is made as part of your flurry of blows 
+attack and does not require an additional action. At the end of this movement, you must make an attack 
+against an adjacent foe. This movement may be between attacks. This movement provokes an attack of 
+opportunity as normal. The attack made after the movement must be a kick. 
+
+Hammerblow: You link your hands together, swinging both arms like a club and dealing tremendous 
+damage. If the attack hits, you roll your unarmed strike damage twice, adding both rolls together before 
+applying Strength and other modifiers to the damage. This bonus damage is not multiplied on a critical 
+hit. You must attack with a fist to use this style strike, but must have both hands free. 
+Sudden Speed (Su) You can spend 1 point from your ki pool as a swift action to grant yourself a sudden burst 
+of speed. This increases your base land speed by 30 feet for 1 minute. 
+Tongue of the Sun and Moon (Ex) You can understand and speak with any living creature, as if under a 
+permanent tongues effect. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat. Your attacks can be with fists, elbows, 
+knees, and feet. This means that you can make unarmed strikes with your hands full. There is no such 
+thing as an off-hand attack for a monk striking unarmed. You can apply your full Strength bonus on 
+damage rolls for all your unarmed strikes. Your unarmed strikes deal lethal damage, although you can 
+choose to deal nonlethal damage with no penalty on your attack roll. You can make this choice while 
+grappling as well. Your unarmed strike is treated as both a manufactured weapon and a natural weapon 
+for the purpose of spells and effects that enhance or improve either manufactured weapons or natural 
+weapons. Your unarmed strikes also deal more damage as noted above. 

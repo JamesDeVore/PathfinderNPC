@@ -1,0 +1,100 @@
+
+
+Aneelde Cansiv 
+  
+
+Female Human anti-paladin 2/sorcerer 3/dragon disciple 7 
+CE Medium humanoid (human) 
+Init +7; Senses blindsense 30 ft.; Perception +16 
+Languages Celestial, Common, Draconic 
+DEFENSE 
+AC 29, touch 16, flat-footed 25 (+4 armor, +3 Dex, +8 natural, +1 dodge, +3 
+deflection); mage armor 
+hp 120 (12 HD) 
+Fort +21, Ref +17, Will +20 
+Resist acid 10 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee +1 vicious adamantine guisarme +14/+9 (2d4+8 plus 2d6/×3) and 
+bite +6 (1d6+7), or 
++1 vicious adamantine guisarme +11/+6 (2d4+17 plus 2d6/×3) and 
+bite +4 (1d6+16) with Power Attack, or 
++1 vicious adamantine guisarme +14 (4d4+8 plus 2d6/×3) with Vital Strike, or 
++1 vicious adamantine guisarme +11 (4d4+17 plus 2d6/×3) with Vital Strike and Power Attack, or 
+bite +13 (1d6+7) and 
+2 claws +13 each (1d4+5) 
+Ranged +1 composite longbow +12/+7 (1d8+6/×3) or 
++1 composite longbow +12 (2d8+6/×3) with Vital Strike 
+Special Attacks breath weapon 1/day (60-ft. line, 10d6 acid, DC 22), claws (2, 1d6+5, magic, 10 rounds/day), 
+dragon bite, smite good 1/day (+7 attack and AC, +2 damage), touch of corruption (1d6 damage, 8/day) 
+Spell-like Abilities (CL 8th unless otherwise stated; Concentration +15 or +19 with Combat Casting) 
+At will – detect good (CL 2
+nd) 
+1/day – form of the dragon I (black dragon only) 
+Sorcerer Spells Known (CL 8th; Concentration +15 or +19 with Combat Casting) 
+4th-level (4/day) – enervation, fear 
+3rd-level (7/day) – fireball, fly, vampiric touch 
+2nd-level (8/day) – acid arrow, darkness, invisibility, resist energy 
+1st-level (8/day) – feather fall, identify, mage armor, magic missile, shield, true strike 
+0-level (at will) – acid splash, detect magic, dancing lights, light, mage hand, message, open/close, 
+prestidigitation 
+Bloodline draconic (black) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 16 (+3), Con 14 (+2), Int 14 (+2), Wis 12 (+1), Cha 25 (+7) 
+Base Atk +8; CMB +13; CMD 30 
+SQ aura of evil (moderate), blood of dragons, bloodline arcana (acid spells deal +1 damage per die), code of 
+conduct, detect good, unholy resilience +7 
+Feats Combat Casting
+B, Dodge, Eschew Materials
+B, Great Fortitude, Improved InitiativeB, Lightning Reflexes, 
+Mobility, Power Attack, Spring Attack, ToughnessB, Vital Strike 
+Skills Acrobatics +8 (+12 when jumping), Diplomacy +22, Knowledge (arcana +17, religion +17), Perception 
++16, Spellcraft +17 
+Combat Gear arrows (20), potions of cure moderate wounds (10); Other Gear +1 composite longbow (+5 
+strength bonus), +1 vicious adamantine guisarme, amulet of natural armor +3, belt of physical might 
++2 (strength, dexterity), boots of striding and springing, cloak of resistance +2, headband of alluring 
+charisma +6, ring of protection +3, tender (49gp) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 16 lb. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Bloodline Arcana Whenever you cast a spell with an energy descriptor that matches your draconic bloodline’s 
+energy type (acid), that spell deals +1 point of damage per die rolled. 
+Breath Weapon (Su) You gain a breath weapon useable once per day. This breath weapon deals 1d6 points of 
+damage of your energy type per dragon disciple or sorcerer level to all targets in a 30-ft. cone. Those 
+caught in the area of the breath receive a Reflex save for half damage. The DC of this save is equal to 10 
++ ½ your sorcerer level + your Charisma modifier. 
+Claws (Ex) You can grow claws as a free action. These claws are treated as natural weapons, allowing you to 
+make two claw attacks as a full attack action using your full base attack bonus. Each of these attacks 
+deals 1d4 points of damage plus your Strength modifier. You can use your claws for a number of rounds 
+per day equal to 3 + your Charisma modifier. 
+Detect Good (Sp) At will, you can use detect good, as the spell. You can, as a move action, concentrate on a 
+single item or individual within 60 feet and determine if it is good, learning the strength of its aura as if 
+having studied it for 3 rounds. While focusing on one individual or object, you do not detect good in any 
+other object or individual within range. 
+Dragon Bite (Ex) Whenever you use your bloodline to grow claws, you also gain a bite attack. This natural 
+attack is made at your full base attack bonus. You add 1½ times your Strength modifier on damage rolls 
+made with your bite. 
+Dragon Form (Sp) You can assume the form of a dragon once per day. This ability works like form of the 
+dragon I except you must transform into a black dragon. 
+Dragon Resistances (Ex) You gain resist 5 against your energy type (acid) and a +1 natural armor bonus 
+(included above). 
+Smite Good (Su) Once per day, as a swift action, you can choose one target within sight to smite. If this target 
+is good, you add your Charisma bonus to your attack rolls and add your anti-paladin level to all damage 
+rolls made against the target of your smite. If the target of smite good is an outsider with the good 
+subtype, a good-aligned dragon, or an undead creature, the bonus to damage on the first successful 
+attack increases to 2 points of damage per anti-paladin level you possess. Regardless of the target, smite 
+good attacks automatically bypass any DR the creature might possess. In addition, while smite good is in 
+effect, you gain a deflection bonus equal to your Charisma modifier to your AC against attacks made by 
+the target of the smite. If you target a creature that is not good, your smite is wasted with no effect. The 
+smite good effect remains until the target of the smite is dead or the next time the anti-paladin rests and 
+regains her uses of this ability. 
+Touch of Corruption (Su) Each day you can use this ability a number of times equal to ½ your antipaladin 
+level + your Charisma modifier. As a touch attack, you can cause 1d6 points of damage for every two 
+antipaladin levels you possesse. Using this ability is a standard action that does not provoke attacks of 
+opportunity. Alternatively, you can use this power to heal undead creatures, restoring 1d6 hit points for 
+every two antipaladin levels you possesse. This ability is modified by any feat, spell, or effect that 
+specifically works with the lay on hands paladin class feature. For example, the Extra Lay On Hands 
+feat grants an antipaladin 2 additional uses of the touch of corruption class feature. 
+Unholy Resilience (Su) You gain a bonus equal to your Charisma bonus on all saving throws (included above). 
+ 

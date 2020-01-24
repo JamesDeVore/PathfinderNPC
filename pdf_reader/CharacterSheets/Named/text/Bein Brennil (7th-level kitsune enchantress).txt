@@ -1,0 +1,101 @@
+
+
+Bein Brennil 
+Female kitsune sorcerer 7 (crossblooded) 
+CG Medium humanoid (kitsune, shapechanger) 
+Init +3; Senses familiar’s alertness, low-light vision; Perception +1 
+Languages Common, Sylvan, Tengu 
+DEFENSE 
+AC 17, touch 13, flat-footed 14 (+4 armor, +3 Dex); mage armor 
+hp 40 (7 HD) 
+Fort +5, Ref +7, Will +6 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee adamantine morningstar +3 (1d8–1) and bite –3 (1d4–1) 
+Ranged light crossbow +6 (1d8/19-20) 
+Space 5 ft.; Reach 5 ft. 
+Spell-like Abilities (CL 7
+th; Concentration +13) 
+3/day – dancing lights 
+Spells Known (CL 7
+th; Concentration +13) 
+3
+rd  (5/day) – deep slumber
+B, reckless infatuationUM 
+2nd (8/day) – hideous laughter
+B, oppressive boredomUM, unnatural lust
+UM 
+1st  (8/day) – charm person, entangle
+B, mage armor, magic missile, shield 
+0  (at will) – flare, ghost sound, light, mage hand, message, prestidigitation 
+Bloodline crossblooded (arcane, fey) 
+STATISTICS 
+Abilities Str 8 (–1), Dex 16 (+3), Con 12 (+1), Int 13 (+1), Wis 12 (+1), Cha 22 (+6) 
+Base Atk +3; CMB +2; CMD 15 
+Feats Eschew Materials
+B, Evolved Familiar (skilled: intimidate), Greater Spell Focus (enchantment), Heighten 
+Spell, Improved Familiar, Spell Focus (enchantmentB) 
+
+Skills Bluff +16, Diplomacy +13, Intimidate +16, Handle Animal +8, Knowledge (nature) +3 
+SQ arcane bond (lyrakien familiar), bloodline arcana (+1 DC for metamagic spells that increase spell 
+level, +2 DC for compulsion spells), change shape (specific human form, alter self), gregarious, 
+woodland stride 
+Combat Gear crossbow bolts (20), potions (cure light wounds 3); Other Gear cloak of resistance +2, hat of 
+disguise, headband of alluring charisma +2, light crossbow, ring of sacred mistletoe, tender (5gp) 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 14 lb. 3 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Gregarious (Ex) Whenever you successfully use Diplomacy to win over an individual, that creature takes a –2 
+penalty to resist any of your Charisma-based skill checks for the next 24 hours. 
+Kitsune Magic (Ex/Sp) You add +1 to the DC of any saving throws against enchantment spells that you cast. 
+You also gain an additional +2 bonus to the DC due to your favored class bonuses. 
+Woodland Stride (Ex) You can move through any sort of undergrowth (such as natural thorns, briars, 
+overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any 
+other impairment. Thorns, briars, and overgrown areas that have been magically manipulated to impede 
+motion, however, still affect you (though not even those can stop you with your ring of sacred 
+mistletoe). 
+   
+
+Tithin 
+Female lyrakien familiar 
+CG Tiny outsider (azata, chaotic, extraplanar, good) 
+Init +4; Senses darkvision 60-ft., detect evil, detect magic; Perception +9 
+Languages Celestial, Draconic, Infernal; truespeech 
+DEFENSE 
+AC 24, touch 16, flat-footed 20 (+4 armor, +4 Dex, +4 natural, +2 size); mage 
+armor 
+hp 20 (7 HD) 
+Fort +3, Ref +7, Will +8 
+Defensive Abilities improved evasion; DR 5/evil; Immune electricity, 
+petrification; Resist cold 10, fire 10 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 80 ft. (perfect) 
+Melee slam +2 (1d2–3) 
+Ranged by weapon +9 
+Space 2½ ft.; Reach 0 ft. 
+Special Attacks deliver touch spells, starlight blast 
+Spell-like Abilities (CL 3rd; Concentration +8) 
+Constant – detect evil, detect magic, freedom of movement 
+At will – dancing lights, daze (DC 15), summon instrument, ventriloquism (DC 16) 
+1/day – cure light wounds, lesser confusion (DC 16), silent image (DC 16) 
+1/week – commune (6 questions, CL 12th) 
+STATISTICS 
+Abilities Str 5 (–3), Dex 19 (+4), Con 12 (+1), Int 14 (+2), Wis 17 (+3), Cha 20 (+5) 
+Base Atk +3; CMB +5; CMD 12 
+Feats Persuasive, Skill Focus (intimidate) 
+
+Skills Acrobatics +10, Bluff +18, Diplomacy +20, Fly +16, Intimidate +28, Knowledge (nature) +8, Perception 
++9, Perform (sing) +14, Spellcraft +5, Stealth +18 
+SQ alertness, empathic link, familiar traits, share spells, traveler’s friend 
+Gear circlet of persuasion 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 14 lb. 3 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Starlight Blast (Su) As a standard action once every 1d4 rounds, a lyrakien can tap into the divine power of 
+Elysium, unleashing a blast of holy starlight in a 5-foot burst. All creatures in this area take 1d4 points 
+of holy damage, plus 1 point for each step their alignment deviates from chaotic good. For example, a 
+chaotic neutral or neutral good creature would take 1d4+1 points of damage, a neutral creature would 
+take 1d4+2 points of damage, and a lawful evil creature would take 1d4+4 points of damage. A DC 12 
+Reflex save negates this damage. Chaotic good creatures are unaffected by this ability. The save DC is 
+Constitution-based. 
+Traveler’s Friend (Su) The performances and company of a lyrakien ease the burden of travel. Once per day, a 
+creature may spend a minute listening to a lyrakien’s performance—doing so removes the effects of 
+exhaustion and fatigue from the listener. 

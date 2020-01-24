@@ -1,0 +1,103 @@
+
+
+Aldiss Lear 
+Male human magus 9 (mindblade) 
+LE Medium humanoid 
+Init +6; Senses Perception +10 
+Languages Common, Draconic, Dwarven, Elven, Gnome, Halfling 
+DEFENSE 
+AC 25, touch 15, flat-footed 21 (+8 armor, +1 deflection, +4 Dex, +2 
+natural) 
+hp 74 (9 HD) 
+Fort +10, Ref +9, Will +9 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +4 short sword +16/+11 (1d6+9/19-20) or 
+dual +3 short swords +13/+13/+8/+8 (1d6+8/19-20) 
+Ranged +1 adaptive composite longbow +11/+6 (1d8+6/×3) 
+Special Attacks dual weapons, psychic pool (13/day, +3 bonus), spell combat, spellstrike 
+Magus Spells Known (CL 9
+th, Concentration +18 or +22 with Combat Casting) 
+3rd  (5/day) – excruciating deformation
+B UM, gaseous form, haste, heart of the metalACG, heroism
+B, mind 
+thrust III
+B OA, phantom steed 
+2nd (6/day) – bladed dashISM, invisibility, mirror image, silence
+B, storm of bladesPotS 
+1
+st  (7/day) – feather fall, mage armor, shield, shocking grasp, true strike 
+0  (at-will) – arcane mark, dancing lights, detect magic, mage hand, open/close, prestidigitation 
+STATISTICS 
+Abilities Str 20 (+5), Dex 18 (+4), Con 14 (+2), Int 24 (+7), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +6; CMB +11; CMD 26 
+Feats Combat Casting, Craft Wondrous Item, Double Slice, Improved Two-Weapon Fighting, Two-Weapon 
+Fighting
+B, Weapon Focus (short sword) 
+Skills Climb +15, Knowledge (arcana) +19, Knowledge (dungeoneering) +19, Knowledge (planes) +19, 
+Perception +10, Ride +14, Spellcraft +19, Stealth +11, Swim +15; Armor Check Penalty –2 
+SQ dual talent, magus arcana (accurate strike, spell shield, spell-scars), traits (focused mind, 
+reactionary) 
+Combat Gear durable arrows (30), spell-scars (bladed dash, heroism, invisibility, mirror image, silence); 
+Other Gear +1 adaptive composite longbow, +2 mithral lamellar, amulet of natural armor +2, belt of 
+physical might +4 (strength, dexterity), cloak of resistance +2, headband of vast intelligence +4 
+(knowledge: dungeoneering, knowledge: planes), ring of protection +1, tender (45gp) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 28 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Accurate Strike (Ex) You can expend 2 points from your psychic pool as a swift action to resolve all of your 
+melee weapon attacks until the end of your turn as melee touch attacks. 
+Dual Weapons (Su) You can maintain two psychic weapons at a time or a psychic double weapon, though each 
+weapon (or each end of a double weapon) has an enhancement bonus 1 lower than normal. When using 
+two-weapon fighting with two psychic weapons or a psychic double weapon, you can use your spell 
+combat ability as though you had a hand free. 
+Focused Mind You gain a +2 trait bonus on concentration checks. 
+Psychic Access (Su) You gain access to an expanded spell list. You possess four spells from the psychic class 
+spell list on your magus spell list as magus spells of the same spell level. These must be spells of levels 
+you are able to cast. Should you take the spell blending arcana, you gain spells from the psychic class 
+spell list instead of the wizard spell list. 
+Psychic Pool (Su) Your psychic pool has a number of points equal to ½ your magus level (minimum 1) + your 
+Intelligence modifier. The pool refreshes each day. You can expend 1 point from your psychic pool as a 
+
+standard action (or a swift action with rapid manifest) to manifest a light melee weapon of your choice, 
+formed from psychic energy. By spending 2 points, you can manifest a one-handed melee weapon, and 
+by spending 3 points, you can manifest a two-handed melee weapon (but not a double weapon). Your 
+psychic weapon can last indefinitely, but it vanishes if it leaves your hand. You can dismiss a held 
+psychic weapon as a free action. When a psychic weapon vanishes, you regain the psychic energy used 
+to create it. You can maintain only one weapon at a time (but see dual weapons above). Your weapon 
+counts as a magic weapon of whatever type you selected, with a +3 enhancement bonus. These bonuses 
+can be used to add any of the following weapon properties: dancing, flaming, flaming burst, frost, icy 
+burst, keen, shock, shocking burst, speed, or vorpal. Adding these properties consumes an amount of 
+bonus equal to the property’s base price modifier. These properties are added to any the weapon already 
+has, but duplicates do not stack. The weapon must maintain at least a +1 bonus to benefit from any 
+weapon special abilities. This ability counts as arcane pool for the purpose of feats, abilities, and class 
+features. 
+Rapid Manifest (Su) You can manifest a psychic weapon as a swift action. 
+Reactionary You gain a +2 trait bonus on initiative checks. 
+Spell Combat (Ex) You can cast spells and wield your weapons at the same time. This functions much like 
+two-weapon fighting, but the off-hand weapon is a spell that is being cast. To use this ability, you must 
+have one hand free (even if the spell being cast does not have somatic components), while wielding a 
+light or one-handed melee weapon in the other hand. As a full-round action, you can make all of your 
+attacks with your melee weapon at a –2 penalty and can also cast any spell from the magus spell list with 
+a casting time of 1 standard action (any attack roll made as part of this spell also takes this penalty). If 
+you cast this spell defensively, you can decide to take an additional penalty on your attack rolls, up to 
+your Intelligence bonus, and add the same amount as a circumstance bonus on your concentration check. 
+If the check fails, the spell is wasted, but the attacks still take the penalty. You can choose to cast the 
+spell first or make the weapon attacks first, but if you have more than one attack, you cannot cast the 
+spell between weapon attacks. 
+Spell Shield (Su) You can expend a point from your psychic pool as an immediate action to grant yourself a 
+shield bonus to AC equal to your Intelligence bonus until the end of your next turn. 
+Spell-Scars (Ex) You can use special scar-based tattoos called spell-scars on your skin to cast or prepare spells, 
+much like scrolls. You can cast a spell from a spell-scar exactly like casting from a scroll; the ink and 
+scars vanish when the spell is cast. You can also prepare spells from your spell-scars without expending 
+them, similar to a wizard using the Spell Mastery feat. You do not need to be able to see your spell-scar 
+to use it. You have room on your skin for 18 total spell levels of spell-scars, which you can create using 
+the rules for scribing scrolls (although they do not require the Scribe Scroll feat). 
+Spellstrike (Su) Whenever you cast a spell with a range of “touch” from the magus spell list, you can deliver 
+the spell through any weapon you are wielding as part of a melee attack. Instead of the free melee touch 
+attack normally allowed to deliver the spell, you can make one free melee attack with your weapon (at 
+your highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its 
+normal damage as well as the effects of the spell. If you make this attack in concert with spell combat, 
+this melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the 
+weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar 
+effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage 
+uses its own critical modifier. 

@@ -1,0 +1,48 @@
+
+
+Allisar the Giantess 
+Female half-orc fighter 6 
+CN Medium humanoid (human, orc) 
+Init +2; Senses darkvision 60 ft.; Perception +2 
+Languages Common, Elven, Orc 
+DEFENSE 
+AC 27, touch 13, flat-footed 25 (+10 armor, +1 deflection, +2 Dex, +4 
+shield) 
+hp 45 (6 HD) 
+Fort +8, Ref +5, Will +5; +2 vs. fear 
+Defensive Abilities bravery +2 
+OFFENSE 
+Speed 20 ft. (4 squares); 30 ft. unarmored 
+Melee +1 bardiche +12/+7 (1d10+8/19-20), headbutt +6 (1d4+2), and bite 
++5 (1d4+4) or 
++1 bardiche +10/+5 (1d10+14/19-20), headbutt +4 (1d4+4), and bite 
++3 (1d4+6) with Power Attack, or 
++1 armor spikes/spiked shield +11/+6 (1d6+5), headbutt +6 (1d4+2), 
+and bite +5 (1d4+4) or 
++1 armor spikes/spiked shield +9/+4 (1d6+9), headbutt +4 (1d4+4), and bite +3 (1d4+6) with Power 
+Attack 
+Ranged +1 orc hornbow +9/+4 (2d6+5/×3) 
+Space 5 ft.; Reach 5 ft. (10 ft. with bardiche) 
+Special Attacks weapon training (polearms +1) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 14 (+2), Con 14 (+2), Int 12 (+1), Wis 14 (+2), Cha 8 (–1) 
+Base Atk +6; CMB +10 (+12 with polearm); CMD 23 (24 to disarm/sunder polearm) 
+Feats Advanced Armor Training, Combat Reflexes (3 AoO’s/round), Cut from the Air
+B, Power Attack (–2 
+attack, +2/+4/+6 damage), Shield BraceB, Shield FocusB 
+Skills Climb +9, Intimidate +1, Survival +9, Swim +9; Armor Check Penalty –4; Racial Bonus +2 Intimidate 
+SQ advanced armor training (steel headbutt), armor training 1, toothy, weapon familiarity 
+Combat Gear durable arrows (60), potions (enlarge person 10); Other Gear +1 bardiche, +1 orc hornbow 
+(+4 strength bonus), +1 full plate with +1 armor spikes, +1 heavy darkwood shield with +1 shield 
+spikes, cloak of resistance +1, fighter’s kit, ring of protection +1, tender (9gp) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 129 lb. 10 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 1 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 1. In addition, your speed is not 
+reduced for wearing medium armor. 
+Bravery (Ex) You gain a +2 bonus on Will saves against fear effects (included above). 
+Weapon Familiarity You are proficient with greataxes and falchions and treat any weapon with the word “orc” 
+in its name as a martial weapon. 
+Weapon Training (Ex) You receive a +1 bonus to attack and damage rolls when using polearms, to any 
+combat maneuver checks made with polearms, and to your Combat Maneuver Defense when defending 
+against disarm and sunder attempts made against polearms. 

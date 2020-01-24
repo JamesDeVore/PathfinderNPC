@@ -1,0 +1,270 @@
+
+
+Araonna Chorster 
+Female human oracle 15 
+N Medium humanoid 
+Init +2; Senses scent, tremorsense 30 ft., Perception +18 
+Aura aura of doom (20 ft., DC 23) 
+Languages Common, Giant, Undercommon; tongues 
+DEFENSE 
+AC 38, touch 17, flat-footed 36 (+11 armor, +5 deflection, +2 Dex, +4 
+natural, +6 shield) 
+hp 122 (15 HD) 
+Fort +12, Ref +12, Will +14; +4 vs. death spells and magical death effects 
+Defensive Abilities death ward, freedom of movement; Immune energy 
+drain, entangle, grapple, negative energy 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee bone club +11/+6/+1 (1d6–2) 
+Ranged bone club +13/+8/+3 (1d6–2) 
+Special Attacks Command Undead 11/day (DC 29), reminder of death 11/day (DC 25) 
+Spell-Like Abilities (CL 17
+th; Concentration +25) 
+3/day – touch of fatigue 
+Oracle Spells Known (CL 16
+th, CL 17th w/necromancy spells, or CL 22nd w/animate dead; Concentration +24) 
+7th  (5/day) – creeping doomB, ethereal jaunt, lesser create demiplane
+F UM, mass inflict serious wounds
+B 
+6th  (7/day) – animate objects, antilife shell, harm, heal, magic jarB, mass inflict moderate woundsB, wall 
+of bones (as blade barrier) 
+5th  (7/day) – create juju zombiesB M (as create undead, but juju zombies only), dominate person, greater 
+command, greater forbid actionUM, major curse
+UM, mass inflict light woundsB, plane shiftF, raise 
+deadM 
+4th  (8/day) – aura of doom
+UM, blessing of ferverAPG, charm monsterB, communal protection from 
+energy
+UC, death ward, freedom of movement, inflict critical woundsB, tongues 
+3rd  (8/day) – animate dead (180 HD limit), contagionB, fearB, blindness/deafness, borrow fortune
+APG, 
+dispel magic, inflict serious woundsB, speak with dead, stone shape 
+2
+nd (8/day) – death knell, gentle repose, graceAPG, hideous laughterB, hold person, inflict moderate 
+woundsB, remove paralysis
+B, shield otherF, silence, status 
+1st  (8/day) – bane, bless, deathwatch, decompose corpse
+UM, detect undead, hide from undead, inflict 
+light wounds
+B, restore corpse
+UM, speak with animalsB 
+0  (at will) – bleed, create water, detect magic, detect poison, guidance, light, mending, purify food and 
+drink, read magic, resistance, stabilize, virtue 
+Mystery juju* 
+STATISTICS 
+Abilities Str 10 (+0), Dex 14 (+2), Con 14 (+2), Int 14 (+2), Wis 10 (+0), Cha 27 (+8) 
+Base Atk +11; CMB +11; CMD 23 
+Feats Command UndeadB, Craft Wondrous Item, Extend Spell, Heighten Spell, Quicken Spell, Spell Focus 
+(necromancy
+B), Spell Specialization (animate dead), Spell Perfection (animate dead), Undead Master, 
+Varisian Tattoo (necromancy) 
+Skills Bluff +26, Diplomacy +26, Intimidate +26, Knowledge (religion) +20, Perception +15 (deaf), Spellcraft 
++20, Stealth +24; Armor Check Penalty –3 
+SQ false death, natural divination +8 (4/day), spirit vessels, undead servitude 
+Combat Gear material components (animate dead/create juju zombie [1,500gp worth], salt (1 lb.), spell foci 
+(lesser create demiplane, plane shift [all planes], shield other), wand of cure light wounds (50 charges), 
+wand of inflict light wounds (50 charges); Other Gear +5 comfort improved shadow bone breastplate, 
++5 heavy bone shield, amulet of natural armor +5, bone clubs (4), cloak of resistance +5 (resembles 
+
+flayed flesh), darkskull (keyed to death ward [good creatures only]), hat of disguise, headband of 
+alluring charisma +6, orange prism ioun stone (imbedded), pages of spell knowledge (contagion, 
+remove paralysis), ring of protection +5, tender (90pp, 91gp, 5sp), undead hoard (created within a 
+desecrated area with an altar, see below) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 60 lb. (excluding tender) 
+SPECIAL ABILITIES 
+False Death (Su) Add charm person and dominate person to your spell list. You must select these spells using 
+your allotment of spells known. Any creature under the effect of one of these spells or charm monster 
+appears dead to any examiners. Although affected creatures do not detect as undead, they look pale and 
+death-like while under the effects of your magic. Additionally, an affected creature ordered to lie still 
+gains a +20 circumstance bonus on Disguise skill checks to look like a corpse. 
+Natural Divination (Ex) You can read the entrails of a freshly killed animal or humanoid to gain an insight 
+bonus equal to your Charisma modifier on one saving throw. Alternatively, by observing and 
+interpreting the flight of birds, you may apply a +10 competence bonus on any one skill check. Finally, 
+by charting marks in dirt or on stone, or observing the behavior of sand thrown into the wind, you gain a 
++4 insight bonus on one initiative check. These bonuses must be used during the next 24 hours, and you 
+must declare you are using the bonus before the check or save is made. Making a natural divination 
+takes 10 minutes. You may use natural divination (in any combination) once per day plus one additional 
+time per day for every four oracle levels you have attained. 
+Ongoing Spells The following spells are regularly active upon your person: aura of doom, death ward (from 
+darkskull), deathwatch, freedom of movement, protection from good (from darkskull), shield other (with 
+cyclops), status (on cyclops, purple worm, and rocs), and tongues. Unless otherwise stated, all spells 
+benefit from the Extend Spell feat. All ongoing spell effects function at 16th-caster level (and thus 
+require a DC 26 caster level check to dispel) except for aura of doom and deathwatch, which function at 
+17th-caster level (DC 27). These spell effects are included in the above and below stats where 
+appropriate. 
+Reminder of Death (Su) You can imbue a handful of salt with the power of life, making it a potent ward 
+against undead creatures. As a standard action, you can throw salt at a single undead creature within 5 
+feet, affecting it as per the spell halt undead. Alternatively, you can spend a full-round action covering a 
+5-foot-square with imbued salt, causing any single undead creature that enters this square within the next 
+10 minutes to be affected as per halt undead. You can use this ability a number of times per day equal to 
+3 + your Charisma modifier. The save DC is Charisma-based. 
+Spirit Vessels (Su) You can channel wendo spirits into lifeless bodies, reanimating them to aid you. When 
+using the animate dead spell, you can control 6 HD worth of undead creatures per caster level rather 
+than 4 HD. In addition, any zombies or juju zombies you create using animate dead, create undead, or 
+similar spells possess maximum hit points. 
+Undead Servitude (Su) You gain Command Undead as a bonus feat. You can channel negative energy a 
+number of times per day equal to 3 + your Charisma modifier, but only to use Command Undead. You 
+can take other feats to add to this ability, such as Improved Channel, but not feats that alter this ability, 
+such as Alignment Channel. 
+ 
+* From Pathfinder Adventure Path #39: City of Seven Spears, not to be confused with another oracle mystery of 
+the same name from Faiths and Philosophies.   
+
+ 
+Bloody Hill Giant Skeleton Bodyguards ×10 
+NE Large Undead 
+Init +4; Senses darkvision 60 ft., Perception +0 
+DEFENSE 
+AC 24, touch 9, flat-footed 24 (+4 armor, +11 natural, –1 size) 
+hp 85 (10 HD); fast healing 5 
+Fort +5, Ref +3, Will +5 
+Defensive Abilities channel resistance +4; DR 5/bludgeoning; Immune 
+cold, undead traits 
+OFFENSE 
+Speed 30 ft. (6 squares), 40 ft. without armor 
+Melee greatclub +13/+8 (2d8+10) or 
+2 slams +13 (1d8+7) or 
+2 claws +13 (1d6+7) 
+Ranged by weapon +6   
+Space 10 ft.; Reach 10 ft. 
+STATISTICS 
+Abilities Str 25 (+7), Dex 10 (+0), Con –, Int –, Wis 10 (+0), Cha 14 (+2) 
+Base Atk +7; CMB +15; CMD 25 
+Feats Improved Initiative
+B 
+Skills Stealth –7; Armor Check Penalty –3 
+SQ deathless 
+Gear hide armor, greatclub 
+Encumbrance light 532 lb., medium 1,066 lb., heavy 1,600 lb.; Weight Carried 66 lb. 
+SPECIAL ABILITIES 
+Deathless (Su) A bloody skeleton is destroyed when reduced to 0 hit points, but it reanimates 1 hour later at 1 
+hit point, allowing its fast healing thereafter to resume healing it. A bloody skeleton can be permanently 
+destroyed if it is destroyed by positive energy, if it is reduced to 0 hit points in the area of a bless or 
+hallow spell, or if its remains are sprinkled with a vial of holy water. 
+ 
+Araonna’s giants serve as her shock troops and body guards. Wherever she goes, they go (though they are often 
+kept beneath the surface of the earth, awaiting their master’s call).   
+
+Crimson Worm Fast Plague Zombie 
+Giant Purple Worm Fast Plague Zombie 
+NE Colossal Undead 
+Init –2; Senses darkvision 60 ft., tremorsense 60 ft., Perception 
++0 
+DEFENSE 
+AC 11, touch 0, flat-footed 11 (–2 Dex, +11 natural, –8 size) 
+hp 242 (22 HD) 
+Fort +7, Ref +4, Will +13 
+Immune undead traits 
+OFFENSE 
+Speed 30 ft. (6 squares), burrow 20 ft., swim 10 ft. 
+Melee bite +27 (6d8+15 plus disease and grab) and 
+sting +27 (3d8+15 plus disease) and 
+slam +27 (3d8+15 plus disease) or 
+2 slams +27 (3d8+15 plus disease)   
+Space 30 ft.; Reach 20 ft. 
+Special Attacks death burst, disease (DC 21), quick strikes 
+STATISTICS 
+Abilities Str 41 (+15), Dex 6 (–2), Con –, Int –, Wis 10 (+0), Cha 10 (+0) 
+Base Atk +16; CMB +39 (+43 grapple); CMD 47 (can’t be tripped) 
+Feats Toughness
+B 
+Skills Stealth –18, Swim +23 
+Encumbrance light 58,752 lb., medium 117,504 lb., heavy 176,640 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Death Burst (Ex) When a plague zombie dies, it explodes in a burst of decay. All creatures adjacent to the 
+plague zombie are exposed to its plague as if struck by a slam attack and must make a Fortitude save or 
+contract zombie rot. 
+Disease (Su) The slam attack—as well as any other natural attacks—of a plague zombie carries the zombie rot 
+disease. Zombie rot: slam; save Fort DC = 10 + ½ the zombie’s Hit Dice + the zombie’s Cha modifier; 
+onset 1d4 days; frequency 1/day; effect 1d2 Con, this damage cannot be healed while the creature is 
+infected; cure 2 consecutive saves. Anyone who dies while infected rises as a plague zombie in 2d6 
+hours. 
+Quick Strikes (Ex) Whenever a fast zombie takes a full-attack action, it can make one additional slam attack at 
+its highest base attack bonus (included above). 
+ 
+Araonna and her undead hoard often ride within her crimson worm while it burrows beneath the earth, allowing 
+her to keep her undead hoard out of sight of those who might attempt to destroy them (or worse, wrest control 
+from her). Once battle is joined, the worm emerges, releasing the hoard upon her enemies before submerging 
+again and creating sink holes underneath large groups of enemies, burying them alive (to later be dug up and 
+animated by Araonna). It is rumored that Araonna once destroyed an entire city by having her worm weaken its 
+foundations for weeks, ultimately causing the entire city to collapse in on itself in one massive sink hole.   
+
+Juju Zombie Cyclops Servant (via Command 
+Undead)  
+NE Large Undead 
+Init +4; Senses darkvision 60 ft., low-light vision, Perception +11 
+Languages Common, Cyclops, Giant 
+DEFENSE 
+AC 24, touch 10, flat-footed 23 (+4 armor, +1 deflection, +10 natural, –1 
+size) 
+hp 100 (10 HD) 
+Fort +4, Ref +4, Will +9 
+Defensive Abilities channel resistance +4; DR 10/magic and slashing; 
+Immune cold, electricity, magic missile, undead traits; Resist 
+fire 10 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee cleaver +13/+8 (3d6+10/×3) or 
+slam +13 (1d8+10) 
+Ranged heavy crossbow +6 (2d8/19-20) 
+Space 10 ft.; Reach 10 ft. 
+STATISTICS 
+Abilities Str 25 (+7), Dex 10 (+0), Con –, Int 10, Wis 13 (+1), Cha 8 (–1) 
+Base Atk +7; CMB +15; CMD 26 
+Feats Alertness, Cleave, Great Cleave, Improved Bull Rush, Improved Initiative
+B, Power Attack, ToughnessB 
+Skills Climb +12, Intimidate +9, Perception +11, Profession (soothsayer) +10, Sense Motive +5, Survival +6; 
+Racial Modifiers +8 Climb, +8 Perception; Armor Check Penalty –3 
+SQ flash of insight 
+Gear cleaver (as greataxe), heavy crossbow, hide armor, personal belongings 
+Encumbrance light 532 lb., medium 1,066 lb., heavy 1,600 lb.; Weight Carried 66 lb. 
+SPECIAL ABILITIES 
+Flash of Insight (Su) Once per day as an immediate action, a cyclops can peer into an occluded visual spectrum 
+of possible futures, gaining insight that allows it to select the exact result of one die roll before the roll is 
+made. This effect can alter an action taken by the cyclops only, and cannot be applied to the rolls of 
+others. 
+ 
+In return for immortality, Cid now willingly serves as Araonna Chorster’s lieutenant (though she sometimes 
+reinforces her dominance with Command Undead), commanding her undead minions in her absence. He also 
+serves as her soothsayer, offering her wisdom when called upon. He is a cautious warrior and military tactician 
+who prefers to think things through before resorting to violence. He has long been one of Araonna’s implacable 
+allies and friends. 
+   
+
+Roc Fast Plague Zombies (mated pair) 
+NE Gargantuan Undead   
+Init +3; Senses darkvision 60 ft., low-light vision, Perception 
++0 
+DEFENSE 
+AC 16, touch 9, flat-footed 13 (+3 Dex, +7 natural, –4 size) 
+hp 242 (22 HD) 
+Fort +7, Ref +10, Will +13 
+Immune undead traits 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 80 ft. (clumsy) 
+Melee 2 talons +22 (2d6+10 plus disease and grab) and 
+bite +22 (2d8+10 plus disease) and 
+slam +22 (2d8+10 plus disease) or 
+2 slams +22 (2d8+10 plus disease) 
+Space 20 ft.; Reach 15 ft. 
+Special Attacks death burst, disease (DC 21), quick strikes 
+STATISTICS 
+Abilities Str 30 (+10), Dex 17 (+3), Con –, Int –, Wis 10 (+0), Cha 10 (+0) 
+Base Atk +16; CMB +30 (+34 grapple); CMD 43 
+Feats Toughness
+B 
+Skills Fly –13, Stealth –9 
+Encumbrance light 4,256 lb., medium 8,512 lb., heavy 12,800 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Death Burst (Ex) As above. 
+Disease (Su) As above. 
+Quick Strikes (Ex) As above. 
+ 
+Araonna and Cid often use their rocs (formerly a mated pair) as steeds when aerial reconnaissance or assault is 
+called for. Like her serpent, they are often kept in a temporary pocket plane until needed. 
+ 
+Other Undead Minions: At any given moment, Araonna keeps no less than 150 undead soldiers (human fast 
+plague zombies with 22 HP). These soldiers are uncontrolled and are often simply released into an area to create 
+havoc among her enemies. For the safety of herself and others, she keeps these soldiers trapped within a pocket 
+plane of her own design, allowing her to release them all anywhere in her vicinity simply by dispelling the 
+plane. 

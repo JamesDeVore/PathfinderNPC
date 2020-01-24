@@ -1,0 +1,153 @@
+
+
+Batta Wrang 
+Male half-elf unchained summoner 15 
+NG Medium humanoid (elf, human) 
+Init +4; Senses low-light vision; Perception +6 
+Languages Auran, Common, Elven, Sylvan 
+DEFENSE 
+AC 31, touch 18, flat-footed 27 (+4 armor, +3 deflection, +4 Dex, +1 
+insight, +5 natural, +4 shield); barkskin, Greater Shield Ally, mage 
+armor 
+hp 125 (15 HD) 
+Fort +19, Ref +20, Will +22; +2 vs. enchantment, +4 vs. wind effects 
+Defensive Abilities greater shield ally, life bond; DR 10/magic vs. ranged 
+attacks; Immune magical sleep 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good); overland flight 
+Melee +2 longspear +17/+12/+7 (1d8+3/×3) 
+Ranged +2 distance composite longbow +21/+16/+11 (1d8+4/×3) 
+Space 5 ft.; Reach 5 ft. (10 ft. with longspear) 
+Spell-like Abilities (CL 15
+th; Concentration +18) 
+6/day – summon monster VIII (one casting at a time, usable only without eidolon, 15 minute duration) 
+Summoner Spells Known (CL 15
+th; Concentration +18) 
+5th  (3/day) – cloudkill, greater rejuvenate eidolon, overland flight, summon monster VI 
+4th  (4/day) – dimension door, greater invisibility, solid fog, vitriolic mist
+UM 
+3rd  (6/day) – evolution surge
+APG, haste, heroism, stinking cloud, wind wall 
+2
+nd (6/day) – barkskin, communal protection from evilUC, fog cloud, see invisibility, protection from 
+arrows, summon eidolonAPG 
+1st  (6/day) – enlarge person, feather fall, mage armor, shield, unfetterAPG, unseen servant 
+0  (at will) – detect magic, guidance, light, mage hand, mending, message 
+STATISTICS 
+Abilities Str 12 (+1), Dex 18 (+4), Con 16 (+3), Int 14 (+2), Wis 14 (+2), Cha 16 (+3) 
+Base Atk +11; CMB +14; CMD 30 
+Feats Extra Evolution (2), Improved Share Spells, Martial Weapon Proficiency (longbow), Mounted Archery, 
+Mounted Combat, Mounted Skirmisher, Skill Focus (ride
+B), Trick Riding 
+Skills Fly +24 (+31 with overland flight), Knowledge (arcana) +12, Knowledge (planes) +17, Ride +38, 
+Spellcraft +22; Racial Modifiers +2 Perception 
+SQ arcane training, aspect (skilled: ride), bond senses (15 rounds/day), eidolon, elf blood, life link, 
+maker’s call, transposition 
+Combat Gear arrows (120); Other Gear +2 distance composite longbow (+1 strength bonus), +2 longspear, 
+belt of incredible dexterity +4, cloak of resistance +5, dusty rose prism ioun stone (embedded), Goz 
+mask, greater bracers of archery, minor metamagic rod (extend), ring of protection +3, tender 
+(5,189gp) 
+Encumbrance light 43 lb., medium 86 lb., heavy 130 lb.; Weight Carried 42 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Arcane Training You can use spell trigger and spell completion items for your favored class as if one level 
+higher. 
+Aspect (Su) You can divert up to 2 points from your eidolon’s evolution pool to add evolutions to yourself. 
+You cannot select any evolution that your eidolon could not possess, and you must be able to meet the 
+requirements as well (except for subtype requirements, so long as your eidolon meets the subtype 
+requirement). You cannot select the ability increase evolution through this ability. Any points spent in 
+this way are taken from the eidolon’s evolution pool (reducing the total number available to the 
+
+eidolon). You can change the evolutions granted by these points anytime you can change your eidolon’s 
+evolutions. 
+Bond Senses (Su) You can, as a standard action, share the senses of your eidolon, hearing, seeing, smelling, 
+tasting, and touching everything your eidolon does. You can use this ability a number of rounds per day 
+equal to your summoner level. There is no maximum range to this effect, but you and your eidolon must 
+be on the same plane. You can end this effect as a free action. 
+Greater Shield Ally (Su) Whenever an ally is within reach of your eidolon, the ally gains a +2 shield bonus to 
+its Armor Class and a +2 circumstance bonus on its saving throws. If this ally you, these bonuses 
+increase to +4. This bonus does not apply if your eidolon is grappled, helpless, paralyzed, stunned, or 
+unconscious. 
+Life Bond (Su) As long as your eidolon has 1 or more hit points, you are protected from harm. Damage in 
+excess of that which would reduce you to 0 hit points is instead transferred to your eidolon. This damage 
+is transferred 1 point at a time, meaning that as soon as your eidolon is reduced to a number of negative 
+hit points equal to its Constitution score, all excess damage remains with you. Effects that cause death 
+but don’t deal damage are unaffected by this ability. This ability does not affect spells such as baleful 
+polymorph, flesh to stone, imprisonment, or other spells that don’t deal damage. 
+Life Link (Su) Whenever your eidolon takes enough damage to send it back to its home plane, as a reaction to 
+the damage, you can sacrifice any number of hit points you have without using an action. Each hit point 
+sacrificed in this way prevents 1 point of damage dealt to your eidolon. This can prevent your eidolon 
+from being sent back to its home plane. In addition, you and your eidolon must remain within 100 feet 
+of one another for your eidolon to remain at full strength. If your eidolon is beyond 100 feet but closer 
+than 1,000 feet, its current and maximum hit point totals are reduced by 50%. If your eidolon is more 
+than 1,000 feet away but closer than 10,000 feet, its current and maximum hit point totals are reduced by 
+75%. If your eidolon is more than 10,000 feet away, it is immediately returned to its home plane. 
+Current hit points lost in this way are not restored when your eidolon gets closer to you, but its 
+maximum hit point total does climb to the levels indicated and eventually returns to normal. 
+Maker’s Call (Su) Three times per day, as a standard action, you can call your eidolon to your side. This 
+functions as dimension door, using your summoner caster level. When this ability is used, your eidolon 
+appears adjacent to you (or as close as possible if all adjacent spaces are occupied). If your eidolon is out 
+of range, the ability is wasted. 
+Ongoing Spells The following spells are regularly active upon you and your eidolon: barkskin, heroism, mage 
+armor, overland flight (self only), and protection from arrows. Your eidolon also frequently benefits 
+from evolution surge (breath weapon) and shield prior to entering dangerous areas or situations. All 
+ongoing spell effects function at 15
+th-caster level (and thus require a DC 26 caster level check to dispel) 
+and their effects are included in the stats where appropriate. Depending on the situation these spells may 
+or may not benefit from the Extend Spell metamagic feat, or be cast via the Improved Share Spells feat. 
+Transposition (Su) You can use your maker’s call ability to swap locations with your eidolon. If the eidolon 
+occupies more squares than you, you can appear in any square occupied by your eidolon. Your eidolon 
+must occupy the square that was occupied by you if able, or as close as possible if it is not able. 
+   
+
+Fulgur 
+Serpent Eidolon 
+N Large outsider (air, elemental) 
+Init +5; Senses darkvision 60 ft.; Perception +17 
+Languages as summoner 
+DEFENSE 
+AC 44, touch 15, flat-footed 38 (+4 armor, +1 deflection, +5 Dex, +21 
+natural, +4 shield, –1 size); barkskin, mage armor, shield 
+hp 114 (12 HD) 
+Fort +10, Ref +15, Will +10; +4 vs. enchantment 
+Defensive Abilities devotion, improved evasion; DR 10/magic vs. ranged 
+attacks; Immunities bleed, electricity, flanking, paralysis, poison, 
+sleep, stun 
+OFFENSE 
+Speed 40 ft. (8 squares), climb 20 ft., fly 100 ft. (perfect) 
+Melee bite +24 (2d8+11 plus 1d6 electricity), 2 claws +24 (1d6+11 plus 
+1d6 electricity), tail slap +22 (1d8+8 plus 1d6 electricity) or 
+bite +20 (6d8+19 plus 1d6 electricity) with Improved Vital Strike 
+and Power Attack 
+Space 10 ft.; Reach 5 ft. (10 ft. with bite) 
+Special Attacks breath weapon (30-ft. cone, 12d6 electricity damage, Reflex DC 20 for half) 
+STATISTICS 
+Abilities Str 22 (+6), Dex 20 (+5), Con 18 (+4), Int 7 (–2), Wis 10 (+0), Cha 11 (+0) 
+Base Atk +12; CMB +21; CMD 35 (39 vs. overrun/trip) 
+Feats Combat Reflexes, Flyby Attack, Improved Natural Attack (bite), Improved Vital Strike, MultiattackB, 
+Power Attack, Vital Strike 
+Skills Escape Artist +22, Fly +28, Perception +17, Stealth +18; Racial Modifiers +2 Acrobatics to balance 
+SQ evolutions, link, multiattack, share spells 
+Possession amulet of mighty fists +5, fogcutting lenses, jingasa of the fortunate soldier 
+Encumbrance light 5,592 lb., medium 11,184 lb., heavy 16,800 lb.; Weight Carried 47 lb. (without rider) 
+SPECIAL ABILITIES 
+Devotion (Ex) Your eidolon receives a +4 morale bonus on Will saves versus enchantment spells and effects. 
+Evolutions bite
+F, claws, energy attacks (electricity), flight (magicF +60-ft.-speed), immunity (electricity
+F), 
+improved damage (bite), improved natural armorF, large, limbs (legs ×2), magic attacks, mount, reach 
+(bite
+B), tailF, tail slapF 
+Improved Evasion (Ex) When subjected to an attack that allows a Reflex saving throw for half damage, your 
+eidolon takes no damage if it succeeds at its saving throw and only half damage if it fails. 
+Link You and your eidolon share a mental link that allows for communication across any distance (as long as 
+you are on the same plane). This communication is a free action, allowing you to give orders to your 
+eidolon at any time. In addition, magic items interfere with your connection to your eidolon. As a result, 
+you and your eidolon share magic item slots. For example, if you are wearing a ring, your eidolon can 
+wear no more than one ring. In case of a conflict, the items worn by you remain active, and those used 
+by your eidolon become dormant. Your eidolon must possess the appropriate appendages to use a magic 
+item. 
+Share Spells (Ex) You can cast a spell with a target of “you” on your eidolon (as a spell with a range of touch) 
+instead of on yourself. You can cast spells on your eidolon even if the spells normally do not affect 
+creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner spell 
+list. This ability does not allow your eidolon to share abilities that are not spells, even if they function 
+like spells. 

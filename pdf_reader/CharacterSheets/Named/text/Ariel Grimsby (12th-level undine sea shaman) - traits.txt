@@ -1,0 +1,122 @@
+
+
+Ariel Grimsby 
+Female undine shaman 12 (speaker for the past) 
+CG Medium humanoid/outsider (human, native) 
+Init +11 (may roll thrice); Senses darkvision 60 ft.; Perception +22 
+Languages Aquan, Common 
+DEFENSE 
+AC 30, touch 20, flat-footed 25 (+8 armor, +5 deflection, +5 Dex, +2 
+shield); spirit shield 
+hp 98 plus greater false life (12 HD) 
+Fort +12, Ref +13, Will +20 
+Immune drowning; Resist cold 5 
+OFFENSE 
+Speed 30 ft. (6 squares), swim 30 ft. 
+Melee +1 guided quenching dagger +16/+11 (1d4+9/19-20) or 
++1 guided quenching quarterstaff +16/+11 (1d6+8 plus hydraulic 
+pushAPG) 
+Ranged +1 guided quenching dagger +16 (1d6+9/19-20) 
+Special Attacks fluid master (6d4, 3/day), hexes (chant, fetish, fortune, misfortune, water sight), wave strike 
+1d6+6 (5/day) 
+Spell-Like Abilities (CL 12
+th; Concentration +19) 
+1/day – hydraulic pushAPG 
+Shaman Spells Prepared (CL 12
+th; Concentration +19) 
+6th  (4/day) – antilife shell, cone of cold, coral wall (as wall of stone), fluid form
+APG S 
+5th  (5/day) – breath of life, control winds, dominate person, geyserAPG S, telekinesis 
+4th  (5/day) – control water, greater false life
+UM, restorationM, slowing mud
+ACG, wall of iceS 
+3rd  (7/day) – bestow curse, blindness/deafness, heroism (2), stinking cloud (2), water breathing
+S 
+2nd (7/day) – barkskin, fog cloud (2), hold person (2), slipstream
+APG S, spiritual weapon 
+1st  (7/day) – bless, coral shield (2, as stone shieldARG), endure elements, hydraulic pushAPG S, wave 
+shieldACG (2) 
+0  (4/day) – create water, detect magic, guidance, mending 
+S Spirit Magic Spell; Spirit waves 
+STATISTICS 
+Abilities Str 8 (–1), Dex 20 (+5), Con 14 (+2), Int 12 (+1), Wis 24 (+7), Cha 14 (+2) 
+Base Atk +9; CMB +8; CMD 28 
+Feats Ability Focus (misfortune), Craft Staff, Craft Wondrous Item
+B, Forge Ring, Improved Initiative, Spirit 
+Talker, Spiritual Guardian 
+Skills Knowledge (nature) +16, Perception +22, Spellcraft +16 (+20 to identify magical items), Swim +23 (may 
+take 10), Survival +22, Use Magic Device +17; Racial Modifiers +8 Swim 
+SQ hydrated vitality, mostly human, mysteries of the past, revelations of the past (phantom touch, spirit 
+shield, temporal celerity), spirit magic, traits (reactionary, river rat) 
+Combat Gear focus components (contingency), material components (restoration [500gp worth]), wand of 
+cure light wounds (50 charges); Other Gear belt of incredible dexterity +4 (doubles as chain belt), 
+cloak of resistance +5, headband of inspired wisdom +4, holy symbol, pearls of power (1st 4, 2nd 3), 
+ring of force shield, ring of protection +5, seashell jewelry (worth 250gp), spell component pouch, staff 
+of weather (doubles as a +1 guided quarterstaff with undine weaponshaft), tender (233gp) 
+Encumbrance light 19 lb. 8 oz., medium 39 lb. 12 oz., heavy 60 lb.; Weight Carried 9 lb. 1 oz. (excluding 
+tender) 
+SPECIAL ABILITIES 
+Chant (Su) You can chant as a move action. Any creature within 30 feet that is under the effect of your fortune 
+or misfortune hex has that effect’s duration extended by 1 round. 
+
+Contingencies/Ongoing Spells You have cast the contingency spell upon yourself. If ever targeted or caught in 
+the area of a spell or effect that deals energy damage, you become subject to a protection from energy 
+spell against the incoming energy type. This effect comes into effect fast enough to prevent some or all 
+of the incoming damage. Effects that cause energy damage, but don’t specifically target you (such as 
+deliberately walking into a fire), do not activate this contingency. The following spells are also regularly 
+active upon your person: endure elements and greater false life. All ongoing spell effects function at 
+12th-caster level (and thus require a DC 23 caster level check to dispel) and their effects are included in 
+the above stats where appropriate. 
+Fetish (Ex) You receive Craft Wondrous Item as a bonus feat and gain a +4 insight bonus on Spellcraft checks 
+to identify magic items. 
+Fluid Mastery (Su) You gain a swim speed equal to your base land speed, as well as the ability to breathe 
+underwater. In addition, you can unleash a torrent of ice and water from your hands in a 15-foot cone as 
+a standard action. This torrent deals 1d4 points of cold damage per 2 shaman levels you possess, and 
+pushes affected creatures back 5 feet directly away from you. A successful Reflex saving throw halves 
+the damage and negates the push. You can use this ability three times per day, but you must wait 1d4 
+rounds between uses. 
+Fortune (Su) You grant a creature within 30 feet a bit of good luck for 2 rounds. The target can call upon this 
+good luck once per round, allowing it to reroll any ability check, attack roll, saving throw, or skill check, 
+taking the better result. The target creature must decide to use this benefit before the first roll is made. 
+Once a creature has benefited from the fortune hex, it cannot benefit from it again for 24 hours. 
+Hydrated Vitality You gain fast healing 2 for 1 round anytime you submerge completely within a body of 
+natural salt water, fresh water, or brackish water. Stagnant, poisoned, or trapped water (such as an 
+artificial pit or a bag of holding) does not activate this ability. You can heal up to 2 hit points per level 
+per day with this ability, after which it ceases to function. 
+Misfortune (Su) You cause a creature within 30 feet to suffer grave misfortune for 2 rounds. Anytime the 
+creature attempts an ability check, attack roll, saving throw, or skill check, it must roll twice and take the 
+worse result. A successful Will saving throw negates this hex. This hex affects all rolls the target must 
+make while it lasts. Whether or not the save is successful, the creature cannot be the target of this hex 
+again for 24 hours. 
+Mostly Human You appear almost human, and possess the humanoid (human) type and subtype in addition to 
+your normal type and subtype (native outsider). 
+Mysteries of the Past You gain Linguistics, Knowledge (history), Knowledge (local), Perception, and Use 
+Magic Device as class skills. Also, you add the spells from the ancestor and time oracle mysteries to 
+your class spell list. 
+Phantom Touch (Su) As a standard action, you can perform a melee touch attack that causes a living creature 
+to become shaken. This ability lasts for a number of rounds equal to ½ your shaman level (minimum 1 
+round). You can use this ability a number of times per day equal to 3 + your Wisdom modifier. 
+Reactionary You gain a +2 trait bonus on initiative checks. 
+River Rat You gain a +1 trait bonus on damage rolls with a dagger and a +1 trait bonus on Swim checks. Swim 
+is always a class skill for you. 
+Spirit Magic You can spontaneously cast a limited number of spells per day beyond those you prepared ahead 
+of time. You have one spell slot per day of each shaman spell level you can cast, not including orisons. 
+You can choose these spells from the list of spells granted by your spirits at the time you cast them. You 
+can enhance these spells using any metamagic feat that you know, using up a higher-level spell slot as 
+required by the feat and increasing the time to cast the spell. 
+Spirit Shield (Su) You can call upon the spirits of your ancestors to form a shield around you that blocks 
+incoming attacks and grants you a +8 armor bonus. You can use this shield for 1 hour per day per 
+shaman level. This duration does not need to be consecutive, but it must be spent in 1-hour increments. 
+Temporal Celerity (Su) Whenever you roll for initiative, you can roll three times and take any of the results. 
+You can always act in the surprise round, but if you fail to notice the ambush, you act last, regardless of 
+your initiative result (you act in the normal order in following rounds). 
+
+Water Sight (Su) You see through fog and mist without penalty as long as there is enough light to otherwise 
+allow you to see normally. You can use scrying, with any calm pool of water that’s at least 1 foot in 
+diameter as the sole focus. You can use this ability for a number of rounds per day equal to your shaman 
+level, but these rounds do not need to be consecutive. 
+Wave Strike (Su) As a standard action, you can perform a melee touch attack that drenches a creature and 
+pushes it away. The opponent takes 1d6 points of nonlethal damage + 1 point for every 2 shaman levels 
+you possess and is pushed 5 feet directly away from you. This movement does not provoke attacks of 
+opportunity. You can use this ability a number of times per day equal to 3 + your Charisma modifier. 
+Additionally, any melee weapon you wield is treated as if it had the quenching special ability. 

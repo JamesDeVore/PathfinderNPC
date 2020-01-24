@@ -1,0 +1,205 @@
+
+
+Angol Ceredir 
+Male elf abjurer 15 
+N Medium humanoid (elf) 
+Init +3; Senses all-around vision, arcane sight, darkvision 120 ft., low-light vision, see 
+invisibility; Perception +23 
+Languages Aboleth, Abyssal, Aklo, Aquan, Auran, Celestial, Common, Dark Folk, 
+Draconic, Dwarven, Elven, Giant, Gnome, Gnoll, Goblin, Halfling, Ignan, 
+Infernal, Orc, Sylvan, Terran, Undercommon; tongues 
+DEFENSE 
+AC 18, touch 13, flat-footed 15 (+5 armor, +3 Dex) 
+hp 84 plus greater false life (15 HD) 
+Fort +10, Ref +12, Will +15; +4 vs. mind affecting effects, +2 vs. enchantments 
+Defensive Abilities energy absorption (45/day); DR 2/piercing or slashing; DR 10/magic 
+vs. ranged weapons; Immune divination, drowning, flanking, magic sleep effects, 
+pain effects; Resist crushing half, energy 10 (any one); SR 18 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good), swim 30 ft.; overland flight, ride the waves 
+Melee longsword +7/+2 (1d8/19-20) 
+Ranged longbow +10/+5 (1d8/×3) 
+Wizard Spells Prepared (CL 15
+th, or CL 23rd to overcome SR; Concentration +24) 
+8th  (3/day) – mind blank, moment of prescience, summon monster VIII 
+7th  (4/day) – elemental body IV, finger of death, mass hold person, spell turning/waves of exhaustion 
+6th  (5/day) – beast shape IV, chain lightning, disintegrate, freezing sphere/globe of invulnerability, 
+repulsion
+F 
+5th  (7/day) – break enchantment, baleful polymorph/cone of cold, dominate person, feeblemind, hold 
+monster, overland flight 
+4th  (7/day) – dimensional anchor, enervation (3), fire shield, greater false life
+UM, ride the waves
+UM 
+3
+rd  (7/day) – countless eyes
+UM, dispel magic, fireball, greater magic weapon, lightning bolt, protection 
+from energy, vampiric touch 
+2nd (7/day) – alter self, cushioning bandsUM, darkness, delay painUM, make whole, protection from 
+arrows, resist energy, shatter 
+1st  (8/day) – mage armorO, magic missile (2), protection from evil (2), shield (2) 
+0  (at will) – light, detect magic, mage hand, prestidigitation 
+Opposition Schools conjuration, illusion; 
+O Opposition school spell 
+STATISTICS 
+Abilities Str 11 (+0), Dex 16 (+3), Con 12 (+1), Int 28 (+9), Wis 14 (+2), Cha 7 (–2) 
+Base Atk +7; CMB +7 (+8 with longsword); CMD 20 
+Feats Alertness, Craft Construct
+B, Craft Magic Arms and Armor
+B, Craft Wondrous ItemsB, Greater Spell 
+Penetration, Heighten Spell, Magical Aptitude, Planned Spontaneity, Preferred Spell (teleport), Scribe 
+ScrollB, Skill Focus (use magic device), Spell Penetration 
+Skills Appraise +27, Craft (alchemy) +27, Fly +21 (+28 with overland flight), Knowledge (arcana) +27, 
+Knowledge (dungeoneering) +22, Knowledge (engineering) +27, Knowledge (nature) +22, Knowledge 
+(planes) +22, Linguistics +27, Perception +23, Sense Motive +21, Spellcraft +31 (+33 to identify magic 
+items), Swim +8 (may take 10), Use Magic Device +23; Racial Modifiers +2 Perception, +2 Spellcraft 
+to identify magic items 
+SQ arcane bond (amulet), elven magic, ongoing spells, protective ward (8 rounds, +4 deflection, 
+11/day), weapon familiarity 
+Combat Gear arrows (20), focus components (contingency, repulsion); Other Gear blessed books (2, guarded 
+by shield guardian), guardian amulet Beiro (bonded object, see below), headband of vast intelligence 
++6 (appraise, knowledge: engineering, use magic device), longbow, longsword, robe of the archmagi, 
+shield guardian (see below), spell component pouch, tender (1,059gp, guarded by shield guardian) 
+
+Spellbook all core wizard spells of 8
+th-level and lower plus call constructUM, control constructUM, countless 
+eyesUM, cushioning bandsUM, delay pain
+UM, greater darkvisionUM, greater false lifeUM, lesser astral 
+projection
+UM, rapid repairUM, ride the waves
+UM, soothe constructUM, unbreakable constructUM, and 
+vitriolic shieldUM 
+Encumbrance light 38 lb., medium 76 lb., heavy 115 lb.; Weight Carried 14 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Energy Absorption (Su) You gain an amount of energy absorption equal to 3 times your wizard level per day. 
+Whenever you take energy damage, apply immunity, vulnerability (if any), and resistance first and apply 
+the rest to this absorption, reducing your daily total by that amount. Any damage in excess of your 
+absorption is applied to you normally. 
+Ongoing Spells You have cast the contingency and lesser astral projection spells upon yourself. Your real body 
+resides in a secure location while your projection travels the material plane with Berio in tow. Should 
+you ever be made helpless against your will (such as when knocked unconscious, paralyzed, petrified, 
+securely bound, or forcefully put to sleep), you are immediately teleported (as per the teleport spell) to 
+the nearest known temple dedicated to your deity. Your person carries upon it a note with detailed 
+instructions for the temple’s priests should you not be in a position to direct them to your aid personally. 
+Additionally, you have used the permanency spell to make the following spell effects permanent in 
+regards to yourself: arcane sight, greater darkvision, see invisibility, and tongues. The following spells 
+are also regularly active upon your person: countless eyes, cushioning bands, delay pain, greater false 
+life, mind blank, moment of prescience, overland flight, protection from arrows, and ride the waves. All 
+ongoing spell effects function at 15
+th-caster level (and thus require a DC 26 caster level check to dispel) 
+and their effects are included in the above stats where appropriate. 
+Protective Ward (Su) Eleven times per day, as a standard action, you can create a 10-foot-radius field of 
+protective magic centered on you that lasts for 8 rounds. All allies in this area (including you) receive a 
++4 deflection bonus to their AC. 
+Resistance (Ex) You gain resistance 10 to an energy type of your choice, chosen when you prepare spells. This 
+resistance can be changed each day. Unless specified otherwise, assume it applies against fire. 
+Weapon Familiarity You are proficient with longbows (including composite longbows), longswords, rapiers, 
+and short bows (including composite short bows), and treat any weapon with the word “elven” in its 
+name as a martial weapon. 
+   
+
+Berio, the Amulet of Angol 
+ 
+Berio (an Elven term meaning “to protect”) is the name of the 
+intelligent magical amulet that Angol uses to maintain control over 
+his shield guardian, and though the golem itself is often referred to 
+as “Berio” as well, it does not truly possess a name of its own. The 
+amulet, Berio, is actually a small fragment of Angol’s own soul 
+placed into a decorative adamantine necklace from which hangs a 
+flawless emerald. 
+ 
+Since Berio is a splinter of Angol’s own personality, the two share 
+many of the same goals (namely the acquisition of magical lore). 
+Even so, like all intelligent items, Berio is absolutely true to his alignment (neutral) so conflicts nevertheless do 
+arise with his creator on rare occasions (this usually occurs when Berio wishes to press onwards towards 
+obtaining magical lore while Angol holds back, knowing better of the dangers that may lay ahead). When these 
+rare conflicts do occur, they are usually brief as Angol has long ago become a master of rationalizing his actions 
+to his magical servant. 
+ 
+Berio can control the shield guardian as though he possessed the golem’s amulet himself (since he is the 
+amulet). His control of the golem, however, is always superseded by whoever might possess him at the time. 
+Nevertheless, Berio despises anyone who does not share the same passionate drive for acquiring magical lore 
+and is quick to turn on such wearers if they do not possess a strong will. Berio may even go so far as to order 
+the golem to kill his wearer before said wearer becomes aware of their ability to control the golem. Regardless 
+of whether or not Berio and his wearer get along, Berio bestows one negative level upon any non-neutral 
+character who dons him. This negative level cannot be removed by any means short of discarding Berio. 
+Should Berio be separated from his master, Angol, for any reason, he does everything within his power to find 
+his way back, even if it means having the golem wear him around its neck as they search for their lost master. 
+ 
+The amulet, Berio, possesses the following stats: AL N; Int 14, Wis 12, Cha 10; Empathy and speech; 60 ft. 
+darkvision and hearing; May use magic aura on self at will; Ego score 5. 
+ 
+The shield guardian’s stats, on the other hand, are shown below. 
+ 
+“Berio” 
+Advanced Clay Golem Shield Guardian 
+N Huge construct 
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +2 
+Languages cannot speak, understands amulet wearer 
+DEFENSE 
+AC 34, touch 9, flat-footed 33 (+4 armor, +1 Dex, +21 natural, –2 size); mage armor 
+hp 144 (19 HD); fast healing 5 
+Fort +6, Ref +7, Will +8 
+DR 10/adamantine and bludgeoning; Immune construct traits, magic 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +3 greatsword +33/+28/+23/+18 (4d6+22 plus cursed wound/19-20) with greater magic weapon, or 
+2 slams +30/+30 (2d10+14 plus cursed wound) 
+Ranged +1 composite longbow +19/+14/+9/+4 (3d6+14 plus cursed wound/×3) 
+Space 15 ft.; Reach 15 ft. 
+Special Attacks berserk, cursed wound, haste 
+
+STATISTICS 
+Abilities Str 36 (+13), Dex 12 (+1), Con –, Int –, Wis 15 (+2), Cha 5 (–3) 
+Base Atk +19; CMB +33; CMD 44 
+SQ controlled, guard 
+Combat Gear arrows (100); Gear spare spell component pouch 
+Encumbrance light 4,896 lb., medium 9,808 lb., heavy 14,720 lb.; Weight Carried 62 lb. 
+SPECIAL ABILITIES 
+Berserk (Ex) When a clay golem enters combat, there is a cumulative 1% chance each round that its elemental 
+spirit breaks free and the golem goes berserk. This chance resets to 0% after one minute of inactivity. A 
+berserk golem attacks the nearest living creature or smashes some object smaller than itself if no 
+creature is within reach. Once it goes berserk, no known method can reestablish control. 
+Controlled (Ex) A shield guardian that has the berserk special attack cannot go berserk as long as the wearer of 
+its amulet is within 30 feet. 
+Cursed Wound (Ex) The damage a clay golem deals doesn’t heal naturally and resists magical healing. A 
+character attempting to use magical healing on a creature damaged by a clay golem must succeed on a 
+DC 26 caster level check, or the healing has no effect on the injured creature. 
+Find Master (Su) As long as a shield guardian and its amulet are on the same plane, the shield guardian can 
+locate the amulet’s wearer (or just the amulet, if it is removed after the guardian is called). 
+Guard (Ex) If ordered to do so, a shield guardian moves to defend the wearer of its amulet. All attacks against 
+the amulet wearer take a –2 penalty when the shield guardian is adjacent to its master. 
+Haste (Su) After it has engaged in at least 1 round of combat, a clay golem can haste itself once per day as a 
+free action. The effect lasts 3 rounds and is otherwise the same as the spell. 
+Immunity to Magic (Ex) A clay golem is immune to any spell or spell-like ability that allows spell resistance. 
+In addition, certain spells and effects function differently against the creature, as noted here: A move 
+earth spell drives the golem back 120 feet and deals 3d12 points of damage to it (no save). A 
+disintegrate spell slows the golem (as the slow spell) for 1d6 rounds and deals 1d12 points of damage 
+(no save). An earthquake spell cast directly at a clay golem stops it from moving on its next turn and 
+deals 5d10 points of damage (no save). Any magical attack against a clay golem that deals acid damage 
+heals 1 point of damage for every 3 points of damage it would otherwise deal. If the amount of healing 
+would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A 
+clay golem gets no saving throw against magical attacks that deal acid damage. 
+Rune of Shielding This rune is triggered the first time the modified construct is attacked with a melee attack, 
+ranged attack, or magic missile. The construct gains a +4 shield bonus to its Armor Class for 3 minutes. 
+This is a force effect and applies against incorporeal touch attacks. 
+Shield Other (Sp) The wearer of a shield guardian’s amulet can activate this defensive ability as a standard 
+action if within 100 feet of the shield guardian. Just as the spell of the same name, this ability transfers 
+to the shield guardian half the damage that would be dealt to the amulet wearer (note that this ability 
+does not provide the spell’s AC or save bonuses). Damage transferred in this manner bypasses any 
+defensive abilities (such as immunity or damage reduction) the golem possesses. 
+Spell Storing (Sp) A shield guardian can store one spell of 4th-level or lower that is cast into it by another 
+creature. It “casts” this spell when commanded to do so or when a predefined situation arises. Once this 
+spell is used, the shield guardian can store another spell (or the same spell again). Angol often grants his 
+golem the benefits of vitriolic shield. 
+Weapon Modification This modified construct has a +1 huge greatsword and a +1 adaptive huge composite 
+longbow built into its construction. It may use both of these weapons (they morph out of the clay in its 
+arms whenever desired as a free action) as though it were proficient in them. 
