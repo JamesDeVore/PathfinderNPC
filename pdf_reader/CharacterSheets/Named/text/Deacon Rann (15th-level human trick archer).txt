@@ -1,0 +1,113 @@
+
+
+Deacon Rann 
+Male human fighter 15 (archer) 
+LN Medium humanoid 
+Init +8; Senses Perception +26 
+Languages Common, Elven, Halfling 
+DEFENSE 
+AC 36, touch 21, flat-footed 28 (+9 armor, +2 deflection, +8 Dex, +1 insight, 
+natural +2, +4 shield) 
+hp 115 (15 HD) 
+Fort +14, Ref +18, Will +12 
+Defensive Abilities evasive archer +2 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee by weapon +18 
+Ranged +3 adaptive beaming conserving composite longbow +32/+27+21 
+(1d8+12/×3) or 
++3 adaptive beaming conserving composite longbow +28/+23/+18 (1d8+20/×3) with Deadly Aim, or 
++3 adaptive beaming conserving composite longbow +30/+30/+25/+20 (1d8+12/×3) with Rapid Shot, or 
++3 adaptive beaming conserving composite longbow +26/+26/+21/+16 (1d8+20/×3) with Rapid Shot 
+and Deadly Aim 
+Special Attacks expert archer +3, specialized arrows, trick shot (disarm, grapple, sunder, trip) 
+STATISTICS 
+Abilities Str 16 (+3), Dex 26 (+8), Con 10 (+0), Int 14 (+2), Wis 14 (+2), Cha 8 (–1) 
+Base Atk +15; CMB +23 (+29 with bow, +33 with impact critical shot); CMD 39 (42 vs. disarm/sunder) 
+Feats Agile Maneuvers
+B, Combat Reflexes
+B (9 AoO’s/round), Deadly Aim (–4 attack, +8 damage), Impact 
+Critical Shot, Improved Precise ShotB, Improved Snap Shot
+B, Manyshot, Martial Versatility (weapon 
+focus, weapon specialization), Pin Down, Point Blank ShotB, Precise Shot
+B, Rapid Shot, Snap Shot
+B, 
+Stand Still, Weapon Focus (longbow
+B), Weapon Specialization (longbow) 
+Skills Acrobatics +21, Handle Animal +17, Perception +26, Ride +24, Stealth +21, Survival +20 (+25 
+tracking); Armor Check Penalty –2 
+SQ hawkeye +4, safe shot 
+Combat Gear alchemical silver arrows (20), bleeding arrows (10), blunt arrows (20), cold iron arrows (20), 
+durable arrows (50), durable adamantine arrows (10), dye arrows (20), flight arrows (20), lodestone 
+arrows (20), pheromone arrows (20), smoke arrows (20), splintercloud arrows (20), tanglefoot arrows 
+(20), trip arrows (20), whistling arrows (20); Other Gear +3 buckler, +3 adaptive beaming conserving 
+composite longbow, amulet of natural armor +2, belt of incredible dexterity +6, boots of speed, celestial 
+armor, cloak of resistance +5, decoy ring, dusty rose prism ioun stone (implanted), efficient 
+quiver, glove of storing, greater bracers of archery, knight’s pennon (battle), lenses of detection, ring of 
+protection +2, tender (56gp) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 31 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Evasive Archer (Ex) You gain a +2 dodge bonus to AC against ranged attacks (not included). 
+Hawkeye (Ex) You gain a +4 bonus on Perception checks (included above), and the range increment for any 
+bow you use increases by 20 feet. 
+Trick Shot (Ex) You can perform disarm, grapple, sunder, or trip combat maneuvers with a bow against any 
+target within 30 feet, with a –4 penalty to your CMB. These maneuvers use up arrows as normal. A 
+target grappled by an arrow can break free by destroying your arrow (hardness 5, hit points 1, break DC 
+13) or with an Escape Artist or CMB check (against your CMD –4). 
+Expert Archer (Ex) You receive a +3 bonus to attack and damage rolls when using bows (included above). 
+Safe Shot (Ex) You do not provoke attacks of opportunity when making ranged attacks with a bow. 
+
+ 
+SPECIALIZED ARROWS 
+Adamantine Arrows: These arrows are made of adamantine, bypass DR/adamantine, and ignore hardness 20 
+or less. 
+Alchemical Silver Arrows: An alchemical silver arrow is the bane of lycanthropes and devils alike. It bypasses 
+DR/silver, but deals 1 less damage. 
+Bleeding Arrows: A bleeding arrow deals normal damage when it hits a creature. Each round thereafter, the 
+creature bleeds for 1 point of damage until the bleeding is stopped by a DC 10 Heal check or the 
+application of a cure spell or some other healing magic. A critical hit does not multiply the bleed 
+damage. Creatures immune to critical hits (such as plants and constructs) are immune to the bleed 
+damage dealt by this weapon. 
+Blunt Arrows: These arrows have rounded wooden tips. They deal bludgeoning damage rather than piercing 
+damage. An archer can use a blunt arrow to deal nonlethal damage (at the normal –4 attack penalty for 
+using a lethal weapon to deal nonlethal damage). 
+Cold Iron Arrows: Arrows made of cold iron are the bane of many fey and demons alike. They bypass 
+DR/cold iron. 
+Durable Arrows: Durable arrows don’t break due to normal use, whether or not they hit their target; unless the 
+arrow goes missing, an archer can retrieve and reuse a durable arrow again and again. Durable arrows 
+can be broken in other ways (such as deliberate snapping, hitting a fire elemental, and so on). If crafted 
+with magic (such as bane), the magic only lasts for one use of the arrow, but the non-magical arrow can 
+still be reused or imbued with magic again. 
+Dye Arrows: Firing a dye arrow is a ranged touch attack; a creature struck by a dye arrow takes no damage but 
+is splashed with black, blue, green, or red marker dye (see Pathfinder Chronicles Campaign Setting 213) 
+sufficient to coat about 1 square foot. 
+Flight Arrows: These arrows have light shafts and special fletching to give them greater range. A flight arrow’s 
+range increment is 20 feet greater with longbows, 10 feet greater with shortbows. They deal damage as 
+if one size category smaller. 
+Lodestone Arrows: You gain a +4 bonus on attack rolls when firing a lodestone arrow at a target wearing a 
+significant amount of metal armor (at least chain mail or a metal shield) or made of metal. The increased 
+magnetism fades 1 round after you activate it (a move action), after which time it is a normal arrow. In 
+areas with a lot of magnetic metal, the attack bonus may drop to 0 or even become a penalty as 
+competing sources steer the arrow away from your intended target. The magnetized arrow only deals 
+half damage. 
+Pheromone Arrows: Any creature with the scent ability gains a +2 bonus on attack and damage rolls made 
+against a target marked with a pheromone arrow. This effect lasts for 1 hour or until the target spends 1 
+minute washing. It otherwise functions like a normal arrow in terms of damage, range, and so on. 
+Raining Arrows: The reservoir of holy water is designed to burst on impact, hitting the target and splashing 
+nearby creatures as if you had thrown the vial. A raining arrow has a –2 penalty on attack rolls due to its 
+weight. 
+Smoke Arrows: This arrow is actually a specially-shaped smokestick that can be fired from a bow. It trails 
+smoke as it flies, and creates a 5-foot cube of smoke where it strikes. It otherwise functions like a 
+normal arrow in terms of damage, range, and so on. 
+Splintercloud Arrows: When fired, the numerous bone fragments tear themselves apart, forming a 5-foot burst 
+of razor-sharp bones that deals 1d3 points of piercing damage (Reflex DC 18 negates). 
+Tangleshot Arrows: You fire a tangleshot arrow as a ranged touch attack; the arrow deals no damage when it 
+hits, but the target is splashed with the alchemical adhesive. The reduced amount of the glue means this 
+arrow is less effective than an actual tanglefoot bag (DC 10 Reflex save, DC 12 Strength check to break, 
+10 points of slashing damage to cut through, DC 10 Concentration check). The weight of a tangleshot 
+arrow reduces the bow’s range increment to half normal. 
+Trip Arrows: If the arrow hits, it makes a trip attack against the target with a CMB of +5; the target falls prone 
+if it the check succeeds, but if it fails the target cannot attempt to trip you in return. 
+
+Whistling Arrows: These arrows come with specially designed grooves and fletching that cause them to emit a 
+loud keening sound audible within 500 feet of their flight path. 

@@ -1,0 +1,183 @@
+
+
+Durin Wrang 
+Male half-elf summoner 15 (wild callerARG) 
+CN Medium humanoid (elf, human) 
+Init +6; Senses low-light vision; Perception +4 
+Languages Common, Elven, Ignan, Sylvan 
+DEFENSE 
+AC 28, touch 18, flat-footed 22 (+10 armor, +1 deflection, 
++6 Dex, +1 insight); Greater Shield Ally 
+hp 107 (15 HD) 
+Fort +11, Ref +16, Will +16; +2 vs. enchantment 
+Defensive Abilities greater shield ally, life bond; Immune 
+magical sleep 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good); overland flight 
+Melee +4 defending longspear +18/+13/+8 (1d8+8/×3) 
+Ranged +4 adaptive composite longbow +21/+16/+11 (1d8+7/×3) 
+Space 5 ft.; Reach 5 ft. (10 ft. with longspear) 
+Spell-like Abilities (CL 15
+th; Concentration +21) 
+9/day – summon nature’s ally VIII (one casting at a time, usable only without eidolon, 15 minute 
+duration) 
+Summoner Spells Known (CL 15
+th; Concentration +21) 
+5th  (4/day) – cloudkill, conjure black pudding, greater rejuvenate eidolonAPG, overland flight, 
+4
+th  (5/day) – black tentacles, purified callingAPG, wall of fire, wall of ice 
+3rd  (6/day) – aqueous orbAPG, haste, heroism, slow, wind wall
+B 
+2nd (7/day) – barkskin, bear’s endurance, bull’s strength, cat’s grace, resist energy, see invisibility, 
+summon eidolonAPG 
+1st  (7/day) – compel hostility
+UC, enlarge person, feather fall, life conduit
+B UC, reduce person
+B, shield, 
+protection from evil, unfetterAPG 
+0  (at will) – detect magic, guidance, light, mage hand, message, open/close 
+STATISTICS 
+Abilities Str 16 (+3), Dex 22 (+6), Con 12 (+1), Int 14 (+2), Wis 14 (+2), Cha 22 (+9) 
+Base Atk +11; CMB +14 (+18 with longspear); CMD 31 
+Feats Augment Summoning, Craft Magic Arms and Armor, Craft Wondrous Item, Escape Route, Extra 
+Evolution, Improved Share Spells, Spell Focus (conjuration), Superior Summoning 
+Skills Disguise +19, Knowledge (arcana +15, the planes +15), Perception +4, Ride +29, Spellcraft +20, Use 
+Magic Device +22; Racial Modifiers +2 Perception 
+SQ arcane training, aspect, bond senses (15 rounds/day), eidolon, elf blood, life link, maker’s call, 
+transposition, weapon familiarity 
+Combat Gear arrows (20), staff of nature’s wrath (10 charges, doubles as +4 defending longspear, see below), 
+wand of cure light wounds (50 charges); Other Gear +4 defending longspear (doubles as staff of 
+nature’s wrath, see below), +4 adaptive composite longbow, +5 mithral shirt, bejeweled jingasa (as 
+circlet of persuasion, greater hat of disguise, and jingasa of the fortunate soldier; generally appears 
+human), belt of incredible dexterity +6, cloak of resistance +5, dusty rose prism ioun stone, headband of 
+alluring charisma +6, pages of spell knowledge (life conduit, reduce person, wind wall), spectacles of 
+understanding, spell component pouches (2), summoner’s kit, tender (51gp) 
+Encumbrance light 76 lb., medium 153 lb., heavy 230 lb.; Weight Carried 57 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Arcane Training You can use spell trigger and spell completion items for your favored class as if one level 
+higher. 
+
+Aspect (Su) You can divert up to 2 points from your eidolon’s evolution pool to add evolutions to yourself. 
+You cannot select any evolution that your eidolon could not possess, and you must be able to meet the 
+requirements as well (except for subtype requirements, so long as your eidolon meets the subtype 
+requirement). You cannot select the ability increase evolution through this ability. Any points spent in 
+this way are taken from your eidolon’s evolution pool (reducing the total number available to your 
+eidolon). You can change the evolutions granted by these points anytime you can change the eidolon’s 
+evolutions. 
+Bond Senses (Su) You can, as a standard action, share the senses of your eidolon; hearing, seeing, smelling, 
+tasting, and touching everything your eidolon does. You can use this ability a number of rounds per day 
+equal to your summoner level. There is no range to this effect, but you and your eidolon must be on the 
+same plane. You can end this effect as a free action. 
+Greater Shield Ally (Su) Whenever an ally is within your eidolon’s reach, the ally receives a +2 shield bonus 
+to its Armor Class and a +2 circumstance bonus on its saving throws. If this ally is you, these bonuses 
+increase to +4. This bonus does not apply if your eidolon is grappled, helpless, paralyzed, stunned, or 
+unconscious. 
+Life Bond (Su) As long as your eidolon has 1 or more hit points, you are protected from harm. Damage in 
+excess of that which would reduce you to fewer than 0 hit points is instead transferred to your eidolon. 
+This damage is transferred 1 point at a time, meaning that as soon as your eidolon is reduced to a 
+number of negative hit points equal to its Constitution score, all excess damage remains with you. 
+Effects that cause death but not damage are unaffected by this ability. This ability does not affect spells 
+like baleful polymorph, flesh to stone, or imprisonment, or other spells that do not cause actual damage. 
+Life Link (Su) Whenever your eidolon takes enough damage to send it back to its home plane, you can, as a 
+free action, sacrifice any number of hit points. Each hit point sacrificed in this way prevents 1 point of 
+damage done to your eidolon. This can prevent your eidolon from being sent back to its home plane. In 
+addition, you and your eidolon must remain within 100 feet of one another for your eidolon to remain at 
+full strength. If your eidolon is beyond 100 feet but closer than 1,000 feet, its current and maximum hit 
+point totals are reduced by 50%. If your eidolon is more than 1,000 feet away but closer than 10,000 
+feet, its current and maximum hit point totals are reduced by 75%. If your eidolon is more than 10,000 
+feet away, it is immediately returned to its home plane. Current hit points lost in this way are not 
+restored when your eidolon gets closer to you, but its maximum hit point total does return to normal. 
+Maker’s Call (Su) Three times per day, as a standard action, you can call your eidolon to your side. This 
+functions as dimension door, using your summoner caster level. When this ability is used, your eidolon 
+appears adjacent to you (or as close as possible if all adjacent spaces are occupied). If your eidolon is out 
+of range, the ability is wasted. 
+Transposition (Su) You can use your maker’s call ability to swap locations with your eidolon. If your eidolon 
+occupies more squares than you, you can appear in any square occupied by your eidolon. Your eidolon 
+must occupy the square that was occupied by you if able, or as close as possible if it is not able. 
+Weapon Familiarity You are proficient with longbows (including composite longbows), longswords, rapiers, 
+and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name 
+as a martial weapon. 
+   
+
+STAFF OF NATURE’S WRATH 
+Aura moderate conjuration and evocation; CL 8th 
+Slot none; Price 43,200gp; Weight 5 lbs. 
+ 
+This staff appears to be made of a long slender shard of obsidian and allows use of the following spells: 
+•  wicked weeds (1 charge; as black tentacles, but produces barbed vines instead of black tentacles) 
+•  obsidian flow
+UC (1 charge) 
+•  sleet storm (1 charge) 
+Many staves of nature’s wrath also double as magical spears. Add the costs of the magical spear and the staff of 
+nature’s wrath together and use the spear’s weight value when using this variant. 
+ 
+Requirements Craft Staff, black tentacles, obsidian flow
+UC, sleet storm (may vary if made into a spear); Cost 
+21,600gp 
+ 
+Salamander 
+Serpent Eidolon 
+CN Huge outsider (chaotic, protean) 
+Init +4; Senses blindsense 30 ft., darkvision 60 
+ft., scent; Perception +15 
+Languages as summoner 
+DEFENSE 
+AC 38, touch 12, flat-footed 34 (+7 armor, +4 
+Dex, +19 natural, –2 size) 
+hp 114 (12 HD) 
+Fort +9, Ref +13, Will +13; +4 vs. enchantment 
+Defensive Abilities devotion, improved evasion; DR 5/lawful; Immunities drowning; Resist acid 15, 
+electricity 10, sonic 10 
+OFFENSE 
+Speed 40 ft. (8 squares), climb 40 ft., fly 40 ft. (perfect), swim 40 ft. 
+Melee bite +23 (2d6+13 plus grab), 2 claws +23 (1d8+13), tail slap +21 (3d6+8 plus grab) or 
+bite +19 (2d6+21 plus grab), 2 claws +19 (1d8+21), tail slap +17 (3d6+12 plus grab) with Power Attack, 
+or 
+tail slap +17 (9d6+12 plus grab) with Improved Vital Strike and Power Attack 
+Ranged boulder or tree +10 (6d6+9) with Improved Vital Strike 
+Space 15 ft.; Reach 10 ft. 
+Special Attacks constrict (3d6+8) 
+STATISTICS 
+Abilities Str 28 (+9), Dex 18 (+4), Con 18 (+4), Int 7 (–2), Wis 10 (+0), Cha 11 (+0) 
+Base Atk +12; CMB +23 (+27 to grapple); CMD 37 (41 vs. overrun/trip) 
+Feats Combat Reflexes (5 AoO’s/round), Escape Route
+B, Improved Natural Attack (tail slap), Improved Vital 
+Strike, Lunge, MultiattackB, Power Attack, Vital Strike 
+Skills Acrobatics +24 (+26 to balance), Climb +24, Fly +8, Perception +15, Stealth +11, Swim +17; Racial 
+Modifiers +2 Acrobatics to balance 
+SQ evolutions, link, multiattack, share spells 
+Possession amulet of mighty fists +4, bracers of armor +7, eidolon anchoring harness (doubles as cloak of 
+resistance +5), exotic horsemaster’s saddle, spare spell component pouch (concealed, DC 24)  
+Encumbrance light 2,400 lb., medium 4,800 lb., heavy 7,200 lb.; Weight Carried 44 lb. (without rider) 
+SPECIAL ABILITIES 
+
+Constrict (Ex) Salamander can crush an opponent, dealing 3d6+8 bludgeoning damage when she makes a 
+successful grapple check (in addition to any other effects caused by a successful check, including 
+additional damage). 
+Devotion (Ex) Salamander receives a +4 morale bonus on Will saves versus enchantment spells and effects. 
+Evolutions bite
+F, blindsense
+F, climb
+F, claws, constrict (tail slapF), flight (magicalF), gills, grab (biteF, tail slapF), 
+large (huge), limbs (legs) (2), mount, resistance (acid
+F), scent, swim, tailF, tail slapF 
+Grab (Ex) If Salamander hits with her tail slap attack, she deals normal damage and may attempt to start a 
+grapple as a free action without provoking an attack of opportunity. She may only grab Large or smaller 
+creatures in this manner. She may conduct the grapple normally, or simply use her tail to hold the 
+opponent. If she chooses to do the latter, she takes a –20 penalty on her CMB check to make and 
+maintain the grapple, but she does not gain the grappled condition herself. A successful grapple check 
+made to maintain the grab deals tail slap damage in addition to constriction damage as well. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, Salamander takes no damage if she makes a successful saving throw and half damage even if 
+the saving throw fails. 
+Link You and your eidolon share a mental link that allows for communication across any distance (as long as 
+you are on the same plane). This communication is a free action, allowing you to give orders to your 
+eidolon at any time. What’s more, magic items interfere with this link, so that you and your eidolon 
+must share magic item slots. When both you and the eidolon are wearing a magic item in the same slot, 
+your magic item continues to function while the eidolon’s becomes dormant. An eidolon must still have 
+the appropriate magical item slot in order to be able to use of a given magic item. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your eidolon (as a spell with a range of 
+touch) instead of on yourself. You may cast spells on your eidolon even if the spells normally do not 
+affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner 
+spell list. This ability does not allow your eidolon to share abilities that are not spells, even if they 
+function like spells. 

@@ -1,0 +1,155 @@
+
+
+Drosil 
+“It’s amazing the things you can learn…when you have nothing but time.” 
+ 
+In  the  waning  days  of  the  Age  of  Darkness,  Drosil  was  a  young  noble, 
+plantation owner, and soldier. He possessed much wealth and many servants 
+who toiled under the then dark skies of Golarion. They grew a variety of 
+lichen, fungi and other plants adapted to near-darkness for their kingdom. 
+Drosil and his house witnessed a great deal of evil during this time period, 
+having largely survived the depredations of the genocidal purges by the cult 
+of the Raven King unscathed. In the end, it was not the sacrificial blades of 
+fanatical  cultists,  but  the  light  of  the  noonday  sun  that  would  doom  his 
+house. As the skies finally began to clear of the dust left behind by Earthfall, 
+Drosil’s crops withered and died. Like many in his line of work, he was no 
+longer  able  to  maintain  large  crop  fields  for  his  people;  famine  and 
+desperation befell all. 
+ 
+Mere  months  of  living  in  the  light  proved  to  be  intolerable  for  most,  and  many  Shade  Sons  perished  from 
+starvation and exposure. Desperate for food, a gang of starving children raided the remnants of Drosil’s plantation. 
+In the violence that ensued, Drosil was fatally wounded, but before he could find peace in death, the god of his 
+people, the Great Beyonder, appeared. 
+ 
+After  nearly  a  thousand  years  of  absence,  the  Great  Beyonder  heard  the  cries  of  grief  of  Drosil’s  people  and 
+returned to them. Every last citizen was lead from their ruined kingdom under the accursed sun, and taken far 
+beyond the stars where no light could ever reach them. Though the journey took thousands of years, for Drosil’s 
+people, it seemed as if but an instant. 
+ 
+An instant for everyone except Drosil. Like his people, Drosil floated aimlessly in the darkness for an era while 
+the Great Beyonder delivered them to their new home. The great pain brought about by his grievous wounds had 
+prevented his mind from shutting down during the journey; his caretaker seemingly oblivious to his plight. Fully 
+cognizant of his surroundings throughout the entire journey, unable to sleep, unable to move, unable to die; Drosil 
+simply floated in a sea of endless darkness forever surrounded by what appeared to be the corpses of his friends 
+and loved ones—a never-ending hell from which he was certain he’d never return. 
+ 
+Then it was over. Exposed to the Great Beyonder’s powers for far longer than any other living creature, Drosil’s 
+very being was changed forever. Left alone to his thoughts for so long, he discovered that thought transcended 
+time and space, which he learned to be mutable things, allowing him to gain great powers over both. However, 
+by  the  time  the  Great  Beyonder  had  finally  delivered  his  chosen  subjects  to  their  new  home  on  the  Plane  of 
+Shadow, Drosil had also completely lost his mind, becoming a corrupted shadowbound creature. Being alone in 
+the void for so long caused his mind to splinter, forging multiple personalities with which he could converse and 
+keep himself company. To this day, he remains uncertain that he has in fact returned to reality—ever fearful that 
+he is still trapped in the void living out the fancies of his addled mind. 
+ 
+Clearly insane and unable to fully control his powers, temporarily aging anything he touches to ruin, Drosil was 
+forced  into  exile  for  fear  he  would  bring  great  harm  to  others.  He  now  travels  the  Material  Plane  by  night, 
+sometimes as a young adventurer and sometimes as a venerable sage, as his fractured mind allows. He no longer 
+knows his true age, or even really who he is from one day to the next, but he can nevertheless recall every instance 
+of his time in the void—a sad fact that makes his insanity nigh incurable by anything short of deific intervention. 
+Though he made many great discoveries during that time, they are of such profound magnitude that he is wholly 
+unable to communicate them with anyone else in a manner that they could possibly comprehend. Any attempts 
+to  do  so  only  make  him  seem  even  more  insane  and  further  serve  to  isolate  him  from  those  around  him—
+
+incidentally spurring his new career as a wondering adventurer capable of little more than working with small 
+groups for short periods of time. 
+ 
+Drosil 
+Male shadowbound fetchling oracle 9 
+CN Medium outsider (native) 
+Init +10 (roll twice); Senses darkvision 150 ft., light sensitivity, low-light 
+vision; Perception +14 
+Languages Aklo, Common, D’ziriak (understand only) 
+DEFENSE 
+AC 25, touch 14, flat-footed 23 (+6 armor, +2 deflection, +2 Dex, +3 
+natural, +2 shield) 
+hp 65 (9 HD) 
+Fort +8, Ref +7, Will +7; –4 vs. fear effects or on saves made to protect 
+personal possessions 
+Resist cold 5, electricity 5 
+Defensive Abilities shadow blending 
+Immune fear removal effects 
+OFFENS43TE 
+Speed 20 ft. (4 squares), 30 ft. without armor 
+Melee +1 club +5/+0 (1d6–1) 
+erase from time +7 touch (nonexistence for 4 rounds) or 
+touch of ruin +6 touch (4d10 plus 1 ability drain) 
+Ranged +1 club +7 (1d6–1) 
+Special Attacks revelations (erase from time, rewind time, temporal celerity, time hop), shadowbound 
+manifestations (earie perception, frightful, regretful gaze, touch of ruin 4d10) 
+Spell-like Abilities (CL 9th, Concentration +16) 
+1/day – disguise self (any humanoid), shadow walk 
+Oracle Spells Known (CL 9th, Concentration +14) 
+4th  (5/day) – aura of doom
+UM, blessing of fervorAPG, cure critical woundsB, threefold aspectB APG 
+3rd  (8/day) – borrow fortuneAPG, cure serious woundsB, nap stack
+APG, sands of time
+B UM, steal yearsBotN 
+2nd (8/day) – ally across timeLotFW, cure moderate woundsB, darkness, gentle repose
+B, martyr’s 
+bargainISM, silence 
+1st  (8/day) – abundant ammunitionUC, command, cure light woundsB, embrace destinyLK, fallback 
+strategyISG, lucky numberOM, memory lapse
+B APG 
+0  (at will) – create water, detect magic, detect poison, guidance, light, mending, purify food and drink, 
+stabilize 
+Mystery time 
+STATISTICS 
+Abilities Str 11 (+0), Dex 15 (+2), Con 13 (+1), Int 14 (+2), Wis 6 (–2), Cha 24 (+7) 
+Base Atk +6; CMB +6; CMD 20 
+Feats Craft Wondrous Item, Deepsight, Extra Revelation, Improved Initiative, Noble Scion (scion of war) 
+Skills Diplomacy +19, Disable Device +14, Intimidate +11, Knowledge (history) +17, Knowledge (planes) +14, 
+Perception +14, Spellcraft +14, Stealth +17; Armor Check Penalty –7 (not included); Racial Bonuses 
++2 Knowledge (planes), +2 Stealth 
+SQ corruption (shadowbound; stage 2, manifestation level 4, DC 16), oracle’s curse: wrecker 
+Gear +1 club, +2 heavy wooden shield, +3 agile breastplate, amulet of natural armor +3, cloak of resistance 
++3, headband of alluring charisma +4, jewelry (150gp worth), noble’s outfit, ring of protection +2, 
+sleeves of many garments, tender (43gp), traveler’s any-tool 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 43 lb. (excluding tender) 
+   
+
+SPECIAL ABILITIES 
+Eerie Perception You gain darkvision to a range of 60 feet. If you already have darkvision, the range of your 
+darkvision increases by 30 feet instead. You also gain a +4 bonus on Perception and Stealth checks. 
+However, you also gain light sensitivity, causing you to be dazzled in areas of bright light. 
+Erase from Time (Su) As a melee touch attack, you can temporarily remove a creature from time altogether. 
+The target creature must make a Fortitude save or vanish completely for a number of rounds equal to ½ 
+your oracle level (minimum 1 round). No magic or divinations can detect the creature during this time, 
+as it exists outside of time and space—in effect, the creature ceases to exist for the duration of this 
+ability. At the end of the duration, the creature reappears unharmed in the space it last occupied (or the 
+nearest possible space, if the original space is now occupied). You can use this ability once per day. 
+Frightful You gain a +4 bonus on Intimidate checks and the DCs of fear effects that you create increase by 2. 
+However, you also take a –4 penalty on saving throws against fear effects, and you lose any immunities 
+to fear you might otherwise possess. You also gain immunity to effects that would remove your fear 
+(such as remove fear). 
+Oracle’s Curse: Wrecker Held objects gain the broken condition when you use or equip them but regain their 
+actual condition if employed by anyone else. If a held item is restored to unbroken condition, it becomes 
+broken again the following round. Disable Device becomes a class skill for you and you can make 
+Disable Device checks to destroy nonmagical traps as a move action without the need to use tools or 
+take any action beyond simply touching it. Whenever you attempt to damage an object with a melee 
+attack, reduce its hardness by an amount equal to your oracle level before determining the damage you 
+deal with that attack. 
+Regretful Gaze You gain a gaze attack that causes foes within 30 feet to become shaken for 1 round unless 
+they succeed at a Will save. You can suppress this ability as a free action and cause it to resume as a 
+swift action. A creature that succeeds at the saving throw is immune to your regretful gaze for 24 hours. 
+However, your Strength, Dexterity, and Constitution scores are each 1 point lower than normal, or by 
+however much they would be reduced if you were one age category older, whichever is worse for you. 
+Rewind Time (Su) Once per day as an immediate action, you can reroll any one d20 roll that you have just 
+made before the results of the roll are revealed. You must take the result of the reroll, even if it’s worse 
+than the original roll. 
+Shadow Blending (Su) Attacks against you in dim light have a 50% miss chance instead of the normal 20% 
+miss chance. This ability does not grant total concealment; it just increases the miss chance. 
+Temporal Celerity (Su) Whenever you roll for initiative, you can roll twice and take either result. You can 
+always act in the surprise round, but if you fail to notice the ambush, you act last, regardless of your 
+initiative result (you act in the normal order in following rounds). 
+Time Hop (Su) As a move action, you can teleport up to 10 feet per oracle level that you possess per day. This 
+teleportation must be used in 5-foot increments. This movement does not provoke attacks of 
+opportunity. You must have line of sight to your destination to use this ability. You can bring other 
+willing creatures with you, but you must expend an equal amount of distance for each creature brought. 
+Touch of Ruin As a standard action a number of times per day equal to your manifestation level, you can make 
+a melee touch attack that deals 1d10 points of damage per manifestation level you have. A creature 
+touched this way takes 1 point of ability drain to the ability score of your choice unless it succeeds at a 
+Fortitude save. Creatures immune to magical aging are immune to this touch attack. Any clothing or 
+gear you wear or carry seems strangely faded and timeworn as long as you wear or carry it. Treat such 
+items’ hardness as half the normal amount. You take a –4 penalty on saving throws to protect items in 
+your possession from damage or destruction. 

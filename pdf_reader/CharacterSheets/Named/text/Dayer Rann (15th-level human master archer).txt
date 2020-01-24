@@ -1,0 +1,49 @@
+
+
+Dayer Rann 
+Male human fighter 15 (weapon master) 
+LN Medium humanoid 
+Init +8; Senses Perception +17 
+Languages Common, Elven, Halfling 
+DEFENSE 
+AC 32, touch 20, flat-footed 24 (+7 armor, +2 deflection, +8 Dex, +2 natural, 
++3 shield) 
+hp 145 (15 HD) 
+Fort +13, Ref +16, Will +10 
+Defensive Abilities mirror move +6, weapon guard +4 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee mwk longsword +23/+18/+13 (1d8+10/19-20) 
+Ranged +5 adaptive composite longbow +38/+33+28 (2d6+21/19-20/×3) or 
++5 adaptive composite longbow +34/+29/+24 (2d6+29/19-20/×3) with Deadly Aim, or 
++5 adaptive composite longbow +36/+36/+31/+26 (2d6+21/19-20/×3) with Rapid Shot, or 
++5 adaptive composite longbow +32/+32/+27/+22 (2d6+29/19-20/×3) with Rapid Shot and Deadly Aim 
+Special Attacks advanced weapon training (bows, focused weapon), deadly critical (1/day), weapon training +6 
+STATISTICS 
+Abilities Str 24 (+7), Dex 26 (+8), Con 13 (+1), Int 8 (–1), Wis 14 (+2), Cha 7 (–2) 
+Base Atk +15; CMB +22; CMD 42 (50 vs. disarm/sunder) 
+Feats Advanced Weapon Training, Clustered Shots, Combat Reflexes (9 AoO’s/round), Deadly Aim (–4 attack, 
++8 damage), Greater Snap Shot, Greater Weapon Focus (longbowB), Greater Weapon Specialization 
+(longbow
+B), Improved Critical (longbowB), Improved Precise ShotB, Improved Snap Shot, Manyshot, 
+Point Blank ShotB, Precise ShotB, Rapid Shot, Snap ShotB, Weapon Focus (longbowB), Weapon 
+Specialization (longbow) 
+Skills Perception +17, Survival +20 
+SQ reliable strike (3/day) 
+Combat Gear durable arrows (300), potions of cure light wounds (5); Other Gear +2 buckler, +3 mithral 
+shirt, +5 adaptive composite longbow, amulet of natural armor +2, belt of physical might +6 (strength, 
+dexterity), boots of speed, cloak of resistance +3, efficient quiver, gloves of dueling, greater bracers of 
+archery, masterwork longsword, ring of protection +2, tender (520gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 27 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Deadly Critical (Ex) When you confirm a critical hit with a longbow, you can increase the weapon’s damage 
+multiplier by +1 as an immediate action. You can use this ability once per day. 
+Mirror Move (Ex) You gain your weapon training bonus as an insight bonus to AC when attacked by 
+longbows. 
+Reliable Strike (Ex) Three times per day you may reroll an attack roll, critical hit confirmation roll, miss 
+chance check, or damage roll made with your longbow as an immediate action. You must accept the 
+second roll even if it is worse. 
+Weapon Guard (Ex) You gains a +4 bonus to CMD against disarm and sunder attempts while wielding a 
+longbow. This bonus also applies on saves against any effect that targets your longbow (for example, 
+grease, heat metal, shatter, warp wood). 
+Weapon Training (Ex) You gain a +6 bonus on attack and damage rolls with longbows (included above). 

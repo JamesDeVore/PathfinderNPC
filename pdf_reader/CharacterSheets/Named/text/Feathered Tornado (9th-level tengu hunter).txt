@@ -1,0 +1,129 @@
+
+
+Feathered Tornado 
+  
+
+Male tengu ranger 9 
+N Medium humanoid (tengu) 
+Init +5; Senses low-light vision; Perception +14 
+Languages Aklo, Common, Draconic, Dwarven, Elven, Giant, 
+Goblin, Sylvan, Tengu, Undercommon 
+DEFENSE 
+AC 21, touch 16, flat-footed 16 (+5 armor, +5 Dex, +1 dodge) 
+hp 79 (8 HD) 
+Fort +7, Ref +11, Will +5 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 frost handaxe +16/+11 (1d6+3 plus 1d6 cold/×3) or 
++1 frost handaxe +14/+9 (1d6+3 plus 1d6 cold/×3) and 
++1 frost handaxe +14/+9 (1d6+3 plus 1d6 cold/×3) and 
+bite +9 (1d3+1) with Improved Two-Weapon Fighting, or 
++1 returning dagger +15 (1d4+3/19-20) or 
++1 returning dagger +13 (1d4+3/19-20) and 
++1 returning dagger +13 (1d4+3/19-20) with Two-Weapon Fighting 
+Ranged +1 light crossbow +17 (1d8+1/19-20) or 
++1 returning dagger +15 (1d4+3/19-20) or 
++1 returning dagger +13 (1d4+3/19-20) and 
++1 returning dagger +13 (1d4+3/19-20) with Two-Weapon Fighting 
+Special Attacks favored enemy (humans +4, monstrous humanoids +2) 
+Ranger Spells Prepared (CL 6th; Concentration +8) 
+2nd-level (2/day) – barkskin, wind wall 
+1st-level (3/day) – jump, entangle, resist energy 
+STATISTICS 
+Abilities Str 15 (+2), Dex 20 (+5), Con 12 (+1), Int 14 (+2), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +9; CMB +11; CMD 27 
+Feats Dodge, Double Slice, Endurance
+B, Improved Two-Weapon FightingB, Mobility, TrackB, Two-Weapon 
+Fighting
+B, Weapon Finesse, Weapon Focus (handaxe) 
+Skills Acrobatics +14, Climb +14, Handle Animal +12 (+16 with animal companion), Knowledge (geography) 
++14, Knowledge (nature) +14, Linguistics +9, Perception +16, Stealth +19, Survival +14, Swim +11; 
+Racial Modifiers +4 linguistics, +2 Perception, +2 Stealth 
+SQ favored terrain (forest +4, urban +2), gifted linguist, hunter’s bond (constrictor snake companion), swift 
+tracker, track +4, wild empathy +7, woodland stride 
+Combat Gear crossbow bolts (10), wand of cure moderate wounds (50 charges); Other Gear +1 frost 
+handaxes (2), +1 light crossbow, +1 mithral shirt, +1 returning daggers (2), belt of incredible dexterity 
++2, tender (952gp) 
+Encumbrance light 66 lb., medium 133 lb., heavy 200 lb.; Weight Carried 24 lb. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Favored Enemy (Ex) You gain a +4 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival 
+checks when using these skills against humans (not included above). Likewise, you get a +4 bonus on 
+weapon attack and damage rolls against such creatures. You also get this benefit with Monstrous 
+Humanoids, but only at a +2 bonus. 
+Favored Terrain (Ex) You gain a +4 bonus on initiative checks and Knowledge (geography), Perception, 
+Stealth, and Survival skill checks when in forest terrain (not included above). You gain similar bonuses 
+while in urban environments, albeit only at +2. When traveling through your favored terrain you 
+normally leave no trail and cannot be tracked (though you may leave a trail if you so choose). 
+Gifted Linguist (Ex) You gain a +4 racial bonus on Linguistics checks, and learn 2 languages each time you 
+gain a rank in Linguistics rather than 1 language (included above). 
+Swift Tracker (Ex) You may track a target at your full speed without suffering any penalties. 
+Swordtrained (Ex) You are automatically proficient with sword-like weapons (including bastard swords, 
+daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, 
+scimitars, short swords, and two-bladed swords). 
+Track (Ex) You add half your ranger levels to Survival checks made to find and follow tracks (included 
+above). 
+Wild Empathy (Ex) You can improve the attitude of an animal. This ability functions just like a Diplomacy 
+check to improve the attitude of a person. You roll 1d20+7 to determine the wild empathy check result. 
+The typical domestic animal has a starting attitude of indifferent, while wild animals are usually 
+unfriendly. To use wild empathy, you and the animal must be able to study each other, therefore you 
+must be within 30 feet of one another under normal visibility conditions. Generally, influencing an 
+animal in this way takes 1 minute, but, as with influencing people, it might take more or less time. You 
+can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but you take a  
+–4 penalty on the check. 
+Woodland Stride (Ex): You may move through any sort of undergrowth (such as natural thorns, briars, 
+overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any 
+other impairment. Thorns, briars, and overgrown areas that are enchanted or magically manipulated to 
+impede motion, however, still affect you. 
+ 
+   
+
+Trouser 
+  
+
+Constrictor snake animal companion 
+N Large animal 
+Init +3; Senses low-light vision, scent; Perception +1 
+DEFENSE 
+AC 18, touch 12, flat-footed 15 (+3 Dex, +6 natural armor, –1 size) 
+hp 48 (5 HD) 
+Fort +8, Ref +7, Will +2 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 20 ft. (4 squares), climb 20 ft., swim 20 ft. 
+Melee bite +10 (1d4+10 plus grab) 
+Space 10 ft.; Reach 5 ft. 
+Special Attacks constrict (1d4+7), grab (bite) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 16 (+3), Con 18 (+4), Int 1 (–5), Wis 12 (+1), Cha 2 (–4) 
+Base Atk +3; CMB +11 (+12 with bite, +15 grapple); CMD 24 (can’t be tripped) 
+SQ link, share spells, tricks (attack [all creatures], defend, down, heel) 
+Feats Improved Natural Armor, Skill Focus (stealth), Weapon Focus (bite) 
+Skills Acrobatics +4 (–1 to jump), Perception +1, Stealth +10 
+Encumbrance light 700 lb., medium 1,400 lb., heavy 2,100 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Constrict (Ex) Trouser can crush an opponent, dealing bludgeoning damage, when he makes a successful 
+grapple check (in addition to any other effects caused by a successful check, including additional 
+damage). The amount of damage is given above and is typically equal to Trouser’s bite attack. 
+Evasion (Ex) If Trouser makes a successful Reflex saving throw against an attack that normally deals half 
+damage on a successful save, he instead takes no damage. 
+Grab (Ex) If Trouser hits with his bite attack, he deals normal damage and may attempt to start a grapple as a 
+free action without provoking an attack of opportunity. Trouser may only grab medium creatures in this 
+manner. Trouser has the option to conduct the grapple normally, or simply use the part of its body he 
+used in the grab to hold the opponent. If he chooses to do the latter, he takes a –20 penalty on his CMB 
+check to make and maintain the grapple, but does not gain the grappled condition himself. If Trouser 
+does not constrict, each successful grapple check he makes during successive rounds automatically deals 
+the damage indicated for the attack that established the hold. Otherwise, he deals constriction damage as 
+well (the amount is given above). Creatures with the grab special attack receive a +4 bonus on combat 
+maneuver checks made to start and maintain a grapple (included above). 
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding your animal companion. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your animal companion (as a spell with a 
+range of touch) instead of on yourself. You may cast spells on your animal companion even if the spells 
+normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come 
+from a class that grants an animal companion. This ability does not allow the animal to share abilities 
+that are not spells, even if they function like spells. 
+ 

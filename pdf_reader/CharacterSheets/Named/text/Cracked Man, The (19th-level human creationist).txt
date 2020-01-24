@@ -1,0 +1,203 @@
+
+
+Seighlin Kurn (aka the Cracked Man) 
+“I once saw all the secrets of the world. Now I see only revenge.” 
+ 
+Seighlin Kurn was orphaned at a young age due to plague, and was forced to grow 
+up on the mean streets of a bustling metropolis. Much of his youth was spent in 
+hunger, or in confinement for theft. After a chance encounter with the royal vizier, 
+he was adopted and given the name Kurn. Sela Kurn, the youth’s new guardian, 
+was so impressed at the boy’s ability to abscond with one of his most prized and 
+heavily guarded possessions, an enchanted amulet, that he took the boy on as a 
+ward and apprentice (after a long and drawn out punishment). 
+ 
+Seighlin showed a  great deal of promise,  and was instrumental in the Vizier’s 
+wicked schemes to manipulate the royal family in the years to come. Eventually, 
+he grew to be one of the most powerful spellcasters in the region, renowned for 
+being able to conjure anything and everything  at a whim (a talent he  taught 
+himself after a destitute childhood full of bitter memories). He gave himself the 
+haughty title of “Creationist” and was often quick to show off his abilities (as often to help others as to hurt them). 
+Though his power grew to surpass that of his master, it always seemed as though his mentor could strip the young 
+man of his immense power and make him look a fool—an admonishment often used when Seighlin’s arrogance 
+got the better of him. 
+ 
+Despite his teachings, and a lifetime of many harsh lessons, Seighlin remained arrogant. It would ultimately prove 
+to be his undoing. In a spell battle with an upstart sorcerer, started over a perceived insult to his pride, Seighlin 
+was caught off guard, petrified, and shattered into a thousand pieces of rubble. It took his guardian years to track 
+down all the broken pieces and put an end to the horrible transformation. Though his life would eventually be 
+given back to him, his body—and worse, his pride—was forever scarred. Thereafter, common folk and nobility 
+alike looked at him with fear and disgust, rather than the respect with which he had long since grown accustomed. 
+No longer a symbol of nobility, power, and wealth, he had become a living, breathing cautionary tale—a constant 
+reminder that even the strongest of nobility  can  still be brought low by  a common traveler.  In the whispered 
+shadows of his home he would forever be known as “the cracked man.” 
+ 
+Not being able to bear the shame of his humiliating defeat, Seighlin Kurn abandoned his mentor’s schemes and 
+set out on a blind quest for revenge against she who had bested him. He now resides in seclusion, using astral 
+projection to search the  world for the source of his burning hatred while his true body lies hidden, magically 
+sequestered in a dark tomb. In his mind—every bit as shattered as his body—he truly believes that he had not 
+only risen to greatness, but that he was greater than all others by divine right, that the world has somehow wronged 
+him, and that things cannot be set right until the traveling sorcerer, a youthful halfling named Yiankun Lee, comes 
+to know never-ending torment. 
+   
+
+Seighlin Kurn (aka the Cracked Man) 
+Male human universalist 9/arclord of Nex 10 
+LE Medium humanoid (halfling, human) 
+Init +5; Senses darkvision 60 ft.; Perception +23 
+Languages Abyssal, Aquan, Auran, Celestial, Common, Draconic, Ignan, 
+Infernal, Terran 
+DEFENSE 
+AC 30, touch 16, flat-footed 25 (+9 armor, +5 Dex, +1 insight, +5 shield) 
+hp 182 plus false life (19 HD) 
+Fort +16, Ref +16, Will +20 (+3 bonus vs. mind-affecting effects) 
+Defensive Abilities mind blank; Immune divination 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good), swim 30 ft.; overland flight, ride the 
+waves 
+Melee +5 adamantine dagger +19/+14 (1d4+10/19-20) with greater magic 
+weapon 
+Ranged +5 adamantine dagger +19/+14 (1d4+10/19-20) with greater magic weapon 
+Special Attacks dazing touch, hand of the apprentice (12/day), metamagic mastery (1/day) 
+Spell-like Abilities (CL 20
+th; Concentration +25) 
+At-Will – artificer’s touch (see below), dazing touch (see below), diviner’s fortune (see below), 
+protective ward (see below) 
+2/day – identify, major creation, minor creation 
+Wizard Spells Prepared (CL 20
+th; Concentration +28; arcane spell failure 10%) 
+9th  (4/day) – astral projection
+M, meteor swarm, summon monster IX, time stop 
+8th  (4/day) – clenched fist, giant form II, mind blank, moment of prescience 
+7th  (5/day) – delayed blast fireball, greater teleport (2), particulate form
+MTT, plane shiftF 
+6
+th  (5/day) – chain lightning, cold ice strike
+UM, disintegrate, freezing sphere, greater dispel magic 
+5th  (6/day) – acidic spray
+M UM, cloudkill, cone of cold, overland flight, telekinesis, wall of force 
+4th  (6/day) – arcane eye, charm monster, dimensional anchor, enervation, greater invisibility, ride the 
+wavesUM 
+3
+rd  (6/day) – fireball, greater magic weapon, haste, lightning bolt, major image, slow 
+2nd (6/day) – acid arrow, blindness/deafness, darkness, darkvision, detect thoughts, false life 
+1
+st  (7/day) – disguise self, feather fall, magic missile (3), shocking grasp, true strike 
+0  (at will) – detect magic, light, mage hand, open/close 
+Arcane School universalist 
+STATISTICS 
+Abilities Str 20 (+5), Dex 20 (+5), Con 20 (+5), Int 26 (+8), Wis 18 (+4), Cha 20 (+5) 
+Base Atk +9; CMB +14; CMD 30 
+Feats Additional Traits, Craft Construct
+B, Craft Magical Arms and Armor, Craft Wondrous Item, Deft Hands, 
+Eye of the Arclord, Major Spell Expertise (major creation, minor creation), Minor Spell Expertise 
+(identify), Racial Heritage (halfling), Scribe Scroll
+B, Skill Focus (diplomacy
+B, sleight of handB, 
+spellcraftB), Well-Prepared 
+Skills Diplomacy +33 (+34 to gather information), Disable Device +28, Fly +14 (overland flight), Intimidate 
++24, Knowledge (arcana) +30, Knowledge (engineering) +30, Knowledge (local) +31, Knowledge 
+(nature) +20, Knowledge (planes) +30, Knowledge (religion) +30, Perception +23, Sense Motive +26, 
+Sleight of Hand +38, Spellcraft +36 (+41 to craft magical items or learn wizard spells), Swim +14 (ride 
+the waves) 
+SQ arcane bond (amulet), call for aid, diviner’s touch +10, extradimensional extension, focused study, greater 
+third eye, ongoing spells, protective ward +5 (8 rounds), third eye (6/day), traits (child of the streets, 
+well-informed) 
+
+Combat Gear focus components (plane shift: all), inert clones (3), lifted gear (1,000gp worth), material 
+components (acidic spray 10, astral projection 10, stoneskin 10, true seeing 10); Other Gear +5 
+mithral armored coat, +5 mithral buckler, adamantine dagger (concealed, DC 60 to find), adamantine 
+golem (Bestiary II, page 134), amulet of magecraft, belt of physical perfection +6, blessed books (2), 
+cloak of resistance +5, extravagant lifestyle (paid in advance for 4 months), greater ring of inner 
+fortitude, headband of mental superiority +6 (disable device, intimidate, sense motive), ioun stones 
+(dusty rose prism, orange prism), spell component pouches (2, one concealed, DC 58 to find), tender 
+(800gp, 40sp) 
+Spellbook all core wizard spells of 8
+th-level and lower plus astral projection, cold ice strike
+UM, dominate 
+monster, meteor swarm, particulate form
+MTT, ride the waves
+UM, summon monster IX, time stop, and 
+weird. 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 24 lb. 6 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Arcane Architect (Ex) You can create constructs with the Craft Construct feat in only half the time it would 
+normally take. In addition, you can apply the Extend Spell and/or Widen Spell metamagic feats to 
+conjuration (creation) spells you prepare, even if you do not possess those feats. 
+Artificer’s Touch (Sp) You can cast mending by expending one used of your hand of the apprentice ability. In 
+addition, you can cause damage to objects and construct creatures by striking them with a melee touch 
+attack. Objects and constructs take 1d6 points of damage +1 for every two caster levels you possess. 
+This attack bypasses an amount of damage reduction and hardness equal to your caster level. 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Call for Aid (Su) As a standard action, you can sacrifice a prepared spell of 2
+nd-level or higher to call a creature 
+bound to you, including an animal companion, eidolon, familiar, personally controlled construct or 
+undead creature, creature telepathically linked to you (including by telepathic bond, dominate person, or 
+dominate monster), or an outsider bound with a planar binding spell. The named creature appears 
+adjacent to you, or in the nearest open space if all adjacent squares are occupied. This ability functions 
+like greater teleport, except the range limit is determined by the level of the sacrificed spell: short (2
+nd–
+3rd), medium (4th–5th), long (6
+th–7th), unlimited (same plane) (8th), or unlimited (any plane) (9th). 
+Child of the Streets You gain a +1 trait bonus on Sleight of Hand checks, and Sleight of Hand is always a class 
+skill for you. 
+Dazing Touch (Sp) You can cause a living creature to become dazed for 1 round as a melee touch attack by 
+expending two uses of your hand of the apprentice ability. Creatures with more Hit Dice than your caster 
+level are unaffected. 
+Diviner’s Fortune (Sp) When you activate this school power by expending two uses of your hand of the 
+apprentice ability, you can touch any creature as a standard action to give it an insight bonus on all of its 
+attack rolls, skill checks, ability checks, and saving throws equal to ½ your caster level (minimum +1) 
+for 1 round. 
+Extradimensional Extension (Su) The duration of any spell you cast that creates an extradimensional space (or 
+demiplane) or moves creatures or objects through the Ethereal Plane is doubled as though affected by 
+the Extend Spell feat, without altering the level of the spell. Applications of Extend Spell do not stack 
+with this ability. 
+Greater Third Eye (Sp) You can activate your Eye of the Arclord as a swift action. In addition, you can 
+expend four uses of your hand of the apprentice while opening your third eye to gain greater arcane 
+
+sight or true seeing until the beginning of your next turn. You gain both effects if you expend eight uses 
+of this ability. 
+Hand of the Apprentice (Su) You cause your melee weapon to fly from your grasp and strike a foe before 
+instantly returning to you. As a standard action, you can make a single attack using a melee weapon at a 
+range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add 
+your Intelligence modifier on the attack roll instead of your Dexterity modifier (damage still relies on 
+Strength). This ability cannot be used to perform a combat maneuver. You can use this ability a number 
+of times per day equal to 3 + your Intelligence modifier. 
+Improved Third Eye (Sp) You can activate your Eye of the Arclord feat as a move action. You can expend 
+two uses of your hand of the apprentice ability to add the effect of arcane sight or see invisibility to the 
+benefits of your Eye of the Arclord for 1 minute (or until the duration of the Eye ends, whichever is 
+sooner). You can add both effects by expending four uses of this ability. 
+Metamagic Mastery (Su) You can apply any one metamagic feat that you know to a spell you are about to 
+cast. This does not alter the level of the spell or the casting time. You can use this ability once per day at 
+8th-level and one additional time per day for every two wizard levels you possess beyond 8th. Any time 
+you use this ability to apply a metamagic feat that increases the spell level by more than 1, you must use 
+an additional daily usage for each level above 1 that the feat adds to the spell. Even though this ability 
+does not modify the spell’s actual level, you cannot use this ability to cast a spell whose modified spell 
+level would be above the level of the highest-level spell that you are capable of casting. 
+Mystic Pedagogue (Ex) You add a bonus equal to ½ your arclord of Nex class level on Spellcraft checks to 
+learn a wizard spell or craft a magical item. 
+Ongoing Spells You have cast the contingency spell upon yourself. Should you ever be petrified, you are 
+immediately targeted by a stone to flesh effect. The following spells are also regularly active upon your 
+person: false life, mind blank, moment of prescience, overland flight, and ride the waves. All ongoing 
+spell effects function at 20th-caster level (and thus require a DC 31 caster level check to dispel) and their 
+effects are included in the above stats where appropriate. 
+Protective Ward (Su) As a standard action, you can create a 10-foot-radius field of protective magic centered 
+on you that lasts for a number of rounds equal to your Intelligence modifier by expending two uses of 
+your hand of the apprentice ability. All allies in this area (including you) receive a +1 deflection bonus 
+to their AC. This bonus increases by +1 for every five caster levels you possess. 
+Scholiast (Sp) You may use the protective ward, diviner’s fortune, and dazing touch abilities of the abjurer, 
+diviner, and enchanter specialist wizard classes (with a wizard level equal to your caster level), 
+respectively, by expending two uses of your hand of the apprentice ability. 
+Third Eye (Su) You can use your Eye of the Arclord feat one additional time per day, plus one additional time 
+per day for every two arclord of Nex levels beyond 1st (three times per day at 3rd-level, and so on). In 
+addition, while the eye is open, you can use the aid another action to grant an adjacent wizard a +1 
+bonus to their caster level and a +2 circumstance bonus on concentration checks for the next wizard 
+spell they cast before the beginning of your next turn. 
+Well-Informed You gain a +1 trait bonus on Diplomacy checks to gather information and Knowledge (local) 
+checks. Diplomacy is always a class skill for you. 

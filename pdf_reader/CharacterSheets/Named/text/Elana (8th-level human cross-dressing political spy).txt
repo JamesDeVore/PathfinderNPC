@@ -1,0 +1,130 @@
+
+
+Elana (formerly Elan) 
+Transgendered female human mesmerist 8 
+N Medium humanoid 
+Init +2; Senses Perception +6 
+Languages Common, Gnome, Sylvan 
+DEFENSE 
+AC 22, touch 14, flat-footed 22 (+6 armor, +2 deflection, +2 Dex, +2 natural) 
+hp 66 (8 HD) 
+Fort +7, Ref +11, Will +13 (+8 when emotionally unstable) 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee mwk sword cane +8/+3 (1d6+1) or 
+mwk sap +8/+3 (1d6+1 nonlethal) or 
+mwk whip +8/+3 (1d3+1 nonlethal) 
+Ranged +1 sling +10/+5 (1d6+2) or 
++1 sling +10/+5 (4d6+2) with lesser boulder bullet 
+Special Attacks bold stare (sapped magic, susceptibility), hypnotic stare (–3), mental potency +1, mesmerist 
+tricks 8/day (false flanker, fearsome guise, gift of will, mesmeric mirror, shadow splinter) 
+Mesmerist Spells Known (CL 8
+th; Concentration +13) 
+3rd  (3/day) – charm monster, deep slumber, glibness 
+2
+nd (5/day) – invisibility, knock, silence, suggestion 
+1st  (6/day) – detect secret doors, disguise self, expeditious retreat, faerie fire, grease 
+0  (at will) – dancing lights, detect magic, ghost sound, mage hand, message, prestidigitation 
+STATISTICS 
+Abilities Str 12 (+1), Dex 14 (+2), Con 14 (+2), Int 14 (+2), Wis 8 (–1), Cha 20 (+5) 
+Base Atk +6; CMB +7; CMD 21 
+Feats Craft Wondrous Item, Greater Spell Focus (enchantment), Intimidating Glance, PersuasiveB, Spell Focus 
+(enchantment) 
+Skills Appraise +7, Bluff +23, Diplomacy +21, Disguise +15, Escape Artist +13, Intimidate +21, Knowledge 
+(local) +7, Knowledge (nobility) +7, Perception +6, Perform (dance) +13, Sense Motive +10, Sleight of 
+Hand +13, Spellcraft +9, Stealth +13, Use Magic Device +15 
+SQ consummate liar +4, touch treatment 8/day (moderate) 
+Combat Gear lesser boulder bullets (4), sling bullets (10); Other Gear +1 sling, +2 glamered chain shirt, 
+amulet of natural armor +2, circlet of persuasion, cloak of resistance +2, four-leaf clover, gold jewelry 
+(350gp worth), lucky horseshoe, masterwork sword cane, masterwork sap, masterwork whip, ring of 
+protection +2, tender (39sp) 
+Encumbrance light 43 lb., medium 86 lb., heavy 130 lb.; Weight Carried 43 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bold Stare (Su) Your hypnotic stare imposes a further effect upon its target. All of your bold stare 
+improvements affect the target as long as it is affected by your hypnotic stare.  
+Consummate Liar You add ½ your mesmerist level (minimum 1) as a bonus on all Bluff checks. In addition, 
+you qualify for the Improved Feint and Greater Feint feats, even if you don’t have Combat Expertise or 
+an Intelligence score of at least 13. You can also ignore Combat Expertise and an Intelligence score of 
+13 as prerequisites for other feats that require Improved Feint or Greater Feint. 
+False Flanker (Su) A duplicate of you appears momentarily, as though you were fighting in tandem with the 
+subject. You can trigger this trick when the subject moves into or begins their turn in a square where 
+they threaten an enemy. An illusory duplicate of you appears in any unoccupied space adjacent to that 
+enemy. This duplicate counts as threatening the enemy for the purposes of determining flanking, but 
+can’t actually make attacks. The duplicate disappears at the end of the turn during which the trick is 
+
+triggered. This is an illusion (figment) effect, and a creature that interacts with the false flanker can 
+attempt a saving throw to disbelieve the effect. 
+Fearsome Guise (Su) A veil of illusion makes the subject appear to be someone else and then transform into a 
+hideous monster at an opportune time. While this trick is implanted, the subject’s appearance is altered, 
+as disguise self. The mesmerist can trigger this trick when the subject attacks a creature. The illusory 
+appearance briefly makes the subject appear monstrous, then ends. The mesmerist attempts an 
+Intimidate check to demoralize the target of the triggering attack. The restrictions on attempts to 
+demoralize a target (the target being within 30 feet and able to see and hear the creature attempting the 
+Intimidate check) apply to the subject of the trick. This is an illusion (glamer) effect. 
+Gift of Will (Su) A small portion of your vast mental power buttresses your ally’s mind. You can trigger this 
+trick when the subject attempts a Will saving throw or a Sense Motive check, or is targeted by an 
+Intimidate check to demoralize them. For a saving throw, the subject uses your Will saving throw bonus 
+instead of their own. For a Sense Motive check or Intimidate check, they adds your Charisma bonus as a 
+morale bonus on the check or to the DC. You can’t implant this trick on yourself. 
+Hypnotic Stare (Su) You can focus your stare on one creature within 30 feet as a swift action. That creature 
+takes a –3 penalty on Will saving throws. You can maintain your stare against only one opponent at a 
+time; it remains in effect until you stare at a new target, the opponent dies, the opponent moves farther 
+than 30 feet away, or you fall unconscious or die. You can remove the memory of your stare from the 
+target’s mind; the creature doesn’t remember that it was affected (nor does it realize that it is currently 
+being affected) unless you allow it. The hypnotic stare is a psychic effect, and relies more on your focus 
+than the target’s perception of your stare. It can’t be avoided in the same ways a gaze attack can. You 
+can use this ability even while blinded, but must succeed at a DC 20 concentration check to do so. 
+Staring at a creature requires your focus, so if you use a gaze attack or similar ability, you must target 
+the subject of your hypnotic stare or voluntarily end the stare. The penalties from multiple mesmerists’ 
+stares don’t stack, nor do they stack with penalties from witches’ evil eye hexes. This is a mind-affecting 
+effect. 
+Manifold Tricks (Su) Yoou can have two tricks implanted at a time. Each creature can still only be the subject 
+on one trick at a time. If you implant a new trick while you already have your maximum number of 
+concurrent tricks implanted, you must choose one implanted trick to dismiss without triggering (the 
+dismissed trick still expends a daily use of your tricks). 
+Mental Potency (Ex) You can affect more powerful creatures or a greater number of creatures than normal 
+with your mental effects. Both the HD limit and the total number of HD affected with each enchantment 
+or illusion spell you cast increases by 1. For enchantment and illusion spells you cast that target a 
+number of creatures greater than one, the number of creatures affected also increases by one (so a spell 
+that targets one creature per level would be affected, but a spell that targets only one creature would not 
+be). 
+Mesmeric Mirror (Su) Illusory images appear near the subject to throw off attackers. You can trigger this trick 
+when the subject is attacked or becomes the target of a spell that requires an attack roll. Two duplicate of 
+the subject appears, and the attacker must determine randomly which it hits (as mirror image). Each 
+image lasts for 1 minute per mesmerist level or until destroyed. This is an illusion (figment) effect. 
+Mesmerist Tricks (Su) You can create hypnotic bonds with your allies, implanting magical suggestions in their 
+minds that you can later activate. Each day, you can implant a number of these tricks equal to ½ your 
+mesmerist level (minimum 1) plus your Charisma bonus (if any). You can have only one trick implanted 
+at a given time, and implanting a new trick ends the previous one (you still lose the use of this ability 
+you spent on the previous trick). To implant a trick, you must take a standard action and either touch a 
+willing creature or implant the trick in yourself. A creature can be the subject of only one mesmerist 
+trick at a time. You can activate the trick as a free action when a triggering condition is met (as defined 
+in the trick’s description), even if it isn’t your turn. The subject must be within medium range (100 feet 
++ 10 feet per level) for you to trigger the trick. You monitor for the trick’s triggering condition through a 
+subtle telepathic connection, so you don’t need line of sight to trigger it—but anything that blocks 
+telepathic contact prevents you from triggering tricks. An implanted trick lasts until the next time you 
+regain your spells. Once triggered, a trick is no longer implanted, and can’t be triggered again until you 
+
+implant the trick again. The duration of the effect caused by triggering a trick is either instantaneous or 
+appears in the trick’s entry. The DC for any mesmerist trick or masterful trick that requires a saving 
+throw or skill check is 10 + ½ your mesmerist level + your Charisma modifier. Each daily use of 
+mesmerist tricks can be used to implant any trick you know. 
+Painful Stare (Su) When an attack that deals damage hits the target of your hypnotic stare, you can cause the 
+target to take an amount of additional damage equal to ½ your class level (minimum 1). You can use this 
+ability as a free action, and can use it even if it isn’t his turn. If you use this ability to increase your own 
+damage, the additional damage increases by 1d6 points for every 3 class levels you possess. This 
+damage is precision damage and is not multiplied on a critical hit. You can trigger this ability only once 
+per round, but a single creature can take damage from multiple mesmerists’ painful stares in a round. 
+Sapped Magic (Su) The hypnotic stare penalty also applies to the DCs of spells and spell-like abilities used by 
+the target, and to the target’s spell resistance (if any). 
+Susceptibility (Su) The hypnotic stare penalty also applies to the target’s Sense Motive checks to oppose Bluff 
+checks, and to the DCs of Diplomacy and Intimidate checks made against the target. 
+Touch Treatment (Su) You can help allies shake off harmful conditions—especially those that affect their 
+minds—by channeling psychic energy through your healing hands. You can use touch treatment a 
+number of times per day equal to 3 + your Charisma modifier. Using the ability is a standard action (or a 
+swift action if you use it on yourself), and you must be able to touch your target. You can remove one 
+condition from one target each time you use this ability. You can remove any of the following 
+conditions: confused, dazed, fascinated, frightened, shaken, or sickened. 
+Towering Ego (Su) You gain a bonus equal to your Charisma bonus (minimum 0) on Will saving throws. If 
+you are under any effect that would prevent you from providing the emotional component of psychic 
+spells, you lose this bonus on saving throws. 

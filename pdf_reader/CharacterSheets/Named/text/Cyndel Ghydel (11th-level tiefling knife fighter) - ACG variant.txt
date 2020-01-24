@@ -1,0 +1,90 @@
+
+
+Cyndel Ghydel 
+Female tiefling slayer 11 
+CG Medium outsider (native) 
+Init +4; Senses darkvision 60 ft.; Perception +14 
+Languages Abyssal, Common, Infernal 
+DEFENSE 
+AC 24, touch 15, flat-footed 20 (+9 armor, +1 deflection, +2 Dex, +2 
+natural) 
+hp 118 (11 HD) 
+Fort +11, Ref +13, Will +5 
+DR 2/–; Resist fire 5 
+OFFENSE 
+Speed 30 ft. (6 squares); 40 ft. when charging, running, or withdrawing 
+Melee +1 wounding kukri +17/+12/+7 (1d4+5 plus 1 bleed/19-20/×3) and 
+bite +10 (1d6+2) or 
++1 wounding kukri +15/+10/+5 (1d4+5 plus 1 bleed/19-20/×3) and 
++1 wounding kukri +15/+10/+5 (1d4+5 plus 1 bleed/19-20/×3) and 
+bite +10 (1d6+2) with Improved Two-Weapon Fighting 
+Ranged mwk throwing knives +16/+11/+6 (1d4+4) or 
+mwk throwing knives +14/+9/+4 (1d4+4) and 
+mwk throwing knives +14/+9/+4 (1d4+4) with Two-Weapon Fighting 
+Special Attacks maw, sneak attack +3d6, studied target +3 (3 targets) 
+Spell-Like Abilities (CL 11
+th; Concentration +10) 
+1/day – darkness 
+STATISTICS 
+Abilities Str 18 (+4), Dex 18 (+4), Con 14 (+2), Int 12 (+1), Wis 10 (+0), Cha 8 (–1) 
+Base Atk +11; CMB +15 (+17 with kukris); CMD 29 
+Feats Dazzling Display, Double Slice, Greater Two-Weapon Fighting
+B, Improved Critical (kukri), Improved 
+Two-Weapon Fighting
+B, Two-Weapon Fighting
+B, Two-Weapon Rend (1d10+6 damage), Violent 
+Display, Weapon Focus (kukri) 
+Skills Acrobatics +14 (+19 when jumping), Climb +19, Intimidate +13, Perception +14, Stealth +19, Survival 
++14 (+19 tracking), Swim +19; Armor Check Penalty –4 
+SQ fiendish sprinter, prehensile tail, scaled skin, slayer talents (ranger combat style: two-weapon 
+combat ×3, snap shot, unwitting ally), track +5 
+Combat Gear bandages of rapid recovery (6), potions (cure light wounds 6); Other Gear +1 wounding kukris 
+(2), +3 adamantine chainmail, amulet of natural armor +1, boots of striding and springing, cloak of 
+Elvenkind (doubles as a cloak of resistance +2), gloves of swimming and climbing, hat of disguise, 
+masterwork throwing knives (as darts, 10), ring of protection +1, tender (29gp), traveler’s any-tool 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 52 lb. 6 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Fiendish Sprinter You gain a 10-foot racial bonus to your speed when using the charge, run, or withdraw 
+actions. 
+Maw You possess a bite attack that deals 1d6 points of damage. It is a primary natural attack. 
+Prehensile Tail You possess a long, flexible tail that can be used to carry items. While you cannot wield 
+weapons with your tail, you can use it to retrieve small, stowed objects carried on your person as a swift 
+action. 
+Scaled Skin You gain fire resistance 5 and a +1 natural armor bonus to AC. 
+Snap Shot (Ex) You may treat your initiative roll as a 20 for a surprise round, regardless of your initiative, but 
+you may only take an attack action with a ranged weapon. Your normal initiative roll is used in 
+subsequent rounds. If two or more characters possess this talent, their initiative determines the order in 
+
+which they act, but they all go before any other creature. If you are prevented from acting in the surprise 
+round, this talent has no effect. 
+Sneak Attack Your attack deals 3d6 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. This bonus 
+damage is considered precision damage. Should you score a critical hit with precision damage is not 
+multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet. With a weapon 
+that deals nonlethal damage (like a sap, whip, or an unarmed strike), you can make a sneak attack that 
+deals nonlethal damage instead of lethal damage. You cannot use a weapon that deals lethal damage to 
+deal nonlethal damage in a sneak attack, not even with the usual –4 penalty. You must be able to see the 
+target well enough to pick out a vital spot and must be able to reach such a spot. You cannot sneak 
+attack while striking a creature with concealment. 
+Stalker (Ex) You gain your studied target bonus on Disguise, Intimidate, and Stealth checks against your 
+studied opponent. 
+Studied Target (Ex) You can study up to three opponents you can see as a move or swift action. You then gain 
+a +3 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks attempted against 
+those opponents, and a +3 bonus on weapon attack and damage rolls against it. The DCs of your slayer 
+class abilities against those opponents increase by 3. You can only maintain these bonuses against three 
+opponents at a time; these bonuses remain in effect until either the opponents are dead or you study new 
+targets. If you deal sneak attack damage to a target, you can study that target as an immediate action, 
+allowing you to apply your studied target bonuses against that target (including to the normal weapon 
+damage roll). You may discard this connection to a studied target as a free action, allowing you to study 
+another target in its place. 
+Swift Tracker (Ex) You can move at your normal speed while using Survival to follow tracks without taking 
+the normal –5 penalty. When moving at up to twice your normal speed while tracking, you take only a 
+–10 penalty instead of the normal –20. 
+Track (Ex) You add ½ your slayer level (minimum 1) to Survival skill checks made to follow tracks. 
+Unwitting Ally (Ex) You can spend a swift action to attempt to make an opponent act like an ally for the 
+purposes of providing a flank until the beginning of your next turn. The opponent must be able to hear 
+and see you, and you must succeed at a Bluff check opposed by the opponent’s Sense Motive. If the 
+check succeeds, the opponent acts as an ally for the purpose of providing a flank. Whether or not the 
+check succeeds, you cannot use this trick again on the same opponent for the next 24 hours. If you fail 
+the check by 5 or more, you cannot use the unwitting ally ability on any opponent within line of sight of 
+the failed attempt for 24 hours. 

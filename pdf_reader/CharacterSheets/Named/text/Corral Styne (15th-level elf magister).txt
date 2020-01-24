@@ -1,0 +1,182 @@
+
+
+Corral Styne 
+Female elf diviner 15 
+NG Medium humanoid (elf) 
+Init +10; Senses arcane sight, darkvision 60 ft., low-light vision, see 
+invisibility; Perception +18 
+Languages comprehend languages, tongues; Common, Draconic, Elven, 
+Goblin, Gnoll, Orc 
+DEFENSE 
+AC 17, touch 13, flat-footed 14 (+4 armor, +3 Dex); mage armor 
+hp 129 plus false life (15 HD) 
+Fort +10, Ref +13, Will +15; +2 vs. enchantment effects 
+Defensive Abilities mind blank; DR 10/magic vs. ranged weapons; Immune 
+magical sleep 
+OFFENSE 
+Speed 40 ft. (8 squares), fly 40 ft. (average); overland flight 
+Melee mwk longsword +7/+2 (1d8–1/19-20) or 
+mwk dagger +7/+2 (1d4–1/19-20) 
+Ranged mwk dagger +11 (1d4–1/19-20) 
+Arcane School Spell-Like Abilities (CL 15
+th; Concentration +24) 
+12/day – diviner’s fortune (+7) 
+Wizard Spells Prepared (CL 15
+th, or CL 17th against SR; Concentration +24) 
+8th  (3/day) – heightened flesh to stone, mind blank, moment of prescience 
+7th  (4/day) – elemental body IV (2), greater scrying, project image 
+6
+th  (5/day) – chain lightning, freezing sphere, legend lore
+MF, mislead, planar binding 
+5th  (7/day) – cloudkill, contact other plane, dominate personO, extended overland flight, mirage arcana, 
+teleport 
+4th  (7/day) – arcane eye, extended heroism
+O, extended protection from arrows, fire shield, greater 
+invisibility, intensified fireball 
+3rd  (7/day) – clairaudience/clairvoyance, extended false life
+O, extended mirror image (2), haste, slow 
+2nd (7/day) – acid arrow, detect thoughts, extended mage armor, resist energy (2), scorching ray, 
+shatter 
+1
+st  (8/day) – disguise self, endure elements, feather fall, grease, magic aura (cast on Arian), silent 
+image, true strike, unseen servant 
+0  (at will) – detect poison, mending, message, prestidigitation 
+Arcane School divination; O Opposition school spell; Opposition Schools enchantment, necromancy 
+STATISTICS 
+Abilities Str 8 (–1), Dex 16 (+3), Con 16 (+3), Int 28 (+9), Wis 12 (+1), Cha 10 (+0) 
+Base Atk +7; CMB +6; CMD 19 
+Feats Cooperative Crafting, Craft Staff
+B, Craft Wondrous ItemB, Eschew Materials, Extend Spell, Heighten 
+SpellB, Intensified Spell, Preferred Spell (dispel magic, lightning bolt, magic missile), Reach Spell, 
+Scribe Scroll
+B 
+Skills Acrobatics +12, Craft (alchemy) +22, Craft (all others) +13, Bluff +15, Diplomacy +15, Disguise +15, 
+Fly +21, Knowledge (arcana) +27, Perception +18, Sense Motive +16, Spellcraft +27 (+29 to create or 
+identify magic items), Stealth +18; Racial Bonuses +2 Perception 
+SQ arcane bond (ring), elven magic, forewarned, scrying adept, weapon familiarity 
+Combat Gear arcane spell scrolls (limited wish [2], reach vampiric touch [long range]), foci (contingency, 
+legend lore); material component (legend lore/vision); Other Gear Arian (see below, bonded object), 
+belt of mighty constitution +4, blessed books (2; 419 pages left), boots of striding and springing, cloak 
+of resistance +5, headband of vast intellect +6 (Disguise, Fly, Stealth), masterwork dagger, masterwork 
+longsword, ring of blinking, simulacrum double (see below), spell component pouch (for show), staff of 
+lament (see below), tender (523gp) 
+
+Spellbook 8th—clone
+MF O, mind blank, moment of prescience; 7th—elemental body IV, greater scrying, limited 
+wish
+M, project image, sequester, simulacrum; 6th-level and below—all core spells 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 19 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Diviner’s Fortune (Sp) When you activate this school power, you can touch any creature as a standard action 
+to give it an insight bonus on all of its attack rolls, skill checks, ability checks, and saving throws equal 
+to ½ your wizard level (minimum +1) for 1 round. You can use this ability a number of times per day 
+equal to 3 + your Intelligence modifier. 
+Forewarned (Su) You can always act in the surprise round even if you fail to make a Perception roll to notice a 
+foe, but you are still considered flat-footed until you take an action. In addition, you receive a bonus on 
+initiative checks equal to ½ your wizard level. 
+Ongoing Spells You have cast the contingency spell upon yourself. Should you ever be made helpless against 
+your will (such as when knocked unconscious, paralyzed, petrified, securely bound, or forcefully put to 
+sleep), you are immediately teleported (as per the teleport spell) to the nearest known temple dedicated 
+to your deity. Your person carries upon it a note with detailed instructions for the temple’s priests should 
+you not be in a position to direct them to your aid personally. Additionally, you have used the 
+permanency spell to make the following spell effects permanent in regards to yourself: arcane sight, 
+comprehend languages, darkvision, see invisibility, and tongues. The following spells are also regularly 
+active upon your person: endure elements, false life, mage armor, mind blank, moment of prescience, 
+overland flight, and protection from arrows. Additionally, should all your magical contingencies and 
+protections fail, you have a clone body waiting in a secret laboratory to be resurrected. All ongoing spell 
+effects function at 15
+th-caster level (and thus require a DC 26 caster level check to dispel) and their 
+effects are included in the above stats where appropriate. 
+Scrying Adept (Su) You are always aware when you are being observed via magic, as if you had a permanent 
+detect scrying. In addition, whenever you scry on a subject, treat the subject as one step more familiar to 
+you. Very familiar subjects get a –10 penalty on their save to avoid your scrying attempts. 
+Weapon Familiarity Elves are proficient with longbows (including composite longbows), longswords, rapiers, 
+and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name 
+as a martial weapon. 
+   
+
+Corral Styne simulacrum doubles (2) (as above, except as follows) 
+Female elf diviner 7 
+Init +6; Senses low-light vision; Perception +9 
+Languages Common, Draconic, Elven, Goblin, Gnoll, Orc 
+DEFENSE 
+AC 17, touch 13, flat-footed 14 (+4 armor, +3 Dex); mage armor 
+hp 47 plus false life (7 HD) 
+Fort +3, Ref +5, Will +5; +2 vs. enchantment effects 
+OFFENSE 
+Speed 30 ft. (8 squares), fly 40 ft. (average); overland flight 
+Melee by weapon +2 
+Arcane School Spell-Like Abilities (CL 7
+th; Concentration +13) 
+8/day – diviner’s fortune 
+Wizard Spells Prepared (CL 7
+th, or CL 9th against SR; Concentration +13) 
+4th  (3/day) – arcane eye, greater invisibility, overland flight 
+3
+rd  (4/day) – clairaudience/clairvoyance, fireball (3) 
+2nd (5/day) – detect thoughts, false life
+O, mirror image, scorching ray 
+1st  (7/day) – disguise self, feather fall, grease, identify, mage armor, protection from evil, shield 
+0  (at will) – detect poison, mending, message, prestidigitation 
+STATISTICS 
+Abilities Str 8 (–1), Dex 16 (+3), Con 12 (+1), Int 21 (+5), Wis 11 (+0), Cha 10 (+0) 
+Base Atk +3; CMB +2; CMD 15 
+Feats Cooperative Crafting, Craft Wondrous Item, Heighten Spell
+B, Preferred Spell (lightning bolt, magic 
+missile), Scribe Scroll
+B 
+Skills Craft (alchemy +10), Bluff +7, Diplomacy +7, Knowledge (arcana) +15, Perception +9, Sense Motive 
++7, Spellcraft +15 (+17 to identify magical items); Racial Bonuses +2 Perception 
+SQ arcane bond (mundane ring), diviner’s fortune +3, forewarned +3, simulacrum traits 
+Combat Gear none; Other Gear blessed books (2; 419 pages left, books split between sims), identical clothing 
+and accoutrements (non-functional), spell component pouch 
+ 
+ARIAN, RING OF MEMORY 
+Price 151,500 gp; Aura strong transmutation; CL 15th; Weight – 
+Alignment neutral good; Senses 120 ft., darkvision, blindsense, hearing, read languages, and read magic 
+Intelligence 14; Wisdom 10; Charisma 10; Ego 19 
+Language speech, telepathy (Common, Elven, Sylvan, Treant) 
+Powers Item has 5 ranks in Knowledge (local) (+7), Knowledge (geography) (+7), and Knowledge (nature) 
+(+7) 
+Special Purpose defend elvenkind (excluding drow). 
+Dedicated Powers dimension door at will. 
+ 
+All rings of memory are powerful, sentient, magical rings that have been created by being infused with a portion 
+of a sentient creature’s departed spirit (very much like a soulbound doll). They possess the personality of the 
+deceased, and also demonstrate random memories of the subject as well. Because their powers and abilities are 
+based on a once living individual, rings of memory are always unique from one another. However, they all share 
+the above-mentioned traits and are always worth at least 75,000gp in magical abilities. An example ring of 
+memory is shown below: 
+ 
+Arian was Corral’s husband and a great linguist and sage of the natural world responsible for building up much 
+of the Elven forest kingdom.  While traveling abroad he was murdered by orc marauders. So distraught was 
+Corral when she divined her lover’s death, she sought out and single-handedly annihilated the orcs responsible, 
+followed shortly thereafter by the remainder of their entire tribal horde. She then tracked down her husband’s 
+
+remains and gave him a proper burial. Via a lengthy magical ritual, she then linked her most precious 
+possession—her wedding band—to his departed soul. Though only a shadow of his memory, the newly sentient 
+ring of telekinesis has since become both a powerful ally and a comforting reminder of happier times long gone. 
+ 
+Arian, the ring, is incredibly intelligent and knowledgeable of the natural world, though it contains only a 
+fraction of the knowledge the living Arian once had. Like the living Arian, it is extremely fond and protective of 
+Corral. It also strives to protect elves and the natural world in general. Because of its memories, Arian 
+sometimes confuses itself for Corral’s once living husband. 
+CONSTRUCTION 
+Requirements Forge Ring, the soul of a willing sentient creature of at least 10th-level, telekinesis; Cost 75,500 
+gp 
+ 
+STAFF OF LAMENT 
+Aura Moderate Evocation; CL 9th 
+Slot –; Price 90,000 gp; Weight 5 lb. 
+DESCRIPTION 
+A powerful weapon carved from orc bone, this staff was created by Corral to aid her in the destruction of her 
+husband’s murderers. This magical staff possesses the following spells: 
+  •  Cone of cold (1 charge) 
+•  Extended acid arrow (1 charge) 
+•  Intensified fireball (1 charge) 
+•  Intensified lightning bolt (1 charge) 
+•  Reach magic missile (long range) (1 charge) 
+ 
+CONSTRUCTION 
+Requirements Craft Staff, Extend Spell, Intensified Spell, Reach Spell, acid arrow, cone of cold, fireball, 
+lightning bolt, magic missile; Cost 45,000 gp 

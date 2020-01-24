@@ -1,0 +1,96 @@
+
+
+Dirgah Hammerhead (aka Old Saltbeard) 
+  
+
+Male dwarf rogue 6/Inner Sea pirate 2 (pirate) 
+NE Medium humanoid (dwarf) 
+Init +2; Senses darkvision 60 ft.; Perception +12 
+Languages Common, Dwarven, Giant, Gnome 
+DEFENSE 
+AC 29, touch 16, flat-footed 27 (+7 armor, +2 deflection, +2 Dex, +1 
+insight, +1 luck, +3 natural, +3 shield) 
+hp 80 (8 HD) 
+Fort +9, Ref +10, Will +6; +4 vs. spells and spell-like abilities; +2 vs. fear, 
+illusions, mind-affecting effects, poison (+4 if ingested), and 
+anything that causes the nauseated, sickened, staggered and stunned 
+conditions* 
+Defensive Abilities evasion, negate critical hit or sneak attack 1/day, 
+uncanny dodge, unflinching +2 
+OFFENSE 
+Speed 20 ft. (4 squares), climb 20 ft. 
+Melee +2 battleaxe +9 (1d8+4/×3) or 
+Brine’s sting +8 (1d6+3/18-20) or 
+vindictive harpoon +8 (1d8+4/×3) or 
++1 menacing armor spikes +4 (1d6+3) 
+Ranged mwk underwater light crossbow +8 (1d8/19-20) or 
+vindictive harpoon +8 (1d8+3/×3) 
+Special Attacks sneak attack +4d6 
+STATISTICS 
+Abilities Str 14 (+2), Dex 14 (+2), Con 16 (+3), Int 14 (+2), Wis 14 (+2), Cha 13 (+1) 
+Base Atk +5; CMB +7; CMD 23 (25 vs. bull rush or trip); Hero Points 1 
+Feats Hard-Headed, Ironguts, Ironhide, Sea Legs
+B, Steel Soul 
+Skills Acrobatics +15 (+12 to jump; may take 10 to move over narrow surfaces), Appraise +13, Climb +11, 
+Diplomacy +8, Disable Device +11, Escape Artist +9, Intimidate +8, Perception +13, Profession (sailor) 
++13, Sense Motive +12, Sleight of Hand +9, Stealth +12, Survival +12 (+14 to find food for yourself), 
+Swim +12 
+SQ pirate trick (storm sailor), rogue talents (offensive defense, rope master), saltbeard, traits (peg leg, skeptic), 
+weapon familiarity 
+Combat black adder poison (10, on bolts), crossbow bolts (50), oil of taggit (8, in hip flask), tanglefoot bag; 
+Other Gear +1 spiked gauntlets (2), +2 battleaxe, +2 light bone shield, +3 darkleaf cloth lamellar 
+leather armor with +1 menacing armor spikes, amulet of natural armor +2, Brine’s sting, cloak of 
+resistance +2 (doubles as muleback cords), dusty rose prism ioun stone (trapped under hat), jingasa of 
+the fortunate soldier, masterwork backpack, masterwork thieves’ tools (concealed in peg leg, DC 31), 
+masterwork underwater light crossbow, necklace of bones (worth 4gp), personal booty (see below), ring 
+of protection +2, robe of infinite twine, slippers of spider climb, steadfast grapple, Svingli’s eye, tender 
+(496gp, 2sp, 3cp), traveler’s any-tool, vindictive harpoon (used as a spear), Whalebone Pilk’s tricorne 
+Encumbrance light 200 lb., medium 400 lb., heavy 600 lb.; Weight Carried 86 lb. 8 oz. (excluding tender) 
+ 
+* The bonuses for meeting multiple conditions stack. For example, you gain a +10 bonus to saves against a 
+mind-affecting illusion spell with the fear descriptor, such as phantasmal killer. 
+   
+
+ 
+SPECIAL ABILITIES 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. Evasion can be used only if you are wearing light 
+armor or no armor. If you are helpless, you do not gain the benefit of evasion. 
+Greed You gain a +2 racial bonus on Appraise skill checks made to determine the price of goods found in or 
+under the water. 
+Offensive Defense (Ex) When a rogue with this talent hits a creature with a melee attack that deals sneak attack 
+damage, the rogue gains a +1 dodge bonus to AC for each sneak attack die rolled for 1 round. 
+Peg Leg You possess a peg leg, though you suffer none of the drawbacks for having it. You gain a +1 trait 
+bonus on Fortitude saves as well as a +1 trait bonus on damage rolls against sharks and other animals 
+with the aquatic subtype. 
+Rope Master (Ex) You can move at your normal speed when using rope on a Climb check, can take 10 when 
+using Acrobatics to move over narrow surfaces even when in danger or distracted, and gain a +4 bonus 
+when determining the DC to escape bonds when you tie up a creature. 
+Saltbeard You gain a +2 bonus on Profession (sailor) and Survival checks while at sea. You also gain a +1 
+racial bonus on attack rolls and a +2 dodge bonus to AC against creatures with the aquatic or water 
+subtype. 
+Skeptic You gain a +2 trait bonus on all saving throws against illusions. 
+Storm Sailor (Ex) You treat all storms as if they were one category less severe for the purposes of sailing and 
+navigation. (This benefit stacks with the Hurricane Savvy character trait and other effects related to wind 
+conditions.) You can make an Acrobatics check to move your normal speed across uneven ground, and 
+you do not take a penalty on any Acrobatics checks due to slightly slippery, slightly unsteady, or 
+moderately unsteady conditions. 
+Swinging Reposition (Ex) You can incorporate a ship’s masts, rigging, ropes, sails, and other such structures 
+into your combat style. Provided you are wearing light armor, when fighting in an environment where 
+such structures exist, you incorporate them into your Acrobatics checks by grabbing hold of the structure 
+and swinging toward your opponent, making either a charge or a bull rush maneuver. Once you 
+complete your attack or maneuver, you can reposition yourself. Immediately after making the charge or 
+bull rush, you can move 5 feet as a free action, even if the charge ends your turn. This movement does 
+not provoke attacks of opportunity. 
+Uncanny Dodge (Ex) You retain your Dexterity bonus to AC even if you are caught flat-footed or struck by an 
+invisible attacker. However, you still lose your Dexterity bonus to AC if immobilized. 
+Unflinching (Ex) You gain a +1 bonus on saving throws against fear and mind-affecting effects. This bonus 
+increases by +1 for every three rogue levels, to a maximum of +6 at 18th-level. 
+Weapon Familiarity You are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon 
+with the word “dwarven” in its name as a martial weapon. 
+ 
+PERSONAL BOOTY   
+You generally keep the following additional items within your personal locker onboard ship: acid (3), assorted 
+gems (worth 500gp), buckler, chain shirt, crossbow bolts (212), cutlass, daggers (4), leather armor, light 
+crossbow, masterwork dagger, studded leather armor. 
+ 

@@ -1,0 +1,84 @@
+
+
+Fire-Eye Sang 
+  
+
+Male vanara fighter 4/monk 4 (free hand fighter, master of many styles) 
+LE Medium humanoid (vanara) 
+Init +4; Senses low-light vision; Perception +17 
+Languages Aklo, Common, Vanaran 
+DEFENSE 
+AC 30, touch 24, flat-footed 24 (+4 armor, +4 Dex, +2 deflection, +1 dodge, 
++2 monk, +2 natural, +5 Wis) 
+hp 65 (8 HD) 
+Fort +10, Ref +10, Will +11; +2 vs. enchantment 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 40 ft. (8 squares), climb 20 ft., swim 30 ft. 
+Melee unarmed strike +13/+8 (1d10+6) or 
+unarmed strike +11/+6 (1d10+10) with Power Attack, or 
+kama +10/+5 (1d6+3) 
+Ranged composite longbow +10/+5 (1d8/×3) 
+Special Attacks stunning fist (5/day, DC 17), unarmed strike (1d10) 
+STATISTICS 
+Abilities Str 16 (+3), Dex 18 (+4), Con 13 (+1), Int 15 (+2), Wis 20 (+5), Cha 10 (+0) 
+Base Atk +7; CMB +11 (+15 with trip); CMD 33 (37 vs. bull rush, 38 vs. trip); Hero Points 1 
+Feats Combat Expertise, Combat Reflexes (5 AoO’s/round), Crane RiposteB, Crane StyleB, Crane Wing, 
+Greater Trip, Improved TripB, Power AttackB (–2 attack, +2/+4/+6 damage), Stunning FistB, Vicious 
+StompB 
+Skills Acrobatics +17, Climb +16, Craft (carpentry) +7, Craft (shipbuilding) +8, Knowledge (religion) +6, 
+Perception +17, Profession (sailor) +17 (reroll 1/week), Stealth +17, Swim +19; Racial Bonuses +2 
+Acrobatics, +2 Stealth 
+SQ elusive, fuse style, ki pool (5 points, magic), slow fall 20 ft., traits (Besmara’s blessing, bullied), whitecap 
+Combat Gear alchemist’s fire, arrows (18), marbles (8), potions/oils (goodberry, magic fang, remove fear); 
+Other Gear +1 guided amulet of mighty fists (doubles as amulet of natural armor +2), +1 keen falcata 
+(not carried), ancient mariner’s deep platinum necklace, belt of giant strength +2, bracers of armor +4, 
+cloak of resistance +1, compass, composite longbow, false eye-patch, fishing net, flask, flint and steel, 
+grappling hook, helm of underwater action, kamas (2), headband of mental superiority +2 (stealth), 
+lucky rabbit’s foot, masterwork silver dagger, monk’s robes, ring of protection +2, shackles of 
+compliance, signal horn, silk rope (50-foot length), soap (½ lb.), tanglefoot bag, tender (3,748gp, 8sp, 
+4cp) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 56 lb. 12 oz. (excluding tender) 
+ 
+   
+
+SPECIAL ABILITIES 
+AC Bonus (Ex) When unarmored and unencumbered, you add your Wisdom bonus +0 to your AC and your 
+CMD (included above). These bonuses to AC apply even against touch attacks or when you are flat-
+footed. You lose these bonuses when you are immobilized or helpless, when you wear any armor, or 
+when you carry a shield or medium or greater load. 
+Besmara’s Blessing You gain a +1 trait bonus on Perception and Profession (sailor) checks. In addition, once 
+per week you can reroll a Profession (sailor) check and take the higher result (you must announce that 
+you are using this ability before the results of the check are known). 
+Bullied You gain a +1 trait bonus on attacks of opportunity attack rolls made with unarmed strikes. 
+Elusive (Ex) At 3rd level, a free hand fighter gains a +1 dodge bonus to AC. 
+Evasion (Ex) You can avoid damage from many area-effect attacks. If you make a successful Reflex saving 
+throw against an attack that normally deals half damage on a successful save, you instead take no 
+damage. Evasion can be used only if you are wearing light armor or no armor. You do not gain the 
+benefit of evasion while helpless. 
+Fuse Style (Ex) You can fuse two of the styles you know into a more perfect style. You can have two style feat 
+stances active at once. Starting a stance provided by a style feat is still a swift action, but when you 
+switch to another style feat, you can choose one style whose stance is already active to persist. You may 
+only have two style feat stances active at a time. 
+Ki Pool (Su) You gain ki points equal to half your monk level + your Wis modifier. As long as you have at 
+least 1 point in your ki pool, you can make a ki strike. Your ki strike allows your unarmed attacks to be 
+treated as magic and lawful weapons for the purpose of overcoming damage reduction. By spending 1 
+point from your ki pool, you can make one additional attack at your highest attack bonus when making a 
+flurry of blows attack. In addition, you can spend 1 point to increase your speed by 20 feet for 1 round. 
+Finally, you can spend 1 point from your ki pool to give yourself a +4 dodge bonus to AC for 1 round. 
+Each of these powers is activated as a swift action. The ki pool is replenished each morning after 8 hours 
+of rest or meditation; these hours do not need to be consecutive. 
+Slow Fall (Ex) When within arm’s reach of a wall you can use it to slow your descent. You take damage as if 
+the fall were 20 feet shorter than it actually is. 
+Stunning Fist (Ex) You gain Stunning Fist as a bonus feat, even if you do not meet the prerequisites. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat. Your attacks may be with fist, elbows, 
+knees, and feet. This means that you may make unarmed strikes with his hands full. There is no such 
+thing as an off-hand attack for you. You may apply your full Strength bonus on damage rolls for all of 
+your unarmed strikes. Usually your unarmed strikes deal lethal damage, but you can choose to deal 
+nonlethal damage instead with no penalty on your attack roll. You have the same choice to deal lethal or 
+nonlethal damage while grappling. Your unarmed strike is treated as both a manufactured weapon and a 
+natural weapon for the purpose of spells and effects that enhance or improve either manufactured 
+weapons or natural weapons. You deal more damage with your unarmed strikes than a normal person 
+would, as shown above. 
+Whitecap You gain a +4 racial bonus to CMD when resisting a bull rush or trip. 
+ 

@@ -1,0 +1,108 @@
+
+
+Sajan “Floating Mountain” Viraj 
+Male human unchained monk 10 
+LG Medium humanoid (human) 
+Init +4; Senses Perception +16 
+Languages Common 
+DEFENSE 
+AC 26, touch 23, flat-footed 21 (+3 armor, +2 deflection, +4 Dex, +1 dodge, 
++3 monk, +3 Wis) 
+hp 100 (10 HD) 
+Fort +11, Ref +13, Will +8; +2 vs. enchantment effects 
+Defensive Abilities improved evasion; Immune disease, falling damage 
+OFFENSE 
+Speed 70 ft. (14 squares) 
+Melee unarmed strike +16/+11 (2d6+6) or 
+unarmed strike +16/+16/+11 (2d6+6) with Flurry of Blows 
+Ranged javelin +14/+9 (1d6+5) 
+Special Attacks flurry of blows, stunning fist (10/day, DC 18), style strike (flying kick, head-butt) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 18 (+4), Con 14 (+2), Int 10 (+0), Wis 16 (+3), Cha 8 (–1) 
+Base Atk +10; CMB +15; CMD 38 
+Feats Dirty Fighting, DodgeB, Fleet (2), Just Out of Reach, Mobility
+B, Skill Focus (acrobaticsB, escape artist
+B), 
+Spider Step, Spring AttackB, Stunning FistB 
+Skills Acrobatics +23 (+49 when jumping), Climb +13, Escape Artist +23, Perception +16, Stealth +17, Swim 
++13 
+SQ fast movement, focused study, ki pool (9 points; cold iron, lawful, magic, silver), ki powers (high 
+jump, slow fall, sudden speed, wind jump), purity of body, still mind 
+Combat Gear potions (cure light wounds 5, enlarge person 5, reduce person 5); Other Gear amulet of mighty 
+fists +1, belt of physical might +2 (strength, dexterity), bracers of armor +3, cloak of resistance +2, 
+feather step slippers, grappler’s mask, headband of inspired wisdom +2, javelins (6), monk’s robe, ring 
+of feather falling, ring of protection +2, tender (4pp, 4gp) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 22 lb. 15 oz. (excluding tender) 
+SPECIAL ABILITIES 
+AC Bonus (Ex) When unarmored and unencumbered, you add your Wisdom bonus +3 to your AC and your 
+CMD (included above). These bonuses to AC apply even against touch attacks or when you are 
+flat-footed. You lose these bonuses when you are immobilized or helpless, when you wear any armor, or 
+when you carry a shield or medium or greater load. 
+Fast Movement (Ex) If wearing no armor and not carrying a medium load, you gain a +30 enhancement bonus 
+to your base land speed. 
+Flurry of Blows (Ex) You can make a flurry of blows as a full-attack action. When making a flurry of blows, 
+you can make two additional attacks at your highest base attack bonus. These additional attacks stack 
+with the bonus attacks from haste and other similar effects. When using this ability, you can make these 
+attacks with any combination of your unarmed strikes and weapons that have the monk special weapon 
+quality. You take no penalty for using multiple weapons when making a flurry of blows, but you do not 
+gain any additional attacks beyond what’s already granted by the flurry for doing so. (You can still gain 
+additional attacks from a high base attack bonus, from this ability, and from haste and similar effects). 
+High Jump (Ex) You add your monk level as a bonus on all Acrobatics checks to jump, both for vertical jumps 
+and horizontal jumps. In addition, you always count as having a running start when attempting 
+Acrobatics checks to jump. By spending 1 point from your ki pool as a swift action, you gain a +20 
+bonus on Acrobatics checks to jump for 1 round. 
+
+Improved Evasion (Ex) You can avoid damage from many area-effect attacks. If you succeed at a Reflex 
+saving throw against an attack that normally deals half damage on a successful save, you instead take no 
+damage. If you fail, you only take half damage. You can only use evasion while wearing light armor or 
+no armor and are not helpless. 
+Ki Pool (Su) You gain a pool of ki points, supernatural energy you can use to accomplish amazing feats. The 
+number of points in your ki pool is equal to ½ your monk level + your Wisdom modifier. As long as you 
+have at least 1 point in your ki pool, you can make a ki strike. A ki strike allows your unarmed attacks to 
+be treated as cold iron, lawful, magic, silver weapons for the purpose of overcoming damage reduction. 
+By spending 1 point from your ki pool as a swift action, you can make one additional unarmed strike at 
+your highest attack bonus when making a flurry of blows attack. This bonus attack stacks with all bonus 
+attacks gained from flurry of blows, as well as those from haste and similar effects. The ki pool is 
+replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. 
+Purity of Body (Ex) You gain immunity to all diseases, including supernatural and magical diseases. 
+Slow Fall (Su) While falling within arm’s reach of a wall you can use it to slow your descent by expending 1 
+point from your ki pool. When you use this ability, you take no damage from the fall (as if using feather 
+fall), but you must be adjacent to a wall for the length of the fall (although this can be used to reduce the 
+damage from a fall if only part of it is adjacent to a wall). 
+Still Mind (Ex) You gain a +2 bonus on saving throws against enchantment spells and effects. 
+Stunning Fist (Ex) You gain Stunning Fist as a bonus feat, even if you do not meet the prerequisites. You also 
+possess the ability to apply a new condition to the target of your Stunning Fist. This condition replaces 
+stunning the target for 1 round, and a successful saving throw still negates the effect. You can choose to 
+make the target fatigued or sickened for 1 minute. You must choose which condition to apply before the 
+attack roll is made. These effects do not stack with themselves (a creature fatigued by Stunning Fist 
+cannot become exhausted if hit by Stunning Fist again), but additional hits do increase the duration. 
+Style Strike (Ex) You have learned a number of style strikes. Whenever you make a flurry of blows, you can 
+designate one of your unarmed strikes as a style strike. This attack is resolved as normal, but it has an 
+additional effect depending on the type of strike chosen. You must choose which style strike to apply 
+before the attack roll is made. You can choose from any of the following strikes: 
+Flying Kick: You leap through the air to strike a foe with a kick. Before the attack, you can move a 
+distance equal to your fast movement bonus. This movement is made as part of your flurry of blows 
+attack and does not require an additional action. At the end of this movement, you must make an attack 
+against an adjacent foe. This movement may be between attacks. This movement provokes an attack of 
+opportunity as normal. The attack made after the movement must be a kick. 
+Head-Butt: You slam your head into your enemy’s head, leaving your foe reeling. If the attack hits 
+and the foe is of the same size or one size smaller than you, you can make a free combat maneuver 
+check against the target of this strike (using the base attack bonus of the attack used to hit the foe). If the 
+foe is not of the same creature type as you, you take a –8 penalty on this check. If the check is 
+successful, the target is staggered for 1 round. Creatures without a discernible head are not affected by 
+this style strike (subject to GM discretion). You must attack with a head-butt to use this style strike. 
+Sudden Speed (Su) You can spend 1 point from your ki pool as a swift action to grant yourself a sudden burst 
+of speed. This increases your base land speed by 30 feet for 1 minute. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat. Your attacks can be with fists, elbows, 
+knees, and feet. This means that you can make unarmed strikes with your hands full. There is no such 
+thing as an off-hand attack for a monk striking unarmed. You can apply your full Strength bonus on 
+damage rolls for all your unarmed strikes. Your unarmed strikes deal lethal damage, although you can 
+choose to deal nonlethal damage with no penalty on your attack roll. You can make this choice while 
+grappling as well. Your unarmed strike is treated as both a manufactured weapon and a natural weapon 
+for the purpose of spells and effects that enhance or improve either manufactured weapons or natural 
+weapons. Your unarmed strikes also deal more damage as noted above. 
+Wind Jump (Su) You can spend 1 point from your ki pool as a move action to grant yourself a fly speed (with 
+perfect maneuverability) equal to your base land speed. You must end your movement each round on 
+
+solid ground (or some other surface that can support your weight) or fall as normal. Once activated, this 
+ability lasts for 1 minute. 

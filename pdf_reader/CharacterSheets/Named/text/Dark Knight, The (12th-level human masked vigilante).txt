@@ -1,0 +1,183 @@
+
+
+Caybun Weer (aka the Dark Knight) 
+Male human monk 5/inquisitor 5/shadowdancer 2 
+LG Medium humanoid 
+Init +6; Senses darkvision 60 ft.; Perception +20 
+Languages Common, Dwarven, Elven, Gnome 
+DEFENSE 
+AC 27, touch 21, flat-footed 23 (+4 armor, +2 deflection, +3 Dex, +1 dodge, +2 
+monk, +2 natural, +3 Wis) 
+hp 110 (12 HD) 
+Fort +15, Ref +12, Will +15; +2 vs. enchantments 
+Defensive Abilities evasion, uncanny dodge; Immune disease 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee unarmed strike +12/+7 (1d10+3) or 
+unarmed strike +12/+12/+7 (1d10+3) with Flurry of Blows 
+Ranged shuriken +10/+5 (1d2+3 plus poison) or 
+shuriken +10/+10/+5 (1d2+3 plus poison) with Flurry of Blows 
+Special Attacks flurry of blows, stunning fist (7/day, DC 19) 
+Inquisitor Spell-Like Abilities (CL 5
+th; concentration +8) 
+At-will – detect chaos, detect evil, detect good, detect law, discern lies (immediate action, up to 5 
+rounds/day) 
+Inquisitor Spells Known (CL 5
+th; concentration +8) 
+2
+nd (3/day) – align weapon, bloodhound, find traps 
+1st  (5/day) – disguise self, protection from evil, shield, true strike 
+0  (at will) – detect magic, detect poison, guidance, read magic, sift, stabilize 
+STATISTICS 
+Abilities Str 16 (+3), Dex 16 (+3), Con 16 (+3), Int 16 (+3), Wis 16 (+3), Cha 12 (+1) 
+Base Atk +7; CMB +12; CMD 31 
+Feats Alertness, Athletic, Combat ReflexesB, Deft Hands, Deceitful, DodgeB, Improved Unarmed Strike
+B, 
+Mobility, Outflank
+B, Skill Focus (stealthB, survivalB), Stealthy, Stunning FistB 
+Skills Acrobatics +12 (+21 when jumping), Bluff +18, Climb +15, Diplomacy +14, Disable Device +19, 
+Disguise +20 (+30 with disguise self), Escape Artist +20, Intimidate +16, Knowledge (any) +3 (+6 vs. 
+creatures), Perception +20, Perform (dance) +6, Sense Motive +22, Sleight of Hand +20, Stealth +26, 
+Survival +12 (+14 when tracking), Swim +15 
+SQ cunning initiative, fast movement, focused study, hide in plain sight, high jump, ki pool (5 points, magic), 
+maneuver training, purity of body, slow fall 20 ft. 
+Combat Gear poison (blue whinnis 5, oil of taggit 5), shuriken (100), smoke pellets (4); Other Gear amulet of 
+mighty fists +2 (doubles as amulet of natural armor +2), belt of physical might +2 (dexterity, 
+constitution), bracers of armor +4, caltrops (2), chirurgeon’s kit, climber’s kit, cloak of resistance +3, 
+deluxe dungeoneering kit, disguise kit, gloves of swimming and climbing, grappling hooks (2), headband 
+of mental prowess +2 (wisdom, charisma; doubles as a masked cowl), masterwork thieves’ tools, 
+monk’s robe (doubles as robe of infinite twine), ring of protection +2, spring-loaded wrist sheathes (2), 
+tender (20sp), traveler’s any-tool, utility belt (as masterwork backpack) 
+Encumbrance light 86 lb., medium 173 lb., heavy 260 lb.; Weight Carried 65 lb. (excluding tender) 
+SPECIAL ABILITIES 
+AC Bonus (Ex) When unarmored and unencumbered, you add your Wisdom bonus +1 to your AC and your 
+CMD (included above). These bonuses to AC apply even against touch attacks or when you are flat-
+footed. You lose these bonuses when you are immobilized or helpless, when you wear any armor, or 
+when you carry a shield or medium or greater load. 
+
+Bane (Su) You can imbue one of your weapons with the bane weapon special ability as a swift action. You 
+must select one creature type when you use this ability (and a subtype if the creature type selected is 
+humanoid or outsider). Once selected, the type can be changed as a swift action. This ability only 
+functions while you wield the weapon. If dropped or taken, the weapon resumes granting this ability if it 
+is returned to you before the duration expires. This ability lasts for a number of rounds per day equal to 
+your inquisitor level. These rounds do not need to be consecutive. 
+Cunning Initiative (Ex) You add your Wisdom modifier on initiative checks, in addition to your Dexterity 
+modifier (included above). 
+Discern Lies (Sp) You can discern lies, as per the spell, for a number of rounds per day equal to your inquisitor 
+level. These rounds do not need to be consecutive. Activating this ability is an immediate action. 
+Evasion (Ex) If exposed to any area effect that normally allows you to attempt a Reflex saving throw for half 
+damage, you take no damage with a successful saving throw. This ability can only be used if you are 
+wearing light armor or no armor and are not helpless. 
+Fast Movement (Ex) If wearing no armor and not carrying a medium load, you gain a +10 enhancement bonus 
+to your base land speed. 
+Flurry of Blows (Ex) You can make a flurry of blows as a full-attack action. When doing so you may make one 
+additional attacks using any combination of unarmed strikes or attacks with a special monk weapons as 
+if using the Two-Weapon Fighting feat (even if you do not meet the prerequisites for the feat). For the 
+purpose of these attacks, your base attack bonus is equal to your monk level. For all other purposes, such 
+as qualifying for a feat or a prestige class, you use your normal base attack bonus. You apply your full 
+Strength bonus to your damage rolls for all successful attacks made with flurry of blows, whether the 
+attacks are made with an off-hand or with a weapon wielded in both hands. You may substitute disarm, 
+sunder, and trip combat maneuvers for unarmed attacks as part of a flurry of blows. You cannot use any 
+weapon other than an unarmed strike or a special monk weapon as part of a flurry of blows. You cannot 
+use natural weapons as part of a flurry of blows, nor can you make natural attacks in addition to your 
+flurry of blows attacks. 
+Hide in Plain Sight (Su) You can use the Stealth skill even while being observed. As long as you are within 10 
+feet of an area of dim light, you can hide yourself from view in the open without anything to actually 
+hide behind. You cannot, however, hide in your own shadow. 
+High Jump (Ex) You add your monk level to all Acrobatics checks made to jump, both for vertical jumps and 
+horizontal jumps (included above). In addition, you always count as having a running start when making 
+jump checks using Acrobatics. By spending 1 point from your ki pool as a swift action, you gain a +20 
+bonus on Acrobatics checks made to jump for 1 round. 
+Judgment (Su) You can pronounce judgment upon your foes as a swift action. Starting when the judgment is 
+made, you receive a bonus or special ability based on the type of judgment made. Once activated, this 
+ability lasts until the combat ends, at which point all of the bonuses immediately end. You must 
+participate in the combat to gain these bonuses. If you are frightened, panicked, paralyzed, stunned, 
+unconscious, or otherwise prevented from participating in the combat, the ability does not end, but the 
+bonuses do not resume until you can participate in the combat again. When you use this ability, you 
+must select two types of judgments to make. As a swift action, you can change this judgment to another 
+type. All your judgment bonuses are sacred bonuses. The types of judgments are shown below. 
+Ki Pool (Su) You gain ki points equal to half your monk level + your Wis modifier. As long as you have at 
+least 1 point in your ki pool, you can make a ki strike. Your ki strike allows your unarmed attacks to be 
+treated as magic for the purpose of overcoming damage reduction. By spending 1 point from your ki 
+pool, you can make one additional attack at your highest attack bonus when making a flurry of blows 
+attack. In addition, you can spend 1 point to increase your speed by 20 feet for 1 round. Finally, you can 
+spend 1 point from your ki pool to give yourself a +4 dodge bonus to AC for 1 round. Each of these 
+powers is activated as a swift action. The ki pool is replenished each morning after 8 hours of rest or 
+meditation; these hours do not need to be consecutive. 
+Maneuver Training (Ex) You use your monk level in place of your base attack bonus when calculating your 
+Combat Maneuver Bonus (included above). Base attack bonuses granted from other classes are 
+unaffected and are added normally. 
+
+Monster Lore (Ex) You add your Wisdom modifier on Knowledge skill checks in addition to your Intelligence 
+modifier, when making skill checks to identify the abilities and weaknesses of creatures. 
+Poisons You carry of variety of poisons, which you generally utilize in your quest to bring criminals to justice: 
+Blue whinnis—injury; save Fort DC 14, frequency 1/round for 2 rounds, effect 1 Con/unconsciousness 
+1d3 hours, cure 1 save. 
+Oil of taggit—ingested; save Fort DC 15, onset 1 minute, effect unconsciousness for 1d3 hours, cure 1 
+save. 
+Purity of Body (Ex) You possess immunity to all diseases, including supernatural and magical diseases. 
+Slow Fall (Ex) When within arm’s reach of a wall you can use it to slow your descent. You take damage as if 
+the fall were 20 feet shorter than it actually is. 
+Solo Tactics (Ex) All of your allies are treated as if they possessed the same teamwork feats as you for the 
+purpose of determining whether you receive a bonus from your teamwork feats. Your allies do not 
+receive any bonuses from these feats unless they actually possess the feats themselves. The allies’ 
+positioning and actions must still meet the prerequisites listed in the teamwork feat for you to receive the 
+listed bonus. 
+Stern Gaze (Ex) You receive a morale bonus on all Intimidate and Sense Motive checks equal to ½ your 
+inquisitor level. 
+Still Mind (Ex) You gain a +2 bonus on saving throws against enchantment spells and effects. 
+Stunning Fist (Ex) You gain Stunning Fist as a bonus feat, even if you do not meet the prerequisites. You may 
+apply a new condition to the target of your Stunning Fist. This condition replaces stunning the target for 
+1 round, and a successful saving throw still negates the effect. You can choose to make the target 
+fatigued. You must choose which condition will apply before the attack roll is made. These effects do 
+not stack with themselves (a creature fatigued by Stunning Fist cannot become exhausted if hit by 
+Stunning Fist again), but additional hits do increase the duration. 
+Teamwork Feat As a standard action, you can choose to learn a new bonus teamwork feat in place of the most 
+recent bonus teamwork feat you have already learned. In effect, you lose the bonus feat in exchange for 
+the new one. You can only change the most recent teamwork feat gained. Whenever you gain a new 
+teamwork feat, the previous teamwork feat becomes set and cannot be changed again. You can change 
+your most recent teamwork feat a number of times per day equal to your Wisdom modifier. 
+Track (Ex) You add half your inquisitor level on Survival skill checks made to follow or identify tracks. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat. Your attacks may be with fist, elbows, 
+knees, and feet. This means that you may make unarmed strikes with his hands full. There is no such 
+thing as an off-hand attack for you. You may apply your full Strength bonus on damage rolls for all of 
+your unarmed strikes. Usually your unarmed strikes deal lethal damage, but you can choose to deal 
+nonlethal damage instead with no penalty on your attack roll. You have the same choice to deal lethal or 
+nonlethal damage while grappling. Your unarmed strike is treated as both a manufactured weapon and a 
+natural weapon for the purpose of spells and effects that enhance or improve either manufactured 
+weapons or natural weapons. You deal more damage with your unarmed strikes than a normal person 
+would, as shown above. 
+Uncanny Dodge (Ex) You cannot be caught flat-footed, even if the attacker is invisible. You still lose your 
+Dexterity bonus to AC if immobilized or if an opponent successfully uses the feint action against you. 
+     
+
+JUDGMENT SELECTIONS 
+Destruction You are filled with divine wrath, gaining a +1 sacred bonus on all weapon damage rolls. This 
+bonus increases by +1 for every three inquisitor levels you possess. 
+Healing You are surrounded by a healing light, gaining fast healing 1. This causes you to heal 1 point of 
+damage each round as long as you are alive and the judgment lasts. The amount of healing increases by 
+1 point for every three inquisitor levels you possess. 
+Justice This judgment spurs you to seek justice, granting a +1 sacred bonus on all attack rolls. This bonus 
+increases by +1 for every five inquisitor levels you possess. At 10th level, this bonus is doubled on all 
+attack rolls made to confirm critical hits. 
+Piercing This judgment gives you great focus and makes your spells more potent. This benefit grants a +1 
+sacred bonus on concentration checks and caster level checks made to overcome a target’s spell 
+resistance. This bonus increases by +1 for every three inquisitor levels you possess. 
+Protection You are surrounded by a protective aura, granting a +1 sacred bonus to Armor Class. This bonus 
+increases by +1 for every five inquisitor levels you possess. At 10th level, this bonus is doubled against 
+attack rolls made to confirm critical hits against you. 
+Purity You are protected from the vile taint of your foes, gaining a +1 sacred bonus on all saving throws. This 
+bonus increases by +1 for every five inquisitor levels you possess. At 10th level, the bonus is doubled 
+against curses, diseases, and poisons. 
+Resiliency This judgment makes you resistant to harm, granting DR 1/magic. This DR increases by 1 for every 
+five levels you possess. At 10th level, this DR changes from magic to an alignment (chaotic, evil, good, 
+or lawful) that is opposite of yours. If you are neutral, you do not receive this increase. 
+Resistance You are shielded by a flickering aura, gaining 2 points of energy resistance against one energy type 
+(acid, cold, electricity, fire, or sonic) chosen when the judgment is declared. The protection increases by 
+2 for every three inquisitor levels you possess. 
+Smiting This judgment bathes your weapons in a divine light. Your weapons count as magic for the purposes of 
+bypassing damage reduction. At 6th level, your weapons also count as one alignment type (chaotic, evil, 
+good, or lawful) for the purpose of bypassing damage reduction. The type selected must match one of 
+your alignments. If you are neutral, you do not receive this bonus. At 10th level, your weapons also 
+count as adamantine for the purpose of overcoming damage reduction (but not for reducing hardness). 
+ 

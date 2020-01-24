@@ -1,0 +1,153 @@
+
+
+Corvo Kenwall 
+“What was, is gone. What will be, is mine to decide.” 
+ 
+Corvo is a man who has no identity, just a name. Who he was, was 
+erased from the analogues of history many years ago, and what 
+remains is a man who lives in the dark, working to preserve a greater 
+tomorrow. He works alone, gathering intelligence on those who 
+have become corrupt and who threaten the lives of the defenseless—
+and with his power, he extinguishes the lives of those deemed 
+unworthy in his eyes. 
+ 
+Of course that is just what the public knows of the man who now 
+calls himself Corvo. The truth is far simpler, far darker: Corvo was a 
+simple man with a small family in the city, and a cover job as a mere 
+sewer worker. He worked hard using his arcane talents to eradicate 
+the many varied denizens that threatened to flood out of the city's 
+sewers and bring chaos to the citizens who lived above. Corvo also 
+used the sewers as a means of traveling throughout the city 
+undetected, allowing him to better get to his marks—for Corvo was 
+also an assassin who worked for the highest bidder. He didn't much 
+mind that the money helping to pay for his family’s comfortable 
+lifestyle was stained with blood. 
+ 
+It was after one hard day of work in the dank sewers that Corvo was heading back to the surface when he came 
+across a small group of armed men. Their armor and weapons already covered in the slick of crimson red. They 
+said nothing. They merely advanced with dark menace in their eyes and blades in their hands. Outnumbered and 
+outmatched, Corvo survived the brutal attack thanks only to his keen knowledge of the sewers he had long 
+worked in. Escaping his tormentors, he dived into the city’s refuse, was carried by the foul current, and came 
+out into the local river. He was bruised, bleeding, and covered in filth. He swam to shore and, as carefully as he 
+could, made his way back home. Once there he found that the front yard and homey exterior looked as it always 
+had, as if nothing had changed, but the interior was another story: destroyed beyond anything Corvo could have 
+ever imagined. It was not the destruction of his home that held Corvo in place with in cold, paralyzing grip 
+however—it was the large amounts of blood that covered the walls, ceiling and floor—far too much for anyone 
+to have survived its loss. He followed the trail of chaos to his wife and daughter, and all he could do was cry. 
+ 
+Corvo does not know who was behind the murder of his family, but will never forget the faces that tried to take 
+his life deep in the sewers that day. He attempted to hunt them down, but found it to be much harder than he 
+anticipated. As time passed he found that he could not locate any of them, and he soon decided to try a different 
+tact. Suspecting that it could have been any of the people that hired him, or perhaps revenge from an associate 
+of a former target, he waited, biding his time. One by one he infiltrated the companies he worked for and struck 
+out against in his heyday. To aid in this endeavor, he chartered a friend to craft him a magical mask that would 
+hide his identity as he did his work. With it, he changed his identity, creating an entirely different persona, so 
+that those who struck out against him in the sewers, and those in league with them, would not come to know 
+him again until it was too late. 
+   
+
+Corvo Kenwall 
+Human magus 10 
+CN Medium humanoid 
+Init +6; Senses death watch; Perception +15 
+Languages Common, Giant, Sylvan, Undercommon 
+DEFENSE 
+AC 25, touch 15, flat-footed 13 (+8 armor, +2 deflection, +2 Dex, +1 Dodge, 
++2 natural armor) 
+hp 85 plus false life (10 HD) 
+Fort +11, Ref +7, Will +10 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee +1 spell storing longsword +13/+8 (1d8+4/19-20) or 
++1 spell storing longsword +11/+6 (1d8+8/19-20) with one-handed 
+Power Attack, or 
++1 spell storing longsword +11/+6 (1d8+10/19-20) with two-handed Power Attack, or 
++1 spell storing longsword +11/+6 (1d8+4/19-20) with Spell Combat, or 
++1 spell storing longsword +9/+4 (1d8+8/19-20) with Spell Combat and Power Attack 
+Ranged heavy crossbow +9 (1d10 /19-20) 
+Special Attacks arcane pool (9/day, +3 bonus), bane (10/per day), improved spell combat, spellstrike 
+Magus Spells Prepared (CL 10th, Concentration +14, +16 with spell combat) 
+4th  (2/day) – dimension door, greater invisibility 
+3
+rd  (4/day) – fly, haste, keen edge, vampiric touch 
+2nd (5/day) – false life, frigid touch
+UM, intensified shocking grasp, mirror image, summon swarm 
+1st  (6/day) – color spray, grease, shield, shocking grasp (2), true strike 
+0  (at-will) – arcane mark, detect magic, ghost sound, mage hand, open/close 
+STATISTICS 
+Abilities Str 18 (+4), Dex 14 (+2), Con 14 (+2), Int 18 (+4), Wis 13 (+1), Cha 8 (-1) 
+Base Atk +7; CMB +11; CMD 26 
+Feats Additional Traits, Dodge, Fast Learner
+B, Improved Initiative, Intensify Spell, Power Attack, Weapon 
+Focus (longsword)
+B 
+Skills Acrobatics +8 (+17 when jumping), Climb +13, Knowledge (arcana) +17, Knowledge (dungeoneering) 
++17, Knowledge (local) +14, Perception +15, Spellcraft +17, Stealth +12; Armor Check Penalty –4 
+SQ fighter training, knowledge pool, magus arcana (accurate strike, arcane accuracy, spell blending: false life 
+and summon swarm), medium armor, spell recall, traits (eyes and ears of the city, silent hunter) 
+Combat Gear arcane spell scrolls (frigid touch, mirror image, obscuring mist, ray of enfeeblement), crossbow 
+bolts (20), drow poison (2), potions of cure light wounds (2); Other Gear +1 spell storing longsword 
+(typically contains vampiric touch), +2 steel lamellar, amulet of natural armor +2, assassin’s mask (as 
+deathwatch eyes, hat of disguise, and mask of stony demeanor), bane baldric, boots of striding and 
+springing, cloak of resistance +2, headband of vast intellect +2 (knowledge: local), heavy crossbow, 
+lesser metamagic rod of silent spell, pearls of power (1
+st 2), scroll case 
+Spell Book 4
+th-level – dimension door, greater invisibility; 3rd-level – fly, haste, keen edge, ray of exhaustion, 
+stinking cloud, vampiric touch; 2nd-level – alter self, false life, frigid touchUM, mirror image, summon 
+swarm, web; 1st-level – chill touch, color spray, enlarge person, grease, obscuring mist, ray of 
+enfeeblement, shield, shocking grasp, true strike; 0-level – all 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 64 lb. 8oz. (excluding tender) 
+SPECIAL ABILITIES 
+Accurate Strike (Ex) You can expend 2 points from your arcane pool as a swift action to resolve all of your 
+melee weapon attacks until the end of your turn as melee touch attacks. 
+
+Arcane Pool (Su) You have a reservoir of mystical arcane energy that you can draw upon to fuel your powers 
+and enhance your weapon. This arcane pool has a number of points equal to ½ your magus level 
+(minimum 1) + your Intelligence modifier. The pool refreshes once each day when you prepare your 
+spells. You can expend 1 point from your arcane pool as a swift action to grant any weapon you are 
+holding a +5 enhancement bonus for 1 minute. These bonuses can be added to the weapon, stacking with 
+existing weapon enhancement to a maximum of +5. Multiple uses of this ability do not stack with 
+themselves. These bonuses can be used to add any of the following weapon properties: dancing, flaming, 
+flaming burst, frost, icy burst, keen, shock, shocking burst, speed, or vorpal. Adding these properties 
+consumes an amount of bonus equal to the property’s cost. These properties are added to any the 
+weapon already has, but duplicates do not stack. If the weapon is not magical, at least a +1 enhancement 
+bonus must be added before any other properties can be added. These bonuses and properties are 
+decided when the arcane pool point is spent and cannot be changed until the next time you use this 
+ability. These bonuses do not function if the weapon is wielded by anyone other than you. You can only 
+enhance one weapon in this way at one time. If you use this ability again, the first use immediately ends. 
+Fighter Training (Ex) You count ½ your total magus level as your fighter level for the purposes of qualifying 
+for feats. If you have levels in fighter, these levels stack. 
+Improved Spell Combat (Ex) You can cast spells and wield your weapons at the same time. This functions 
+much like two-weapon fighting, but the off-hand weapon is a spell that is being cast. To use this ability, 
+you must have one hand free (even if the spell being cast does not have somatic components), while 
+wielding a light or one-handed melee weapon in the other hand. As a full-round action, you can make all 
+of your attacks with your melee weapon at a –2 penalty and can also cast any spell from the magus spell 
+list with a casting time of 1 standard action (any attack roll made as part of this spell also takes this 
+penalty). If you cast this spell defensively, you can decide to take an additional penalty on your attack 
+rolls, up to your Intelligence bonus, and add that amount +2 as a circumstance bonus on your 
+concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. You can 
+choose to cast the spell first or make the weapon attacks first, but if you have more than one attack, you 
+cannot cast the spell between weapon attacks. 
+Knowledge Pool (Su) When you prepare your magus spells, you can decide to expend 1 or more points from 
+your arcane pool, up to your Intelligence bonus. For each point you expend, you can treat any one spell 
+from the magus spell list as if it were in your spellbook and can prepare that spell as normal that day. If 
+you do not cast spells prepared in this way before the next time you prepares spells, you loses those 
+spells. You can also cast spells added in this way using you pool spell ability, but only until you prepare 
+spells again. 
+Medium Armor (Ex) You can cast magus spells while wearing medium armor without incurring the normal 
+arcane spell failure chance. Like any other arcane spellcaster, a magus wearing heavy armor or using a 
+shield incurs a chance of arcane spell failure if the spell in question has a somatic component. 
+Spell Blending (Ex) You treat one or more wizard spells (shown above) as magus spells. 
+Spell Recall (Su) With a swift action you can recall any single magus spell that you have already prepared and 
+cast that day by expending a number of points from your arcane pool equal to the spell's level (minimum 
+1). The spell is prepared again, just as if it had not been cast 
+Spellstrike (Su) Whenever you cast a spell with a range of “touch” from the magus spell list, you can deliver 
+the spell through any weapon you are wielding as part of a melee attack. Instead of the free melee touch 
+attack normally allowed to deliver the spell, you can make one free melee attack with your weapon (at 
+your highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its 
+normal damage as well as the effects of the spell. If you make this attack in concert with spell combat, 
+this melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the 
+weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar 
+effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage 
+uses its own critical modifier. 

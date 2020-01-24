@@ -1,0 +1,78 @@
+
+
+Cyndel Ghydel 
+Female tiefling fighter 8/rogue 3 (knife master) 
+CG Medium outsider (native) 
+Init +4; Senses darkvision 60 ft.; Perception +0 
+Languages Abyssal, Common, Infernal 
+DEFENSE 
+AC 26, touch 15, flat-footed 20 (+10 armor, +1 deflection, +4 Dex, +1 
+natural) 
+hp 103 (11 HD) 
+Fort +10, Ref +10, Will +4; +2 vs. fear 
+Defensive Abilities blade sense +1, bravery +2, evasion; DR 5/magic; 
+Resist cold 5, electricity 5, fire 5 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee +1 wounding kukri +18/+13/+8 (1d4+8 plus 1 bleed/19-20/×3) or 
++1 wounding kukri +16/+11/+6 (1d4+8 plus 1 bleed/19-20/×3) and 
++1 wounding kukri +16/+11 (1d4+8 plus 1 bleed/19-20/×3) with Improved Two-Weapon 
+Fighting, or 
+Ranged mwk throwing knives +17/+12/+7 (1d4+7) or 
+mwk throwing knives +15/+10/+5 (1d4+7) and 
+mwk throwing knives +15/+10 (1d4+7) with Two-Weapon Fighting 
+Special Attacks sneak attack +2d4, sneak stab +2d8, weapon training (light blades +1) 
+Spell-Like Abilities (CL 11
+th; Concentration +10) 
+1/day – darkness 
+STATISTICS 
+Abilities Str 18 (+4), Dex 18 (+4), Con 14 (+2), Int 12 (+1), Wis 10 (+0), Cha 8 (–1) 
+Base Atk +10; CMB +14 (+18 with kukris); CMD 28 
+Feats Double Slice, Greater Weapon Focus (kukriB), Improved Critical (kukriB), Improved Two-Weapon 
+Fighting, Quick Draw
+B, Two-Weapon Fighting
+B, Two-Weapon Rend (1d10+6 damage), Weapon Focus 
+(kukriB), Weapon Specialization (kukri
+B) 
+Skills Acrobatics +18 (+26 when jumping), Bluff +7, Climb +21, Sleight of Hand +16 (+17 with light blades), 
+Stealth +23, Swim +21; Racial Modifiers +2 Bluff and Stealth 
+SQ armor training 2, hidden blade +1, prehensile tail, rogue talents (offensive defense +2) 
+Combat Gear bandages of rapid recovery (6), potions (cure serious wounds 6); Other Gear +1 wounding 
+kukris (2), +4 mithral chainmail, amulet of natural armor +1, boots of striding and springing, cloak of 
+Elvenkind (doubles as a cloak of resistance +1), gloves of swimming and climbing, masterwork throwing 
+knives (as darts, 10), ring of protection +1, tender (57pp, 9gp) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 50 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 2 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 2. In addition, your speed is not 
+reduced for wearing medium or heavy armor. 
+Blade Sense (Ex) You gain a +1 dodge bonus to AC against attacks made against you with light blades. 
+Bravery (Ex) You gain a +2 bonus on Will saves against fear effects. 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. Evasion can be used only if you are wearing light 
+armor or no armor. If helpless, you do not gain the benefit of evasion. 
+Hidden Blade You add ½ your rogue level on Sleight of Hand checks made to conceal a light blade (included 
+above). 
+
+Offensive Defense (Ex) When you hit a creature with a melee attack that deals sneak attack damage, you gain a 
++1 dodge bonus to AC for each sneak attack die rolled for 1 round. 
+Prehensile Tail You possess a long, flexible tail that can be used to carry items. While you cannot wield 
+weapons with your tail, you can use it to retrieve small, stowed objects carried on your person as a swift 
+action. 
+Sneak Attack Your attack deals 2d4 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. This bonus 
+damage is considered precision damage. Should you score a critical hit with precision damage is not 
+multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet. With a weapon 
+that deals nonlethal damage (like a sap, whip, or an unarmed strike), you can make a sneak attack that 
+deals nonlethal damage instead of lethal damage. You cannot use a weapon that deals lethal damage to 
+deal nonlethal damage in a sneak attack, not even with the usual –4 penalty. You must be able to see the 
+target well enough to pick out a vital spot and must be able to reach such a spot. You cannot sneak 
+attack while striking a creature with concealment. 
+Sneak Stab (Ex) When you make a sneak attack with a dagger, kerambit, kukri, punching daggers, starknife, or 
+swordbreaker dagger you use d8s to roll sneak attack damage instead of d6s. For sneak attacks with all 
+other weapons, you use d4s instead of d6s. This ability is identical in all other ways to sneak attack, and 
+supplements that ability. 
+Weapon Training (Ex) You receive a +1 bonus to attack and damage rolls when using light blades, to any 
+combat maneuver checks made with light blades, and to your Combat Maneuver Defense when 
+defending against disarm and sunder attempts made against light blades. 
+ 

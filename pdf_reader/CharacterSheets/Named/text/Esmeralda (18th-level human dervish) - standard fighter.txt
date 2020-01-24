@@ -1,0 +1,69 @@
+
+
+Esmeralda 
+Female human fighter 18 
+LN Medium humanoid 
+Init +9; Senses Perception +3 
+Languages Common, Elven 
+DEFENSE 
+AC 40, touch 23, flat-footed 32 (+13 armor, +2 defending, +3 deflection, +8 
+Dex, +3 natural, +1 shield) 
+hp 192 (18 HD) 
+Fort +19, Ref +20, Will +14; +5 vs. fear 
+Defensive Abilities bravery +5 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee +1 speed wounding short sword +36 (2d6+22 plus 1 bleed/19-20), or 
++1 speed wounding short sword +34/+34/+29/+24/+19 (2d6+22 plus 
+1 bleed/19-20) and 
++3 defending wounding short sword* +34/+29/+24 (2d6+22 plus 1 bleed/19-20) 
+Ranged +3 composite longbow +33/+28/+23/+18 (1d8+11/×3) 
+Special Attacks advanced weapon training (light blades; dazzling intimidation, focused weapon, trained grace), 
+weapon training (light blades +6, bows +5) 
+* Esmeralda typically allocates 2 points of her sword’s enhancement bonus to her AC (included in above stats). 
+STATISTICS 
+Abilities Str 20 (+5), Dex 28 (+9), Con 16 (+3), Int 13 (+1), Wis 16 (+3), Cha 16 (+3) 
+Base Atk +18; CMB +23 (+34 with short swords); CMD 44 
+Feats Advanced Weapon Training (dazzling intimidation), Dazzling Display
+B, Deadly Stroke
+B, Disheartening 
+Display, Double Slice, Greater Penetrating Strike (short sword
+B), Greater Two-Weapon Fighting, 
+Greater Weapon Focus (short sword
+B), Greater Weapon Specialization (short swordB), Improved Two-
+Weapon Fighting, Intimidating ProwessB, Penetrating Strike (short swordB), Shatter Defenses
+B, 
+Persuasive, Skill Focus (acrobatics
+B, diplomacy
+B, intimidate
+B), Two-Weapon Defense, Two-Weapon 
+Fighting, Weapon Finesse, Weapon Focus (short swordB), Weapon Specialization (short swordB) 
+Skills Acrobatics +33 (+42 when jumping), Climb +26, Diplomacy +31, Intimidate +45, Swim +26 
+SQ advanced armor training (armor specialization: breastplate), armor training +3, focused study 
+Combat Gear arrows (20), potions of fly (3); Other Gear +1 speed wounding short sword, +3 composite 
+longbow (+5 strength bonus), +3 defending wounding short sword, +3 mithral breastplate, amulet of 
+natural armor +3, belt of physical perfection +6, boots of striding and springing, cloak of resistance 
++5, gloves of dueling, headband of mental prowess +6 (wisdom, charisma), ring of freedom of 
+movement, ring of protection +3, tender (40pp, 79gp) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 27 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Specialization (Ex) While wearing breastplate, you add 4 to the armor bonus. This increase to the 
+armor bonus doesn’t increase the benefit that you gain from feats, class abilities, or other effects that are 
+determined by your armor’s base armor bonus, including other advanced armor training options. 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 4 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 4. In addition, your speed is not 
+reduced for wearing medium or heavy armor. 
+Bravery (Ex) You gain a +5 bonus on Will saves against fear effects (included above). 
+Dazzling Intimidation (Ex) You apply your weapon training bonus to Intimidate checks and can attempt an 
+Intimidate check to demoralize an opponent as a move action instead of a standard action. You can use 
+your Dazzling Display feat as a standard action instead of a full-round action. 
+
+Focused Weapon (Ex) Your damage with short swords is based on the damage of the warpriest’s sacred 
+weapon class feature, treating your fighter level as your warpriest level. 
+Trained Grace (Ex) When you use Weapon Finesse to make a melee attack with a weapon, using your 
+Dexterity modifier on attack rolls and your Strength modifier on damage rolls, you double your weapon 
+training bonus on damage rolls. 
+Weapon Training (Ex) You receive a +4 bonus to attack and damage rolls when using light blades, to any 
+combat maneuver checks made with light blades, and to your Combat Maneuver Defense when 
+defending against disarm and sunder attempts made against light blades. You receive a similar bonus 
+with bows as well, but only at +3. 

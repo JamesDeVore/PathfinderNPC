@@ -1,0 +1,62 @@
+
+
+Fei Kune 
+Male human fighter 13 
+LG Medium humanoid 
+Init +2; Senses Perception +19 
+Languages Common, Draconic, Elven 
+DEFENSE 
+AC 29, touch 22, flat-footed 27 (+14 armor, +1 deflection, +2 
+Dex, +2 natural) 
+hp 126 (13 HD) 
+Fort +12, Ref +8, Will +6; +3 vs. fear 
+Defensive Abilities bravery +3, dragon resistances; Resist fire 10 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +5 adamantine greatsword +33/+28/+23 (2d6+26/19-20) or 
++5 adamantine greatsword +29/+24/+19 (2d6+38/19-20) with Power Attack, or 
+2 claws +25 each (1d6+8 plus 1d6 fire) or 
+2 claws +21/+21 (1d6+16 plus 1d6 fire) with Power Attack 
+Ranged +1 adaptive composite longbow +19/+14/+9 (1d8+9/×3) 
+Special Attacks breath weapon (30-ft. cone, 11d6 fire, DC 16, 1/day), claws (2, 1d6+8, treated as magic 
+weapons, 5 rounds/day), weapon training (heavy blades +5, natural +4, bows +3) 
+STATISTICS 
+Abilities Str 26 (+8), Dex 14 (+2), Con 14 (+2), Int 10 (+0), Wis 10 (+0), Cha 15 (+2) 
+Base Atk +13; CMB +21 (+25 to sunder, +31 with greatsword, +35 with both); CMD 34 (38 vs. disarm, 40 vs. 
+sunder) 
+Feats Cleave, Cleaving Finish, Eldritch Heritage (draconic: gold), Great Cleave, Greater Weapon Focus 
+(greatsword
+B), Greater Weapon Specialization (greatsword
+B), Improved Cleaving Finish, Improved 
+Eldritch Heritage (2), Improved Surprise Follow-ThroughB, Power AttackB (–4 attack, +4/+8/+12 
+damage), Skill Focus (intimidateB, perceptionB), Surprise Follow-ThroughB, Weapon Focus 
+(greatsword
+B), Weapon Specialization (greatsword
+B) 
+Skills Climb +21, Intimidate +24, Linguistics +2, Perception +19, Swim +21; Armor Check Penalty –2 
+SQ armor training 3, focused study 
+Combat Gear arrows (60), potions of cure light wounds (10); Other Gear +1 adaptive composite longbow, +5 
+adamantine greatsword, +5 full plate, belt of giant strength +6, bit and bridle (on horse), cloak of 
+resistance +2, gloves of dueling, heavy horse (combat trained), military saddle (on horse), ring of 
+protection +1, scale mail barding (on horse), tender (75gp), war medal (worth 300gp) 
+Encumbrance light 400 lb., medium 800 lb., heavy 1,200 lb.; Weight Carried 71 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 3 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 3. In addition, your speed is not 
+reduced for wearing medium or heavy armor. 
+Bravery (Ex) You gain a +3 bonus on Will saves against fear effects. 
+Breath Weapon (Su) You gain a breath weapon useable once per day. This breath weapon deals 1d6 points of 
+fire damage per character level –2 in a 30-foot cone. Those caught in the area of the breath receive a 
+Reflex save for half damage. The DC of this save is equal to 10 + ½ your character level + your 
+Charisma modifier – 2. 
+Claws (Su) You can grow claws as a free action. These claws are treated as natural weapons, allowing you to 
+make two claw attacks as a full attack action using your full base attack bonus. Each of these attacks 
+deals 1d6 points of damage plus your Strength modifier plus 1d6 fire damage. These claws are 
+considered magic weapons for the purpose of overcoming DR. You can use your claws for a number of 
+rounds per day equal to 3 + your Charisma modifier. These rounds do not need to be consecutive. 
+
+Dragon Resistances (Ex) You gain resist fire 10 and a +2 natural armor bonus (included above). 
+Weapon Training (Ex) You receive a +5 bonus to attack and damage rolls when using heavy blades, to any 
+combat maneuver checks made with heavy blades, and to your Combat Maneuver Defense when 
+defending against disarm and sunder attempts made against heavy blades. You receive a similar bonus 
+with natural attacks and bows, but only at a +4 and +3 bonus, respectively. 

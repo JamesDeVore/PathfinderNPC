@@ -1,0 +1,335 @@
+
+
+Bumiahma Britoris Orpheus,  
+the Magnificent Lord of the Fey 
+“Me, a sorcerer? Bah! Anyone can pick up a brush and paint, call 
+themselves an artist even. A sorcerer is like a child with paints, barely 
+understanding what they are doing. I have studied with fey lords and am 
+an accomplished master of the great arts of enchantment!” 
+ 
+Bumiahma Britoris Orpheus is the wild-eyed, eccentric, self-proclaimed 
+king of the First World and all the fairy courts therein. If his wild stories 
+are to be believed, when he was a young child, he was spirited away by 
+members  of  the  fairy  court  where  he  lived  and  danced  for  close  to  a 
+century. While still a young boy, Bumiahma tricked an erlking into giving 
+up lordship over his realm, for which the erlking happily dubbed him “a 
+mad genius” (a title that Bumiahma seems to appreciate) before naming 
+the young boy as his immediate successor. 
+ 
+Although Bumiahma often seems senile to others, he knows his own mind, 
+and is actually a brilliant and patient tactician. Much like the erlking who 
+raised him, he is willing to wait patiently, using deception to unravel his enemies’ resolve, before striking at an 
+opportune moment. Even so, so ingrained into his wild personality are Bumiahma’s peculiar mannerisms, that 
+they continue to persist unabated whether he is enjoying a simple meal with his “family” or when they are fighting 
+for their lives against a heavy assault. Accustomed to possessing the authority of lordship and of being amongst 
+the aloof fey, he rarely bothers to explain his actions or activities to others, something that often infuriates those 
+around him—much to his own amusement. 
+ 
+As Bumiahma describes it, he simply grew tired of being lord of a lawless land, and escaped to Golarion on the 
+material plane through the Forestheart Rift in order to make a “big splash” before his eventual retirement. If true, 
+this would make him one of the only beings to have discovered how to go through the rift the way he came. Going 
+through the rift backwards had severe repercussions, however, and Bumiahma’s age has magically caught up with 
+him,  causing  him  to  devolve  from  a  young,  carefree  child  into  a  wrinkly,  carefree  old  man.  Despite  this 
+metamorphosis, Bumiahma remains as energetic and overactive as a young boy. 
+ 
+Quite healthy in this old age despite his frail appearance, Bumiahma nevertheless insists on playing the part of an 
+old man, either rolling about in a primitive wheelchair of his own design, or having an indentured ogre servant 
+carry  him  about—a  peculiar  habit  that  often  misleads  associates  and  enemies  alike  into  believing  him  to  be 
+completely crippled. From time to time he will suddenly stand up and bolt across the battlefield or dance his way 
+over to a nearby platter in order to happily munch on a pile of delectable crumpets—much to the astonishment of 
+astute onlookers. 
+ 
+Bumiahma learned a great deal from his time with the fey, and is now a master of enchantments feared far and 
+wide for his ability to bend a person’s will as easily as a strong man can bend straw. His faithful servant, an ogre 
+nurse formerly known  as “the Scourge of Port Peril,” does little to  dissuade such a reputation.  Ever boastful, 
+Bumiahma  proudly  and  frequently  calls  himself  “the  most  powerful  enchanter  you’re  ever  like  to  see.”  His 
+unabashed  behavior,  obnoxious  mirth,  eccentric  innocence,  and  utter  lack  of  fear  of  anything  ensures  that 
+wherever he goes, excitement and trouble are sure to follow. 
+ 
+   
+
+Bumiahma Britoris Orpheus 
+Male venerable human sorcerer 1/enchanter 1/arcanist 10 (spell specialist) 
+CG Medium humanoid 
+Init +2; Senses Perception +14 
+Aura aura of despair (30 ft., 11 rounds/day) 
+Languages Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, 
+Giant, Ignan, Infernal, Sylvan, Terran 
+DEFENSE 
+AC 16, touch 16, flat-footed 12 (+4 armor, +2 Dex); mage armor 
+hp 80 (12 HD) 
+Fort +10, Ref +10, Will +18; +2 vs. death effects 
+DR 10/cold iron 1/day for 1 minute 
+Weaknesses +1 damage from cold iron weapons 
+OFFENSE 
+Speed 30 ft. (6 squares), 10 ft. in wheelchair 
+Melee dazing touch +4 touch (dazed for 1 round) or 
+laughing touch +4 touch (limited to move actions for 1 round) 
+Ranged by weapon +7 
+Special Attacks arcane reservoir (8/day, 13 max) 
+Arcane School Spell-Like Abilities (CL 11th; Concentration +22) 
+14/day – dazing touch 
+Bloodline Spell-Like Abilities (CL 11th; Concentration +14) 
+6/day – laughing touch 
+11 rounds/day – fleeting glance 
+Arcanist Spells Prepared (CL 12th; Concentration +23, or +27 with signature spells) 
+5th  (4/day) – dominate person (signature spell) 
+4th  (6/day) – charm monster (signature spell), greater invisibility 
+3rd  (7/day) – haste, heroism, lightning bolt (signature spell) 
+2nd (7/day) – alter self, gust of wind (signature spell), knock, see invisibility 
+1st  (7/day) – charm person (signature spell), mage armor, magic missile, shield, silent image 
+0  (at will) – mage hand, mending, message, open/close 
+Sorcerer Spells Known (CL 1st; Concentration +4) 
+1st  (4/day) – enlarge person, reduce person 
+0  (at will) – dancing lights, ghost sound, light, prestidigitation 
+Wizard Spells Prepared (CL 1st; Concentration +12) 
+1st  (5/day) – endure elements, feather fall, mount, sleep, true strike 
+0  (at will) – detect magic, detect poison, read magic 
+Arcane School enchantment (controller); Bloodline fey; Opposition Schools evocation, necromancy 
+STATISTICS 
+Abilities Str 8 (–1), Dex 14 (+2), Con 14 (+2), Int 32 (+11), Wis 14 (+2), Cha 16 (+3) 
+Base Atk +5; CMB +4; CMD 16 
+Feats Craft Wondrous Item, Fey Foundling, Fey Friend, Greater Spell Focus (enchantment), Leadership (19 
+base, 18 cohort, 18 followers), Primal Ancestry, Spell Focus (enchantment) 
+Skills Bluff +22 (+24 vs. fey), Diplomacy +19 (+21 vs. fey), Disguise +15, Intimidate +22 (+24 vs. animals, 
+fey, or plant creatures), Knowledge (arcana, geography, nature, planes) +26, Knowledge (nobility) +24, 
+Perception +14, Perform (dance, sing) +15, Sense Motive +14 (+16 vs. fey), Spellcraft +26, Survival 
++14 
+SQ arcanist exploits (bloodline development, potent magic, school of understanding), bloodline arcana 
+(+2 DC of compulsion spells), consume spells (3/day), signature spells (blindness/deafness, charm 
+monster, charm person, dominate monster, lightning bolt), traits (lord of the fey, magical knack: 
+arcanist), woodland stride 
+
+Gear blessed book with bookplate of recall (295 pages remaining, buried far away), cloak of resistance +5, 
+gems (400gp worth), collapsible wheel chair, headband of vast intellect +6 (knowledge: geography, 
+knowledge: nature, survival), mantle of immortality, spell component pouch, tender (30gp, 100sp), tome 
+of clear thought +1 (already read, mocked up to look like a spellbook) 
+Spellbook all core sorcerer/wizard spells of 5th-level and lower plus compassionate allyUM, curse of disgustUM, 
+delusional pride
+UM, lock gaze
+UM, malicious spite
+UM, miserable pity
+UM, oppressive boredomUM, 
+overwhelming griefUM, reckless infatuationUM, smug narcissismUM, terrible remorse
+UM, unadulterated 
+loathingUM 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 11 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Arcane Reservoir (Su) You have an innate pool of magical energy that you can draw upon to fuel your arcanist 
+exploits and enhance your spells. Your arcane reservoir can hold a maximum amount of magical energy 
+equal to 3 + your arcanist level. Each day, when preparing spells, your arcane reservoir fills with raw 
+magical energy, gaining a number of points equal to 3 + ½ your arcanist level. Any points you had from 
+the previous day are lost. You can also regain these points through the consume spells class feature and 
+some arcanist exploits. The arcane reservoir can never hold more points than the maximum amount 
+noted above; points gained in excess of this total are lost. Points from the arcanist reservoir are used to 
+fuel many of your powers. In addition, you can expend 1 point from your arcane reservoir as a free 
+action whenever you cast an arcanist spell. If you do, you can choose to increase the caster level by 1 or 
+increase the spell’s DC by 1. You can expend no more than 1 point from your reservoir on a given spell 
+in this way. 
+Aura of Despair (Su) You can emit a 30-foot aura of despair for a number of rounds per day equal to your 
+wizard level. Enemies within this aura take a –2 penalty on ability checks, attack rolls, damage rolls, 
+saving throws, and skill checks. These rounds do not need to be consecutive. This is a mind-affecting 
+effect. 
+Bloodline Development Your arcanist levels stack with your sorcerer levels when determining the powers and 
+abilities of your bloodline. 
+Consume Spells (Su) You can expend an available arcanist spell slot as a move action, making it unavailable 
+for the rest of the day, just as if you had used it to cast a spell. You can use this ability a number of times 
+per day equal to your Charisma modifier (minimum 1). Doing this adds a number of points to your 
+arcane reservoir equal to the level of the spell slot consumed. You cannot consume cantrips (0 level 
+spells) in this way. Points gained in excess of the reservoir’s maximum are lost. 
+Dazing Touch (Sp) You can cause a living creature to become dazed for 1 round as a melee touch attack. 
+Creatures with more Hit Dice than your wizard level are unaffected. You can use this ability a number 
+of times per day equal to 3 + your Intelligence modifier. 
+Dismiss (Su) You can dismiss a signature spell as a swift action instead of a standard action. Alternatively, you 
+can dismiss a signature spell that has a duration but isn’t normally dismissible. 
+Enchanting Smile (Su) You gain a +4 enhancement bonus on Bluff, Diplomacy, and Intimidate skill checks. 
+Fleeting Glance (Sp) You can turn invisible for a number of rounds per day equal to your sorcerer level. This 
+ability functions as greater invisibility. These rounds need not be consecutive. 
+Laughing Touch (Sp) You can cause a creature to burst out laughing for 1 round as a melee touch attack. A 
+laughing creature can only take a move action but can defend itself normally. Once a creature has been 
+affected by laughing touch, it is immune to its effects for 24 hours. You can use this ability a number of 
+times per day equal to 3 + your Charisma modifier. This is a mind-affecting effect. 
+Lord of the Fey You are an undisputed lord of the fey, and creatures of the natural world fear or respect your 
+authority. This homebrew trait is the equivalent to the Unnatural Revenge trait in that you gain a +2 trait 
+bonus on all Intimidate checks against creatures of the animal, fey, or plant type, and Intimidate is 
+always a class skill for you. 
+Magical Knack Your caster level in the Arcanist class gains a +2 trait bonus as long as this bonus doesn’t raise 
+your caster level above your current Hit Dice. 
+
+Ongoing Spells If ever targeted or caught in the area of a spell or effect that deals energy damage, you become 
+subject to a protection from energy spell against the incoming energy type. This effect comes into effect 
+fast enough to prevent some or all of the incoming damage. Effects that cause energy damage, but don’t 
+specifically target you (such as deliberately walking into a fire), do not activate this contingency. The 
+following spells are also regularly active upon your person: endure elements and mage armor. All 
+ongoing spell effects function at 12th-caster level (and thus require a DC 23 caster level check to dispel) 
+and their effects are included in the above stats where appropriate. 
+Potent Magic (Su) Whenever you expend 1 point from your arcane reservoir to increase the caster level of a 
+spell, the caster level increases by 2 instead of 1. Whenever you expend 1 point from your arcane 
+reservoir to increase the spell’s DC, it increases by 2 instead of 1. 
+School Understanding Your arcanist levels stack with your wizard levels when determining the powers and 
+abilities of your school. 
+Signature Spells You can cast your signature spells without preparing them, in the same way a sorcerer casts 
+spells spontaneously. Even though you do not need to prepare these spells, they still counts against the 
+number of arcanist spells you can prepare, reducing the number of spells of each level you can prepare 
+each day by 1. You can swap out a single signature spell for another spell of the same level when 
+gaining a class level. The DC for signature spells increases by 1. You gain a +4 bonus on concentration 
+checks when casting signature spells. Additionally, you can apply the Dismiss, Spell Bender, or 
+Spellwarp class features on your signature spells by spending 1 point from your arcane reservoir. 
+Spell Bender (Su) You can bend the line of a spell that has a line area of effect up to 90 degrees at any single 
+point along the line’s length. 
+Spellwarp (Su) You can reduce the radius of a spread or burst effect or shorten the length of a cone. All 
+changes must occur in 5-foot increments, to a minimum of 5 feet. Alternatively, you can change the area 
+of effect of a cone spell to a line with a length equal to the spell’s range. 
+Woodland Stride (Ex) You can move through any sort of undergrowth (such as natural thorns, briars, 
+overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any 
+other impairment. Thorns, briars, and overgrown areas that have been magically manipulated to impede 
+motion, however, still affect you. 
+ 
+   
+
+Reese (aka “Legs”) 
+“Yes, little snack, I know your words—now what was it you called me?” 
+ 
+“Legs,” as Bumiahma likes to call him, was once a fierce bar brawler 
+from  the  Shackles  that  was  unfortunate  enough  to  run  afoul  of 
+Bumiahma in Port Peril. Due to Bumiahma’s kind treatment of the ogre 
+during  his  court-ordered  time  as  an  indentured  servant—and 
+Bumiahma’s  knack  for  drawing  dangerous  trouble  to  himself—Legs 
+grew to genuinely enjoy Bumiahma’s company. Legs continues to carry 
+his “brain” (as he likes to refer to Bumiahma) around even though his 
+term of service has long since expired (along with a few of Bumiahma’s 
+magical charms). He now considers the old man and the young pixie, 
+Trix, to be members of his familial tribe (the latter of the two he likely 
+would have been eaten long ago if not for her charm arrows). 
+ 
+Though he is quite infamous in various ports around the Shackles as a 
+champion bar brawler, Reese has recently become even more well-known for his mysterious strength-increasing 
+intoxicant he calls “ogre draught,” the recipe of which, he claims is a closely guarded family secret. There are 
+many who would seek to claim this secret from him by force, and it is chiefly this growing threat that has given 
+him cause to befriend a powerful spellcaster for mutual protection. 
+ 
+In  all  other  ways,  Legs  is  a  fairly  typical  representative  of  his  kind  (brutish,  stupid,  and  wholly  unafraid  of 
+violating  societal  taboos)  save  three  notable  exceptions:  his  penchant  for  unchecked  violence  has  greatly 
+diminished since his forced servitude under Bumiahma first began, he is now capable of speaking the common 
+tongue and of reading and writing thanks to Bumiahma’s many lessons, and he is far cleaner and less smelly than 
+most ogres due to Bumiahma’s constant harassment. 
+ 
+   
+
+Reese, the Scourge of Port Peril 
+Male ogre brawler 3/barbarian 1/fighter 2 (mutation warrior) 
+CN Large humanoid (giant) 
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +12 
+Languages Common, Giant 
+DEFENSE 
+AC 22, touch 11, flat-footed 20 (+6 armor, +1 Dex, +1 dodge, +5 natural, 
+–1 size) 
+hp 92 (10 HD) 
+Fort +12, Ref +4, Will +2; +1 vs. fear 
+Defensive Abilities bravery +1 
+OFFENSE 
+Speed 50 ft. (10 squares) 
+Melee mwk greatsword +19/+14 (3d6+15/19-20) or 
+mwk greatsword +16/+11 (3d6+24/19-20) with Power Attack, or 
+unarmed strike +19/+14 (2d6+12) or 
+unarmed strike +17/+17/+12 (2d6+12) with Brawler’s Flurry, or 
+unarmed strike +23/+18 (2d6+16) while raging, or 
+unarmed strike +21/+21/+16 (2d6+16) with Brawler’s Flurry while raging 
+Ranged chakram +10 (2d6+8) 
+Space 10 ft.; Reach 10 ft. 
+Special Attacks brawler’s flurry (two-weapon fighting), maneuver training (disarm +1), rage (8 rounds/day), 
+unarmed strike (2d6) 
+STATISTICS 
+Abilities Str 30 (+10), Dex 12 (+1), Con 18 (+4), Int 6 (–2), Wis 12 (+1), Cha 4 (–3) 
+Base Atk +9; CMB +20 (+21 with disarm); CMD 32 (33 vs. disarm) 
+Feats Catch Off-Guard, Combat ExpertiseB, Combat ReflexesB, Dodge, Improved Unarmed StrikeB, 
+Intimidating Prowess, Power AttackB, Weapon Focus (unarmed strike), Weapon Specialization 
+(unarmed strike) 
+Skills Intimidate +19, Linguistics –1, Perception +12; Armor Check Penalty –1 
+SQ brawler’s cunning, fast movement, martial flexibility 5/day, martial training, mutagen (20 minutes, 
+DC 9) 
+Gear +0 furious amulet of mighty fists, +2 chain shirt, alchemy crafting kit, belt of giant strength +4, blessed 
+book (a backup copy of Bumiahma’s spellbook), chakram (10), spell component pouch (a spare for 
+Bumiahma), tender (150sp) 
+Encumbrance light 1,064 lb., medium 2,128 lb., heavy 3,200 lb.; Weight Carried 92 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bravery (Ex) You gain a +1 bonus on Will saves against fear effects. 
+Brawler’s Cunning (Ex) If your Intelligence score is less than 13, it counts as 13 for the purpose of meeting 
+the prerequisites of combat feats. 
+Brawler’s Flurry (Ex) You can make a brawler’s flurry as a full-attack action. When doing so, you have the 
+Two-Weapon Fighting feat when attacking with any combination of unarmed strikes, weapons from the 
+close fighter weapon group, or weapons with the “monk” special feature. You do not need to use two 
+different weapons to use this ability. You apply your full Strength modifier to your damage rolls for all 
+attacks made with brawler’s flurry, whether the attacks are made with an off-hand weapon or a weapon 
+wielded in both hands. You can substitute disarm, sunder, and trip combat maneuvers for unarmed 
+attacks as part of brawler’s flurry. A brawler with natural weapons can’t use such weapons as part of 
+brawler’s flurry, nor can you make natural weapon attacks in addition to her brawler’s flurry attacks. 
+Brawler’s Strike (Ex) Your unarmed strikes are treated as magic weapons for the purpose of overcoming 
+damage reduction. 
+
+Fast Movement (Ex) Your land speed is faster than the norm for your race by +10 feet. This benefit applies 
+only when you are wearing no armor, light armor, or medium armor, and not carrying a heavy load. 
+Apply this bonus before modifying your speed because of any load carried or armor worn. This bonus 
+stacks with any other bonuses to your land speed. 
+Maneuver Training (Ex) You gain a +1 bonus on combat maneuver checks when attempting todisarm and a 
++1 bonus to your CMD when defending against disarm combat maneuvers. 
+Martial Flexibility (Ex) You can take a move action to gain the benefit of a combat feat you don’t possess. 
+This effect lasts for 1 minute. You must meet all the feats’ prerequisites. You may use this ability a 
+number of times per day equal to 3 + ½ your brawler level (minimum 1). You can use this ability again 
+before the duration expires in order to replace your combat feat with another choice. If a combat feat has 
+a daily use limitation (such as Stunning Fist), any uses of that combat feat while using this ability count 
+toward that feat’s daily limit. 
+Martial Training (Ex) You count your total brawler levels as both fighter levels and monk levels for the 
+purpose of qualifying for feats. You also count as both a fighter and a monk for feats and magic items 
+that have different effects based on whether the character has levels in those classes (such as Stunning 
+Fist and a monk’s robe). This ability does not automatically grant feats normally granted to fighters and 
+monks based on class level, namely Stunning Fist. 
+Mutagen (Su) You can create a mutagen that you can imbibe in order to heighten your physical prowess at the 
+cost of your personality. It takes 1 hour to brew a dose of mutagen, and once brewed, it remains potent 
+until used. You can only maintain one dose of mutagen at a time—if you brew a second dose, any 
+existing mutagen becomes inert. As with an extract or bomb, a mutagen that is not in an alchemist’s 
+possession becomes inert until an alchemist picks it up again. When you brew a mutagen, you select one 
+physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action to drink a 
+mutagen. Upon being imbibed, the mutagen causes you to grow bulkier and more bestial, granting you a 
++2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per 
+alchemist level. In addition, while the mutagen is in effect, you take a –2 penalty to one of your mental 
+ability scores. If the mutagen enhances your Strength, it applies a penalty to your Intelligence. If it 
+enhances your Dexterity, it applies a penalty to your Wisdom. If it enhances your Constitution, it applies 
+a penalty to your Charisma. A non-alchemist who drinks a mutagen must make a Fortitude save (DC 10 
++ ½ your effective alchemist level + your Intelligence modifier) or become nauseated for 1 hour—a non-
+alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another 
+alchemist’s mutagen if he drinks it. (Although if the other alchemist creates a different mutagen, the 
+effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever 
+you drink a mutagen, the effects of any previous mutagen immediately end. 
+Rage (Ex) You can enter a rage as a free action for 8 rounds each day. The total number of rounds of rage per 
+day is renewed after resting for 8 hours, although these hours do not need to be consecutive. While in 
+rage, you gain a +4 morale bonus to your Strength and Constitution, as well as a +2 morale bonus on 
+Will saves. In addition, you take a –2 penalty to Armor Class. The increase to Constitution grants you 2 
+hit points per Hit Dice, but these disappear when the rage ends and are not lost first like temporary hit 
+points. While in rage, you cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except 
+Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration. You can end 
+your rage as a free action and you become fatigued afterwards for a number of rounds equal to 2 times 
+the number of rounds spent in the rage. You cannot enter a new rage while fatigued or exhausted but can 
+otherwise enter rage multiple times during a single encounter or combat. If you fall unconscious, your 
+rage immediately ends, placing you in peril of death. 
+ 
+   
+
+Bumiahma’s Other Followers: Though he claims 
+to have ruled over vast swaths of the First World 
+with thousands of followers, Bumiahma’s power is 
+much reduced on the material plane as only a few 
+servants were able to follow him there. Those few 
+servants  who  do  continue  to  serve  him  primarily 
+consist  of  weak  fey  creatures  of  CR  4  or  lower, 
+including  at  least  one  pixie  named  “Trix”  whom 
+Bumiahma regards as a little sister. What’s more, 
+they  rarely  like  to  make  their  presence  known  to 
+any  of  Bumiahma’s  other  associates,  further 
+flaming  the  widespread  belief  that  Bumiahma’s 
+wild tales are simply the ramblings of a crazy old 
+man.  Additionally,  Bumiahma  is  also  often 
+guarded  by  dominated  individuals,  what  he 
+commonly  refers  to  as  “indentured  servants” 
+pressed  into  service  by  the  authority  of  the  fairy 
+court for crimes against his person. Such “servants” unless irredeemably evil, are always treated well. 

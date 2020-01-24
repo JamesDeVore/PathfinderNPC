@@ -1,0 +1,118 @@
+
+
+Crimm Corran 
+Male human monk 12 (ki mystic) 
+LN Medium humanoid 
+Init +4; Senses Perception +19 
+Languages Common, Halfling 
+DEFENSE 
+AC 27, touch 24, flat-footed 22 (+2 armor, +2 deflection, +4 
+Dex, +1 dodge, +3 monk, +1 natural, +4 Wis) 
+hp 86 (12 HD) 
+Fort +9, Ref +13, Will +13 
+Defensive Abilities improved evasion; DR 3/– vs. small ranged 
+piercing weapons 
+OFFENSE 
+Speed 70 ft. (14 squares) 
+Melee +5 dueling ki focus adamantine ranseur +18/+13 (2d4+10/×3) or 
+unarmed strike +13/+8 (2d6+4) or 
+unarmed strike +14/+14/+9/+9/+4 (2d6+4) with Flurry of Blows 
+Ranged +1 holy shuriken +14/+9 (1d2+5 plus 2d6 vs. evil) or 
++1 holy shuriken +15/+15/+10/+10/+5 (1d2+5 plus 2d6 vs. evil) with Flurry of Blows 
+Special Attacks flurry of blows, stunning fist (12/day, DC 19) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 18 (+4), Con 10 (+0), Int 13 (+1), Wis 18 (+4), Cha 10 (+0) 
+Base Atk +9; CMB +16 (+20 disarm, +35 disarm w/ranseur); CMD 37 (39 vs. disarm, 47 vs. disarm 
+w/ranseur) 
+Feats Combat Expertise
+B (–3 attack, +3 AC), Combat Reflexes
+B (5 AoO’s/round), Dodge
+B, Greater Disarm, 
+Improved Disarm, Lunge, Martial Weapon Proficiency (ranseur), Mobility
+B, Spring AttackB, Stunning 
+FistB, Weapon Focus (ranseur), Whirlwind Attack 
+Skills Acrobatics +4 (+32 when jumping), Knowledge (history) +18, Knowledge (nature) +15, Knowledge 
+(religion) +18, Perception +19, Stealth +19 
+SQ abundant step, fast movement, high jump, ki mystic, ki pool (12 points, cold iron, lawful, magic, silver), 
+maneuver training, mystic insight, mystic visions, slow fall 60 ft., wholeness of body 
+Combat Gear +1 holy shuriken (10), potions of cure light wounds (2); Other Gear +4 dueling ki focus 
+adamantine ranseur*, amulet of natural armor +1, barbed vest, belt of physical might +2 (strength, 
+dexterity), bracers of armor +2, cloak of resistance +1, headband of inspired wisdom +2, marked cards, 
+masterwork fortune teller’s deck, quilted cloth, ring of protection +2, superior loaded dice (DC 30), 
+tender (17gp) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 36 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Abundant Step (Su) You can slip magically between spaces, as if using the spell dimension door. Using this 
+ability is a move action that consumes 2 points from your ki pool. Your caster level for this effect is 
+equal to your monk level. You cannot take other creatures with you when you use this ability. 
+AC Bonus (Ex) When unarmored and unencumbered, you add your Wisdom bonus +3 to your AC and your 
+CMD (included above). These bonuses to AC apply even against touch attacks or when you are 
+flat-footed. You lose these bonuses when you are immobilized or helpless, when you wear any armor, or 
+when you carry a shield or medium or greater load. 
+Improved Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals 
+half damage on a successful save, you instead take no damage. If you fail a save against such an attack, 
+you take only half damage. Evasion can be used only if you are wearing light armor or no armor. If you 
+are helpless, you do not gain the benefit of evasion. 
+
+Fast Movement (Ex) If wearing no armor and not carrying a medium load, you gain a +40 enhancement bonus 
+to your base land speed. 
+Flurry of Blows (Ex) You can make a flurry of blows as a full-attack action. When doing so you may make 
+two additional attacks using any combination of unarmed strikes or attacks with a special monk as if 
+using the Improved Two-Weapon Fighting feat (even if you do not meet the prerequisites for the feat). 
+For the purpose of these attacks, your base attack bonus is equal to your monk level. For all other 
+purposes, such as qualifying for a feat or a prestige class, you use your normal base attack bonus. You 
+apply your full Strength bonus to your damage rolls for all successful attacks made with flurry of blows, 
+whether the attacks are made with an off-hand or with a weapon wielded in both hands. You may 
+substitute disarm, sunder, and trip combat maneuvers for unarmed attacks as part of a flurry of blows. 
+You cannot use any weapon other than an unarmed strike or a special monk weapon as part of a flurry of 
+blows. You cannot use natural weapons as part of a flurry of blows, nor can you make natural attacks in 
+addition to your flurry of blows attacks. 
+High Jump (Ex) You add your monk level to all Acrobatics checks made to jump, both for vertical jumps and 
+horizontal jumps (included above). In addition, you always count as having a running start when making 
+jump checks using Acrobatics. By spending 1 point from your ki pool as a swift action, you gain a +20 
+bonus on Acrobatics checks made to jump for 1 round. 
+Ki Mystic (Su) You gain a pool of ki points equal to ½ your monk level + your Wisdom modifier + 2. If you 
+have at least 1 point of ki in your ki pool, you gain a +2 bonus on all Knowledge skill checks (included 
+above). As a swift action, you can spend 1 ki point immediately before making an ability, or skill check 
+to gain a +4 insight bonus on the check. As long as you have at least 1 point in your ki pool, you can 
+make a ki strike. Your ki strike allows your unarmed attacks to be treated as magic and lawful weapons 
+for the purpose of overcoming damage reduction. By spending 1 point from your ki pool, you can make 
+one additional attack at your highest attack bonus when making a flurry of blows attack. In addition, you 
+can spend 1 point to increase your speed by 20 feet for 1 round. Finally, you can spend 1 point from 
+your ki pool to give yourself a +4 dodge bonus to AC for 1 round. Each of these powers is activated as a 
+swift action. The ki pool is replenished each morning after 8 hours of rest or meditation; these hours do 
+not need to be consecutive. 
+Maneuver Training (Ex) You use your monk level in place of your base attack bonus when calculating your 
+Combat Maneuver Bonus (included above). Base attack bonuses granted from other classes are 
+unaffected and are added normally. 
+Mystic Insight (Su) As an immediate action, you can spend 2 ki points to grant an ally within 30 feet the ability 
+to reroll a single attack roll or saving throw. The ally must be able to hear you to gain the reroll benefit. 
+Mystic Visions (Su) You may receive mystic visions when you rest. These visions can come as a dream, an 
+epiphany, or even as the voice of an old friend whispering in your mind. The effect is similar to a 
+divination spell with a caster level equal to your monk level. The divination has no casting time; it is just 
+part of the normal dreams or visions that occur every night. Using this ability costs 2 ki points that are 
+removed from the next day’s total. 
+Slow Fall (Ex) When within arm’s reach of a wall you can use it to slow your descent. You take damage as if 
+the fall were 60 feet shorter than it actually is. 
+Stunning Fist (Ex) You gain Stunning Fist as a bonus feat, even if you do not meet the prerequisites. You may 
+apply a new condition to the target of your Stunning Fist. This condition replaces stunning the target for 
+1 round, and a successful saving throw still negates the effect. You can choose to make the target 
+fatigued, make the target sickened for 1 minute, or make the target staggered for 1d6+1 rounds. You 
+must choose which condition will apply before the attack roll is made. These effects do not stack with 
+themselves (a creature sickened by Stunning Fist cannot become nauseated if hit by Stunning Fist 
+again), but additional hits do increase the duration. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat. Your attacks may be with fist, elbows, 
+knees, and feet. This means that you may make unarmed strikes with his hands full. There is no such 
+thing as an off-hand attack for you. You may apply your full Strength bonus on damage rolls for all of 
+your unarmed strikes. Usually your unarmed strikes deal lethal damage, but you can choose to deal 
+nonlethal damage instead with no penalty on your attack roll. You have the same choice to deal lethal or 
+
+nonlethal damage while grappling. Your unarmed strike is treated as both a manufactured weapon and a 
+natural weapon for the purpose of spells and effects that enhance or improve either manufactured 
+weapons or natural weapons. You deal more damage with your unarmed strikes than a normal person 
+would, as shown above. 
+Wholeness of Body (Su) You can heal your own wounds as a standard action. You can heal a number of hit 
+points of damage equal to your monk level by using 2 points from your ki pool. 
+ 
+* The dueling property listed here is from the Pathfinder Society Field Guide, not to be confused with a similar 
+ability of the same name from the Advanced Player’s Guide. 

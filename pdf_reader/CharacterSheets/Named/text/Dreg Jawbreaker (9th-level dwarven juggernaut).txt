@@ -1,0 +1,70 @@
+
+
+Dreg Jawbreaker 
+Male dwarf fighter 9 
+N Medium humanoid (dwarf) 
+Init +1; Senses darkvision 60 ft., stonecunning; Perception +7 
+Languages Common, Dwarven 
+DEFENSE 
+AC 26, touch 12, flat-footed 25 (+11 armor, +1 deflection, +1 Dex, +3 shield) 
+hp 106 (9 HD) 
+Fort +11, Ref +7, Will +6; +2 vs. poison, +4 vs. spells and spell-like abilities 
+Defensive Abilities bravery +2, defensive training (+4 dodge bonus to AC vs. 
+giants); DR 3/– 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +3 bane earthbreaker +21/+16 (4d6+15/×3) with Warrior Spirit, or 
++3 bane earthbreaker +21/+13 (4d6+24/×3) with Warrior Spirit and Power Attack 
+Ranged +1 composite shortbow +11/+6 (1d8+5/×3) 
+Special Attacks +2 on attack rolls against goblinoid and orc humanoids, advanced weapon training (hammers; 
+warrior spirit +2 [3/day]), weapon training (hammers +2) 
+STATISTICS 
+Abilities Str 19 (+4), Dex 12 (+1), Con 18 (+4), Int 10 (+0), Wis 10 (+0), Cha 8 (–1) 
+Base Atk +9; CMB +13 (+18 with earthbreaker); CMD 25 (29 vs. bull rush/trip) 
+Feats Dwarven Fury
+B, Dwarven Hatred Style
+B, Dwarven Seething
+B, Furious Focus, Greater Weapon Focus 
+(earthbreaker), Iron Will, Power Attack, Steel Soul, Weapon Focus (earthbreaker
+B), Weapon 
+Specialization (earthbreaker
+B) 
+Skills Acrobatics +1 (+6 when jumping), Climb +5, Intimidate +11, Perception +7 (+9 to notice unusual 
+stonework), Swim +5; Armor Check Penalty –3; Racial Modifiers +2 Appraise relating to 
+metals/minerals, +2 Perception to notice unusual stonework 
+SQ armor training +2, weapon familiarity 
+Combat Gear arrows (20), potions of bull’s strength (5); Other Gear +2 buckler, +2 Dwarven plate, +2 earth 
+breaker, +1 composite shortbow (+4 strength bonus), boots of striding and springing, cloak of 
+resistance +1, ring of protection +1, tender (219gp) 
+Encumbrance light 116 lb., medium 233 lb., heavy 350 lb.; Weight Carried 75 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 2 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 2 (included above). 
+Bravery (Ex) You gain a +2 bonus on Will saves against fear effects (not included above). 
+Defensive Training You gain a +4 dodge bonus to AC against attacks made by Giants (not included above). 
+Greed You gain a +2 racial bonus on Appraise skill checks made to determine the price of nonmagical goods 
+that contain precious metals or gemstones (not included above). 
+Hardy You receive a +2 racial bonus on saving throws against poison, spells, and spell-like abilities (not 
+included above). 
+Hatred You receive a +1 bonus on attack rolls against Humanoid creatures of the Orc and Goblinoid subtypes 
+due to special training against these hated foes (not included above). 
+Stability You receive a +4 racial bonus to your Combat Maneuver Defense when resisting a bull rush or trip 
+attempt while standing on the ground (included above). 
+Stonecunning You receive a +2 bonus on Perception checks to potentially notice unusual stonework, such as 
+traps and hidden doors located in stone walls or floors. You receive a check to notice such features 
+whenever you pass within 10 feet of them, whether or not you are actively looking (not included above). 
+Warrior Spirit (Su) Each day, you may designate one weapon in the hammer group and gain a number of 
+points of spiritual energy equal to 1 + your weapon training bonus. While wielding this weapon, you can 
+
+spend 1 point of spiritual energy to grant the weapon an enhancement bonus equal to your weapon 
+training bonus. Enhancement bonuses gained by this advanced weapon training option stack with those 
+of the weapon, to a maximum of +5. You can also imbue the weapon with any one weapon special 
+ability with an equivalent enhancement bonus less than or equal to his maximum bonus by reducing the 
+granted enhancement bonus by the amount of the equivalent enhancement bonus. The item must have an 
+enhancement bonus of at least +1 (from the item itself or from warrior spirit) to gain a weapon special 
+ability. In either case, these bonuses last for 1 minute. 
+Weapon Familiarity You are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon 
+with the word “dwarven” in its name as a martial weapon. 
+Weapon Training (Ex) You receive a +2 bonus to attack and damage rolls when using hammers, to any 
+combat maneuver checks made with hammers, and to your Combat Maneuver Defense when defending 
+against disarm and sunder attempts made against hammers. 

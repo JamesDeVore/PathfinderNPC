@@ -1,0 +1,89 @@
+
+
+Daeron Sedig 
+Male human oracle 11 (dual-cursed oracle) 
+LG Medium humanoid 
+Init +0; Senses blindsense 30 ft., clouded vision 60 ft., darkvision 60 ft.; 
+Perception +14 
+Languages Common, Varisian 
+DEFENSE 
+AC 28, touch 12, flat-footed 28 (+14 armor, +2 deflection, +2 natural) 
+hp 112 (11 HD) 
+Fort +8, Ref +5, Will +9 
+Defensive Abilities battlefield clarity 2/day 
+OFFENSE 
+Speed 15 ft. (3 squares) 
+Melee +2 dueling adamantine ranseur +17/+12 (2d4+11/19-20/×3) or 
++2 dueling adamantine ranseur +14/+9 (2d4+20/19-20/×3) with 
+Power Attack, or 
++1 spiked gauntlet +15/+10 (1d4+7) 
++1 longsword +15/+10 (1d8+7/19-20) 
+Ranged mwk chakram +9 (1d8+6) 
+Space 5 ft.; Reach 5 ft. (10 ft. with ranseur) 
+Special Attacks maneuver mastery (dirty trick), misfortune, weapon mastery (ranseur) 
+Oracle Spells Known (CL 11
+th; Concentration +14) 
+5th  (4/day) – commune
+M, mass cure light woundsB, righteous mightB, spell resistance 
+4
+th  (6/day) – blessing of ferverAPG, cure critical woundsB, divinationM, divine power, wall of fire
+B 
+3rd  (6/day) – bestow curse
+B, blood biography
+APG, borrow fortune
+APG, cure serious woundsB, prayer, 
+speak with dead 
+2nd (6/day) – aid, cure moderate woundsB, instant armorAPG, oracle’s burdenB APG, resist energy, shield 
+otherF, status 
+1st  (6/day) – ant haulAPG, bane, bless, cure light woundsB, deathwatch, divine favor, ill omenB APG 
+0  (at will) – bleed, create water, detect magic, detect poison, guidance, mending, purify food and 
+drink, read magic, stabilize 
+Mystery battle 
+STATISTICS 
+Abilities Str 22 (+6), Dex 10 (+0), Con 16 (+3), Int 10 (+0), Wis 10 (+0), Cha 16 (+3) 
+Base Atk +8; CMB +14 (+28 dirty trick with ranseur, +23 disarm with ranseur); CMD 26 (28 vs. dirty trick, 40 
+vs. disarm/trip while wielding ranseur) 
+Feats Dazzling Display, Disheartening Display, Extra Revelation, Greater Dirty Trick
+B, Improved Critical 
+(ranseur
+B), Improved Dirty Trick
+B, Intimidating Prowess, Lunge, Power Attack (–3 attack +3/+6/+9 
+damage), Skill Focus (healB, intimidate
+B), Weapon Focus (ranseur
+B) 
+Skills Diplomacy +17, Heal +20, Intimidate +29, Perception +14, Sense Motive +14; Armor Check 
+Penalty −5 
+SQ focused study, fortune 2/day, oracle’s curse (clouded vision, lame), skill at arms 
+Combat Gear focus components (shield other), material components (divination 10); Other Gear +1 spiked 
+gauntlet, +2 dueling adamantine ranseur*, +5 full plate, amulet of natural armor +2, belt of physical 
+might +2 (strength, constitution), cloak of resistance +2, heavy steel shield (rarely used), masterwork 
+chakram (5), masterwork longsword, ring of protection +2, tender (45gp) 
+Encumbrance light 519 lb., medium 1,038 lb., heavy 1,560 lb.; Weight Carried 88 lb. (excluding tender); ant 
+haul 
+   
+
+SPECIAL ABILITIES 
+Battlefield Clarity (Ex) Twice per day, as an immediate action, whenever you fail a saving throw that causes 
+you to become blind, deaf, frightened, panicked, paralyzed, shaken, or stunned, you may attempt that 
+saving throw again, with a +4 insight bonus on the roll. You must take the second result, even if it is 
+worse. 
+Clouded Vision Your eyes are obscured, making it difficult for you to see. You cannot see anything beyond 60 
+feet, but you can see as if you had blindsense and darkvision. 
+Fortune (Ex) As an immediate action, you can reroll any one d20 roll that you have just made before the results 
+of the roll are revealed. You must take the result of the reroll, even if it’s worse than the original roll. 
+You can use this ability twice per day. 
+Lame One of your legs is permanently wounded, reducing your base land speed by 10 feet if your base speed is 
+30 feet or more. However, your speed is never reduced due to encumbrance. 
+Maneuver Mastery (Ex) When performing the dirty trick combat maneuver, you treat your oracle level as your 
+base attack bonus (plus the BAB from other classes) when determining your CMB, you gain the 
+Improved Dirty Trick feat, and you gain the Greater Dirty Trick feat. You do not need to meet the 
+prerequisites to receive these feats. 
+Misfortune (Ex) As an immediate action, you can force a creature within 30 feet to reroll any one d20 roll that 
+it has just made before the results of the roll are revealed. The creature must take the result of the reroll, 
+even if it’s worse than the original roll. Once a creature has suffered from your misfortune, it cannot be 
+the target of this revelation again for 1 day. 
+Skill At Arms (Ex) You gain proficiency in all martial weapons and heavy armor. 
+Weapon Mastery (Ex) You gain Weapon Focus and Improved Critical with the ranseur as bonus feats. 
+ 
+* The dueling property listed here is from the Pathfinder Society Field Guide, not to be confused with a similar 
+ability of the same name from the Advanced Player’s Guide. 

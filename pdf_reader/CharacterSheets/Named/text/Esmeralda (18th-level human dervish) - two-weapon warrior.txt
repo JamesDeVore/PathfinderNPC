@@ -1,0 +1,76 @@
+
+
+Esmeralda 
+  
+
+Female human fighter 18 (two-weapon warrior) 
+LN Medium humanoid 
+Init +4; Senses Perception +3 
+Languages Common, Elven 
+DEFENSE 
+AC 34, touch 18, flat-footed 21 (+12 armor, +2 defending, +3 deflection, +3 
+Dex, +3 natural, +1 shield) 
+hp 246 (18 HD) 
+Fort +22, Ref +15, Will +14; +5 vs. fear 
+Defensive Abilities bravery +5, defensive flurry +4 
+OFFENSE 
+Speed 30 ft. (6 squares), run ×3 
+Melee +1 speed wounding short sword +29 (1d6+13 plus 1 bleed/17-20) or 
++1 speed wounding short sword +29 (1d6+13 plus 1 bleed/17-20) 
+and +3 defending wounding short sword* +29 (1d6+13 plus 1 
+bleed/17-20) as a standard action; rend 1d10+12 and free disarm or sunder if both weapons hit, 
+or 
++1 speed wounding short sword +33/+33/+28/+23/+18 (1d6+17 plus 1 bleed/17-20) and +3 defending 
+wounding short sword* +33/+28/+23 (1d6+17 plus 1 bleed/17-20); rend 1d10+12 and free 
+disarm or sunder if both weapons hit 
+Ranged +3 composite longbow +26/+21/+16/+11 (1d8+11/×3) 
+Special Attacks deft doublestrike, equal opportunity, improved balance, perfect balance, twin blades +4 
+* Esmeralda typically allocates 2 points of her sword’s enhancement bonus to her AC (included in above stats). 
+STATISTICS 
+Abilities Str 26 (+8), Dex 18 (+4), Con 22 (+6), Int 13 (+1), Wis 16 (+3), Cha 16 (+3) 
+Base Atk +18; CMB +30; CMD 43 
+Feats Combat Reflexes (5 AoO’s/round), Dazzling Display
+B, Deadly Stroke
+B, Double Slice, Greater Penetrating 
+Strike (short sword
+B), Greater Two-Weapon Fighting, Greater Weapon Focus (short swordB), Greater 
+Weapon Specialization (short sword
+B), Improved Critical (short swordB), Improved Two-Weapon 
+Fighting, Intimidating ProwessB, Penetrating Strike (short sword
+B), Shatter Defenses
+B, Persuasive, Skill 
+Focus (diplomacy
+B, healB, intimidate
+B), Two-Weapon Defense, Two-Weapon Fighting, Two-Weapon 
+Rend, Weapon Focus (short sword), Weapon Specialization (short swordB) 
+Skills Acrobatics +19 (+24 when jumping), Climb +17, Diplomacy +31, Heal +27, Intimidate +42, Swim +17; 
+Armor Check Penalty –3 
+Special Qualities focused study 
+Combat Gear arrows (20), potions of cure serious wounds (8); Other Gear +1 speed wounding short sword, 
++3 composite longbow (+8 strength bonus), +3 defending wounding short sword*, +3 mithral full plate, 
+amulet of natural armor +3, belt of physical perfection +6, boots of striding and springing, cloak of 
+resistance +5, headband of mental prowess +6 (wisdom, charisma), lesser bracers of archery, ring of 
+freedom of movement, ring of protection +3, tender (129gp) 
+Encumbrance light 306 lb., medium 613 lb., heavy 920 lb.; Weight Carried 29 lb. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Bravery (Ex) You gain a +5 bonus on Will saves against fear effects (included above). 
+Defensive Flurry (Ex) When you make a full attack with both weapons, you gain a +4 dodge bonus to AC 
+against melee attacks until the beginning of your next turn. 
+Deft Doublestrike (Ex) When you hit an opponent with both weapons, you can make a disarm or sunder 
+attempt (or trip, if one or both weapons can be used to trip) against that opponent as an immediate action 
+that does not provoke attacks of opportunity. 
+Doublestrike (Ex) You may, as a standard action, make one attack with both your primary and secondary 
+weapons. The penalties for attacking with two weapons apply normally. 
+Equal Opportunity (Ex) When you make an attack of opportunity, you may attack once with both your 
+primary and secondary weapons. The penalties for attacking with two weapons apply normally. 
+Improved Balance (Ex) The attack penalties for fighting with two weapons are reduced by –1 for you. 
+Alternatively, you may use a one-handed weapon in your off-hand, treating it as if it were a light 
+weapon with the normal light weapon penalties. 
+Perfect Balance (Ex) The penalties for fighting with two weapons are reduced by an additional –1 for you. 
+This benefit stacks with improved balance. If you are using a one-handed weapon in your off hand, 
+treating it as a light weapon, you use the normal light weapon penalties. 
+Twin Blades (Ex) You gain a +4 bonus on attack and damage rolls when making a full attack with two 
+weapons or a double weapon (included above). 
+ 

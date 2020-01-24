@@ -1,0 +1,81 @@
+
+
+Enyo Quache 
+Male human swashbuckler 2/fighter 4 (lore warden, mysterious avenger) 
+CG Medium human 
+Init +4; Senses Perception +11 
+Languages Common, Elven, Gnome 
+DEFENSE 
+AC 21, touch 14, flat-footed 17 (+7 armor, +4 Dex) 
+hp 60 (6 HD) 
+Fort +6, Ref +8, Will +2 
+Defensive Abilities dodging panache +2, opportune parry and riposte 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 heavy pick +12/+7 (1d6+5/×4) or 
+mwk whip +11/+6 (1d3 nonlethal) 
+Ranged mwk throwing axe +11 (1d6+4) 
+Special Attacks avenger finesse, sword secrets (exploit weakness +1) 
+STATISTICS 
+Abilities Str 8 (–1), Dex 19 (+4), Con 14 (+2), Int 14 (+2), Wis 12 (+1), Cha 14 (+2) 
+Base Atk +6; CMB +5 (+12 with heavy pick); CMD 19 (23 vs. grapple/trip) 
+Feats Acrobatic Steps, Martial Versatility (weapon focusB, slashing grace), Nimble Moves, Slashing Grace 
+(battleaxe
+B), Weapon FinesseB (light or one-handed piercing melee weapons only), Weapon Focus 
+(battlaxe
+B)
+ 
+
+Skills Acrobatics +13, Craft (alchemy) +11, Escape Artist +13, Knowledge (local) +11, Perception +11, Sleight 
+of Hand +13, Stealth +13 
+SQ derring-do, maneuver mastery +2, panache (3), scholastic, skill over strength 
+Combat Gear alchemist’s fire (2), tanglefoot bags (2); Other Gear +1 comfort mithral agile breastplate, +1 
+heavy pick, belt pouch, masterwork throwing axes (6), masterwork whip, muleback cords, tender (28gp, 
+6sp, 7cp) 
+Encumbrance light 76 lb., medium 153 lb., heavy 230 lb.; Weight Carried 44 lb. 4oz. (excluding tender) 
+SPECIAL ABILITIES 
+Avenger Finesse (Ex) You gain the benefits of the Weapon Finesse feat with light or one-handed piercing 
+melee weapons, and you can use your Charisma score in place of Intelligence as a prerequisite for 
+combat feats. Additionally, you gain the ability to use a whip in place of a light or one-handed piercing 
+melee weapon for all swashbuckler class features and deeds. This ability counts as having the Weapon 
+Finesse feat for purposes of meeting feat prerequisites. 
+Charmed Life (Ex) Three times per day as an immediate action before attempting a saving throw, you can add 
+your Charisma modifier to the result of the save. You must choose to do this before the roll is made. 
+Derring-Do (Ex) You can spend 1 panache point when you make an Acrobatics, Climb, Escape Artist, Fly, 
+Ride, or Swim check to roll 1d6 and add the result to the check. You can do this after you make the 
+check but before the result is revealed. If the result of the d6 roll is a natural 6, you roll another 1d6 and 
+adds it to the check. You can continue to do this as long as you roll natural 6s, up to a number of times 
+equal to your Dexterity modifier (minimum 1). 
+Dodging Panache (Ex) When an opponent attempts a melee attack against you, you may spend 1 panache point 
+as an immediate action to move 5 feet; doing so grants you a dodge bonus to AC equal to your Charisma 
+bonus against the triggering attack. This movement doesn’t negate the attack, which is still resolved as if 
+you had not moved from the original square. This movement is not a 5-foot step; it provokes attacks of 
+opportunity from creatures other than the one who triggered this deed. You can only perform this deed 
+while wearing light or no armor, and while carrying no heavier than a light load. 
+Exploit Weakness (Ex) You add one-third of your fighter class level on attack rolls to confirm critical hits. 
+
+Opportune Parry and Riposte (Ex) When an opponent makes a melee attack against you, you may spend 1 
+panache point and expend a use of an attack of opportunity to attempt to parry that attack. You make an 
+attack roll as if you were making an attack of opportunity; for each size category the attacking creature 
+is larger than you, you take a –2 penalty on this roll. If your result is greater than the attacking creature’s 
+result, the creature’s attack automatically misses. You must declare the use of this ability after the 
+creature’s attack is announced, but before its attack roll is made. Upon performing a successful parry 
+and if you have at least 1 panache point, you can make an attack against the creature whose attack you 
+parried as an immediate action, provided that creature is within your reach. This deed’s cost cannot be 
+reduced by any ability or effect that reduces the number of panache points a deed costs. 
+Panache (Ex) At the start of each day, you gain a number of panache points equal to your Charisma modifier 
+(minimum 1). Your panache goes up or down throughout the day, but usually cannot go higher than 
+your Charisma modifier (minimum 1), though feats and magic items can affect this maximum. You 
+spend panache to accomplish deeds (see below), and regain panache in the following ways. 
+Critical Hit with a Light or One-Handed Piercing Melee Weapon: Each time you confirm a critical 
+hit with a light or one-handed piercing melee weapon, you regain 1 panache point. Confirming a critical 
+hit on a helpless or unaware creature or a creature that has fewer Hit Dice than half your character level 
+doesn’t restore panache. 
+Killing Blow with a Light or One-Handed Piercing Melee Weapon: When you reduce a creature to 0 
+or fewer hit points with a light or one-handed piercing melee weapon attack while in combat, you regain 
+1 panache point. Destroying an unattended object, reducing a helpless or unaware creature to 0 or fewer 
+hit points, or reducing a creature that has fewer Hit Dice than half your character level to 0 or fewer hit 
+points doesn’t restore any panache. 
+Scholastic (Ex) You gain 2 additional skill ranks each level. These ranks must be spent on Intelligence-based 
+skills. All Craft and Knowledge skills are class skills for you, as are Linguistics and Spellcraft. 
+Skill Over Strength (Ex) You qualify for feats and other abilities as though you had the Combat Expertise feat. 

@@ -1,0 +1,97 @@
+
+
+Etari the Magnificent 
+Male human unchained rogue 6 (knife master, scout) 
+CG Medium humanoid 
+Init +4; Senses Perception +10 
+Languages Common, Sylvan, Undercommon 
+DEFENSE 
+AC 19, touch 14, flat-footed 15 (+5 armor, +4 Dex) 
+hp 44 (6 HD) 
+Fort +4, Ref +10, Will +4 
+Defensive Abilities blade sense +2, evasion 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee dagger of doubling +10 (1d4+5/19-20) or 
+dagger of doubling +10 (1d4+6d8+11 nonlethal/19-20) with Sap Master 
+Ranged dagger of doubling +10 (1d4/19-20) 
+Special Attacks debilitating injury, finesse training (dagger), scout’s charge, sneak attack +3d4, sneak stab 
++3d8 
+Spell-Like Abilities (CL 6
+th; Concentration +8) 
+At will – prestidigitation 
+3/day – silent image 
+STATISTICS 
+Abilities Str 8 (–1), Dex 18 (+4), Con 12 (+1), Int 14 (+2), Wis 12 (+1), Cha 16 (+3) 
+Base Atk +4; CMB +3 (+8 with Weapon Finesse); CMD 17 
+Feats Bludgeoner
+B, Deft Hands, Sap Adept, Sap Master, Weapon FinesseB, Weapon Focus (daggerB), Weapon 
+Versatility
+B 
+Skills Acrobatics +13, Bluff +13, Diplomacy +12, Disable Device +17, Disguise +12 (+22 with hat of 
+disguise), Escape Artist +13, Perception +10, Perform (act) +12 (+14 with alchemical enhancement), 
+Sleight of Hand +18 (+21 to conceal light blades), Stealth +15; Racial Bonuses +2 Sleight of Hand and 
+Stealth 
+SQ heart of the slums, hidden blade, rogue’s edge (perform), rogue talents (combat trick, major magic, 
+minor magic, weapon training), traits (smuggler, stage magic) 
+Combat Gear potions of invisibility (2); Other Gear +1 mithral shirt, cloak of resistance +1, dagger of 
+doubling (concealed, DC 45 to find), disguise kit, hat of disguise, masterwork thieves’ tools, tender 
+(48gp) 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 22 lb. 2 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Blade Sense (Ex) You gain a +2 dodge bonus to AC against attacks made against you with light blades. 
+Debilitating Injury (Ex) Whenever you deal sneak attack damage to a foe, you can also debilitate the target of 
+your attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue 
+talent or other special ability). You can choose to apply any one of the following penalties when the 
+damage is dealt. 
+Bewildered: The target becomes bewildered, taking a –2 penalty to AC. The target takes an 
+additional –2 penalty to AC against all attacks made by you. 
+Disoriented: The target takes a –2 penalty on attack rolls. In addition, the target takes an additional –
+2 penalty on all attack rolls it makes against you. 
+Hampered: All of the target’s speeds are reduced by half (to a minimum of 5 feet). In addition, the 
+target cannot take a 5-foot step. 
+These penalties do not stack with themselves, but additional attacks that deal sneak attack damage 
+extend the duration by 1 round. A creature cannot suffer from more than one penalty from this ability at 
+
+a time. If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a 
+target suffering from one of these penalties also removes the penalty. 
+Evasion (Ex) If you succeed at a Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or 
+no armor. You do not gain the benefit of evasion while helpless. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, you can select any one type of 
+weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it 
+cannot be changed. Whenever you make a successful melee attack with the selected weapon, you add 
+your Dexterity modifier instead of your Strength modifier to the damage roll. If any effect would 
+prevent you from adding your Strength modifier to the damage roll, you do not add your Dexterity 
+modifier. 
+Heart of the Slums You gain a +2 racial bonus on Sleight of Hand and Stealth checks, and a +4 racial bonus on 
+Survival checks in urban and underground settings. In addition, you may roll twice when saving against 
+disease, taking the better roll. 
+Hidden Blade You add ½ your rogue level on Sleight of Hand checks made to conceal a light blade (included 
+above). 
+Rogue’s Edge (Ex) You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. You gain the skill unlock powers for that skill as appropriate for your 
+number of ranks in that skill. 
+Perform: Whenever you attempt a Bluff, Diplomacy, Handle Animal, or Intimidate check, you can 
+attempt a DC 20 Perform check to gain a +2 circumstance bonus on the check. 
+Scout’s Charge (Ex) Whenever you make a charge, your attack deals sneak attack damage as if the target were 
+flat-footed. Foes with uncanny dodge are immune to this ability. 
+Smuggler You gain a +1 trait bonus on Bluff and Sleight of Hand checks. 
+Sneak Attack Your attack deals an extra 3d4 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+Sneak Stab (Ex) When you make a sneak attack with a dagger, kerambit, kukri, punching daggers, starknife, or 
+swordbreaker dagger you use d8s to roll sneak attack damage instead of d4s. 
+Stage Magic When you use an attention-getting alchemical item such as a flask of alchemist’s fire, smokestick, 
+thunderstone, or another appropriate alchemical item (GM’s discretion) as part of a performance, you 
+gain a +2 trait bonus on your Perform check for the duration of that performance. The item is expended 
+without its normal effects and only serves to make your performance more impressive; for example, you 
+could pretend to ignite yourself with alchemist’s fire as part of a Perform (comedy) check or make a 
+dramatic appearance with a smokestick as part of a Perform (act) check, but you would not actually take 
+fire damage or gain concealment from smoke. 

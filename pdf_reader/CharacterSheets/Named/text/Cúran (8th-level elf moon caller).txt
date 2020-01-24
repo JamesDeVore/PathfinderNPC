@@ -1,0 +1,122 @@
+
+
+Cúran 
+Female elf oracle 8 
+NG Medium humanoid (elf) 
+Init +0; Senses darkvision 60 ft., light sensitivity; Perception +15 
+Languages Common, Elven 
+DEFENSE 
+AC 26, touch 14, flat-footed 22 (+8 armor, +4 Dex, +4 shield) 
+hp 58 (8 HD) 
+Fort +5, Ref +4, Will +10 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 menacing longsword +10/+5 (1d8+4/19-20) or 
++1 menacing longsword +16/+11 (1d8+4/19-20) with Outflank 
+Ranged composite longbow +7/+2 (1d8+3/×3) 
+Special Attacks revelations (moonlit script, primal companion, prophetic 
+armor) 
+Spell-like Abilities (CL 8th, Concentration +12) 
+1/day – dream 
+Oracle Spells Known (CL 8
+th, Concentration +12) 
+4th  (4/day) – blessing of fervor
+APG, cure critical woundsB, moonstruck
+B APG 
+3rd  (6/day) – archon’s aura
+UM, cure serious woundsB, magic circle against evil, rage
+B 
+2nd  (7/day) – bull’s strength, cure moderate wounds
+B, dust of twilight
+B APG, levitate, minor image, shield 
+otherF, whispering loreARG 
+1st  (7/day) – cure light wounds
+B, deadeye’s lore
+UC, deathwatch, divine favor, fumbletongue
+B UM, path of 
+glory
+ACG, shield of faith 
+0  (at will) – create water, detect magic, ghost sound, guidance, light, mage hand, mending, purify food 
+and drink, read magic, spark
+APG 
+Mystery lunar 
+STATISTICS 
+Abilities Str 16 (+3), Dex 10 (+0), Con 12 (+1), Int 10 (+0), Wis 14 (+2), Cha 18 (+4) 
+Base Atk +6; CMB +9; CMD 19 
+Feats Divine Protection, Evolved Companion (unnatural aura), Outflank, Spirit’s Gift (typically bones) 
+Skills Handle Animal +12 (+16 with animal companion), Knowledge (nature) +8, Knowledge (religion) +8, 
+Perception +15, Survival +13; Armor Check Penalty −2; Racial Bonuses +2 Perception, +2 Spellcraft 
+to identify magical items 
+SQ dreamspeaker, oracle’s curse: haunted 
+Combat Gear durable arrows (20), wand of cure light wounds (10 charges); Other Gear +1 menacing 
+longsword, +2 elven chain, +2 heavy darkwood shield, cloak of resistance +2, masterwork composite 
+longbow (+3 strength bonus), tender (13gp) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 30 lb. 1 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Dreamspeaker You add +1 to the saving throw DCs of spells of the divination school and sleep effects that you 
+cast. In addition, you may use dream once per day as a spell-like ability (caster level is equal to your 
+character level). 
+Moonlit Script (Su) Once per night while you sleep, your hands produce mysterious writing that pertains to the 
+future. The prophetic writing manifest as an augury or divination spell with 90% effectiveness, or as a 
+casting of commune with no material component required. 
+Oracle’s Curse: Haunted Retrieving any stored item from your gear requires a standard action, unless it would 
+normally take longer. Any item you drop lands 10 feet away from you in a random direction. Add ghost 
+sound, levitate, mage hand and minor image to your list of spells known. 
+
+Primal Companion (Ex) You gain the service of a faithful animal of the night. You can select from a bear, 
+boar, crocodile, shark, tiger, or wolf. This animal functions as a druid’s animal companion, using your 
+oracle level as your effective druid level (+1 level due to your favored class bonus). 
+Prophetic Armor (Ex) You may use your Charisma modifier (instead of your Dexterity modifier) as part of 
+your Armor Class and all Reflex saving throws. Your armor’s maximum Dexterity bonus applies to your 
+Charisma, instead. 
+ 
+Starlight 
+Wolf Animal Companion (totem guide) 
+N Large animal 
+Init +3; Senses low-light vision, scent; Perception +12 
+Languages beast speech 
+DEFENSE 
+AC 26, touch 12, flat-footed 23 (+4 armor, +3 Dex, +10 natural, −1 size) 
+hp 84 (8 HD) 
+Fort +11, Ref +9, Will +3; +4 vs. enchantment spells and effects 
+Defensive Abilities blur (from Spirit’s Gift) 
+OFFENSE 
+Speed 50 ft. (10 squares) 
+Melee bite +12/+7 (2d6+16 plus trip) with Power Attack 
+Space 10 ft.; Reach 5 ft. 
+Special Attacks multiattack, trip (bite) 
+STATISTICS 
+Abilities Str 25 (+7), Dex 16 (+3), Con 20 (+5), Int 2 (−4), Wis 12 (+1), Cha 6 (−2) 
+Base Atk +6; CMB +14; CMD 27 
+Feats Eldritch ClawsB, Furious Focus, Improved Natural Attack (bite), Outflank, Power Attack 
+Skills Perception +12 
+SQ beast speech (canines), link, share spells, spiritual guidance, tricks (advanced attack, come, defend, 
+detect, down, guard, heel, stay, watch), unnatural aura 
+Gear +2 mithral shirt barding, beast-bond brand (10 charges) 
+Encumbrance light 798 lb., medium 1,599 lb., heavy 2,400 lb.; Weight Carried 20 lb. 
+SPECIAL ABILITIES 
+Beast Speech (Ex) A totem guide can speak with its master as though the two shared a common language, and 
+it can speak with other animals of its species (or, at the GM’s discretion, other creatures with similar 
+types). 
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding an animal companion. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your animal companion (as a spell with a 
+range of touch) instead of on yourself. You may cast spells on your animal companion even if the spells 
+normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come 
+from a class that grants an animal companion. This ability does not allow the animal to share abilities 
+that are not spells, even if they function like spells. 
+Spirit Animal: Bones Your animal companion gives off a ghostly glow and seems nearly transparent. The 
+animal is often under the constant effect of blur, with a caster level equal to your oracle level. 
+Spiritual Guidance (Sp) A totem guide can use guidance as a spell-like ability at will as a full-round action, 
+targeting itself or its master. In addition, a totem guide’s master can spontaneously cast the following 
+spells while adjacent to the totem guide by sacrificing a spell slot of equal or higher level: detect animals 
+or plants (1st), augury (2
+nd), helping hand (3
+rd), divination (4th), commune with nature (5th), and find the 
+path (6th). The totem guide serves as a divine focus for these spells, but costly material components must 
+
+still be provided. 
+Unnatural Aura (Su) Your animal companion is obviously of unnatural origin. Normal animals do not 
+willingly approach your animal companion unless the animal’s master makes a DC 25 Handle Animal, 
+Ride, or wild empathy check. 

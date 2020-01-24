@@ -1,0 +1,109 @@
+
+
+Grigori Keon Chul (aka Father Grigori) 
+“Ten thousand futures have I looked at. A hundred thousand! And in only one does mankind finally unite, and flourish...and survive. 
+Only one—that which is ruled by me.” 
+ 
+Keon Chul is a  man of strong ambitions. Unfortunately  for the  world, Keon Chul has the skills and preparation to back up his 
+overweening ambitions, and the brilliant schemes of one of the most cunning and intelligent beings in the entire world. Like many great 
+leaders, Keon Chul often works through lackeys and servitor creatures while he plots and schemes from behind the scenes. He’s quite 
+prepared to abandon servants and attempts if they fail, and simply try again later in a better way. Tiring of the continual betrayals and 
+chaos within the political world, he has decided that the best future for mankind is united under him and his church—controlled by the 
+laws of a zealous doctrine. Those who meet him discover Keon Chul to be calm, cultured, and even pleasant. Keon Chul is polite but 
+blunt and can be plunged instantly into cold, controlled rage by insolence or deliberate defiance. On the other hand, he seems to admire 
+those who cross or foil him by cleverness, as long as they treat him politely. He’s always spinning more simultaneous intrigues than 
+most living beings have years in their lives, and with his domination ever growing, he seems content to view existence as a great game. 
+  Father Grigori 
+  
+
+Male human cleric 9 
+LN Medium humanoid 
+Init +0; Senses Perception +5 
+Languages Common, Celestial, Infernal, Osiriani 
+DEFENSE 
+AC 22, touch 10, flat-footed 22 (+8 armor, +4 shield) 
+hp 56 (9 HD) 
+Fort +6, Ref +3, Will +11 
+Immune alignment discernment, detect thoughts, discern lies 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. when unarmored 
+Melee +2 morningstar +8/+3 (1d8+2) with greater magic weapon 
+Ranged by weapon +6/+1 
+Special Attacks channel positive energy 8/day (5d6, DC 21) 
+Spell-like Abilities (CL 9
+th; Concentration +14) 
+8/day – inspiring word (4 rounds), touch of glory (+9) 
+Cleric Spells Prepared (CL 9th; Concentration +14) 
+5th-level (3/day) – fickle windsUM, greater commandD, summon monster V 
+4th-level (4/day) – aura of doomUM, blessing of ferverAPG, discern lies
+D, greater magic weapon 
+3rd-level (5/day) – create food and water, magic vestmentD, prayer, speak with dead, wrathful mantleAPG 
+2nd-level (6/day) – align weapon, calm emotions, enthrall
+D, lesser restoration, make whole, shield otherF 
+1st-level (7/day) – command, detect evil, detect undead, divine favor
+D, sanctuary, remove fear 
+0-level (5/day) – detect magic, detect poison, guidance, light, purify food and drink 
+D Domain spell; Domains glory, nobility 
+STATISTICS 
+Abilities Str 10 (+0), Dex 10 (+0), Con 10 (+0), Int 16 (+3), Wis 20 (+5), Cha 20 (+5*) 
+Base Atk +6; CMB +6; CMD 16 
+Feats Additional Traits, Deceitful, Forge Ring, LeadershipB (base 23, cohort 23, followers 25), Persuasive, Skill Focus (bluff
+B, 
+diplomacy
+B, intimidate) 
+Skills Bluff +24*, Craft (jewelry) +15, Diplomacy +27*, Disguise +9*, Intimidate +21*, Knowledge (local) +12, Knowledge 
+(nobility) +15, Knowledge (religion) +20; Check Penalty –5 
+SQ aura of good (strong), divine presence (9 rounds/day, DC 19), focused study, spontaneous casting (cure spells), traits (armor 
+expert, natural-born leader) 
+Combat Gear wand of cure light wounds (50 charges); Other Gear breastplate of command, cassock of the clergy, headband of 
+mental superiority +2 (knowledge: local), heavy steel shield, mask of lies (see below), masterwork morningstar, platinum 
+holy symbol, ring of the ecclesiarch, ring of mind shielding, tender (497gp) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 58 lb. 1 oz. (excluding tender) 
+ 
+* Increases by +1 when used against Lawful Neutral characters or Father Grigori’s faithful. 
+   
+
+SPECIAL ABILITIES 
+Channel Energy (Su) You may release a burst of positive energy in a 30-ft. radius burst as a standard action. When doing so you 
+can choose to heal living creatures in the area (5d6 healing) or to harm undead (5d6 damage, Will DC 21 half). You can 
+channel energy a number of times per day equal to 3 + your Charisma modifier. This is a standard action that does not 
+provoke an attack of opportunity. You can choose whether or not to include yourself in this effect. You must be able to 
+present your holy symbol to use this ability. 
+Divine Presence (Su) You can emit a 30-foot aura of divine presence for a number of rounds per day equal to your cleric level. All 
+allies within this aura are treated as if under the effects of a sanctuary spell with a DC equal to 10 + ½ your cleric level + 
+your Wisdom modifier. These rounds do not need to be consecutive. Activating this ability is a standard action. If an ally 
+leaves the area or makes an attack, the effect ends for that ally. If you make an attack, the effect ends for you and your 
+allies. 
+Inspiring Word (Sp) As a standard action, you can speak an inspiring word to a creature within 30 feet. That creature receives a +2 
+morale bonus on attack rolls, skill checks, ability checks, and saving throws for a number of rounds equal to ½ your cleric 
+level (minimum 1). You can use this power a number of times per day equal to 3 + your Wisdom modifier.  
+Leadership (Ex) You receive Leadership as a bonus feat. In addition, you gain a +2 bonus on your leadership score as long as you 
+uphold the tenets of your deity. 
+Touch of Glory (Sp) You can cause your hand to shimmer with divine radiance, allowing you to touch a creature as a standard 
+action and give it a bonus equal to your cleric level on a single Charisma-based skill check or Charisma ability check. This 
+ability lasts for 1 hour or until the creature touched elects to apply the bonus to a roll. You can use this ability to grant the 
+bonus a number of times per day equal to 3 + your Wisdom modifier. 
+ 
+Cohort: Nyalil Stormstrike (uses holy warrior stats, GameMastery Guide 269) 
+Followers: Though he has countless other servants, Keon Chul’s personal retinue of fanatics are as follows: 4 battle mages 
+(GameMastery Guide 256; possess wands of magic missile rather than shocking grasp), 4 noble crusaders (NPC Codex 46; possess 
+Craft Magic Arms and Armor and Spellcraft rather than Combat Casting and Diplomacy, respectively), 8 investigator wizards (NPC 
+Codex 179; possess Craft Wondrous Item rather than Improved Initiative), 14 poachers (NPC Codex 129), 26 skulking brutes (NPC 
+Codex 144), 100 superstitious mercenaries (NPC Codex 80), and 170 various other 1st-level NPCs (generally acolytes, nobles, and 
+spies). Each of these fanatics all consider themselves followers of Iomedae, but are absolutely loyal to Keon Chul first and foremost, 
+and will die (or even fall in the case of paladins) for him and his goals if need be. They each gain a +4 morale bonus on Will saves 
+against enchantment spells and effects. Additionally, they each gain a +2 resistance bonus to saves against fear effects when within 
+360 feet of Keon Chul. 
+ 
+MASK OF LIES 
+Aura moderate transmutation; CL 6th 
+Slot head; Price 2,500gp; Weight 1 lb. 
+DESCRIPTION 
+An elaborate mask made from mithral wire, precious gems, and adamantine, the mask of lies is a unique magical headpiece that grants 
+its wearer uncanny abilities of deceit. It magically adheres to the wearer’s face, granting the subject a distinctly commanding 
+appearance and making accidental removal virtually impossible. When worn, this mask conceals emotions that might be betrayed by 
+one’s facial expression behind a calm façade and transforms one’s voice into a cold, heartless monotone, granting a +5 competence 
+bonus on all Bluff checks. 
+CONSTRUCTION 
+Requirements Craft Wondrous Item, innocence; Cost 1,250gp 
+  

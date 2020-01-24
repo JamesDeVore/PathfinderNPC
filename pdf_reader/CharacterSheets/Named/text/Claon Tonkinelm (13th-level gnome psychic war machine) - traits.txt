@@ -1,0 +1,200 @@
+
+
+Claon Tonkinelm (aka The Black Dread, Pate 
+Popper, Sir Tiny Tonk, The Terrible Tinman, 
+Tinny Tonk) 
+“Please stay calm while my steam giant pacifies the ruffians that 
+have infested your humble community.” 
+ 
+Claon is an adventurous gnome with grand ambitions of knightly 
+heroism. Known by many titles and epithets great and small, he 
+excels at making himself out to be far more than he actually is. 
+Standing at only a little over three feet, Claon has nevertheless built 
+up a fearsome reputation thanks to his bruising intellect, sharp tongue, 
+and—least of all—his towering war machines. 
+ 
+Claon was trained from birth in the ways of mechanical warfare for 
+the express purpose of leading his King’s army to war. Before his 
+training could be completed, however, Claon’s king was assassinated by an enemy agent. The King’s successor, 
+fearing spies and saboteurs amidst his servants, exiled Claon and dozens of others from their homeland. 
+ 
+Having fallen in love with war machines, Claon nevertheless thought modern devices to be crude and 
+ineffective. He strived to perfect them, and even invented his own personal constructs of war. Before long, 
+Claon was making quite a living, developing weapons of war for the highest bidder. 
+ 
+Within a decade of being exiled, the erstwhile inventor saw much of his former homeland torn apart by the very 
+automatons he had helped to create. Now with the war over, he travels abroad looking for adventure and 
+financing that will help him to further test and build his creations, seemingly uncaring about the destruction they 
+unleash upon the world. 
+ 
+Despite all his bravado and fearsome reputation, when not excitedly looking for new enemies to crush or 
+machines to invent, Claon possesses a strangely calming effect on the people around him; a psychic aura he 
+often uses to diffuse bad situations (such as when he is caught off guard away from his toys) or to lull enemies 
+into a false sense of security prior to their destruction. 
+ 
+Though he generally prefers performing good deeds to evil ones, Claon is ultimately a wondering mercenary at 
+heart, always on the lookout for ways to expand both his mechanical arsenal and psychic power. 
+   
+
+Claon Tonkinelm 
+Male old gnome psychic 13 
+N Medium humanoid (gnome) 
+Init +1; Senses low-light vision; Perception +18 
+Languages Common, Draconic, Dwarven, Elven, Giant, Goblin, 
+Gnome, Orc, Sylvan 
+DEFENSE 
+AC 26, touch 14, flat-footed 25 (+8 armor, +2 deflection, +1 Dex, +4 
+natural, +1 size) 
+hp 138 plus false life (13 HD) 
+Fort +13, Ref +10, Will +15; +2 vs. illusions 
+Defensive Abilities defensive training (+4 dodge bonus to AC vs. 
+giants), mental placidity (2/day); Immune fear 
+OFFENSE 
+Speed 20 ft. (4 squares), fly 40 ft.; overland flight 
+Melee +1 heavy mace +9 (1d6+2) 
+Ranged by weapon +8 
+Special Attacks +1 on attack rolls against goblinoid and reptilian humanoids, major amplifications (synaptic 
+shock), phrenic amplifications (intense focus, overpowering mind, relentless casting, will of the dead), 
+phrenic pool (8/day) 
+Spell-Like Abilities (CL 13
+th; Concentration +21, or +25 with Combat Casting) 
+2/day – calm emotions 
+1/day – dancing lights, detect thoughts, ghost sound, prestidigitation, speak with animals, telepathic 
+bond 
+Psychic Spells Known (CL 13
+th; Concentration +21, or +25 with Combat Casting) 
+6th  (5/day) – age resistance
+UM, greater object possession
+OA, psychic surgery
+B OA 
+5th  (7/day) – explode head
+OA, fabricate, overland flight, serenity
+B UM 
+4th  (8/day) – charm monster, confusion, freedom of movement, mass daze
+B UM, telekinesis 
+3rd  (8/day) – communal resist energy
+UC, deep slumber, heroism, mantle of calmB ACG, shrink item 
+2
+nd (8/day) – false life, make whole, mirror image, see invisibility, silence
+B, suggestion 
+1st  (8/day) – feather fall, magic missile, shield, silent image, telempathic projectionB OA, true strike 
+0  (at will) – bleed, dancing lights, detect magic, ghost sound, light, mending, message, open/close, 
+prestidigitation 
+Psychic Discipline Tranquility 
+STATISTICS 
+Abilities Str 12 (+1), Dex 12 (+1), Con 18 (+4), Int 26 (+8), Wis 14 (+2), Cha 12 (+1) 
+Base Atk +6; CMB +6; CMD 26 
+Feats Combat Casting, Craft Wondrous Items, Defensive Combat Training, Extend Spell, Greater Spell Focus 
+(necromancy), Spell Focus (necromancy), Toughness 
+Skills Bluff +17, Craft (alchemy) +27, Diplomacy +17 (+21 vs. powerful characters), Intimidate +17, 
+Knowledge (engineering) +24, Perception +18, Profession (engineer) +20, Sense Motive +18, Spellcraft 
++24; Racial Bonuses +2 Craft (alchemy), +2 Profession (engineer) 
+SQ gnome magic, purge disquiet, traits (ambitious, magical lineage: greater object possession), weapon 
+familiarity 
+Combat Gear alchemical fuel (96 hours worth per steam giant); Other Gear +1 heavy mace, +5 mithral shirt, 
+cloak of resistance +5, headband of vast intelligence +6 (craft: alchemy, knowledge: engineering, 
+profession: engineer), lucky war helm (as jingasa of the fortunate soldier, but grants a +2 deflection 
+bonus), steam giants (2), tender (3,354gp, 6sp, 7cp) 
+Encumbrance light 32 lb. 4 oz., medium 64 lb. 8 oz., heavy 97 lb. 8 oz.; Weight Carried 15 lb. (excluding 
+tender)   
+
+SPECIAL ABILITIES 
+Ambitious You exude confidence in the presence of those more powerful than you—sometimes unreasonably 
+so. You gain a +4 trait bonus on Diplomacy checks made to influence creatures with at least 5 Hit Dice 
+more than you possess. 
+Detect Thoughts (Sp) You can use detect thoughts as a spell-like ability once per day. You can also expend 
+any unused spell slot of 1
+st-level or higher to cast detect thoughts. If you do so, you use the level of the 
+spell slot expended to determine the Will save DC. 
+Gnome Magic You add +1 to the DC of any saving throws against illusion spells that you cast. If you have a 
+Charisma score of 11 or higher you also gain the following spell-like abilities: 1/day—dancing lights, 
+ghost sound, prestidigitation, and speak with animals. The caster level for these effects is equal to your 
+character level. The DC for these spells is equal to 10 + the spell’s level + your Charisma modifier. 
+Intense Focus (Ex) You can spend 1 point from your phrenic pool to gain a +2 bonus on any concentration 
+check you attempt as part of casting the linked spell. You can choose to spend 2 points from your 
+phrenic pool to instead gain a +4 bonus. 
+Magical Lineage When you apply metamagic feats to this object possessionOA that add at least 1 level to the 
+spell, treat its actual level as 1 lower for determining the spell’s final adjusted level. 
+Mental Placidity (Su) As an immediate action, you can gain a +2 bonus on a Will saving throw you are about 
+to attempt. This bonus increases to +4 against an enchantment spell or effect. Any ally who attempts a 
+saving throw against the same effect gains a +1 bonus on the Will save, or a +2 bonus if the effect is an 
+enchantment. If you succeed at the saving throw, you regain 1 point in your phrenic pool. You can use 
+this ability a number of times per day equal to your Wisdom modifier. 
+Overpowering Mind (Ex) You can spend 2 points from your phrenic pool to increase the Will save DC of the 
+linked spell by 1. You can choose to instead spend 4 points to increase the DC by 2. This amplification 
+can be linked only to spells that have the mind-affecting descriptor and require a Will saving throw. 
+Phrenic Pool (Su) You have a pool of supernatural mental energy that you can draw upon to manipulate 
+psychic spells as you cast them. The maximum number of points in your phrenic pool is equal to ½ your 
+psychic level + your Wisdom modifier. The phrenic pool is replenished each morning after 8 hours of 
+rest or meditation; these hours don’t need to be consecutive. You might be able to recharge points in 
+your phrenic pool in additional circumstances dictated by your psychic discipline. Points gained in 
+excess of the pool’s maximum are lost. 
+Purge Disquiet (Su) You become immune to fear spells and effects and to the confused condition. As a 
+standard action, you can choose a willing creature that is either within 30 feet or in telepathic contact 
+with you. For 1 round per psychic level you possess, you suppress any fear effect or confused, cowering, 
+frightened, panicked, or shaken condition affecting that creature. You can suppress only one effect at a 
+time with this ability, and choosing a new target ends the suppression for the character you previously 
+chose. 
+Relentless Casting (Su) You can spend 1 point from your phrenic pool to roll twice on any caster level checks 
+to overcome spell resistance required for the linked spell and take the better result. Because you must 
+decide to spend points from your phrenic pool when you start casting a spell, you must decide to use this 
+ability before the GM calls for the caster level check. 
+Synaptic Shock (Su) You can spend 1 point from your phrenic pool when casting a mind-affecting linked spell 
+to select one of the spell’s targets. If the target is affected by the linked spell, that target is confused for 1 
+round after the duration of the spell expires (or immediately, if the spell has an instantaneous duration). 
+If the target succeeds at its save against the linked spell, it is instead confused for 1 round immediately. 
+For each additional point you spend from your phrenic pool, you can confuse one additional target of the 
+linked spell. This amplification can be applied only to a mind-affecting spell that can affect a number of 
+targets or that has an area. It has no effect on creatures that are immune to mind-affecting effects, unless 
+the linked spell is able to affect such creatures (such as a spell that has both will of the dead and synaptic 
+shock applied to it via dual amplification). 
+Telepathic Bond (Sp) You can use telepathic bond as a spell-like ability once per day, using your psychic level 
+as your caster level. You can’t leave yourself out of a bond created in this way. You can also expend any 
+
+unused spell slot of 4
+th-level or higher to cast telepathic bond. Casting the spell using a higher-level spell 
+slot gives no benefit on its own, but you can apply metamagic feats that would increase the spell level to 
+the appropriate level. For instance, if you know Extend Spell, you can use a 5
+th-level spell slot to cast 
+extended telepathic bond as a full-round action. 
+Weapon Familiarity You treat any weapon with the word “gnome” in its name as a martial weapon. 
+Will of the Dead (Su) Even undead creatures can be affected by your mind-affecting spells. You can spend 2 
+points from your phrenic pool to overcome an undead creature’s immunity to mind-affecting effects for 
+the purposes of the linked spell. This ability functions even on mindless undead, but has no effect on 
+creatures that aren’t undead. This amplification can be linked only to spells that have the mind-affecting 
+descriptor. 
+ 
+Possessed Steam Giant 
+Gargantuan Animated Object (steam giant) 
+N Gargantuan construct 
+Init –2; Senses darkvision 60 ft., low-light vision; Perception +18 
+DEFENSE 
+AC 17, touch 4, flat-footed 17 (–2 Dex, +13 natural, –4 size) 
+hp 115 (10 HD) 
+Fort +4, Ref +2, Will +10 
+Defensive Abilities hardness 10; Immune construct traits 
+OFFENSE 
+Speed 60 ft. (12 squares) 
+Melee slam +16 (3d6+23) 
+Space 20 ft.; Reach 20 ft. 
+STATISTICS 
+Abilities Str 38, Dex 6, Con –, Int 26, Wis 14, Cha 12 
+Base Atk +6; CMB +24; CMD 32 
+SQ construction points (5 points: faster ×3, metal construction), very large 
+SPECIAL ABILITIES 
+Very Large An animated steam giant is essentially an extremely large mobile vehicle made animate. As such, it is 
+immune to critical hits, has a hardness rating, takes reduced damage from energy attacks (or no damage from 
+ineffectual attacks), and has different hit point totals for different sections. For example, a door may be broken 
+down, a window smashed, or even an entire wall collapsed without any harm to the steam giant. For damage to be 
+dealt directly to the steam giant’s hit point total, the animated steam giant as a whole must be deliberately 
+targeted, rather than its individual components. Once the animated steam giant reaches 0 hit points, it is 
+effectively destroyed: it is no longer animated and reverts to a mundane steam giant (albeit a damaged one) 
+resting in its current position. Unless totally destroyed, it remains a fully functioning vehicle that can be piloted. 
+For the purposes of completely obliterating the steam giant itself (not just de-animating it), treat the steam giant as 
+having 320 hit points. Attacking an object within the steam giant is treated just like targeting any normal 
+unattended object (see the smashing an object rules). Attacking an object on the steam giant’s exterior (such as to 
+destroy one of its siege weapons), however, requires a successful sunder attempt against the animated steam giant 
+itself (see the sunder combat maneuver). Additionally, a steam giant is so large, that a great number of beings may 
+reside comfortably inside of it, even while it is moving or fighting. Such inhabitants may prove dangerous in their 
+own right, granting the steam giant additional forms of attack or defense. While so animated, a steam giant is not 
+dependent on its alchemical fuel to move about. 

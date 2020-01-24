@@ -1,0 +1,184 @@
+
+
+Esal Baily 
+“I can’t remember if it’s the green fluid or the red fluid.” 
+ 
+As an infant, Esal was left on the footsteps of Dundith’s 
+arcane academy by his Elven mother (who was so ashamed 
+by his very existence that she chose to abandon the bastard 
+child). As he grew up, learning the ways of magic, he was 
+constantly reminded of his shameful heritage by an Elven 
+mentor. Not willing to deal with such constant abuse, Esal 
+turned his focus away from the practical applications of 
+arcane magic and instead started dabbling in alchemy—a 
+change that allowed him to get far away from his 
+tormentor. Soon after his self-imposed exile to the alchemy 
+labs he met his first and last friend in the form of a human 
+youth named Deuce. 
+ 
+Esal saw Deuce as a true friend, and the feeling was mutual, but they were also fierce rivals and constantly pitted 
+their various skills against one another. Such tests ranged widely, from being as dangerous as creating the biggest 
+explosion, to as whimsical as attempting to bed a beautiful lass. Esal lost most of the social competitions due to 
+having been raised by strict instructors rather than a caring family, but due to his focus he usually bested Deuce 
+in tests of true alchemical work. 
+ 
+After several  years of feeling trapped by the stern rules and regulations of their academy, the two young men 
+grew bored and decided shirk the rules and find a way to earn some extra gold and thrills. They fell in with a local 
+assassin’s guild and over the course of the following year Esal and Deuce brewed hundreds of poisons, mutagens, 
+and other alchemical contraband for prospective assassins. Their adventuresome entrepreneurship soon came to 
+an end, however. During a failed assassination attempt a mutagen that they had created was discovered by the 
+authorities. What’s worse, the assassin carrying it had been captured and, after being questioned thoroughly, had 
+given  up the alchemy lab  where the  mutagen  had been created. The  law  came  down  hard  on the alchemists 
+working out of the facility, but because it was never made clear which individuals were party to the crime, large 
+numbers of talented alchemists were turned out. Esal and Deuce were among those scorned alchemists. Before 
+leaving the  academy  in disgrace, both delinquents rigged the alchemical  lab to explode behind them. Despite 
+being responsible for the destruction of a large portion of the arcane academy, the two were never caught. 
+ 
+They continued their alchemical work together, hiring themselves out as mercenaries specializing in explosives. 
+Eventually, they were hired by a mysterious employer to aid in the construction of a great alchemical weapon. 
+Their task was to go deep into the great Sal’Har desert in search of a rare plant’s nectar. Like many of their prior 
+endeavors, however, their brief venture would  be sidetracked.  While traveling through the desert, the two 
+erstwhile explorers became trapped in quicksand and soon found themselves deposited in a great subterranean 
+tunnel network. Hoping to find a way out before they ran out of food and water, Esal and his friend decided to 
+explore it. They found that the tunnels led to a great underground library which, much to their dismay, was ruled 
+by a great dragon named Morick. Instead of killing the intruders of his domain, Morick decided to keep Esal and 
+Deuce as “pets.” After learning of their potential, Morick gave the alchemists a lab with which to make him a 
+hoard of potions and alchemical items. Esal remained a prisoner of the great dragon for three years before being 
+rescued by a band of wayward adventures. The adventurers negotiated his release (as well as their own) from 
+Morick and now Esal travels with them in search of the same mystical plant that led him to this point in his life. 
+Only when Esal finds this plant can he turn it over to The Dragon of the Library to buy his childhood friend’s 
+freedom. 
+   
+
+Esal Baily 
+Male half-elf alchemist 11 
+NE Medium humanoid (elf, human) 
+Init +4; Senses low-light vision; Perception +17 
+Languages Common, Draconic, Dwarven, Elven, Giant, 
+Undercommon 
+DEFENSE 
+AC 21, touch 14, flat-footed 17 (+6 armor, +4 Dex, +1 
+natural) 
+hp 97 (11 HD) 
+Fort +14, Ref +16, Will +11; +2 vs. enchantments 
+Immune extreme hot/cold environments, magical sleep, 
+poison 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 bayonet +10/+5 (1d6+3) 
+Ranged acid bomb +13 touch (6d6+7 acid plus 1d6 acid on following round, 13 splash) or 
+frost bomb +13 touch (6d6+7 cold plus save vs. staggered, 13 splash) or 
+standard bomb +13 touch (6d6+7 fire, 13 splash) or 
++1 corrosive burst light crossbow +13 (1d8+1 plus 1d6 acid plus poison/19-20/×2 plus 1d10 acid) 
+Special Attacks bomb (6d6+7, 20/day), poison use, swift poisoning, throw anything +7 
+Alchemist Extracts Prepared (CL 11
+th) 
+4
+th  (3/day) – combine extracts (cure moderate wounds, invisibility), dragon’s breath
+APG, stoneskinM 
+3rd  (6/day) – amplify elixerAPG, cure serious wounds (2), fly, haste, thorn body
+APG 
+2nd (6/day) – cure moderate wounds (2), fire breath
+APG (2), invisibility, resist energy 
+1st  (7/day) – ant haulAPG, bomber’s eyeAPG, crafter’s fortune
+APG, cure light wounds (2), endure elements, 
+expeditious retreat 
+STATISTICS 
+Abilities Str 13 (+1), Dex 19 (+4), Con 14 (+2), Int 24 (+7), Wis 13 (+1), Cha 7 (–2) 
+Base Atk +8; CMB +11; CMD 25 
+Feats Brew Potion
+B, Extra Bombs, Master Alchemist, Point Blank Shot, Precise Shot, Shared Insight, Throw 
+Anything
+B, Toughness 
+Skills Acrobatics +15, Appraise +21, Craft (alchemy) +29 (+40 to create alchemical items), Disable Device 
++18, Knowledge (arcana) +21, Knowledge (nature) +21, Perception +17 (low-light vision), Sleight of 
+Hand +18, Spellcraft +21, Survival +15, Use Magic Device +12; Racial Modifiers +2 Perception 
+SQ alchemy, discoveries (acid bomb, combine extracts, enhance potion, feral mutagen, frost bomb), dual 
+minded, elf blood, mutagen (110 minutes), swift alchemy 
+Combat Gear crossbow bolts (30), poisons (giant wasp poison 9, oil of taggit 9, shadow essence 9); Other 
+Gear +1 corrosive light crossbow with +1 bayonet, +2 mithral shirt, alchemist’s kit, amulet of natural 
+armor +1, belt of incredible dexterity +4, cauldron of brewing, cloak of resistance +5, formula book 
+(36 pages remaining), headband of mental prowess +4 (appraise, use magic device), portable 
+alchemist’s lab, ring of sustenance, tender (32gp) 
+Formula Book 4th—cure critical wounds, detonate
+APG, dragon’s breathAPG, freedom of movement, fluid 
+form
+APG, stoneskin
+M; 3rd-level—amplify elixirAPG, blood houndAPG, cure serious wounds, fly, haste, 
+protection from energy, thorn body
+APG; 2nd-level—cure moderate wounds, fire breathAPG, invisibility, 
+resist energy, vomit swarm
+APG; 1st-level—ant haulAPG, bomber’s eyeAPG, cure light wounds, crafter’s 
+fortune
+APG, endure elements, expeditious retreat, keen sensesAPG, negative aromaAPG, true strike 
+Encumbrance light 150 lb., medium 300 lb., heavy 450 lb.; Weight Carried 55 lb. 11 oz. (excluding tender); 
+ant haul 
+   
+
+SPECIAL ABILITIES 
+Acid Bomb When you create a bomb, you can choose to have it inflict acid damage. Creatures that take a direct 
+hit from an acid bomb take an additional 1d6 points of acid damage 1 round later. This discovery does 
+not stack with other discoveries that modify bombs. 
+Alchemy (Su) When using Craft (alchemy) to create an alchemical item, you gain a competence bonus equal to 
+your alchemist class level on the Craft (alchemy) check (included above). In addition, you can use Craft 
+(alchemy) to identify potions as if using detect magic. You must hold the potion for 1 round to make 
+such a check. You are also capable of creating bombs, extracts, and mutagens (see below). 
+Bomb (Su) You can use a number of bombs each day equal to your alchemist class level + your Intelligence 
+modifier. Bombs are unstable, and if not used in the round they are created, they degrade and become 
+inert—their method of creation prevents large volumes of explosive material from being created and 
+stored. Creating and throwing a bomb requires a standard action that provokes an attack of opportunity. 
+Thrown bombs have a range of 20 feet and use the Throw Splash Weapon special attack. Bombs are 
+considered weapons and can be selected using feats such as Point-Blank Shot and Weapon Focus. On a 
+direct hit, your bomb inflicts 1d6 points of fire damage plus additional damage equal to your 
+Intelligence modifier (due to the throw anything class ability). The damage of your bomb increases by 
+1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit 
+or by using feats such as Vital Strike). Splash damage from an alchemist bomb is always equal to the 
+bomb’s minimum damage. Those caught in the splash damage can attempt a Reflex save DC 22 for half 
+damage. 
+Combine Extracts When you create an extract, you can place two formulae into one extract. When the extract 
+is consumed, both formulae take effect. This extract has a level two levels higher than the highest-level 
+formulae placed in the extract. 
+Dual Minded You get a +2 bonus on all Will saving throws (included above). 
+Enhance Potion A number of times per day equal to your Intelligence modifier, you can cause any potion you 
+drink to function at a caster level equal to you alchemist class level. 
+Extracts (Su) You may create and use extracts, essentially spells in the form a drinkable liquid. For the most 
+part, extracts follow the rules of both potions and spells. 
+Feral mutagen Whenever you imbibe a mutagen, you gain two claw attacks and a bite attack. These are 
+primary attacks and are made using your full base attack bonus. The claw attacks deal 1d6 points of 
+damage and the bite attack deals 1d8 points of damage. While the mutagen is in effect, you gain a +2 
+competence bonus on Intimidate skill checks. 
+Frost Bomb When you create a bomb, you can choose to have it inflict cold damage. Creatures that take a 
+direct hit from a frost bomb are staggered on their next turn unless they succeed on a DC 22 Fortitude 
+save. This discovery does not stack with other discoveries that modify bombs. 
+Mutagen (Su) You may brew a dose of mutagen in 1 hour, and once brewed, it remains potent until used. You 
+can only maintain one dose of mutagen at a time—if you brew a second dose, any existing mutagen 
+becomes inert. As with an extract or bomb, a mutagen that is not in your possession becomes inert until 
+you pick it up again. When you brew a mutagen, you select one physical ability score—Strength, 
+Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen 
+causes you to grow bulkier and more bestial, granting you a +2 natural armor bonus and a +4 alchemical 
+bonus to the selected ability score for 10 minutes per alchemist level. In addition, while the mutagen is 
+in effect, you take a –2 penalty to one of your mental ability scores. If the mutagen enhances your 
+Strength, it applies a penalty to your Intelligence. If it enhances your Dexterity, it applies a penalty to 
+your Wisdom. If it enhances your Constitution, it applies a penalty to your Charisma. A non-alchemist 
+who drinks a mutagen must make a DC 22 Fortitude save or become nauseated for 1 hour—a non-
+alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another 
+alchemist’s mutagen if he drinks it. (Although if the other alchemist creates a different mutagen, the 
+effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever 
+you drink a mutagen, the effects of any previous mutagen immediately end. 
+
+Poison Use (Ex) You are trained in the use of poison and cannot accidentally poison yourself when applying 
+poison to a weapon. 
+Poisons You carry of variety of poisons, which you typically coat your weapons with: 
+Giant wasp poison—injury; save Fort DC 18, frequency 1/round for 6 rounds, effect 1d2 Dex, cure 1 
+save. 
+Oil of taggit—ingested; save Fort DC 15, onset 1 minute, effect unconsciousness for 1d3 hours, cure 1 
+save. 
+Shadow essence—injury; save Fort DC 17, frequency 1/round for 6 rounds, effect 1 Str drain/1d2 Str, 
+cure 1 save. 
+Swift Alchemy (Ex) You can create alchemical items with astounding speed. It takes you half the normal 
+amount of time to create alchemical items. 
+Swift Poisoning (Ex) You can apply a dose of poison to a weapon as a swift action. 
+Throw Anything (Ex) You gain the Throw Anything feat as a bonus feat and you add your Intelligence 
+modifier to damage done with splash weapons, including the splash damage if any. This bonus damage 
+is already included in the bomb class feature (and in the above stats). 
+ 
