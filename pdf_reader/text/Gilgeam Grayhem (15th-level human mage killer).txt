@@ -1,0 +1,94 @@
+
+
+Gilgeam Grayhem 
+Male human diviner 15 
+NG Medium humanoid 
+Init +16; Senses dragon senses, Perception +20 
+Languages Common, Draconic, Dwarven, Elven 
+DEFENSE 
+AC 29, touch 20, flat-footed 24 (+4 armor, +5 deflection, +5 Dex, 
++5 natural); mage armor 
+hp 159 (15 HD) 
+Fort +17, Ref +17, Will +19 
+Defensive Abilities evasion, forewarned 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee by weapon +6/+1 
+Ranged by weapon +12/+7 
+Arcane School Spell-Like Abilities (CL 15
+th, or CL 19th to overcome SR; Concentration +24) 
+12/day – diviner’s fortune (+7) 
+Wizard Spells Prepared (CL 15
+th, or CL 19th to overcome SR; Concentration +24) 
+8th  (3/day) – form of the dragon III, heightened Gilgeam’s glass strike, moment of prescience 
+7th  (4/day) – finger of death, greater scrying, quickened lightning bolt, reverse gravity 
+6th  (5/day) – chain lightning, disintegrate, Gilgeam’s glass strike, heightened baleful polymorph, true 
+seeing 
+5th  (7/day) – cone of cold, dominate person
+O, prying eyes, quickened shield, teleport (2) 
+4th  (7/day) – dimension door, enervation (2), greater invisibility
+O, locate creature, stoneskin
+M 
+3
+rd  (7/day) – arcane sight, dispel magic, fireball, fly (2), lightning bolt, protection from energy 
+2nd (7/day) – acid arrow (2), blindness/deafness, detect thoughts, knock, scorching ray, spider climb 
+1st  (8/day) – feather fall, identify, mage armor, magic missile (2), ray of enfeeblement, shield (2) 
+0  (at will) – light, mage hand, message, prestidigitation 
+Arcane School divination; O Opposition school spell; Opposition Schools enchantment, illusion 
+STATISTICS 
+Abilities Str 9 (–1), Dex 20 (+5), Con 20 (+5), Int 28 (+9), Wis 20 (+5), Cha 8 (–1) 
+Base Atk +7; CMB +6; CMD 24 
+Feats Attune Gem
+B, Craft Wondrous ItemB, Greater Spell Focus (transmutation
+B), Greater Spell Penetration, 
+Great Fortitude, Heighten SpellB, Improved Initiative, Lightning Reflexes, Quicken SpellB, Spell Focus 
+(evocation, necromancy, transmutation), Spell Penetration 
+Skills Craft (jewelry) +27, Knowledge (arcana) +27, Knowledge (dungeoneering) +27, Knowledge (history) 
++27, Knowledge (local) +27, Knowledge (nature) +27, Knowledge (nobility) +27, Knowledge (planes) 
++27, Knowledge (religion) +27, Perception +20, Spellcraft +27, Stealth +20 
+SQ arcane bond (ring), forewarned, gem mage, scrying adept 
+Combat Gear attuned gems (mount [CL 4
+th] 2, power word: stun, silent image 4, true strike 4); Other Gear 
+amulet of natural armor +5, belt of physical might +6 (dexterity, constitution), cloak of resistance +5, 
+eyes of the dragon, headband of mental prowess +6 (intelligence, wisdom; knowledge: 
+history/local/nobility), ring of evasion (bonded object), ring of protection +5, spellbooks (3) (67 blank 
+pages), spell component pouch, tender (125gp) 
+Spellbook 8th—discern location, form of the dragon III, moment of prescience, power word: stun, trap the 
+soulM ; 7th—banishment, delayed blast fireball, finger of death, forcecage
+M, greater scrying, reverse 
+gravity, spell turning; 6
+th—chain lightning, disintegrate, Gilgeam’s glass strike (as flesh to stone, but 
+subject turns into stone-hard glass), true seeing
+M; 5th—baleful polymorph, cone of cold, dominate 
+person, feeblemind, prying eyes, teleport; 4th—dimension door, enervation, greater invisibility, locate 
+creature, minor globe of invulnerability, stoneskinM; 3rd—arcane sight, dispel magic, fireball, fly, haste, 
+lightning bolt, protection from energy; 2nd—acid arrow, blindness/deafness, darkvision, detect thoughts, 
+
+knock, rope trick, scorching ray, spider climb; 1st—feather fall, identify, mage armor, magic missile, 
+mount, ray of enfeeblement, shield, silent image, true strike; 0—all but enchantment and illusion 
+Encumbrance light 30 lb., medium 60 lb., heavy 90 lb.; Weight Carried 14 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Diviner’s Fortune (Sp) Twelve times per day you can touch any creature as a standard action to give it a +7 
+insight bonus on all of its attack rolls, skill checks, ability checks, and saving throws for 1 round. 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. If you are helpless or are not wearing your ring of 
+evasion, you do not gain the benefit of evasion. 
+Forewarned (Su) You can always act in the surprise round even if you fail to make a Perception roll to notice a 
+foe, but you are still considered flat-footed until you take an action. In addition, you receive a bonus on 
+initiative checks equal to ½ your wizard level (included above). 
+Gem Mage You are a rare and gifted arcanist skilled at attuning precious gemstones with your magic. You gain 
+the Attune Gems feat as a bonus feat (which functions identically to and replaces the Scribe Scroll feat). 
+Instead of placing your spells on paper, you imbed them in valuable gemstones for later use. Attuned 
+gems work in every way like arcane spell scrolls (the cost of the gem is subsumed in the cost to make it 
+attuned). 
+Scrying Adept (Su) You are always aware when you are being observed via magic, as if you had a permanent 
+detect scrying. In addition, whenever you scry on a subject, treat the subject as one step more familiar to 
+you. Very familiar subjects get a –10 penalty on their save to avoid your scrying attempts. 

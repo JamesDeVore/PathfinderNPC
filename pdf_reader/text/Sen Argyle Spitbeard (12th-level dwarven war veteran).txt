@@ -1,0 +1,72 @@
+
+
+Sen Argyle Spitbeard 
+  
+
+Male dwarf fighter 12 (corsair) 
+LN Medium humanoid (dwarf) 
+Init +2; Senses darkvision 60 ft., stonecunning; Perception +1 
+Languages Aquan, Common, Dwarven, Giant, Goblin, Orc 
+DEFENSE 
+AC 25, touch 12, flat-footed 24 (+12 armor, +1 deflection, +1 
+Dex, +1 natural) 
+hp 129 (12 HD) 
+Fort +12, Ref +7, Will +6; +2 vs. poison, spells, and spell-like 
+abilities, +3 vs. fear 
+Defensive Abilities bravery +3, defensive training (+4 dodge bonus to AC vs. giants); DR 3/– 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +3 adamantine greatsword +26/+21/+16 (2d6+17/19-20) or 
++3 adamantine greatsword +26/+17/+12 (2d6+29/19-20) with Power Attack 
+Ranged +1 composite longbow +18/+13/+8 (1d8+8/×3) 
+Special Attacks +1 on attack rolls against goblinoid and orc humanoids, weapon training (heavy blades +4, 
+bows +3) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 14 (+2), Con 16 (+3), Int 14 (+2), Wis 13 (+1), Cha 8 (–1) 
+Base Atk +12; CMB +16 (+20 with greatsword); CMD 32 (36 vs. bull rush/trip, 40 vs. greatsword disarm) 
+Feats Cleave
+B, Cleaving FinishB, Flanking Foil, Furious Focus, Giant Killer
+B, Goblin Cleaver, Great Cleave
+B, 
+Improved Cleaving Finish
+B, Improved Surprise Follow-ThroughB, Orc Hewer, Power Attack
+B (–4 
+attack, +4/+8/+12 damage), Strike Back, Surprise Follow-Through 
+Skills Acrobatics +12, Climb +15, Knowledge (local) +11, Linguistics +4, Profession (sailor) +13, Survival 
++14, Swim +20; Armor Check Penalty –5 (+0 for Acrobatics and Swim checks); Racial Modifiers +2 
+Appraise relating to metals/minerals, +2 Perception to notice unusual stonework 
+SQ armored pirate, improved deck fighting, pirate weapons, weapon familiarity 
+Combat arrows (20), potions of cure light wounds (8), potions of enlarge person (16), woundweal (16); Other 
+Gear +1 composite longbow (+7 strength bonus), +3 adamantine greatsword, +3 adamantine full plate, 
+amulet of natural armor +1, belt of giant strength +6, cloak of resistance +1, gloves of dueling, ring of 
+protection +1, tender (49gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 66 lb. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Armored Pirate (Ex) You reduce the armor check penalty of any armor you wear to 0 for purposes of 
+Acrobatics and Swim checks. 
+Bravery (Ex) You gain a +3 bonus on Will saves against fear effects. 
+Defensive Training You gain a +4 dodge bonus to AC against attacks made by Giants. 
+Greed You gain a +2 racial bonus on Appraise skill checks made to determine the price of nonmagical goods 
+that contain precious metals or gemstones. 
+Hardy You receive a +2 racial bonus on saving throws against poison, spells, and spell-like abilities. 
+Hatred You receive a +1 bonus on attack rolls against humanoid creatures of the orc and goblinoid subtypes. 
+Improved Deck Fighting (Ex) You gain Cleave and Great Cleave as a bonus feats. You may use these feats 
+even if you do not meet the prerequisites. You do not take the normal –2 penalty to your AC when using 
+either feat. 
+Pirate Weapons (Ex) You are well versed in the types of weapons favored by pirates. When selecting a group 
+of weapons for your Weapon Training ability, you can select Pirate Weapons as a group. The Pirate 
+Weapons group consists of the crossbow, cutlass, dagger, hook hand, rapier, and short sword. 
+Stability You receive a +4 racial bonus to your Combat Maneuver Defense when resisting a bull rush or trip 
+attempt while standing on the ground. 
+Stonecunning You receive a +2 bonus on Perception checks to potentially notice unusual stonework, such as 
+traps and hidden doors located in stone walls or floors. You receive a check to notice such features 
+whenever you pass within 10 feet of them, whether or not you are actively looking. 
+Weapon Familiarity You are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon 
+with the word “dwarven” in its name as a martial weapon. 
+Weapon Training (Ex) You receive a +4 bonus to attack and damage rolls when using heavy blades, to any 
+combat maneuver checks made with heavy blades, and to your Combat Maneuver Defense when 
+defending against disarm and sunder attempts made against heavy blades. You receive a similar bonus 
+with bows, but only at a +3 bonus. 
+ 

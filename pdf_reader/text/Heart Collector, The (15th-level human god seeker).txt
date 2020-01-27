@@ -1,0 +1,233 @@
+
+
+Eibon the Ruthless (aka The Heart Collector) 
+“Oh this? Do you not recognize your own heart when you see it?” 
+ 
+Eibon has gone to great lengths to hide his past, long ago murdering 
+anyone  known  to  have  any  worthwhile  information  or  long-term 
+connections with him. What precious little else that is known about 
+him, is that he is a dark wizard of great power—and possibly one of 
+the greatest necromancers currently living—who is actively seeking 
+out a way to become a living god, at any cost. 
+ 
+A  sadist  and  sociopath,  the  emotionless  Eibon  has  earned  the 
+moniker  “Eibon  the  Ruthless”  due  to  his  preference  for  horrific 
+attack spells that maim and mutilate the bodies of his enemies. His 
+favorite  attack,  death  clutch,  and  his  penchant  for  carrying  the 
+extracted  hearts  of  his  victims,  have  also  earned  him  another 
+nickname:  The  Heart  Collector.  It  is  widely  rumored  that  he  also 
+carries the hearts of his former family members on his person, and 
+that these hearts are the only remaining connection to an otherwise 
+mysterious past. None have ever discovered the truth of the rumor 
+and lived to tell the tale. 
+ 
+Despite being insane, Eibon remains singularly focused at gaining more knowledge and power. He hopes that this 
+path will ultimately allow him to achieve immortality through deification. He frequently travels the multiverse 
+chasing after rumors of mortal-to-deity ascensions, delves into long lost tombs of ancient god-kings, and combs 
+the vast libraries of the most learned civilizations (be they public, private, hidden, or lost). To fund his various 
+expeditions and schemes, Eibon offers his services as a resurrector of the dead to anyone daring and rich enough 
+to hire him, no questions asked. Currently, he holds several prepaid contracts for such services yet to be rendered. 
+Many  of  Eibon’s  clientele  are  powerful  individuals,  willing  to  go  through  great  lengths  to  protect  their 
+investment—one of the many reasons why Eibon even bothers offering such services. 
+ 
+Eibon does not worship the gods in any traditional sense (his personal egomania would never allow for it). Rather, 
+he readily acknowledges their power and success, and looks to them for aid in the same manner he would any 
+other useful tool. He sees himself less as a worshiper and more as a potential rival. Eibon has even gone through 
+great lengths to study the magical arts of numerous faiths and philosophies, effectively poaching several divine 
+secrets  for his own personal use. His successes in stealing the power of the gods’ divine servants in this way 
+further fuels his overweening ambition to one day become a god himself. 
+ 
+Though Eibon has no qualms about utilizing undead servitors to aid him during this endeavor, he loathes the idea 
+of reaching immortality through undeath, seeing it as a lowly cheat and temporary solution too often resorted to 
+by the unworthy. Because of his monomaniacal drive to achieve eternal greatness, he generally gets along well 
+with those who actively work towards helping him obtain his goals (even going so far as to offer favors or rewards 
+in return). Even so, given enough time, Eibon ultimately betrays and murders anyone associated with him as he 
+believes that maintaining long-term associations will only result in the theft of his many secrets and lead to the 
+intolerable possibility of others becoming immortal god beings in his stead. Conversely, Eibon almost completely 
+ignores those who are inconsequential to his schemes, and brutally massacres any who actively oppose him or his 
+mad quest for power. 
+   
+
+Eibon the Ruthless 
+Male human, necromancer 5/adventuring savant 10 
+CE Medium humanoid 
+Init +5; Senses Perception +23 
+Languages Abyssal, Aklo, Aquan, Auran, Common, Ignan, Infernal, Sylvan, 
+Terran, Undercommon 
+DEFENSE 
+AC 29, touch 20, flat-footed 24 (+4 armor, +5 deflection, +5 Dex, +5 natural); 
+mage armor 
+hp 144 plus false life (15 HD) 
+Fort +14, Ref +14, Will +15; +10 bonus vs. writing-based traps 
+Defensive Abilities sigil master, symbol master; DR 10/magic vs. ranged 
+attacks 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good); overland flight 
+Melee grave touch +7 touch (shaken for 2 rounds or frightened for 1 round) or 
+touch spell +6 touch (as spell) 
+Ranged 15 nodes of blasting +16 (6d6) via telekinesis, or 
+touch spell +12 touch (as spell) 
+Special Attacks grave touch (12/day), power over undead (12/day, DC 13) 
+Spell-Like Abilities (CL 15th; Concentration +24) 
+At-will – analyze dweomer (up to 10 rounds/day in 1-round increments) 
+12/day – grave touch (shaken for 2 rounds or frightened for 1 round) 
+5/day – identify (swift action to use) 
+Wizard Spells Prepared (CL 15th or CL 19th vs. SR; Concentration +24) 
+8th  (3/day) – death clutchHA, horrid wilting, rend body III
+PA 
+7th  (4/day) – finger of death, greater teleport, harm, heal 
+6th  (5/day) – chain lightning, circle of death
+M, explode headOA, eyebite, wither limbHA 
+5th  (7/day) – blood boilMM, cloudkill, cone of cold, freedom of movement, overland flight, sloughHA, wall 
+of force 
+4th  (7/day) – bestow curse, black tentacles, boneshatterP#84, enervation (2), fire shield, speak with dead 
+3rd  (7/day) – excruciating deformationUM, fireball, haste, phantom steed, protection from energy, ray of 
+exhaustion, vampiric touch 
+2nd (7/day) – blindness/deafness, bloodbathHA, boiling bloodUM, boneshakerHA, deathwatch, false life, 
+protection from arrows 
+1st  (8/day) – chill touch, endure elements, feather fall, mage armor, magic missile (2), shield (2) 
+0  (at will) – bleed, light, open/close, mage hand 
+Arcane School necromancy; Opposition Schools enchantment, illusion 
+STATISTICS 
+Abilities Str 8 (–1), Dex 20 (+5), Con 20 (+5), Int 28 (+9), Wis 12 (+1), Cha 12 (+1) 
+Base Atk +7; CMB +6; CMD 26 
+Feats Craft Wondrous ItemB, Command UndeadB, Dispel Focus, Favored Prestige Class (adventuring savant, 
+perception), Greater Dispel Focus, Greater Spell Focus (necromancy), Greater Spell Penetration, 
+Magical Aptitude
+B, Prestigious Spellcaster, Scribe ScrollB, Spell Focus (necromancy), Spell Penetration 
+Skills Appraise +27, Knowledge (arcana) +32, Knowledge (dungeoneering, geography, history, local, nature, 
+planes, religion) +27, Perception +23, Spellcraft +36, Survival +19, Use Magic Device +36 
+SQ adept activation, arcane bond (ring of telekinesis), dispelling master, esoteric magic, glyph finding, 
+item master (ring of telekinesis), master scholar +5, ongoing spells, quick identification, scroll master, 
+silence master, spellcasting master (3/day, 9 rounds) 
+Combat Gear arcane spell scrolls (alarm, alter self, comprehend languages, darkness, darkvision, disguise self, 
+enlarge person, false life, hold portal, grease, heroism, invisibility sphere, knock, locate object, magic 
+
+missile 2, make whole, see invisibility, shield 2, silent image, true strike), fake spell scrolls (4, explosive 
+runes traps), focus components (clone, contingency, magic jar), material components (animate dead [60 
+HD], circle of death 2), personal clone (hidden away in a secret lab), pouch of psychically charged 
+pebbles (see trap below), salt alchemical power component (9 uses); Other Gear amulet of natural 
+armor +5, belt of physical might +6 (dexterity, constitution), blessed books (2, 657 pages remaining; 
+trapped, see below), cloak of resistance +5, collection of preserved humanoid hearts (concealed, DC 31 
+to find), headband of vast intelligence +6 (knowledge: geography, history, local), original spellbook 
+(kept with clone, hidden via sequester and shrink item), ring of protection +5, spell component pouches 
+(3; one plus two spares; one spare hidden on person and the other with the clone, DC 31 to find), tender 
+(15sp) 
+Spellbook all core wizard spells of 7th-level and lower plus blood boilMM, bloodbathHA, boiling bloodUM, 
+boneshakerHA, boneshatterP#84, clone
+FM, death clutch
+HA, deathwatch, excruciating deformationUM, 
+explode headOA, freedom of movement, harm, heal, horrid wilting, lipstitch
+PSFG, node of blastingOA, 
+raise deadM, rend body III
+PA, restorationM, slough
+HA, speak with dead, and wither limbHA 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 7 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Adept Activation (Ex) You can always take 10 on Use Magic Device checks, except when activating an item 
+blindly. You do not automatically fail a Use Magic Device check if you roll a natural 1 on the check. 
+Analyze Dweomer (Sp) You can use analyze dweomer for up to 1 round per Adventuring Savant level per day. 
+You can use this ability in 1-round increments. 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Dispelling Master (Su) You can spontaneously convert any 3rd-level (or higher level) prepared spell into dispel 
+magic or any 6th-level (or higher level) prepared spell into greater dispel magic, as a good-aligned cleric 
+converts prepared spells into cure spells. Every time you successfully use either of these spells to make a 
+targeted dispel or counterspell, you heal a number of hit points equal to the caster level of the effect 
+dispelled or counterspelled. 
+Esoteric Magic (Ex) You possess nine spells from any non-wizard spell list and treat those spells as if they 
+were on your wizard spell list; if you could not normally cast that spell, it is treated as 1 level higher 
+than it is on the original class’s spell list. If you could already cast the spell as a wizard, the spell’s level 
+does not increase. The spell is cast as an arcane spell, and save DCs function as normal for wizard spells. 
+All other restrictions for wizard spells apply. This ability does not grant other spellcasters special 
+allowance to prepare, cast, or use spell-trigger or spell-completion items of esoteric spells (such as a 
+sorcerer using a cure light wounds scroll prepared by you). 
+These spells, and their effective spell levels, are as follows: deathwatch (2nd), freedom of movement 
+(5th), harm (7th), heal (7th), node of blasting (3rd), raise dead (6th), restoration (5th), rend body III (8
+th), 
+and speak with dead (4
+th). 
+Glyph-Finding (Ex) You can use Spellcraft to find writing-based magical traps (including glyphs, runes, sigils, 
+and symbols) in the same way a rogue can use Perception to search for traps. 
+Grave Touch (Sp) As a standard action, you can make a melee touch attack that causes a living creature to 
+become shaken for a number of rounds equal to ½ your wizard level (minimum 1). If you touch a shaken 
+creature with this ability, it becomes frightened for 1 round if it has fewer Hit Dice than your wizard 
+level. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. 
+Item Master (Su) You can spend an hour focusing your energies on a single noncharged magic item that 
+requires an action to activate. At the end of this hour, that item becomes attuned to you, and from that 
+
+point on, that specific item can use your caster level to resolve its effects rather than the item’s caster 
+level. You can change which item is attuned to you by repeating the attunement ritual, but you lose 
+attunement to the previous item. You can have only one item attuned to you at a time. 
+Master Scholar (Ex) You add half your Adventuring Savant level (minimum 1) as a bonus on Knowledge 
+(arcana), Spellcraft, and Use Magic Device checks (included above). You can always take 10 on 
+Knowledge (arcana) and Spellcraft checks, even if distracted or endangered. 
+Ongoing Spells You have cast the contingency spell upon yourself. Should you ever be made helpless against 
+your will (such as when knocked unconscious, paralyzed, petrified, securely bound, or forcefully put to 
+sleep), you are immediately subjected to magic jar, allowing you to possess nearby entities and continue 
+the fight. Additionally, the following spells are also regularly active upon your person: endure elements, 
+false life, mage armor, overland flight, and protection from arrows. You also keep a phantom steed and 
+a personal clone at the ready. Furthermore, you use sequester and shrink item to keep your old 
+spellbook, spare spell component pouches, humanoid heart collection, and clone hidden away from your 
+enemies. Except where noted, all ongoing spell effects function at 15th-caster level (and thus require a 
+DC 26 caster level check to dispel) and their effects are included in the above stats where appropriate. 
+Power Over Undead (Su) You receive Command Undead as a bonus feat. You can channel energy a number 
+of times per day equal to 3 + your Intelligence modifier, but only to use the selected feat. You can take 
+other feats to add to this ability, such as Extra Channel and Improved Channel, but not feats that alter 
+this ability, such as Elemental Channel and Alignment Channel. The DC to save against these feats is 
+equal to 10 + ½ your wizard level + your Charisma modifier. 
+Quick Identification (Sp) You can use identify as a swift action (caster level equal to your character level). 
+You can do this once per day per 2 Adventuring Savant levels. 
+Scroll Master (Su) You can use your own caster level instead of the item’s caster level when using a scroll or 
+other spell-completion item. 
+Sigil Master (Su) You receive a bonus equal to your Adventuring Savant level on saving throws against 
+writing-based magical traps, and if you succeed at the save, you do not trigger the trap. Such a trap is not 
+disabled, and if you leave the trap’s area and then reenter it, the trap can trigger again. You also receive 
+this bonus on saving throws against the effects of such traps triggered by others. 
+Silence Master (Su) You can activate spell-trigger, spell-completion, and command-word items silently, 
+substituting a magical gesture for the necessary words. You cannot use this ability in circumstances 
+where you could not cast a spell with somatic components. You must know how to activate the item 
+normally for this ability to work. Additionally, three times per day, you can cast a spell of 6th-level or 
+lower as if you were using a silent metamagic rod. 
+Spellcasting Master (Ex) You can focus your mind three times per day as a swift action. Once you’ve focused 
+in this way, any spells you cast for the remainder of that round do not provoke attacks of opportunity. 
+Spells with a duration of concentration that you cast in this round persist for a number of rounds after 
+the Pathfinder savant ceases concentrating equal to your Intelligence, Wisdom, or Charisma modifier 
+(whichever is highest). 
+Symbol Master (Su) When you cast any symbol spell, the save DC to resist its effects, the Perception DC to 
+notice the symbol, and the Disable Device DC to remove the symbol increase by 2. Once per day as an 
+immediate action, you can double the bonus granted by your sigil master ability when you attempt a 
+saving throw against a symbol. You can activate this ability after you roll the saving throw, but must do 
+so before the results are revealed. You do not automatically fail a saving throw against a symbol effect 
+on a natural 1. 
+   
+
+ 
+BLESSED BOOK FEAR TRAP 
+Of your two blessed books, the one with no more blank pages remaining, contains a symbol of fear. 
+Type magic; Perception DC 33; Disable Device DC 33 
+EFFECTS 
+Trigger touch (upon opening the blessed book); Reset none 
+Effect spell effect (symbol of fear; panicked for 15 rounds, Will DC 29 negates); multiple targets (all targets 
+within 60 feet of the opened book) 
+ 
+FALSE SPELL SCROLL TRAP 
+Mixed in with your normal spell scrolls, you keep a quartet of booby trapped fake spell scrolls. 
+Type magic; Perception DC 28; Disable Device DC 28 
+EFFECTS 
+Trigger proximity (upon attempting to read the scroll); Reset none 
+Effect spell effect (explosive runes; 6d6 force damage, no save if adjacent/Ref DC 22 half if within 10 feet); 
+multiple targets (all targets within 10 feet of the scroll) 
+ 
+ POUCH FULL OF PSYCHICALLY CHARGED PEBBLES TRAP 
+You keep a pouch with hundreds of nodes of blasting, for use with telekinesis, and to deter thieves. 
+Type magic; Perception DC 28; Disable Device DC 28 (per pebble) 
+EFFECTS 
+Trigger touch (upon reaching into the pouch); Reset automatic (manual reset after all pebbles are exhausted) 
+Effect spell effect (1d4 nodes of blasting, 6d6 damage each, Will DC 22 partial each) 

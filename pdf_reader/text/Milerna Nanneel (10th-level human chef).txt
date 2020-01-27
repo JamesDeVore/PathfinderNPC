@@ -1,0 +1,59 @@
+
+
+Milerna “Milly” Nanneel 
+Female human fighter 10 (two-handed fighter) 
+LG Medium humanoid 
+Init +4; Senses Perception +11 
+Languages Common, Halfling 
+DEFENSE 
+AC 23, touch 14, flat-footed 18 (+8 armor, +4 Dex) 
+hp 108 (10 HD) 
+Fort +11, Ref +8, Will +5 
+DR 3/– vs. tiny ranged weapons 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +1 impact halberd +19/+14 (2d8+11†‡/×3) or 
++1 impact halberd +16/+11 (2d8+20†‡/×3) with Power Attack, or 
++1 impact halberd +19 (4d8+15†/×3) with Vital Strike, or  
++1 impact halberd +16 (4d8+24†/×3) with Vital Strike and Power Attack, or 
++1 iron skillet +19/+14 (2d6+11†‡/19-20) or 
++1 iron skillet +19/+11 (2d6+20†‡/19-20) with Power Attack, or 
++1 iron skillet +19 (4d6+15†/19-20) with Vital Strike, or  
++1 iron skillet +16 (4d6+24†/19-20) with Vital Strike and Power Attack 
+Ranged +1 composite longbow +14/+9 (1d8+5/×3) or 
++1 composite longbow +14/+9 (1d8+5 nonlethal/×3) with blunt arrows, or 
++1 composite longbow +14/+9 (1d6+5/×3) with flight arrows 
+Special Attacks backswing, overhand chop, shattering strike +3, weapon training (two-handed weapons +4) 
+† Add +3 to damage against objects. ‡ Add +4 to damage for each attack after the first. 
+STATISTICS 
+Abilities Str 18 (+4), Dex 18 (+4), Con 16 (+3), Int 13 (+1), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +10; CMB +14 (+23 reposition/trip, +22 sunder, +19 drag, +15 bull rush); CMD 28 (40 vs. trip, 38 
+vs. grapple, 31 vs. sunder, 30 vs. reposition) 
+Feats Catch Off-Guard
+B, Combat ExpertiseB (–3 attack, +3 AC), Following Step, Greater RepositionB, Greater 
+TripB, Improved RepositionB, Improved TripB, Improvised Weapon Mastery
+B, Power Attack (–3 attack, 
++3/+6/+9 damage), Step Up, Step Up and Strike, Vital Strike 
+Skills Acrobatics +10 (+6 when jumping), Climb +8, Perception +11, Profession (cook) +14, Swim +8; Armor 
+Check Penalty –4 
+Combat Gear arrows (20), bladeguard (2), blunt arrows (20), flight arrows (20), potions (enlarge 
+person 8), weapon blanches (adamantine 2, cold iron 4, silver 4); Other Gear +1 composite longbow 
+(+4 strength bonus), +1 impact halberd, +1 patchwork kitchen armor (as o-yoroi with nimble 
+modification), armored coat, belt of physical might +2 (strength, dexterity), cloak of resistance +1, 
+feather step slippers (but as stiletto boots), fighter’s kit (see below), gloves of dueling, iron spike of safe 
+passage, masterwork backpack, quilted cloth, shortsword, skillet, tender (84gp) 
+Encumbrance light 116 lb., medium 233 lb., heavy 350 lb.; Weight Carried 158 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Backswing (Ex) When you make a full attack with a two-handed weapon, you add double your strength bonus 
+to damage rolls for all attacks after the first. 
+Overhand Chop (Ex) When you make a single attack (with the attack action or a charge) with a two-handed 
+weapon, you add double your Strength bonus on damage rolls. 
+Shattering Strike (Ex) You gain a +3 bonus to CMB and CMD on sunder attempts and on damage rolls made 
+against objects. 
+Weapon Training (Ex) You receive a +4 bonus to attack and damage rolls when using two-handed melee 
+weapons. 
+
+ 
+FIGHTER’ KIT 
+This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, rope, soap, torches 
+(10), trail rations (5 days), and a waterskin. 

@@ -1,0 +1,275 @@
+
+
+Revin Bitter (aka The Raven King) 
+Male human fighter 8/shadowdancer 10 
+LN Medium humanoid 
+Init +9; Senses darkvision 60 ft.; Perception +27 
+Languages Aklo, Auran, Common, Dark Folk, Sylvan, Undercommon 
+DEFENSE 
+AC 47, touch 23, flat-footed 40 (+14 armor, +5 deflection, +6 Dex, +1 dodge, 
++1 insight, +4 natural, +6 shield); Mobility 
+hp 195 (18 HD) 
+Fort +19, Ref +22, Will +17; +3 vs. fear 
+Defensive Abilities alien resistance, bravery +3, defensive roll, improved 
+evasion, improved uncanny dodge, shadow master, slippery mind, 
+unusual anatomy 50%; DR 10/– in dim light; SR 32 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +5 agile adamantine rapier +33/+28/+23 (1d6+19/15-20/×2 plus 2d6 bleed) 
+Ranged +5 adaptive composite longbow +28/+23/+18 (1d8+7/×3) or 
+acidic ray +28 touch (1d6+11 acid) 
+Special Attacks weapon training (light blades +3) 
+Spell-Like Abilities (CL 10
+th, except where noted; Concentration +17) 
+10/day – acidic ray (CL 22
+nd) 
+5/day – silent image (DC 18) 
+4/day – greater shadow conjuration (DC 24) 
+2/day – shadow evocation (DC 22) 
+1/day – raven form (CL 18
+th), tengu wings (CL 18
+th) 
+STATISTICS 
+Abilities Str 14 (+2), Dex 28 (+9), Con 18 (+4), Int 20 (+5), Wis 22 (+6), Cha 24 (+10) 
+Base Atk +15; CMB +17 (+24 with Weapon Finesse, +33 with rapier); CMD 43 (50 vs. rapier, 45 vs. bow) 
+Feats Bleeding Critical, Combat Reflexes
+B, Critical Focus, Dodge, Eldritch Heritage (aberrant), Greater 
+Eldritch Heritage (alien resistance), Improved Critical (rapier
+B), Improved Eldritch Heritage (unusual 
+anatomy), Leadership (base 29 / cohort 28 / followers 30), Mobility
+B, Racial Heritage (tengu
+B), Skill 
+FocusB (acrobatics, knowledge: dungeoneering, stealth), Spring AttackB, Tengu Raven Form, Tengu 
+Wings, Weapon Finesse
+B, Weapon Focus (rapier
+B), Weapon Specialization (rapier
+B) 
+Skills Acrobatics +36, Bluff +31, Diplomacy +31, Escape Artist +30, Intimidate +31, Knowledge 
+(dungeoneering) +24, Knowledge (nobility) +15, Perception +27, Perform (dance) +23, Sense Motive 
++24, Sleight of Hand +30, Stealth +36 
+SQ armor training 3, focused study, good fortune 1/day, hide in plain sight (dim light), rogue talents 
+(combat trick, finesse rogue, weapon training), shadow jump (340 feet/day), shadow master, summon 
+shadow 
+Combat Gear durable arrows (60); Gear +5 adaptive composite longbow, +5 agile adamantine rapier, +5 
+buckler, +5 mithral full plate, amulet of natural armor +4, belt of physical perfection +6, boots of 
+teleportation, cloak of resistance +5, gloves of dueling, headband of mental superiority +6 (bluff, 
+diplomacy, intimidate), jewelry (worth 1,000gp), luck blade (1 wish), ring of friend shield, ring of 
+protection +5, robe of arcane heritage, royal crown (functions as a circlet of persuasion and a dusty 
+rose prism ioun stone), sash of the war champion, tender (60pp) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 39 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Acidic Ray (Sp) You can fire an acidic ray as a standard action, targeting any foe within 30 feet as a ranged 
+touch attack. The acidic ray deals 1d6 points of acid damage + 1 for every two effective sorcerer levels 
+you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier. 
+
+Alien Resistance (Su) You gain spell resistance equal to your effective sorcerer level + 10. 
+Armor Training (Ex) Whenever you are wearing armor, you reduce the armor check penalty by 3 (to a 
+minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 3. In addition, you 
+can also move at your normal speed while wearing medium or heavy armor. 
+Darkvision (Ex) You gain darkvision out to a range of 60 feet. If you already have darkvision, the range 
+increases by 30 feet. 
+Defensive Roll (Ex) You can roll with a potentially lethal blow to take less damage from it than you otherwise 
+would. Once per day, when you would be reduced to 0 or fewer hit points by damage in combat (from a 
+weapon or other blow, not a spell or special ability), you can attempt to roll with the damage. To use this 
+ability, you must attempt a Reflex saving throw (DC = damage dealt). If the save succeeds, you take 
+only half damage from the blow; if it fails, you take full damage. You must be aware of the attack and 
+able to react to it in order to execute your defensive roll—if you are denied your Dexterity bonus to AC, 
+you can’t use this ability. Since this effect would not normally allow a character to make a Reflex save 
+for half damage, your evasion ability does not apply to the defensive roll. 
+Good Fortune You may reroll one roll you just made, before the results are revealed, once per day. You lose 
+this ability if you are ever parted from your luck blade. 
+Hide in Plain Sight (Su) You can use the Stealth skill even while being observed. As long as you are within 10 
+feet of an area of dim light, you can hide yourself from view in the open without anything to actually 
+hide behind. You cannot, however, hide in your own shadow. 
+Improved Evasion (Ex) You take no damage at all on successful saving throws against attacks that allow a 
+Reflex saving throw for half damage. What’s more, you take only half damage even if you fail your 
+saving throw. 
+Improved Uncanny Dodge (Ex) You cannot be caught flat-footed, even if the attacker is invisible. You still 
+lose your Dexterity bonus to AC if immobilized. You can still lose your Dexterity bonus to AC if an 
+opponent successfully uses the feint action against you, however. Additionally, you can no longer be 
+flanked. This defense denies a rogue the ability to sneak attack you by flanking you, unless the attacker 
+has at least four more rogue levels than you have levels in classes with uncanny dodge. 
+Shadow Call (Sp) You can create creatures and effects out of raw shadow. This ability functions as greater 
+shadow conjuration, using your shadowdancer level as the caster level. You can use this ability four 
+times per day. The DC for this ability is Charisma-based. 
+Shadow Illusion (Sp) You can create visual illusions. This ability functions as silent image, using your 
+shadowdancer level as the caster level. You can use this ability five times per day. The DC for this 
+ability is Charisma-based. 
+Shadow Jump (Su) You gain the ability to travel between shadows as if by means of a dimension door spell. 
+The limitation is that the magical transport must begin and end in an area with at least some dim light. 
+You can jump up to a total of 320 feet each day in this way. This amount can be split among many 
+jumps, but each one, no matter how small, counts as a 10-foot 
+increment. 
+Shadow Master (Su) Whenever you are in an area of dim light, you gain 
+DR 10/– and a +2 luck bonus on all saving throws. In addition, 
+whenever you successfully score a critical hit against a foe who is in 
+an area of dim light, that foe is blinded for 1d6 rounds. 
+Shadow Power (Sp) You can use raw shadow to damage your foes. This 
+ability functions as shadow evocation, using your shadowdancer 
+level as the caster level. You can use this ability twice per day. The 
+DC for this ability is Charisma-based. 
+Shield Other Due to your ring of friend shield, you are constantly under the 
+effect of shield other. Therefore, any time you would suffer hit point 
+damage, you only take half the normal amount. The ring’s mate is in 
+the possession of Lady Arroway (see below), and it is she who takes 
+the remaining half of your hit point damage. 
+
+Slippery Mind (Ex) This ability represents your ability to 
+wriggle free from magical effects that would otherwise control or 
+compel you. If you are affected by an enchantment spell or effect 
+and fail your saving throw, you can attempt it again 1 round later 
+at the same DC. You get only this one extra chance to succeed on 
+your saving throw. 
+Summon Shadow (Su) You can summon a shadow, an undead 
+shade. Unlike a normal shadow, this shadow’s alignment 
+matches yours, and the creature cannot create spawn. The 
+summoned shadow receives a +4 bonus on Will saves made to 
+halve the damage from positive channeled energy and the shadow cannot be turned or commanded. This 
+shadow serves as a companion to you and can communicate intelligibly with you. This shadow has a 
+number of hit points equal to half your total. The shadow uses your base attack bonus and base save 
+bonuses. If a shadow companion is destroyed, or you choose to dismiss it, you must attempt a DC 15 
+Fortitude save. If the saving throw fails, you gain one permanent negative level. A successful saving 
+throw avoids this negative level. A destroyed or dismissed shadow companion cannot be replaced for 30 
+days. 
+Unusual Anatomy (Ex) You have a 50% chance to ignore any critical hit or sneak attack scored against you. 
+Weapon Training (Ex) You receive a +3 bonus to attack and damage rolls when using light blades, to any 
+combat maneuver checks made with light blades, and to your 
+Combat Maneuver Defense when defending against disarm and 
+sunder attempts made against light blades. 
+ 
+Hollymorel Arroway (aka Lady Arroway) 
+Female fetchling cleric 16 (cloistered cleric, merciful healer) 
+N Medium outsider (native) 
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +5 
+Languages Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, 
+Dwarven, Elven, Giant, Gnome, Gnoll, Halfling, Ignan, Infernal, 
+Sylvan, Terran, Undercommon 
+DEFENSE 
+AC 40, touch 19, flat-footed 37 (+11 armor, +5 deflection, +3 Dex, +1 
+insight, +4 natural, +6 shield) 
+hp 136 (16 HD) 
+Fort +18, Ref +13, Will +20 
+Defensive Abilities shadow blending, shadowy resistance; Resist cold 5, electricity 5 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee staff of shadows +15/+10/+5 (1d6+3) with greater magic weapon 
+Ranged by weapon +14 
+Spell-Like Abilities (CL 16
+th; Concentration +19) 
+1/day – memory lapseAPG, shadow walk (self only), plane shift (self only, material/shadow plane only) 
+Cleric Spells Prepared (CL 16th; Concentration +21) 
+8th (2/day) – mass cure critical wounds
+D, summon monster VIII 
+7th (3/day) – regenerate
+D, greater scrying, repulsion 
+6th (3/day) – banishment, healD (2) 
+5th (5/day) – break enchantmentD, breath of life, greater forbid actionUM, spell resistance, true seeing
+M, 
+4th (5/day) – blessing of fervorAPG, communal protection from energyUC, greater magic weapon, 
+neutralize poison
+D, tongues 
+3rd (5/day) – create food and water, cure serious woundsD, invisibility purge, prayer, remove 
+blindness/deafness 
+
+2nd (5/day) – remove disease
+D, remove paralysis, shatter, silence, status 
+1st (6/day) – comprehend languages, cure light woundsD, deathwatch, diagnose disease
+UM, remove fear, 
+remove sickness
+UM 
+0 (at will) – detect poison, guidance, read magic 
+Domain Healing (restoration) 
+STATISTICS 
+Abilities Str 8 (–1), Dex 16 (+3), Con 16 (+3), Int 13 (+1), Wis 21 (+5), Cha 16 (+3) 
+Base Atk +12; CMB +11; CMD 30 
+Feats Contingent Channeling, Craft Magic Arms and Armor, Craft Wondrous Item, Craft Staff, Extra Channel 
+(2), Forge Ring, Scribe ScrollB, Selective Channeling 
+Skills Acrobatics +2 (–1 when jumping), Diplomacy +22, Heal +24, Knowledge (history) +20, Knowledge 
+(local) +20, Knowledge (planes) +11, Knowledge (the others) +9, Linguistics +20, Spellcraft +20, 
+Stealth +4; Armor Check Penalty –1 (excluding climb and jump); Racial Bonuses +2 Knowledge 
+(planes), +2 Stealth 
+SQ aura of good (overwhelming), channel positive energy 10/day (10d6 healing), healer’s blessing, merciful 
+healing (exhausted, fatigued, nauseated, sickened), restorative touch 8/day, skilled, spontaneous casting 
+(cure spells), subtle manipulator 
+Combat Gear divine spell scrolls (cure light wounds 10, heal 6), staff of shadows (darkness [1 charge], lunar 
+veilUM [2 charges], CL 13th; doubles as a masterwork quarterstaff); Other Gear +5 glamered mithral 
+agile breastplate, +5 mithral buckler, amulet of natural armor +5, bejeweled belt pendent (worth 
+1,500gp; subject of a refuge spell, calls the Raven King), belt of physical might +4 (dexterity, 
+constitution), cloak of resistance +5, healer’s ribbon (acts as a headband of inspired wisdom +4, a dusty 
+rose prism ioun stone, and a phylactery of positive channeling, worn as a hair ribbon), jewelry (worth 
+500gp), ring of friend shield, ring of protection +5 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 23 lb. 
+SPECIAL ABILITIES 
+Aura of Good (Ex) You have a particularly powerful aura corresponding to your deity’s alignment (see the 
+detect evil spell for details). 
+Breadth of Knowledge You gain a bonus on Knowledge skill checks equal to half your class level (minimum 
++1, included above) and can make Knowledge skill checks untrained. 
+Channel Energy (Su) You can release waves of positive energy by channeling the power of your faith through 
+your holy symbol. This energy can be used to cause or heal damage, depending on the type of energy 
+channeled and the creatures targeted. Channeling energy causes a burst that affects all living in a 30-foot 
+radius centered on you. The amount of healing is equal to 1d6 points of damage plus 1d6 points of 
+damage for every two cleric levels beyond 1
+st. Creatures healed by channeled energy cannot exceed their 
+maximum hit point total—all excess healing is lost. You may channel energy a number of times per day 
+equal to 3 + your Charisma modifier. This is a standard action that does not provoke an attack of 
+opportunity. You can choose whether or not to include yourself in this effect. You must be able to 
+present her holy symbol to use this ability. 
+Combat Medic (Ex) You do not provoke attacks of opportunity when using the Heal skill to stabilize another 
+creature or when casting healing spells. 
+Healer’s Blessing (Su) All of your cure spells are treated as if they were empowered, increasing the amount of 
+damage healed by half (+50%). This does not apply to damage dealt to undead with a cure spell. This 
+does not stack with the Empower Spell metamagic feat. 
+Merciful Healing (Su) You can channel positive energy to relieve one or more harmful conditions. When you 
+channel energy you can remove the exhausted, fatigued, nauseated or sickened conditions from up to 
+three living creatures that you heal within your channel energy burst. Feats and effects that affect a 
+paladin’s mercy also affect this ability. 
+Restorative Touch (Su) You can touch a creature, letting the healing power of your deity flow through you to 
+relieve the creature of a minor condition. Your touch can remove the dazed, fatigued, shaken, sickened, 
+
+or staggered condition. You choose which condition is removed. You can use this ability a number of 
+times per day equal to 3 + your Wisdom modifier. 
+Shadow Blending (Su) Attacks against you in dim light have a 50% miss chance instead of the normal 20% 
+miss chance. This ability does not grant total concealment; it just increases the miss chance. 
+True Healer (Su) When you channel holy energy, you can choose to apply the benefits of merciful healing or 
+to reroll any 1s when determining how much damage you heal with the holy energy. You must choose 
+which benefit to take before you roll to see how much damage you heal. 
+Verbal Instruction (Ex) You can use the aid another action to assist an ally within 30 feet on a skill or ability 
+check. The ally must be able to hear and understand your instructions. For every three cleric levels 
+beyond 3rd, you can instruct one additional ally. If all allies are not engaged in the same task, using this 
+ability is a full-round action rather than a standard action. 
+Well-Read (Ex) You gain a +2 bonus on skill checks, caster level checks, 
+and saving throws if such rolls pertain to mundane or magical 
+glyphs, runes, scrolls, symbols, and other writings (not included 
+above). 
+ 
+Umbravan (aka The King’s Shadow) 
+Shadow Companion 
+LN Medium undead (incorporeal) 
+Init +2; Senses darkvision 60 ft.; Perception +8 
+DEFENSE 
+AC 15, touch 15, flat-footed 12 (+2 deflection, +2 Dex, +1 dodge) 
+hp 97 (3 HD) 
+Fort +11, Ref +9, Will +6; +4 vs. positive channeled energy 
+Defensive Abilities incorporeal, channel resistance +2; Immune undead 
+traits 
+OFFENSE 
+Speed fly 40 ft. (good) 
+Melee incorporeal touch +17 touch (1d6 strength damage) 
+Ranged by weapon +17 
+STATISTICS 
+Abilities Str –, Dex 14 (+2), Con –, Int 6 (–2), Wis 12 (+1), Cha 15 (+2) 
+Base Atk +15; CMB +17; CMD 29 
+Feats Dodge, Skill Focus (perception) 
+Skills Fly +11, Perception +8, Stealth +8 (+12 in dim light, +4 in bright light); Racial Bonuses +4 Stealth in 
+dim light (–4 in bright light) 
+SPECIAL ABILITIES 
+Strength Damage (Su) A shadow’s touch deals 1d6 points of Strength damage to a living creature. This is a 
+negative energy effect. A creature dies if this Strength damage equals or exceeds its actual Strength 
+score. 
+ 
+Other Minions: Your other followers generally stay within your kingdom and handle your personal affairs 
+while you are away, leaving your homeland only when called upon. They primarily consist of fetchling 
+rogues and clerics (often trained in the arts of fleshwarping) as well as other darkfolk. However, you are 
+often accompanied by two battle mage and two battle monk bodyguards (as presented in the NPC 
+Gallery in the GameMastery Guide). 
+ 

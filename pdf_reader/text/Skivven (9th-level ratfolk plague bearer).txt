@@ -1,0 +1,191 @@
+
+
+Skivven 
+Male ratfolk alchemist 9 (plague bringer) 
+NE Tiny humanoid (ratfolk) 
+Init +5; Senses darkvision 60 ft., familiar’s alertness; Perception +14 
+Languages Aklo, Common, Draconic, Goblin, Orc, Undercommon 
+DEFENSE 
+AC 24, touch 18, flat-footed 19 (+3 armor, +1 deflection, +5 Dex, +1 natural, 
++2 shield, +2 size) 
+hp 74 (9 HD) 
+Fort +9, Ref +12, Will +4; +6 vs. disease 
+Defensive Abilities cornered fury 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee mwk longspear +5/+0 (1d4–3 plus poison/×3) 
+Ranged bomb +14/+9 touch (5d6+5 fire, 10 splash) or 
+javelin +13 (1d3–3 plus poison) 
+Space 2½ ft.; Reach 0 ft. (5 ft. with longspear) 
+Special Attacks bomb (5d6+5, DC 19, 14/day), plague vial (90 minutes), poison use, swift poisoning, throw 
+anything +5 
+Alchemist Extracts Prepared (CL 9
+th) 
+3
+rd  (4/day) – gaseous form (2), heroism (2) 
+2nd (5/day) – alchemical allocation
+APG (2), sickening strikes
+ARG (2), vomit swarm
+APG 
+1st  (7/day) – ant haulAPG (2), detect secret doors, shield (2), true strike (2) 
+STATISTICS 
+Abilities Str 5 (–3), Dex 20 (+5), Con 14 (+2), Int 20 (+5), Wis 11 (+0), Cha 7 (–2) 
+Base Atk +6; CMB +1; CMD 17 
+Feats Brew Potion
+B, Master Alchemist, Mounted Combat, Skill Focus (ride, stealth), Stealthy, Throw 
+Anything
+B 
+Skills Acrobatics +14, Appraise +17, Craft (alchemy) +29, Disable Device +19, Escape Artist +16, Fly +12, 
+Perception +14 (+18 with tumor), Ride +17, Sleight of Hand +17, Stealth +27; Racial Modifiers +2 
+Craft (alchemy), +2 Perception, +2 Use Magic Device, +4 Handle Animal checks to influence rodents 
+SQ alchemy, discoveries (plague bomb, poison conversion, smoke bomb, stink bomb, tumor familiar), ongoing 
+spells (see below), swift alchemy 
+Combat Gear antiplague (9), antitoxin (9), blight tonic (2), poisons (dark reaver powder 3, dragon bile 3, 
+nightmare vapor 3, purple worm poison 3, tears of death), potions (haste, heroism, protection from 
+energy [fire]; all at CL 7th); Other Gear +1 buckler, +1 mithral shirt, alchemical crafting supplies 
+(1,000gp worth), alchemist’s lab (not normally carried), alchemy crafting kit, amazing tools of 
+manufacture (alchemy), amulet of natural armor +1, cap of human guise, cloak of resistance +1, 
+formula book (69 pages remaining), Goz mask, javelins (10), masterwork backpack, masterwork 
+longspear, masterwork thieves’ tools, ring of protection +1, tender (33gp, 3sp, 3cp) 
+Formula Book 3rd-level—absorbing touch
+APG, gaseous form, heroism, haste, protection from energy, remove 
+disease; 2nd-level—alchemical allocation
+APG, sickening strikesARG, vomit swarm
+APG; 1st-level—ant 
+haulAPG, bomber’s eyeAPG, crafter’s fortuneAPG, cure light wounds, detect secret doors, enlarge person, 
+reduce person, shield, true strike 
+Encumbrance light 30 lb., medium 60 lb., heavy 90 lb.; Weight Carried 23 lb. 15 oz.; ant haul 
+SPECIAL ABILITIES 
+Alchemy (Su) When using Craft (alchemy) to create an alchemical item, you gain a competence bonus equal to 
+your alchemist class level on the Craft (alchemy) check (included above). In addition, you can use Craft 
+(alchemy) to identify potions as if using detect magic. You must hold the potion for 1 round to make 
+such a check. You are also capable of creating bombs, extracts, and mutagens (see below). 
+
+Bomb (Su) You can use a number of bombs each day equal to your alchemist class level + your Intelligence 
+modifier. Bombs are unstable, and if not used in the round they are created, they degrade and become 
+inert—their method of creation prevents large volumes of explosive material from being created and 
+stored. Creating and throwing a bomb requires a standard action that provokes an attack of opportunity. 
+Thrown bombs have a range of 20 feet and use the Throw Splash Weapon special attack. Bombs are 
+considered weapons and can be selected using feats such as Point-Blank Shot and Weapon Focus. On a 
+direct hit, your bomb inflicts 1d6 points of fire damage plus additional damage equal to your 
+Intelligence modifier (due to the throw anything class ability). The damage of your bomb increases by 
+1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit 
+or by using feats such as Vital Strike). Splash damage from an alchemist bomb is always equal to the 
+bomb’s minimum damage. Those caught in the splash damage can attempt a Reflex save DC 22 for half 
+damage. 
+Cornered Fury Whenever you are reduced to half or fewer hit points, and have no conscious ally within 30 
+feet, you gain a +2 racial bonus on melee attack rolls and to Armor Class. 
+Disease Resistance (Ex) You gain a +6 bonus on all saving throws against disease (included above). 
+Extracts (Su) You may create and use extracts, essentially spells in the form a drinkable liquid. For the most 
+part, extracts follow the rules of both potions and spells. 
+Ongoing Spells Due to your low strength, you and your familiar often rely on ant haul. Additionally, you have 
+had your reduce person spell made permanent upon yourself via a third party. You have similarly cast 
+enlarge person upon your tumor familiar, so that you may better ride it into battle as a steed. These 
+effects function at CL 9
+th and thus require a DC 20 caster level check to dispel. 
+Plague Bomb (Su) The effects of the smoke created by your alchemist’s bomb duplicates the effects of 
+contagion instead of fog cloud, filling an area equal to twice the bomb’s splash area for 1 round per 
+level. This ability cannot be used in conjunction with smoke bomb or stink bomb. 
+Plague Vial (Su) You can create a plague vial, an alchemically grown and concentrated disease sample. It takes 
+1 hour to prepare a plague vial, and once prepared, the vial remains potent until used. You can only 
+maintain 1 plague vial at a time—if you prepare a second vial, any existing plague vial becomes inert. A 
+plague vial that is not in a plague bringer’s possession becomes inert until a plague bringer picks it up 
+again. It’s a standard action to drink a plague vial. Upon being imbibed, the plague vial infects your 
+blood, sweat, tears, and other bodily fluids for 10 minutes per class level. Any creature that harms you 
+with melee attacks (except with reach weapons) must make a Fortitude save (DC 10 + ½ your alchemist 
+level + the your Intelligence modifier) or become sickened for 1 round per alchemist level. You are 
+immune to the effects of your own plague vial, but not that of another’s plague vial. The effects of 
+multiple plague vials do not stack. As a standard action, you can infect a weapon with this sickness 
+(typically by licking it or wiping your blood or pus on it). The disease on the weapon works like a 
+poisoned weapon, except the source is a disease instead of a poison (so a dwarf’s resistance to poison 
+does not apply). Anyone other than a plague bringer (including another alchemist) who drinks a plague 
+vial must make a saving throw against the vial’s DC or become nauseated for 1 hour. Unless you learn 
+how to brew a mutagen by taking the mutagen discovery, you can never benefit from a mutagen and 
+react to it as if you were a non-alchemist. At any particular time, you can only be under the effect of 
+either a plague vial or a mutagen (not both); drinking another immediately ends the effects of any 
+ongoing plague vial or mutagen. All limitations to mutagens apply to plague vials as if they were the 
+same substance. The infuse mutagen discovery and persistent mutagen class ability apply to plague 
+vials. The sticky poison discovery applies to a weapon infected with a plague vial. The plague vial is a 
+disease effect. 
+Poison Conversion By spending 1 minute, you can convert 1 dose of poison from its current type (contact, 
+ingested, inhaled, or injury) to another type. This process requires an alchemy lab. 
+Poison Use (Ex) You are trained in the use of poison and cannot accidentally poison yourself when applying 
+poison to a weapon. 
+Poisons You carry of variety of poisons, which you use to sow chaos among the weak: 
+Dark reaver powder—ingested; save Fort DC 18, onset 10 minutes, frequency 1/minute for 6 minutes, 
+effect 1d3 Con and 1 Str, cure 2 consecutive saves. 
+
+Dragon bile—contact; save Fort DC 26, frequency 1/round for 6 rounds, effect 1d3 Str, cure none. 
+Nightmare vapor—inhaled; save Fort DC 20, frequency 1/round for 6 rounds, effect 1 Wis and confused 
+for 1 round, cure 2 consecutive saves. 
+Purple worm poison—injury; save Fort DC 24, frequency 1/round for 6 rounds, effect 1d3 Str, cure 2 
+consecutive saves. 
+Tears of death—contact; save Fort DC 22, onset 1 minute, frequency 1/minute for 6 minutes, effect 1 
+1d6 Con and paralyzed for 1 minute, cure none. 
+Smoke Bomb When you create a bomb, you can choose to have it create a cloud of thick smoke when it 
+detonates. The cloud functions as fog cloud, filling an area equal to twice the bomb’s splash radius for 1 
+round per level. This ability cannot be used in conjunction with plague bomb or stink bomb. 
+Stink Bomb The effects of the smoke created by an alchemist’s bomb can duplicate the effects of stinking 
+cloud instead of fog cloud, filling an area equal to twice the bomb’s splash radius for 1 round. This 
+ability cannot be used in conjunction with plague bomb or smoke bomb. 
+Swift Alchemy (Ex) You can create alchemical items with astounding speed. It takes you half the normal 
+amount of time to create alchemical items. 
+Swift Poisoning (Ex) You can apply a dose of poison to a weapon as a swift action. 
+Throw Anything (Ex) You gain the Throw Anything feat as a bonus feat and you add your Intelligence 
+modifier to damage done with splash weapons, including the splash damage if any. This bonus damage 
+is already included in the bomb class feature (and in the above stats). 
+Tumor Familiar (Ex) You have created a Diminutive or Tiny tumor on your body. As a standard action, you 
+can have the tumor detach itself from your body as a separate creature vaguely resembling a kind of 
+animal suitable for a familiar (bat, cat, and so on) and move about as if it were an independent creature. 
+The tumor can reattach itself to you as a standard action. The tumor has all the abilities of the animal it 
+resembles (for example, a bat-like tumor can fly) and familiar abilities based on you alchemist caster 
+level (though some familiar abilities may be useless to an alchemist). The tumor acts as your familiar 
+whether attached or separated (providing a skill bonus, the Alertness feat, and so on). When attached to 
+you, the tumor has fast healing 5. Your extracts and mutagens are considered spells for the purposes of 
+familiar abilities like share spells and deliver touch spells. If a tumor familiar is lost or dies, it can be 
+replaced 1 week later through a specialized procedure that costs 200gp per alchemist level. The ritual 
+takes 8 hours to complete. 
+   
+
+Fleshwing 
+Tumor familiar (raven) 
+NE Small magical beast (augmented animal) 
+Init +1; Senses low-light vision; Perception +14 
+Languages Undercommon; empathic link, speak with master, speak with birds 
+DEFENSE 
+AC 17, touch 12, flat-footed 16 (+1 Dex, +5 natural, +1 size) 
+hp 37 (9 HD) 
+Fort +5, Ref +8, Will +5 
+Defensive Abilities improved evasion 
+OFFENSE 
+Speed 10 ft. (2 squares), fly 40 ft. (average) 
+Melee bite +4 (1d4–3) or 
+by spell +4 touch (as the spell) 
+Special Attacks deliver touch spells 
+STATISTICS 
+Abilities Str 4 (–3), Dex 13 (+1), Con 8 (–1), Int 10 (+0), Wis 15 (+2), Cha 7 (–2) 
+Base Atk +6; CMB +1; CMD 12 
+Feats Skill Focus (stealth) 
+Skills Acrobatics +13, Appraise +9, Craft (alchemy) +9, Disable Device +10, Escape Artist +10, Fly +7, 
+Perception +14, Ride +10, Sleight of Hand +10, Stealth +20 
+SQ alertness, empathic link, familiar traits, share spells, speak with master, speak with birds 
+Gear masterwork backpack 
+Encumbrance light 36 lb., medium 74 lb. 4 oz., heavy 112 lb. 8 oz.; Weight Carried 1 lb.; ant haul 
+SPECIAL ABILITIES 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+Deliver Touch Spells (Su) If you and your familiar are in contact at the time you cast a touch spell, you can 
+designate your familiar as the toucher. Your familiar can then deliver the touch spell personally. As 
+usual, if you cast another spell before the touch is delivered, the touch spell dissipates. 
+Empathic Link (Su) Your familiar has an empathic link with you out to one mile. You cannot see through your 
+familiar’s eyes, but the two of you can communicate empathically. Only general emotional content can 
+be communicated. You have the same connection to an item or place that your familiar does. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, your familiar takes no damage if he makes a successful saving throw and half damage even if 
+the saving throw fails. 
+Share Spells You may cast a spell with a target of “You” on your familiar (as a touch spell) instead of on 
+yourself. You may cast spells on your familiar even if the spells do not normally affect creatures of the 
+familiar’s type (magical beast). 
+Speak with Birds (Ex) Your familiar may communicate with other birds. Such communication is limited by 
+the Intelligence of the conversing creatures. 
+Speak With Master (Ex) You and your familiar may communicate verbally, using a private language no one 
+else understands. 

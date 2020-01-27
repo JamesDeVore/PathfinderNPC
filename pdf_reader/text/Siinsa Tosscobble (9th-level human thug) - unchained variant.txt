@@ -1,0 +1,99 @@
+
+
+Siinsa Tosscobble 
+Female human unchained rogue 9 (scout, thug) 
+N Medium humanoid 
+Init +5; Senses Perception +12 
+Languages Common 
+DEFENSE 
+AC 23, touch 15, flat-footed 18 (+5 armor, +5 Dex, +3 shield) 
+hp 74 (9 HD) 
+Fort +7, Ref +13, Will +5 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee sword of subtlety +12/+7 (1d6+3/19-20) or 
+sword of subtlety +16/+11 (1d6+7 plus 5d6 plus 5 bleed/19-20) with a 
+sneak attack, or 
++1 sap +13/+8 (1d6+6 nonlethal plus enforcer) or 
++1 sap +13/+8 (1d6+11 plus 5d6 nonlethal plus enforcer plus 5 bleed) with sneak attack, or 
++1 sap +13/+8 (1d6+16 plus 10d6 nonlethal plus enforcer plus 10 bleed) with sneak attack against a 
+flat-footed foe 
+Ranged mwk sling +9 (1d4+2) or 
+javelin +8 (1d6+2) 
+Special Attacks brutal beating (5 rounds), debilitating injury, finesse training (sap), scout’s charge, skirmisher, 
+sneak attack +5d6 
+STATISTICS 
+Abilities Str 14 (+2), Dex 20 (+5), Con 14 (+2), Int 10 (+0), Wis 10 (+0), Cha 16 (+6) 
+Base Atk +6; CMB +8; CMD 23 
+Feats Dazzling Display, Enforcer, Intimidating ProwessB, Persuasive, Shatter Defenses
+B, Sap Adept, Sap 
+Master, Skill Focus (intimidateB), Weapon Finesse
+B, Weapon Focus (sapB) 
+Skills Acrobatics +17, Climb +14, Diplomacy +14, Escape Artist +17, Intimidate +22, Perception +12, Sense 
+Motive +12, Sleight of Hand +17, Stealth +17, Swim +14 
+SQ rogue’s edge (intimidate), rogue talents (bleeding attack, combat trick, strong impression, surprise 
+attack, weapon training) 
+Combat Gear potions of cure light wounds (6), sling bullets (20); Other Gear +1 sap, +2 buckler, +2 studded 
+leather, backpack, belt of incredible dexterity +2, circlet of persuasion, cloak of resistance +2, javelins 
+(5), masterwork sling, sword of subtlety, tender (42gp, 8sp) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 51 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bleeding Attack Your sneak attacks cause the target to take 1 additional point of damage each round for each 
+die of your sneak attack. Bleeding creatures take that amount of damage every round at the start of each 
+of their turns. The bleeding can be stopped by a successful DC 15 Heal check or the application of any 
+effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed 
+damage bypasses any damage reduction the creature might possess. 
+Brutal Beating (Ex) Whenever you deal sneak attack damage, you can choose to forgo 1d6 points of sneak 
+attack damage to make the target sickened for a number of rounds equal to ½ your rogue level. This 
+ability does not stack with itself—only the most recent duration applies. 
+Debilitating Injury (Ex) Whenever you deal sneak attack damage to a foe, you can also debilitate the target of 
+your attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue 
+talent or other special ability). You can choose to apply any one of the following penalties when the 
+damage is dealt. 
+
+Bewildered: The target becomes bewildered, taking a –2 penalty to AC. The target takes an 
+additional –2 penalty to AC against all attacks made by you. 
+Disoriented: The target takes a –2 penalty on attack rolls. In addition, the target takes an additional 
+–2 penalty on all attack rolls it makes against you. 
+Hampered: All of the target’s speeds are reduced by half (to a minimum of 5 feet). In addition, the 
+target cannot take a 5-foot step. 
+These penalties do not stack with themselves, but additional attacks that deal sneak attack damage 
+extend the duration by 1 round. A creature cannot suffer from more than one penalty from this ability at 
+a time. If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a 
+target suffering from one of these penalties also removes the penalty. 
+Evasion (Ex) If you succeed at a Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or 
+no armor. You do not gain the benefit of evasion while helpless. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, you can select any one type of 
+weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it 
+cannot be changed. Whenever you make a successful melee attack with the selected weapon, you add 
+your Dexterity modifier instead of your Strength modifier to the damage roll. If any effect would 
+prevent you from adding your Strength modifier to the damage roll, you do not add your Dexterity 
+modifier. 
+Frightening (Ex) Whenever you successfully use Intimidate to demoralize a creature, the duration of the 
+shaken condition is increased by 1 round. In addition, if the target is shaken for 4 or more rounds, you 
+can instead decide to make the target frightened for 1 round. 
+Rogue’s Edge (Ex) You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. 
+Intimidate: If you exceed the DC to demoralize a target by at least 10, it is frightened for 1 round 
+and shaken thereafter. The total duration cannot exceed 1 round plus 1 round for every 5 by which you 
+exceed the DC. A Will save (DC = 10 + your number of ranks in Intimidate) negates the frightened 
+condition, but the target is still shaken, even if it has the stalwart ability. 
+Scout’s Charge (Ex) Whenever you make a charge, your attack deals sneak attack damage as if the target were 
+flat-footed. Foes with uncanny dodge are immune to this ability. 
+Skirmisher (Ex) Whenever you move more than 10 feet in a round and make an attack action, the attack deals 
+sneak attack damage as if the target was flat-footed. If you make more than one attack this turn, this 
+ability only applies to the first attack. Foes with uncanny dodge are immune to this ability. 
+Sneak Attack Your attack deals an extra 5d6 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+Surprise Attack (Ex) During the surprise round, you always consider opponents flat-footed, even if they have 
+already acted. You add ½ your rogue level to your sneak attack damage rolls made during the surprise 
+round. 

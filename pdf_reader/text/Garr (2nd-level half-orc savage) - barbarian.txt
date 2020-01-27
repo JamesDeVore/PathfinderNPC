@@ -1,0 +1,74 @@
+
+
+Garr 
+Female half-orc barbarian 2 
+CN Medium humanoid (human, orc) 
+Init +1; Senses darkvision 60 ft.; Perception +4 
+Languages Common, Draconic, Orc 
+OFFENSE 
+AC 15, touch 11, flat-footed 14 (+4 armor, +1 Dex) 
+hp 20 (2 HD) 
+Fort +5, Ref +1, Will +0 (+2 during rage) 
+Defensive Abilities orc ferocity, uncanny dodge 
+DEFENSE 
+Speed 30 ft. (6 squares); 40 ft. without armor 
+Melee masterwork greataxe +7 (1d12+6/×3), or 
+masterwork greataxe +9 (1d12+9/×3) while raging 
+masterwork greataxe +6 (1d12+9/×3) with Power Attack, or 
+masterwork greataxe +8 (1d12+12/×3) with Power Attack while raging, or 
+kukri +6 (1d4+4/18-20), or 
+kukri +8 (1d4+6/18-20) while raging 
+kukri +5 (1d4+6/18-20) with Power Attack, or 
+kukri +7 (1d4+8/18-20) with Power Attack while raging 
+Ranged chakram +3 (1d8+4), or 
+chakram +3 (1d8+6) while raging 
+Special Attacks rage (6 rounds/day), rage powers (no escape), weapon familiarity 
+STATISTICS 
+Abilities Str 19 (+4), Dex 13 (+1), Con 14 (+2), Int 12 (+1), Wis 10 (+0), Cha 12 (+1) 
+Base Atk +2; CMB +6; CMD 17 
+Feats Power Attack 
+Skills Acrobatics +5, Intimidate +8, Knowledge (nature +6), Perception +5, Survival +5, Swim +8; Armor 
+Check Penalty –1 
+SQ fast movement, intimidating, orc blood, weapon familiarity 
+Combat Gear alchemist’s fire (3), potions (cure light wounds 3, enlarge person 3), thunderstone; Other Gear 
+barbarian’s kit, barbed vest, chakram (10), grooming kit, kukri, masterwork chain shirt, masterwork 
+greataxe, tender (20sp) 
+Encumbrance light 116 lb., medium 233 lb., heavy 350 lb.; Weight Carried 78 lb. 6 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Fast Movement (Ex) You gain a +10 ft. bonus to your land speed (included above). You lose this extra speed if 
+in heavy armor or carrying a heavy load. 
+No Escape (Ex) You can move up to double her normal speed as an immediate action but you can only use this 
+ability when an adjacent foe uses a withdraw action to move away from you. You must end your 
+movement adjacent to the enemy that used the withdraw action. You provoke attacks of opportunity as 
+normal during this movement. This power can only be used once per rage. 
+Orc Blood You count as both a human and an orc for any effect related to race. 
+Orc Ferocity (Ex) Once per day, when you are brought below 0 hit points but not killed, you can fight on for 
+one more round as if disabled. At the end of your next turn, unless brought to above 0 hit points, you 
+immediately fall unconscious and begin dying. 
+Rage (Ex) You can enter a rage as a free action for 6 rounds each day. The total number of rounds of rage per 
+day is renewed after resting for 8 hours, although these hours do not need to be consecutive. While in 
+rage, you gain a +4 morale bonus to your Strength and Constitution, as well as a +2 morale bonus on 
+Will saves. In addition, you take a –2 penalty to Armor Class. The increase to Constitution grants you 2 
+hit points per Hit Dice, but these disappear when the rage ends and are not lost first like temporary hit 
+
+points. While in rage, you cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except 
+Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration. You can end 
+your rage as a free action and you become fatigued afterwards for a number of rounds equal to 2 times 
+the number of rounds spent in the rage. You cannot enter a new rage while fatigued or exhausted but can 
+otherwise enter rage multiple times during a single encounter or combat. If you fall unconscious, your 
+rage immediately ends, placing you in peril of death. 
+Uncanny Dodge (Ex) You retain your Dexterity bonus to AC even if you are caught flat-footed or struck by an 
+invisible attacker. However, you still lose your Dexterity bonus to AC if immobilized. 
+Weapon Familiarity You are always proficient with greataxes and falchions, and treat any weapon with the 
+word “orc” in its name as a martial weapon. 
+ 
+BARBARIAN’S KIT 
+This kit includes a backpack, a belt pouch, a blanket, a flint and steel, an iron pot, rope, soap, torches (10), trail 
+rations (5 days), and a waterskin. Together these items cost 9gp and weighs 26 pounds (these figures are 
+reduced from the typical sum of said items due to bulk sale and efficient packing). 
+ 
+GROOMING KIT 
+This pouch of toiletries includes a comb, scissors, a nail file, a sponge, a hairbrush, a miniature mirror, soap, a 
+chewing stick, and tooth powder. Together these items cost 1gp and weighs 2 pounds (these figures are reduced 
+from the typical sum of said items due to bulk sale and efficient packing). 
+ 

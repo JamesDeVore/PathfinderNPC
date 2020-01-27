@@ -1,0 +1,150 @@
+
+
+Jorkane al-Lowell Hedessa Bekhzadi Hanpa  
+“I am Jorkane the Sun Seeker, son of Lowell, descendant of Hedessa, 
+partner to the Bekhzadi merchant house, and proud citizen of the humble 
+town of Hanpa.” 
+ 
+Jorkane al-Lowell is a powerful Qadiran merchant who leveraged his 
+status as a descendant of Hedessa to curry favor with members of the 
+powerful Bekhzadi merchant house, which would later allow him to rise to 
+partner and trade prince within that organization through his own merits. 
+He is also a powerful solar sorcerer widely feared for his fiery sun powers 
+as well as a proven sage and faculty member at the Imperial School of 
+Business in Katheer. Though he chiefly follows Abadar and holds no 
+official religious titles, Jorkane is so well-respected within the Sarenite 
+faith for his sun powers and for previous services rendered, that a high 
+priest and regional leader once gifted him with a sun crystal, a magically 
+hardened, glowing crystal orb that is anathema to creatures of death and 
+shadow. 
+ 
+Though Jorkane possesses a keen intellect and a talent for social 
+manipulation—and has acquired much academic, mercantile, and social 
+success with those skills as a result—he nevertheless remains rather naïve 
+and gullible next to his compatriots in business. These faults have prevented him from further rising within the 
+hierarchy of Qadiran society for several decades. Just as Jorkane has learned to use his heritage and his many 
+talented skills to his advantage, so too have his business partners long ago learned to take advantage of 
+Jorkane’s all-too-trusting nature. 
+ 
+Ever full of ambition and growing increasingly distraught at his recent setbacks, Jorkane has decided to strike 
+out into the wider world to broaden his horizons. He now travels from one exotic land to the next, seeking out 
+adventures and grand experiences in the hopes of one day finding “The Brightness”—an abstract form of elven 
+enlightenment. He believes that once he has found and experienced this enlightenment experience, he will then 
+be able to return to Qadira with the tools necessary to obtain even greater wealth and power. 
+ 
+Once Jorkane obtains his goals, he intends to utilize his newfound wealth and power to raise his hometown of 
+Hanpa into a great city rivaling that of any metropolis in the East. Short on funds after his recent business 
+betrayals, Jorkane opted to take out a 50,000gp interest-free loan from the Bekhzadi merchant house to fund his 
+expedition of self-discovery prior to fleeing Qadira—a ticking clock that constantly looms over him like an 
+ever-present shadow. Should he not return the money within one year, his failures will be absolute and 
+everlasting, the shame and disgrace such that he will never again be able to return to his homeland. 
+   
+
+Jorkane al-Lowell Hedessa Bekhzadi Hanpa 
+Male elf sorcerer 9 
+NG Medium humanoid (elf) 
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +14 
+Languages Celestial, Common (Taldane), Draconic, Elven, Gnome, Ignan, Kelish, 
+Osiriani, Sylvan, Tien, Vudrani; retrained for 5 bonus languages 
+DEFENSE 
+AC 19, touch 14, flat-footed 15 (+5 armor, +4 Dex); mage armor 
+hp 69 (9 HD) 
+Fort +9, Ref +11, Will +9; +5 vs. mind-affecting effects 
+Defensive Abilities sunsight; Immune light-based blindness and dazzle 
+effects; Resist fire 20; SR 18 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee sun crystal cane +3 (1d8–2) 
+Ranged touch spell +8 touch (by spell) 
+Spell-like Abilities (CL 10th; Concentration +18) 
+At-will – light
+‡ 
+Sorcerer Spells Known (CL 9
+th, CL 10
+th with fireball or light spells, CL 11
+th to overcome SR, or CL 12th to 
+overcome SR with fireball or light spells; Concentration +17) 
+4th  (5/day) – greater flaming sphere
+ACG †, shield of the dawnflower
+ISG B †‡, wandering star motesAPG ‡ 
+3rd  (7/day) – daylight
+B ‡, fireball†, fly, heatstroke
+SLC † 
+2nd (7/day) – burst of radiance
+CoP ‡, continual flame
+M ‡, fury of the sunARG B †, mirage (as mirror 
+image), scorching ray
+†, see invisibility
+B 
+1st  (8/day) – burning hands
+†, mage armor, magic missile
+B, mountB, searing lightB ‡, shield, snapdragon 
+fireworksUM †‡ 
+0  (at will) – dancing lights‡, detect magic, disrupt undead, flare, prestidigitation, scrivener’s 
+chantSoS, sparkAPG, touch of fatigue 
+Bloodline Solar; Key † fire spell, ‡ light spell 
+STATISTICS 
+Abilities Str 7 (–2), Dex 18 (+4), Con 14 (+2), Int 18 (+4), Wis 8 (–1), Cha 20 (+8) 
+Base Atk +4; CMB +2; CMD 16 
+Feats AlertnessB, Cunning, Dazing Spell, Eschew Materials
+B, Solar Spell, Steadfast Personality, Toughness 
+Skills Appraise +20 (+22 in Katheer), Bluff +22 (+24 in Katheer), Diplomacy +22 (+24 in Katheer, +29 vs. 
+members of the Imperial School of Business, +31 with both), Intimidate +20, Knowledge (arcana) +12, 
+Knowledge (local) +11, Knowledge (nature) +8, Knowledge (nobility) +7, Perception +14, Sense 
+Motive +7 (+9 in Katheer), Spellcraft +17, Use Magic Device +19 
+SQ Bekhzadi partner, bloodline arcana (fire spells deal +1 damage per die), cleansing flame 1d8+9 (2/day), 
+darkvision, fey thoughts, full professor, library access, lightbringer, merchant academy member (fame 
+50, prestige 28), professor’s assistant, senior student, traits (gifted adept, seeker of brightness) 
+Combat Gear wand of cure light wounds (32 charges); Other Gear belt of physical might +2 (dexterity, 
+constitution), circlet of persuasion, headband of alluring charisma +2, pages of spell knowledge (magic 
+missile, mount, see invisibility), pathfinder pouch, ring of sustenance, ring of the sophisticate, robe of 
+the archmagi, sleeves of many garments, sun crystal cane (magically hardened crystal sphere with 
+heightened solar continual flame [4
+th] effect, set atop a platinum-shod cane, functions as a masterwork 
+heavy mace), tender (7gp, 6sp) 
+Encumbrance light 23 lb., medium 46 lb., heavy 70 lb.; Weight Carried 13 lb. 1 oz. (excluding tender)   
+
+SPECIAL ABILITIES 
+Bekhzadi Partner You have obtained partner status with a powerful merchant house of Qadira. As such, you 
+draw a stipend of 1,000gp per month (funded by the house; so far used to support your extravagant cost 
+of living), can borrow up to 50,000gp per year at no interest (the amount must be paid back within 1 
+year). Once per month you can receive the services of four house guards (human fighter 3; use the 
+statistics for a traitorous brigand from page 81 of the Pathfinder RPG NPC Codex) for 24 hours, the 
+services of a house emissary who can automatically change the attitude of a ruler or other influential 
+NPC from indifferent to friendly or from friendly to helpful, or the services of a house lawyer (who pays 
+bail and advises you if you are arrested or charged with a crime). During your rise to partner, your house 
+gifted you with two custom magic items, a circlet of persuasion, and a ring of the sophisticate. 
+Bloodline Arcana Whenever you cast a spell with the fire descriptor, if it deals damage, it deals +1 point of 
+damage per die rolled. 
+Business Magnate You gain a +2 bonus on Appraise, Bluff, Diplomacy, and Sense Motive checks—this bonus 
+doubles when you are in Katheer. When you sell magical items or other expensive goods in Katheer, 
+you earn a bonus from the sale: a percentage equal to your Charisma bonus. 
+Cleansing Flame (Su) Twice per day, you can use fire to restore the health of yourself or your allies. As a 
+standard action, you can wreathe your hand in a halo of flame and touch yourself or another creature. 
+The touch heals 2d8 + your character level points of damage. You can also remove one of the following 
+conditions affecting the target: 1d6 points of ability damage, blinded, confused, dazzled, deafened, 
+diseased, exhausted, fatigued, nauseated, poisoned, or sickened. 
+Fey Thoughts Diplomacy and Knowledge (nature) are always class skills for you. 
+Friend of Fire (Su) You gain fire resistance 20. Additionally, when in contact with flame or a burning object 
+(including a flaming weapon, lantern, or torch), add 1 per die to any healing effect of which you are the 
+target. 
+Full Professor You no longer need to pay tuition to the Imperial School of Business. Every time you would 
+normally pay tuition, you instead earn that amount of gold as your salary. 
+Gifted Adept Whenever you cast fireball, its effects manifest at +1 caster level. 
+Library Access You have earned the right to research among the academy’s special collections and secure 
+libraries. A day of research grants you a +2 circumstance bonus on any one Knowledge skill check (but 
+see Professor’s Assistant below). 
+Lightbringer You are immune to light-based blindness and dazzle effects, and are treated as one level higher 
+when determining the effects of any light-based spell or effect you cast (including spell-like and 
+supernatural abilities). Additionally, you may use light at will as a spell-like ability. 
+Professor’s Assistant You are specialized in Knowledge (arcana) and Spellcraft, and can recruit a student to 
+aid you in research when you use the academy library, which increases the circumstance bonus you gain 
+from library access to +4. 
+Seeker of Brightness You gain a +1 trait bonus on Knowledge (arcana) and Perception checks. 
+Senior Student You were once a senior student of the Imperial School of Business and may purchase potions, 
+scrolls, and wands from Katheer at a 10% discount. 
+Shrewd Investor Your studies have taught you to assess financial risk and calibrate your plans with virtuosic 
+precision. Appraise is a class skill for you, you gain a +2 bonus on Appraise checks, and you can 
+purchase magical items or other expensive goods in Katheer at a 5% discount. 
+Sunsight (Su) You gain low-light vision and cannot be dazzled. If you already have low-light vision, you 
+instead gain a +4 bonus on saving throws against blindness effects. 

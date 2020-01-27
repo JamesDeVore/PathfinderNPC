@@ -1,0 +1,62 @@
+
+
+Manny the Mancatcher 
+Male human fighter 1 (lore warden) 
+LN Medium humanoid 
+Init +3; Senses Perception +3 
+Languages Common, Orc 
+DEFENSE 
+AC 18, touch 13, flat-footed 15 (+4 armor, +3 Dex, +1 shield) 
+hp 12 (1 HD) 
+Fort +4, Ref +3, Will +2 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee battleaxe +4 (1d8+3/×3) or 
+madu +4 (1d4+1) or 
+mancatcher +4 touch (1d2+4 plus grapple/×3) or 
+sap +4 (1d6+3 nonlethal) 
+Ranged bolas +5 (1d4+4 nonlethal) with Point Blank Shot, or 
+bolas +5 (trip) with Point Blank Shot, or 
+chakram +5 (1d8+4) with Point Blank Shot, or 
+net +5 touch (entangle) with Point Blank Shot 
+STATISTICS 
+Abilities Str 16 (+3), Dex 16 (+3), Con 14 (+2), Int 12 (+1), Wis 14 (+2), 
+Cha 7 (–2) 
+Base Atk +1; CMB +4; CMD 17 
+Feats Exotic Weapon Proficiency (mancatcherB), Point Blank Shot 
+Skills Handle Animal +2, Knowledge (geography, local) +5, Perception +7, Sense Motive +3, Stealth +6, 
+Survival +6; Amor Check Penalty –2 (–4 with madu) 
+SQ military tradition (bolas, net), scholastic, traits (eyes and ears of the city, highlander) 
+Gear battleaxe, bolas (3), chakram (3), hunting dogs (4, see below), leather lamellar, leather madu with 
+shield sconce, lock (simple), mancatcher, net, ranger’s kit, sap, signal whistle (silent), tender (12sp) 
+Encumbrance light 76 lb., medium 153 lb., heavy 230 lb.; Weight Carried 60 lb. 8 oz. (without backpack) 
+SPECIAL ABILITIES 
+Eyes and Ears of the City You gain a +1 trait bonus on Perception checks, and Perception is always a class 
+skill for you. 
+Highlander You gain a +1 trait bonus on Stealth checks, and Stealth is always a class skill for you. This trait 
+bonus increases to +2 in hilly or rocky areas. 
+Military Tradition You gain proficiency with up to two martial or exotic weapons appropriate to your culture. 
+Scholastic (Ex) You gain 2 additional skill ranks each level. These ranks must be spent on Intelligence-based 
+skills. All Craft and Knowledge skills are class skills for you, as are Linguistics and Spellcraft. 
+   
+
+Axel, Gunner, Jagger, and Rocco 
+Guard Dogs 
+N Small animal 
+Init +1; Senses low-light vision, scent; Perception +5 
+DEFENSE 
+AC 13, touch 12, flat-footed 12 (+1 Dex, +1 natural, +1 size) 
+hp 6 (1 HD) 
+Fort +4, Ref +3, Will +1 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee bite +2 (1d4+1) 
+STATISTICS 
+Abilities Str 13 (+1), Dex 13 (+1), Con 15 (+2), Int 2 (–4), Wis 12 (+1), Cha 6 (–2) 
+Base Atk +0; CMB +0; CMD 11 (15 vs. overrun and trip) 
+Feats Skill Focus (survival) 
+Skills Acrobatics  +1 (+9 when jumping), Perception  +5, Survival  +4 (+8 scent tracking); Racial Modifiers 
++4 Acrobatics when jumping, +4 Survival when tracking by scent 
+SQ tricks (attack, defend, down, fetch, heel, track) 
+Possessions animal harness, identification collar 
+Encumbrance light 50 lb., medium 100 lb., heavy 150 lb.; Weight Carried 2 lb. 

@@ -1,0 +1,77 @@
+
+
+Natsu Yama 
+Female halfling fighter 5/ninja 2 
+N Small humanoid (halfling) 
+Init +5; Senses Perception +12 
+Languages Common, Elven, Gnome, Halfling 
+DEFENSE 
+AC 26, touch 17, flat-footed 21 (+8 armor, +1 deflection, +5 Dex, +1 natural, 
++1 size) 
+hp 59 (7 HD) 
+Fort +8, Ref +12, Will +4; +3 bonus vs. fear 
+Defensive Abilities bravery +1 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee mwk sai +8 (1d3+1) or 
+mwk sai +6/+6 (1d3+1) with Two Weapon Fighting 
+Ranged mwk sharpened shuriken +16/+11 (1d8+4) with Point Blank Shot, or 
+mwk sharpened shuriken +10/+10/+10/+10/+10/+10/+5 (1d8+4) with Flurry of Stars, ki pool, Point 
+Blank Shot, Rapid Shot, and Two-Weapon Fighting 
+Special Attacks advanced weapon training (focused weapon: shuriken), poison use, sneak attack +1d6, weapon 
+training (thrown +1) 
+STATISTICS 
+Abilities Str 12 (+1), Dex 20 (+5), Con 12 (+1), Int 14 (+2), Wis 10 (+0), Cha 16 (+3) 
+Base Atk +6; CMB +6 (+7 with throwing weapons); CMD 22 (23 to disarm/sunder throwing weapons) 
+Feats Advanced Weapon Training (focused weapon), Far Shot, Point Blank ShotB, Precise ShotB, Rapid ShotB, 
+Two-Weapon Fighting, Weapon Focus (shuriken) 
+Skills Acrobatics +15, Climb +10 (+15 to avoid falling due to damage), Disable Device +13, Escape Artist +15, 
+Perception +12, Sleight of Hand +15, Stealth +15; Racial Bonuses +2 Perception 
+SQ armor training 1, fleet of foot, ki pool (4 points), ninja tricks (flurry of stars) 
+Combat Gear grappling bolts* (10), masterwork sharpened shuriken (75); Other Gear +2 mithral agile 
+breastplate, amulet of natural armor +1, belt of incredible dexterity +2, cloak of resistance +2, gecko 
+gloves, glass cutter*, glue paper* (10), heavy crank crossbow*, masterwork backpack, masterwork sai 
+(2), meditation crystal* (usually charged by an ally), pocketed scarf, ring of protection +1, robe of 
+infinite twine, rogue’s kit* (see below), second-story harness*, silk rope* (50 ft.), tender (43gp, 9sp, 
+8cp), whetstone* 
+Encumbrance light 37 lb. 8 oz., medium 75 lb., heavy 112 lb. 8 oz.; Weight Carried 74 lb. 8 oz. (excluding 
+tender) or 15 lb. 8 oz. without the backpack and its contents (marked with asterisks above). 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 1 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 1. In addition, your speed is not 
+reduced for wearing medium armor. 
+Bravery (Ex) You gain a +1 bonus on Will saves against mind-affecting effects (included above). 
+Flurry of Stars (Ex) You can expend 1 ki point from your ki pool as a swift action before you make a 
+full-attack attack with shuriken. During that attack, you can throw two additional shuriken at your 
+highest attack bonus, but all your shuriken attacks are made at a –2 penalty, including the two extra 
+attacks. 
+Ki Pool (Su) You have a pool of ki points, supernatural energy you can use to accomplish amazing feats. The 
+number of points in your ki pool is equal to ½ your ninja level + your Charisma modifier. As long as 
+you have at least 1 point in your ki pool, you treat any Acrobatics skill check made to jump as if you had 
+a running start. By spending 1 point from your ki pool, you can make one additional attack at your 
+highest attack bonus, but you can do so only when making a full attack. In addition, you can spend 1 
+
+point to increase your speed by 20 feet for 1 round. Finally, you can spend 1 point from your ki pool to 
+give yourself a +4 insight bonus on Stealth skill checks for 1 round. Each of these powers is activated as 
+a swift action. You can gain additional powers that consume points from your ki pool by selecting 
+certain ninja tricks. The ki pool is replenished each morning after 8 hours of rest or meditation; these 
+hours do not need to be consecutive. 
+Poison Use You are trained in the use of poison and cannot accidentally poison yourself when applying poison 
+to a weapon. 
+Sneak Attack Your attack deals 1d6 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. This bonus 
+damage is considered precision damage. Should you score a critical hit with precision damage is not 
+multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet. With a weapon 
+that deals nonlethal damage (like a sap, whip, or an unarmed strike), you can make a sneak attack that 
+deals nonlethal damage instead of lethal damage. You cannot use a weapon that deals lethal damage to 
+deal nonlethal damage in a sneak attack, not even with the usual –4 penalty. You must be able to see the 
+target well enough to pick out a vital spot and must be able to reach such a spot. You cannot sneak 
+attack while striking a creature with concealment. 
+Weapon Training (Ex) You receive a +1 bonus to attack and damage rolls when using thrown weapons, to any 
+combat maneuver checks made with thrown weapons, and to your Combat Maneuver Defense when 
+defending against disarm and sunder attempts made against thrown weapons. 
+ 
+ROGUE’S KIT 
+This kit includes a backpack, a bedroll, a belt pouch, caltrops, chalk (10), a flint and steel, a grappling hook, an 
+iron pot, a mess kit, a mirror, pitons (10), rope, soap, thieves’ tools, torches (10), trail rations (5 days), and a 
+waterskin. 

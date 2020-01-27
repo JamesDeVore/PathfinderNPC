@@ -1,0 +1,72 @@
+
+
+Meredith Nerissa 
+Female merfolk sorcerer 10 (wildblooded) 
+N Medium humanoid (aquatic) 
+Init +6; Senses blindsense 30 ft. (water only), low-light vision; Perception 
++0 
+Languages Aquan, Common; telepathy 100 ft. 
+DEFENSE 
+AC 31, touch 22, flat-footed 21 (+4 armor, +2 cover, +2 deflection, +6 Dex, 
++1 dodge, +1 insight, +5 natural); mage armor 
+hp 77 (10 HD) 
+Fort +9, Ref +13 (+12 outside Celon), Will +10 
+Resist cold 5 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good), swim 50 ft.; Celon 
+Melee by weapon +5 
+Ranged water blast +11 touch (knocked prone and pushed 5 feet, Ref DC 23 negates) 
+Special Attacks aquatic telepathy 8/day 
+Bloodline Spell-like Abilities (CL 10th; Concentration +18) 
+11/day – water blast 
+Sorcerer Spells Known (CL 11th; Concentration +19) 
+5th  (4/day) – dominate person 
+4th  (7/day) – geyserAPG, rainbow pattern, wall of brineISR 
+3rd  (8/day) – aqueous orbAPG, audiovisual hallucinationUI, slow 
+2nd (8/day) – defensive shockUM, detect thoughts, invisibility, see invisibility, shatter, slipstreamAPG 
+1st  (8/day) – color spray, hydraulic pushAPG, mage armor, magic missile, shield, unseen servant 
+0  (at will) – arcane mark, dancing lights, detect magic, detect poison, ghost sound, light, mending, 
+open/close, prestidigitation 
+Bloodline aquatic (seaborn) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 22 (+6), Con 16 (+3), Int 10 (+0), Wis 10 (+0), Cha 26 (+8) 
+Base Atk +5; CMB +5; CMD 32 (30 outside cauldron) 
+Feats Child of Two Worlds (completed), Craft Wondrous Item, Defensive Combat TrainingB, Dodge, Eschew 
+MaterialsB, Improved Natural Armor (2) 
+Skills Knowledge (arcana) +8, Spellcraft +13, Swim +16 (may take 10), Use Magic Device +21 
+SQ amphibious, bloodline arcana (+1 CL in water) 
+Combat Gear elegant cane (carved from crystal, worth 200gp on that basis alone; functions as a wand of cure 
+light wounds, 50 charges); Other Gear amulet of natural armor +1, assorted precious stones 
+(collectively worth 50gp), belt of incredible dexterity +4, Celon (see below), cloak of resistance +3, 
+dusty rose prism ioun stone, headband of alluring charisma +6, lucky hair ribbons (as jingasa of the 
+fortunate soldier, but grants a +2 deflection bonus) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 10 lb. 
+SPECIAL ABILITIES 
+Aquatic Adaptation (Ex) You gain a swim speed of 30 feet, the amphibious special quality, and develop a fat 
+layer that grants a +1 natural armor bonus and resist cold 5. When immersed in water, you gain 
+blindsense 30 feet. 
+Aquatic Telepathy (Su) You gain telepathy (100 feet) and can communicate with creatures with a swim speed 
+or the aquatic or water types regardless of intelligence. You may cast suggestion on such creatures a 
+number of times per day equal to your Charisma modifier. This ability is telepathic and does not require 
+audible or visual components. 
+
+Bloodline Arcana When you are in a body of water large enough to float in, your effective caster level is 
+increased by 1. 
+Water Blast (Sp) As a standard action, you can fire a bolt of water at a foe within 30 feet as a ranged touch 
+attack. The foe is knocked prone, and at your option may be pushed 5 feet directly away from you. A 
+reflex save (DC 10 + ½ your sorcerer level + your Charisma modifier) negates this effect. You can use 
+this ability a number of times per day equal to 3 + your Charisma modifier. 
+ 
+Celon 
+Created by Meredith to serve primarily as a transportation device in the lands of walkers, Celon is an intelligent 
+glass chariot, made of nearly invisible glass shaped into a large sphere with an open top. Despite its fragile 
+appearance, it is as hard and durable as thick iron. It functions in every way as a cauldron of flying. Celon exists 
+only to serve, and lacks any special purpose or other motivation common to other intelligent magical items. 
+Like other merfolk, Meredith does not like to be out of water for long, and so keeps it filled with clean water at 
+all times. When not controlled by another, it can fly itself around independently, allowing it to be called into 
+service from a distance. Not particularly loyal to anyone, Celon will come to the call of anyone who happens to 
+be nearby (if not already controlled). In the event of conflicting orders, however, it always gives priority to 
+creatures of the sea (such as merfolk) first, and to those with higher Charisma second. 
+ 
+The flying cauldron, Celon, possesses the following stats: AL N; Int 10, Wis 10, Cha 10; Empathy; Darkvision 
+120 ft.; Can cast create water at will; Ego score 5. 

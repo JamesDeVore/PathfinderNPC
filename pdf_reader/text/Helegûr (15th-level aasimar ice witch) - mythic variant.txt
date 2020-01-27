@@ -1,0 +1,268 @@
+
+
+Helegûr 
+Female aasimar sorcerer 15 (crossblooded, mythic archmage 6) 
+CN Medium outsider (native) 
+Init +7; Senses darkvision 60 ft.; Perception +13 
+Languages Common, Celestial, Draconic, Sylvan 
+DEFENSE 
+AC 15, touch 11, flat-footed 14 (+4 armor, +1 Dex); mage armor 
+hp 267 plus frozen flesh (15 HD) 
+Fort +21 (roll twice), Ref +11, Will +13; +4 vs. wind effects 
+Defensive Abilities hard to kill; DR 10/epic when below 0 hp; Immune 
+aging, extreme cold, inhaled poisons, sleep effects, starvation, 
+suffocation, thirst; Resist acid 5, cold 10, electricity 5, fire 30 
+OFFENSE 
+Speed 30 ft. (6 squares); icewalker 
+Melee icicle dagger +8 (1d4 plus 1d6+1 cold/19-20) 
+Ranged icicle dagger +9 (1d4 plus 1d6+1 cold/19-20) 
+Special Attacks mythic power (15/day, surge +1d8) 
+Spell-like Abilities (CL 15th; Concentration +23) 
+11/day – cold steel 
+1/day – blizzard, daylight 
+Sorcerer Spells Known (CL 15th, CL 16th with cold spells; Concentration +23) 
+7th  (5/day) – elemental body IVB, ice body
+UM, simulacrumM B 
+6th  (7/day) – freezing sphere, ice crystal teleportUM, transformationB 
+5th  (7/day) – cone of coldB, ice skinM (as stoneskin), icy prisonUM, seeming 
+4th  (8/day) – frozen flesh (as greater false life
+UM), ice storm, solid fog, wall of ice
+B 
+3rd  (8/day) – protection from energyB, major image, sleet storm, slow 
+2nd (8/day) – frigid ray
+B (as scorching ray but cold), frigid touchUM, glitterdust, ice fractal field (as 
+web), see invisibility 
+1st  (8/day) – alarmB, blood money
+RotR (see below), feather fallB, freezing handsB (as burning hands but 
+cold), hoarfrost (as grease), hold portalB, icicle daggerUM, mage armorB, magic missileB, 
+obscuring mistB, shieldB, snowballPotN 
+0  (at will) – arcane mark, detect magic, light, mage hand, mending, message, prestidigitation, read 
+magic 
+Bloodline crossblooded (boreal, elemental water) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 13 (+1), Con 28 (+9), Int 14 (+2), Wis 12 (+1), Cha 26 (+8) 
+Base Atk +7; CMB +7; CMD 18 
+Feats Craft Wondrous Item, Diehard
+B, Elemental Focus (coldM), Endurance
+B, Eschew MaterialsB, Expanded 
+Arcana, Great Fortitude
+M, Greater Elemental Focus (cold), Improved Great Fortitude, Rime Spell, 
+ToughnessM 
+Skills Diplomacy +10, Disguise +18, Intimidate +21, Knowledge (planes) +15, Perception +13, Spellcraft +15, 
+Survival +14; Racial Bonuses +2 Diplomacy, +2 Perception 
+SQ archmage arcana (wild arcana), bloodline arcana (change energy damage spells to cold), force of will, 
+legendary item (3), longevity, mythic saving throws, mythic sustenance, recuperation, sleepless, snow 
+shroud 
+Combat Gear material components (ice skin 10), personal clones (3); Other Gear belt of mighty constitution 
++6, boots of the winterlands, bottled blizzard (functionally an eversmoking bottle), cloak of resistance 
++5, crystal crown of vision (as storm mask), headband of alluring charisma +6, Helch Barad (major 
+artifact, see below), orb of storms, pages of spell knowledge (alarm, feather fall, hold portal, mage 
+armor, magic missile, obscuring mist, shield), ring of greater fire resistance, ring of invisibility, rod of 
+
+ice, shirt of immolation, tender (440gp), troll fighter simulacrum bodyguards (20, see below), 
+simulacrum doubles (9, see below), tender (440gp), voidfrost robe 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 18 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Amazing Initiative (Ex) You gain a bonus on initiative checks equal to your mythic tier (included above). In 
+addition, as a free action on your turn, you can expend one use of mythic power to take an additional 
+standard action during that turn. This additional standard action can’t be used to cast a spell. You can’t 
+gain an extra action in this way more than once per round. 
+Blizzard (Sp) You can create a savage winter storm centered on you. This power acts as control winds, but in 
+addition the entire area (not including the “eye” at the center of the storm) is affected as a sleet storm 
+and all in the area are exposed to extreme cold. You may use this ability once per day. 
+Bloodline Arcana Whenever you cast a spell that deals energy damage, you can change the type of damage to 
+cold. This also changes the spell’s type to cold. Additionally, whenever you cast a spell with the cold 
+descriptor, increase the spell’s save DC by 1. 
+Cold Steel (Sp) You can touch a weapon or up to 50 pieces of ammunition as a standard action, giving it the 
+frost property for a number of rounds equal to ½ your sorcerer level (minimum 1). You can confer the 
+icy burst property instead, but the duration of the power is halved. You can use this ability a number of 
+times per day equal to 3 + your Charisma modifier. 
+Force of Will (Ex) You can exert your will to force events to unfold as you would like. As an immediate 
+action, you can expend one use of mythic power to reroll a d20 roll you just made, or force any non-
+mythic creature to reroll a d20 roll it just made. You can use this ability after the results are revealed. 
+Whoever rerolls a roll must take the result of the second roll, even if it is lower. 
+Hard to Kill (Ex) Whenever you’re below 0 hit points, you automatically stabilize without needing to attempt a 
+Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose 
+hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points 
+when below 0 hit points. In addition, you don’t die until your total number of negative hit points is equal 
+to or greater than double your Constitution score. 
+Icewalker (Ex) You gain resist cold 10 and can move across snow and icy surfaces without penalty and without 
+leaving tracks. You can also climb icy surfaces as if using spider climb. 
+Longevity (Su) You can no longer die from old age. If you have penalties to your physical ability scores due to 
+aging, you no longer take those penalties. You still continue to age, and you gain all the benefits to your 
+mental ability scores. 
+Mythic Saving Throws (Ex) Whenever you succeed at a saving throw against a spell or special ability, you 
+suffer no effects as long as that ability didn’t come from a mythic source (such as a creature with a 
+mythic tier or mythic ranks). If you fail a saving throw that results from a mythic source, you take the 
+full effects as normal. 
+Mythic Sustenance (Su) Your mythic power is enough to sustain you. You no longer need to eat, drink, or 
+breathe to live. You’re immune to inhaled poisons and any spell or effect that requires breathing, though 
+you are still affected by any food or drink you intake. 
+Recuperation (Ex) You are restored to full hit points after 8 hours of rest so long as you aren’t dead. In 
+addition, by expending one use of mythic power and resting for 1 hour, you regain a number of hit 
+points equal to half your full hit points (up to a maximum of your full hit points) and regain the use of 
+any class features that are limited to a certain number of uses per day (such as barbarian rage, bardic 
+performance, spells per day, and so on). This rest is treated as 8 hours of sleep for such abilities. This 
+rest doesn’t refresh uses of mythic power or any mythic abilities that are limited to a number of times 
+per day. 
+Sleepless (Su) You no longer require sleep, don’t become fatigued or exhausted from lack of sleep, and are 
+immune to sleep effects. If you have abilities or class features that require rest before they can be 
+regained, you can choose to regain them once per day by spending 1 hour in uninterrupted meditation. 
+Snow Shroud (Su) You ignore concealment and Perception penalties in natural or magical snow, ice, fog, and 
+similar weather conditions. In addition, you can surround yourself with a cloak of swirling snow for a 
+
+number of rounds per day equal to your sorcerer level. This power acts and deals damage as a fire shield 
+(chill shield) that sheds no light. It provides a 20% miss chance on attacks made against you and grants a 
+bonus on Stealth checks equal to ½ your sorcerer level in snowy or icy areas. You can use this ability 
+once per day. 
+Surge (Su) You can call upon your mythic power to overcome difficult challenges. You can expend one use of 
+mythic power to increase any d20 roll you just made by rolling 1d8 and adding it to the result. Using this 
+ability is an immediate action taken after the result of the original roll is revealed. This can change the 
+outcome of the roll. 
+Wild Arcana (Su) As a standard action, you can expend one use of mythic power to cast any one arcane spell 
+without expending a prepared spell or spell slot. The spell must be on one of your arcane class spell lists, 
+must be of a level that you can cast with that arcane spellcasting class, and must have a casting time of 
+“1 standard action” (or less). You don’t need to have the spell prepared, nor does it need to be on your 
+list of spells known. When casting a spell in this way, you treat your caster level as 2 levels higher for 
+the purpose of any effect dependent on level. You can apply any metamagic feats you know to this spell, 
+but its total adjusted level can’t be greater than that of the highest-level arcane spell you can cast from 
+that spellcasting class. 
+ 
+Helegûr simulacrum double (as above, except as follows…) 
+Female aasimar sorcerer 7 (non-mythic) 
+Init +1; Senses darkvision 60 ft.; Perception +10 
+DEFENSE 
+AC 12, touch 12, flat-footed 10 (+1 dodge, +1 Dex) 
+hp 68 (7 HD) 
+Fort +3, Ref +5, Will +6 
+Resist acid 5, cold 5, electricity 5 
+OFFENSE 
+Melee icicle dagger +4 (1d4 plus 1d6+1 cold damage/19-20) 
+Ranged icicle dagger +5 (1d4 plus 1d6+1 cold damage/19-20) 
+Spell-like Abilities (CL 7th; Concentration +11) 
+7/day – cold steel 
+1/day – daylight 
+Sorcerer Spells Known (CL 7th; Concentration +11) 
+3rd-level (5/day) – major image, protection from energy 
+2nd-level (7/day) – frigid ray (as scorching ray but cold), frigid touchUM, ice crystal field (as web) 
+1st-level (7/day) – blood money
+RotR (see below), freezing hands (as burning hands but cold), hoarfrost 
+(as grease), icicle daggerUM 
+0-level (at will) – detect magic, light, mage hand, mending, message, prestidigitation 
+STATISTICS 
+Abilities Str 10 (+0), Dex 13 (+1), Con 16 (+3), Int 14 (+2), Wis 12 (+1), Cha 18 (+4) 
+Base Atk +3; CMB +3; CMD 14 
+Feats Craft Wondrous Item, Elemental Focus (cold), EnduranceB, Eschew MaterialsB, Greater Elemental Focus 
+(cold), Toughness 
+Skills Diplomacy +6, Intimidate +11, Knowledge (planes +8), Perception +10, Spellcraft +12, Survival +11; 
+Racial Bonuses +2 Diplomacy, +2 Perception 
+SQ bloodline arcana (change energy damage spells to cold) 
+Gear nonfunctional facsimile gear 
+ 
+   
+
+Helegûr’s simulacrum bodyguards 
+Troll simulacrum (3 HD), fighter 4 
+N Large humanoid (giant) 
+Init +4; Senses darkvision 60 ft., low-light vision, 
+scent; Perception +7 
+Languages Giant 
+DEFENSE 
+AC 22, touch 13, flat-footed 18 (+4 armor, +4 
+Dex, +5 natural, –1 size) 
+hp 84 (7 HD); regeneration 5 (acid, fire) 
+Fort +14, Ref +6, Will +4; +1 vs. fear 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. when unarmored 
+Melee bite +12 (1d8+7) and 
+2 claws +12/+12 (1d6+7 plus rend) or 
+bite +10 (1d8+11) and 
+2 claws +10/+10 (1d6+11 plus rend) with Power Attack, or 
+longspear +12/+7 (2d6+10/×3) or 
+longspear +10/+5 (2d6+16/×3) with Power Attack 
+Ranged javelin +10 (1d8+7) 
+Space 10 ft.; Reach 10 ft. (20 ft. with longspear) 
+Special Attacks rend (2 claws, 1d6+10) 
+STATISTICS 
+Abilities Str 25 (+7), Dex 19 (+4), Con 25 (+7), Int 6 (–2), Wis 11 (+0), Cha 4 (–3) 
+Base Atk +6; CMB +14; CMD 28 
+Feats BodyguardB, Combat ReflexesB (5 AoO’s/round), In Harm’s Way
+B, Lunge, Power Attack, Pushing 
+Assault, Stand Still 
+Skills Perception +7 
+SQ armor training 1, bravery +1 
+Gear hide armor, javelins (4), longspear 
+Encumbrance light 532 lb., medium 1,066 lb., heavy 1,600 lb.; Weight Carried 84 lb. 
+ 
+   
+
+Helch Barad, the Cold Fortress (major artifact) 
+ 
+Created by Helegûr to serve as a terrifying mobile base of operations, 
+Helch Barad is an impenetrable intelligent instant fortress made of 
+unmelting ice that turns into a large diamond, rather than a metal 
+cube. By themselves, Helch Barad’s walls are as hard and durable as 
+adamantine, but they have also been further reinforced to near 
+indestructability by Helegûr’s magical treatments with troll’s blood. 
+The crystal tower has the ability to fly her and her simulacrum 
+minions wherever she pleases, though she most often stays far to the 
+north, where it is said her powers are at their strongest. The tower’s 
+crystalline walls also serve as a magical scrying device, allowing her 
+to spy upon the outside world from time to time. 
+Helch Barad was originally a powerful troll mercenary that 
+once served as Helegûr’s personal bodyguard. When he betrayed her 
+to a higher paying client, she slew him and bound his spirit into her 
+newly made fortress—forever ensuring that he would serve as her 
+protector. Helegûr continues to keep much of Helch’s regenerative 
+flesh on ice within the tower (one of her most prized possessions), 
+using it to create numerous simulacrum troll bodyguards which can 
+never betray her. In this way, she keeps both Helch’s body and mind 
+enslaved to her will as punishment for his treachery. 
+Those who oppose Helegûr and the might of her Helch Barad soon find themselves trapped in the midst 
+of a great and terrible storm, as the Cold Fortress and its inhabitants rain ice and fire from on high. Victims of 
+such wrath are often replaced with simulacrum clones that work endlessly towards Helegûr’s goals abroad. 
+ 
+The instant fortress, Helch Barad, possesses the following stats: 
+AL CN; Int 10, Wis 10, Cha 10; Telepathy; 120 ft. blindsense; Can fly, as the spell, at a speed of 30 feet 
+(Fly +12 modifier); Can cast scry 3/day and can teleport itself and occupants 1/day; Possesses 10 ranks in the 
+fly skill; Ego score 14. 
+Legendary Powers: eternal bond, legendary surge 1d8+2 (8/day), perfect surge, powerful (3), 
+rejuvenating 
+Destruction: The Cold Fortress cannot be destroyed unless Helch Barad is brought back to life and 
+personally allowed to obtain his revenge against Helegûr (which must result in her death by his hands). So long 
+as his frozen heart (a solid block of unmelting ice) remains within the tower under Helegûr’s watchful eye, 
+however, nothing short of deific intervention can bring him back to life. The heart must first be removed from 
+the tower and thawed within an immense source of magical heat (such as in the depths of one of the plane of 
+fire’s largest volcanoes) before any form of resurrection can take place. Upon Helegûr’s death under those 
+specific conditions, the tower slowly crumbles in on itself, imploding and causing great harm to all those still 
+trapped within. 
+ 
+   
+
+Blood Money 
+School transmutation; Level magus 1, sorcerer/wizard 1, witch 1 
+Casting Time 1 swift action 
+Components V, S 
+Range 0 ft. 
+Effect 1 material component 
+Duration Instantaneous 
+ 
+You cast blood money just before casting another spell. As part of this spell’s casting, you must cut one of your 
+hands, releasing a stream of blood that causes you to take 1d6 points of damage. When you cast another spell in 
+that same round, your blood transforms into one material component of your choice required by that second 
+spell. Even valuable components worth more than 1 gp can be created, but creating such material components 
+requires an additional cost of 1 point of Strength damage, plus a further point of damage for every full 500 gp of 
+the component’s value (so a component worth 500–999 gp costs a total of 2 points, 1,000–1,500 costs 3, etc.). 
+You cannot create magic items with blood money. 
+ 
+For example, a sorcerer with the spell stoneskin prepared could cast blood money to create the 250 gp worth of 
+diamond dust required by that spell, taking 1d6 points of damage and 1 point of Strength damage in the process. 
+ 
+Material components created by blood money transform back into blood at the end of the round if they have not 
+been used as a material component. Spellcasters who do not have blood cannot cast blood money, and those 
+who are immune to Strength damage (such as undead spellcasters) cannot use blood money to create valuable 
+material components. 
+ 
+This spell initially appears in Paizo’s Rise of the Runelords Anniversary Edition adventure path and is reprinted 
+here for ease of reference. 
+ 

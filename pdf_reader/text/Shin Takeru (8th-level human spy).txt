@@ -1,0 +1,102 @@
+
+
+Shin Takeru 
+Male human ninja 4/ranger 2/shadow dancer 2 (skirmisher) 
+CN Medium humanoid 
+Init +8; Senses darkvision 60 ft.; Perception +12 
+Languages Common, Undercommon 
+DEFENSE 
+AC 23, touch 15, flat-footed 18 (+7 armor, +4 Dex, +1 dodge, +1 natural); 
+Mobility 
+hp 73 (8 HD) 
+Fort +8, Ref +13, Will +4 
+Defensive Abilities evasion, improved uncanny dodge 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 frost guisarme +8/+3 (2d4+2 plus 1d6 cold/×3) or 
++1 katana +8/+3 (1d8+2/18-20) or 
+mwk wakizashi +8/+3 (1d6+1/18-20) 
+Ranged mwk composite longbow +11/+6 (1d8+1/×3) or 
+mwk composite longbow +9/+4 (1d8+5/×3) with Deadly Aim, or 
+mwk composite longbow +9/+9/+4 (1d8+1/×3) with Rapid Shot, or 
+mwk composite longbow +7/+7/+2 (1d8+5/×3) with Rapid Shot and Deadly Aim, or 
+mwk shuriken +11/+6 (1d2+1) or 
+mwk shuriken +9/+4 (1d2+5) with Deadly Aim 
+Special Attacks combat style: archery, favored enemy (humans +2), poison use, sneak attack +2d6 
+STATISTICS 
+Abilities Str 13 (+1), Dex 18 (+4), Con 14 (+2), Int 16 (+3), Wis 12 (+1), Cha 14 (+2) 
+Base Atk +6; CMB +7; CMD 22 
+Feats Combat Reflexes
+B (5 AoO’s/round), Deadly AimB, Dodge, Improved Initiative
+B, Mobility, Point Blank 
+Shot, Rapid Shot
+B 
+Skills Acrobatics +14, Bluff +12, Climb +8, Disable Device +13, Disguise +12, Fly +11, Knowledge (local) 
++10, Perception +12, Perform (dance) +8, Profession (sailor) +5, Sleight of Hand +14, Stealth +19 (+20 
+when stationary), Survival +11 (+12 tracking), Use Magic Device +13; Armor Check Penalty –1 
+SQ hide in plain sight, ki pool (4 points), ninja tricks (combat trick, vanishing trick), no trace +1, wild empathy 
++4 
+Combat Gear arcane spell scrolls (fireball, invisibility, magic missile), arrows (30), flash powder (2), 
+masterwork shuriken (25), poison (black adder venom 2), potions (cure light wounds 6, expeditious 
+retreat 4, feather fall 4), smoke powder (2), smoke sticks (3), sun rods (3), wand of cure light wounds 
+(50 charges); Other Gear +1 frost guisarme, +1 katana, +1 shadow mithral breastplate, amulet of 
+natural armor +1, climber’s kit, cloak of resistance +1, everburning torches (double as stakes) (2), 
+grappling hook, headband of vast intelligence +2 (fly), heavyload belt, manacles (2), masterwork 
+composite longbow (+1 strength bonus), masterwork manacles with superior locks (2), masterwork 
+thieves’ tools, masterwork wakizashi, spider’s silk rope (50 ft. length), tender (92gp, 5sp) 
+Encumbrance light 150 lb., medium 300 lb., heavy 450 lb.; Weight Carried 82 lb. 11 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Evasion (Ex) If exposed to any effect that normally allows you to attempt a Reflex saving throw for half 
+damage, you take no damage with a successful saving throw. The evasion ability can only be used if you 
+are wearing light armor or no armor. 
+Favored Enemy (Ex) You gain a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival 
+checks against humans. Likewise, you gets a +2 bonus on weapon attack and damage rolls against them. 
+You may make Knowledge skill checks untrained when attempting to identify these creatures. 
+
+Hide in Plain Sight (Su) You can use the Stealth skill even while being observed. As long as you are within 10 
+feet of an area of dim light, you can hide yourself from view in the open without anything to actually 
+hide behind. You cannot, however, hide in your own shadow. 
+Improved Uncanny Dodge (Ex) You can react to danger before your senses would normally allow her to do 
+so. You cannot be caught flat-footed, nor do you lose your Dex bonus to AC if the attacker is invisible. 
+You still lose your Dexterity bonus to AC if immobilized. You can still lose her Dexterity bonus to AC 
+if an opponent successfully uses the feint action against you. Additionally, you can no longer be flanked. 
+This defense denies a rogue the ability to sneak attack you by flanking you, unless the attacker has at 
+least four more rogue levels than you have ninja and shadow dancer levels. 
+Ki Pool (Su) You have a pool of ki points, supernatural energy you can use to accomplish amazing feats. The 
+number of points in your ki pool is equal to ½ your ninja level + your Charisma modifier. As long as 
+you have at least 1 point in your ki pool, you treat any Acrobatics skill check made to jump as if you had 
+a running start. By spending 1 point from your ki pool, you can make one additional attack at your 
+highest attack bonus, but you can do so only when making a full attack. In addition, you can spend 1 
+point to increase your speed by 20 feet for 1 round. Finally, you can spend 1 point from your ki pool to 
+give yourself a +4 insight bonus on Stealth skill checks for 1 round. Each of these powers is activated as 
+a swift action. You can gain additional powers that consume points from your ki pool by selecting 
+certain ninja tricks. The ki pool is replenished each morning after 8 hours of rest or meditation; these 
+hours do not need to be consecutive. 
+No Trace (Ex) You learn to cover your tracks, remain hidden, and conceal your presence. The DC to track you 
+using the Survival skill increases by +1. In addition, your training gives you a +1 insight bonus on 
+Disguise skill checks and on opposed Stealth checks whenever you are stationary and do not take any 
+action for at least 1 round. 
+Poison Use You are trained in the use of poison and cannot accidentally poison yourself when applying poison 
+to a weapon. 
+Poison Black adder venom—injury; save Fort DC 11, frequency 1/round for 6 rounds, effect 1d2 Con, cure 1 
+save. 
+Sneak Attack Your attack deals 2d6 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. This bonus 
+damage is considered precision damage. Should you score a critical hit with precision damage is not 
+multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet. With a weapon 
+that deals nonlethal damage (like a sap, whip, or an unarmed strike), you can make a sneak attack that 
+deals nonlethal damage instead of lethal damage. You cannot use a weapon that deals lethal damage to 
+deal nonlethal damage in a sneak attack, not even with the usual –4 penalty. You must be able to see the 
+target well enough to pick out a vital spot and must be able to reach such a spot. You cannot sneak 
+attack while striking a creature with concealment. 
+Track (Ex) You gain a +1 bonus to Survival checks to made to follow or identify tracks (included above). 
+Vanishing Trick (Su) As a swift action, you can disappear for 1 round per level. This ability functions as 
+invisibility. Using this ability uses up 1 ki point. 
+Wild Empathy (Ex) You can improve the initial attitude of an animal. This ability functions just like a 
+Diplomacy check to improve the attitude of a person. You roll 1d20 and add your ranger level and 
+Charisma bonus to determine the wild empathy check result. The typical domestic animal has a starting 
+attitude of indifferent, while wild animals are usually unfriendly. To use wild empathy, you and the 
+animal must be within 30 feet of one another under normal visibility conditions. Generally, influencing 
+an animal in this way takes 1 minute, but, as with influencing people, it might take more or less time. 
+You can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but you 
+take a –4 penalty on the check. 

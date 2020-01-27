@@ -1,0 +1,245 @@
+
+
+Haloy Wrang 
+Female half-elf summoner 8/magus 8 (synthesist) 
+CE Medium humanoid (elf, human) 
+Init +6; Senses low-light vision; Perception +24 
+Languages Abyssal, Aklo, Celestial, Common, Elven, Infernal, Sylvan 
+DEFENSE 
+AC 29, touch 19, flat-footed 26 (+8 armor, +5 deflection, +3 Dex, +2 natural, 
++1 insight) 
+hp 146 (16 HD) 
+Fort +16, Ref +12, Will +17; +2 vs. enchantment 
+Defensive Abilities shielded meld; Immune magical sleep 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 rapier +16/+11/+6 (1d6+4/18-20) or 
++2 keen rapier +17/+12/+7 (1d6+5/15-20) with Arcane Pool, or 
++1 kukri +16/+11/+6 (1d4+4/18-20) or 
++2 keen kukri +17/+12/+7 (1d4+5/15-20) with Arcane Pool 
+Ranged by weapon +15 
+Special Attacks arcane pool (10 points, +2 bonus) 
+Summoner Spell-like Abilities (CL 8
+th; Concentration +12) 
+7/day – summon monster IV (one casting at a time, usable only without eidolon, 8 minute duration) 
+1/day – maker’s jump 
+Magus Spells Prepared (CL 12
+th, cast spells as an 9
+th-level magus; Concentration +18) 
+3rd   (4/day) – fireball, fly, lightning bolt, sleet storm 
+2nd  (6/day) – acid arrow, alter self, mirror image (3), shatter 
+1
+st   (7/day) – chill touch (2), magic missile (4) 
+0  (at will) – dancing lights, ghost sound, open/close, prestidigitation, read magic 
+Summoner Spells Known (CL 12
+th, cast spells as an 11
+th-level summoner; Concentration +16 or +20 
+w/teleportation spells) 
+4th   (2/day) – greater evolution surge, overland flight, teleport 
+3rd   (5/day) – dimension door, greater invisibility, heroism, wall of ice 
+2
+nd  (5/day) – barkskin, lesser evolution surge
+APG, see invisibility, summon eidolonAPG, wind wall 
+1st   (6/day) – ant haul
+APG, feather fall, lesser rejuvenate eidolon
+APG, shield, unseen servant, 
+ventriloquism 
+0   (at will) – arcane mark, detect magic, guidance, light, mage hand, message 
+STATISTICS 
+Abilities Str 16 (+3), Dex 16 (+3), Con 16 (+3), Int 22 (+6), Wis 14 (+2), Cha 18 (+4) 
+Base Atk +12; CMB +15; CMD 34 
+Feats Craft Wondrous Item
+B, Dimensional Agility, Dimensional Assault, Dimensional Dervish, Dimensional 
+Savant, Eldritch Claws, Echoing Spell, Quicken Spell, Silent Spell, Skill Focus (intimidateB), Spell 
+Perfection (dimension door) 
+Skills Diplomacy +20, Fly +23, Intimidate +30, Knowledge (arcana) +26, Knowledge (planes) +26, Perception 
++24, Spellcraft +26, Use Magic Device +23; Racial Modifiers +2 Perception 
+SQ esoteric training, fused eidolon, fused link, knowledge pool (5 max), magus arcana (arcane accuracy +6, 
+broad study: summoner), maker’s jump, medium armor, multidisciplined, ongoing spells, senior guild 
+member (wondrous items), spell recall, spellcasting guild member (80 fame, 80 PP), traits (magical 
+knack, reactionary) 
+Combat Gear wand of cure light wounds (50 charges); Other Gear +1 kukri, +1 rapier, +3 large adamantine 
+nodachi, amulet of natural armor +2, belt of physical perfection +6, boots of speed, bracers of armor 
++8, cloak of resistance +5, ioun stones (cracked deep red sphere, cracked dusty rose prism, cracked 
+incandescent blue sphere, cracked mossy disks [2], cracked pink and green sphere, cracked scarlet and 
+
+blue sphere, dusty rose prism, ioun torch, scarlet and blue sphere [diplomacy]), pearl of power (1st), 
+ring of protection +5, spellbook, spell component pouch, tender (38gp, 15sp) 
+Spellbook 3rd—fireball, lightning bolt, major image, sleet storm; 2nd—acid arrow, alter self, glitterdust, mirror 
+image, scorching ray, shatter; 1st—chill touch, color spray, enlarge person, feather fall, floating disk, 
+grease, hydraulic push, magic missile, mount, shield, shocking grasp, true strike; 0—all 
+Encumbrance light 76 lb., medium 153 lb., heavy 230 lb.; Weight Carried 30 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Arcane Accuracy (Su) You can expend 1 point from your arcane pool as a swift action to grant yourself an 
+insight bonus equal to your Intelligence bonus on all attack rolls until the end of your turn. 
+Arcane Pool (Su) You have a reservoir of mystical arcane energy that you can draw upon to fuel your powers 
+and enhance your weapon. This arcane pool has a number of points equal to ½ your magus level 
+(minimum 1) + your Intelligence modifier. The pool refreshes once each day when you prepare your 
+spells. You can expend 1 point from your arcane pool as a swift action to grant any weapon you are 
+holding a +2 enhancement bonus for 1 minute. These bonuses can be added to the weapon, stacking with 
+existing weapon enhancement to a maximum of +5. Multiple uses of this ability do not stack with 
+themselves. These bonuses can be used to add any of the following weapon properties: dancing, flaming, 
+flaming burst, frost, icy burst, keen, shock, shocking burst, speed, or vorpal. Adding these properties 
+consumes an amount of bonus equal to the property’s cost. These properties are added to any the 
+weapon already has, but duplicates do not stack. If the weapon is not magical, at least a +1 enhancement 
+bonus must be added before any other properties can be added. These bonuses and properties are 
+decided when the arcane pool point is spent and cannot be changed until the next time you use this 
+ability. These bonuses do not function if the weapon is wielded by anyone other than you. You can only 
+enhance one weapon in this way at one time. If you use this ability again, the first use immediately ends. 
+Broad Study (Ex) You can use your spellstrike and spell combat abilities while casting or using spells from the 
+summoner spell list. This does not allow you to cast arcane spells from that class’ spell list without 
+suffering the normal chances of arcane spell failure, unless the spell lacks somatic components. 
+Esoteric Training Due to your membership in a spellcasting guild (and Fame score of 35+) you gain a +3 
+bonus to your caster level with summoner spells and a +1 bonus to your caster level with magus spells 
+(up to a maximum of your character level). These bonuses grant you additional spells known and spells 
+per day for your modified caster level. 
+Fused Eidolon You can wear your eidolon like translucent, living armor. The eidolon mimics all of your 
+movements, and you perceive through the eidolon’s senses and speak through its voice, as the two of 
+you are now one creature. While fused with your eidolon, you use the eidolon’s Strength, Dexterity, and 
+Constitution scores, but retain your own Intelligence, Wisdom, and Charisma scores. You gain the 
+eidolon’s hit points as temporary hit points. When these hit points reach 0, the eidolon is killed and sent 
+back to its home plane. You use the eidolon’s base attack bonus, and gain the eidolon’s armor and 
+natural armor bonuses and modifiers to ability scores. You also gain access to the eidolon’s special 
+abilities and the eidolon’s evolutions. You are still limited to the eidolon’s maximum number of natural 
+attacks. The eidolon has no skills or feats of its own. The eidolon must be at least the same size as you. 
+The eidolon must have limbs for you to cast spells with somatic components. The eidolon’s temporary 
+hit points can be restored with the rejuvenate eidolon spell. While fused, you lose the benefits of your 
+armor. You count both as your original type and as an outsider for any effect related to type, whichever 
+is worse for you. Spells such as banishment or dismissal work normally on the eidolon, but you are 
+unaffected. Neither you nor your eidolon can be targeted separately, as you are fused into one creature. 
+You and your eidolon cannot take separate actions. While fused with your eidolon, you can use all of 
+your own abilities and gear, except for your armor. In all other cases, this ability functions as the 
+summoner’s normal eidolon ability (for example, you cannot use your summon monster ability while the 
+eidolon is present). 
+Fused Link (Su) Whenever the temporary hit points from your eidolon would be reduced to 0, you can, as a 
+free action, sacrifice any number of your own hit points. Each hit point sacrificed this way prevents 1 
+
+point of damage done to your eidolon (thus preventing the loss of your temporary hit points), preventing 
+your eidolon from being sent back to its home plane. 
+Improved Spell Combat (Ex) You can cast spells and wield your weapons at the same time. This functions 
+much like two-weapon fighting, but the off-hand weapon is a spell that is being cast. To use this ability, 
+you must have one hand free (even if the spell being cast does not have somatic components), while 
+wielding a light or one-handed melee weapon in the other hand. As a full-round action, you can make all 
+of your attacks with your melee weapon at a –2 penalty and can also cast any spell from the magus spell 
+list with a casting time of 1 standard action (any attack roll made as part of this spell also takes this 
+penalty). If you cast this spell defensively, you can decide to take an additional penalty on your attack 
+rolls, up to your Intelligence bonus, and add that amount +2 as a circumstance bonus on your 
+concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. You can 
+choose to cast the spell first or make the weapon attacks first, but if you have more than one attack, you 
+cannot cast the spell between weapon attacks. 
+Knowledge Pool (Su) When you prepare your magus spells, you can decide to expend 1 or more points from 
+your arcane pool, up to your Intelligence bonus. For each point you expend, you can treat any one spell 
+from the magus spell list as if it were in your spellbook and can prepare that spell as normal that day. If 
+you do not cast spells prepared in this way before the next time you prepare spells, you lose those spells. 
+You can also cast spells added in this way using your spell recall ability, but only until you prepare 
+spells again. 
+Maker’s Jump (Sp) Whenever you are fused with your eidolon, you can cast dimension door as a spell-like 
+ability using your caster level. This ability only affects you and your eidolon. You can use this ability 
+only once per day. 
+Medium Armor (Ex) You gain proficiency with medium armor. Additionally, you can cast magus spells while 
+wearing medium armor without incurring the normal arcane spell failure chance. Like any other arcane 
+spellcaster, a magus wearing heavy armor or using a shield incurs a chance of arcane spell failure if the 
+spell in question has a somatic component. 
+Magical Knack Your magus caster level gains a +2 trait bonus as long as this bonus doesn’t raise your caster 
+level above your current Hit Dice. 
+Multidisciplined The effects of spells you cast from all your classes are calculated as though your caster level 
+were 1 level higher, to a maximum of your character level. 
+Ongoing Spells You have had greater magic fang (CL 20th) made permanent upon you four times to enhance 
+your claw attacks (when you have them). As such, your claw attacks have a +5 enhancement bonus to 
+attacks and damage, but can only bypass DR/magic, DR/piercing, or DR/slashing. 
+Reactionary You gain a +2 trait bonus on initiative checks. 
+Senior Guild Member Using guild contacts, you can earn an additional 10% profit when selling magical 
+wondrous items. 
+Shielded Meld (Ex) Whenever you are fused with your eidolon, you gain a +2 shield bonus to your Armor 
+Class and a +2 circumstance bonus on your saving throws. 
+Spell Recall (Su) With a swift action you can recall any single magus spell that you have already prepared and 
+cast that day by expending a number of points from your arcane pool equal to the spell’s level 
+(minimum 1). The spell is prepared again, just as if it had not been cast. 
+Spellstrike (Su) Whenever you cast a spell with a range of “touch” from the magus spell list, you can deliver 
+the spell through any weapon you are wielding as part of a melee attack. Instead of the free melee touch 
+attack normally allowed to deliver the spell, you can make one free melee attack with your weapon (at 
+your highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its 
+normal damage as well as the effects of the spell. If you make this attack in concert with spell combat, 
+this melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the 
+weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar 
+effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage 
+uses its own critical modifier. 
+   
+
+Doom Squall 
+Biped Eidolon 
+CE Large outsider 
+Init +1; Senses darkvision 60 ft.; Perception +14 
+Languages as summoner 
+DEFENSE 
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, –1 size) 
+hp 63 (6 HD) 
+Fort +9, Ref +3, Will +6; +4 vs. enchantment 
+Defensive Abilities devotion, evasion, Immune electricity, fire 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 70 ft. (average) 
+Melee 4 claws +14 (1d6+9) 
+Ranged by weapon +6 
+Space 10 ft.; Reach 10 ft. 
+STATISTICS 
+Abilities Str 28 (+9), Dex 13 (+1), Con 17 (+3), Int 7 (–2), Wis 10 (+0), Cha 11 (+0) 
+Base Atk +6; CMB +16; CMD 27 
+Skills Fly +8, Intimidate +9, Perception +14, Sense Motive +11, Stealth –3 
+Feats Alertness, Eldritch Claws, Skill Focus (perception) 
+SQ evolutions, link, share spells 
+Encumbrance light 800 lb., medium 1,600 lb., heavy 2,400 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Devotion (Ex) Your eidolon receives a +4 morale bonus on Will saves versus enchantment spells and effects. 
+Evolutions clawsF (2), flight (wings, +40 ft.), immunity (electricity, fire), large, limbs (armsF, legsF) 
+Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half damage, your 
+eidolon takes no damage if she makes a successful saving throw. 
+Link You and your eidolon share a mental link that allows for communication across any distance (as long as 
+you are on the same plane). This communication is a free action, allowing you to give orders to your 
+eidolon at any time. What’s more, magic items interfere with this link, so that you and your eidolon 
+must share magic item slots. When both you and the eidolon are wearing a magic item in the same slot, 
+your magic item continues to function while the eidolon’s becomes dormant. An eidolon must still have 
+the appropriate magical item slot in order to be able to use of a given magic item. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your eidolon (as a spell with a range of 
+touch) instead of on yourself. You may cast spells on your eidolon even if the spells normally do not 
+affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner 
+spell list. This ability does not allow your eidolon to share abilities that are not spells, even if they 
+function like spells. 
+     
+
+Storm Dragon 
+Doom Squall/Haloy Wrang synthesis 
+CE Large humanoid (elf, human) or outsider 
+Init +7; Senses darkvision 60 ft., low-light vision; Perception 
++24 
+Languages as Haloy above 
+DEFENSE 
+AC 38, touch 16, flat-footed 37 (+8 armor, +5 deflection, +1 
+Dex, +1 insight, +12 natural, +2 shield, –1 size); shielded 
+meld 
+hp 194 plus 81 temporary hp (16 HD) 
+Fort +21, Ref +15, Will +21; +6 vs. enchantment 
+Defensive Abilities devotion, evasion, shielded meld; Immune 
+electricity, fire, magical sleep 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 70 ft. (average) 
+Melee +3 adamantine nodachi +26/+21/+16 (2d8+19/18-20) and 2 claws +23 (1d6+11) with greater magic 
+fang, or 
++4 keen adamantine nodachi +27/+22/+17 (2d8+20/15-20) and 2 claws +23 (1d6+11) with Arcane Pool 
+and greater magic fang, or 
+4 claws +28 (1d6+17) with greater magic fang 
+Ranged by weapon +15 
+Space 10 ft.; Reach 10 ft. 
+Special Attacks arcane accuracy +6, arcane pool (10 points, +2 bonus), summon monster IV 
+Spells and Spell-like Abilities as Haloy above 
+STATISTICS 
+Abilities Str 34 (+12), Dex 19 (+4), Con 23 (+6), Int 22 (+6), Wis 14 (+2), Cha 18 (+4) 
+Base Atk +12; CMB +25; CMD 45 
+Feats as Haloy above 
+Skills Diplomacy +20, Fly +22, Intimidate +30, Knowledge (arcana) +26, Knowledge (planes) +26, Perception 
++24, Spellcraft +26, Use Magic Device +23; Racial Modifiers +2 Perception 
+SQ as Doom Squall and Haloy above 
+Combat Gear as Haloy above; Other Gear as Haloy above 
+Encumbrance light 1,864 lb., medium 3,728 lb., heavy 5,600 lb.; Weight Carried 10 lb. 
+SPECIAL ABILITIES 
+As Doom Squall and Haloy above 
+ 

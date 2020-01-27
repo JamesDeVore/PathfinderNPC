@@ -1,0 +1,124 @@
+
+
+Zorak Robert Jones, Silent Cannibal of the Devourer 
+“I am the Lone Locust of the Apocalypse, think of me when you look to the night sky.” 
+
+The anarchic shirren, Zorak, was once a Maw of the Devourer (cult recruiter). He was 
+instrumental in forming a sizeable cult cell that frequently terrorized the citizens of the 
+planet Castrovel for several years. When a band of Pathfinders killed his mate, a fellow 
+shirren cultist named Salask, along with much of that cell’s local membership, he went 
+into hiding; moving on from Castrovel to instead serve the Devourer as a silent cannibal 
+(cult spy) elsewhere. 
+
+As  a  silent  cannibal,  Zorak  has  spent  years  spying  for  cult  cells,  living  lies  as  deep  in 
+targeted societies as he could manage. Though not all silent cannibals are cannibals—the 
+term  refers  to  their  being  members  of  the  society  they  seek  to  destroy,  thus 
+metaphorically  eating  their  own  kind—but  some  (like  Zorak)  certainly  take  the  label 
+literally  and  are  serial  killers  (Zorak  himself  recently  devoured  his  own  nephew).  While 
+committing  murders  even  once  every  year  or  two  puts  Zorak  at  much  greater  risk  of 
+discovery, the dedication needed for a Devourer cultist to live a quiet life as a spy is more 
+than  he  can  manage  without  at  least  an  occasional  killing  to  assuage  his  need  for 
+destruction. 
+
+Zorak generally prefers to hide out in the open, taking various public positions within society such as a smalltime 
+holovid actor or as a bandleader at popular venues. This level of personal exposure acts as a surprisingly good 
+cover for his true activities. Since most people view cultists of the Devourer as being either a secretive bunch 
+hiding in the shadows, or as a crazed hoard on the farthest fringes of known space, few ever suspect that such 
+a highly public entertainer could actually be a psychopath hellbent on bringing about the end of all civilization. 
+
+Zorak is usually grumpy and sarcastic, bringing a sick sense of humor to his acts that has netted him some small 
+renown. He relishes publicly insulting his fellow stars whenever possible, sometimes winding them up to the 
+point of perpetrating acts of violence against him—many of which are mistakenly seen by the public as little 
+more than scripted entertainment. When Zorak’s compatriots have had enough, he or they simply move on to 
+other opportunities in the entertainment industry. Ironically, this toxicity has served to allow Zorak to be more 
+mobile, allowing growing his network of contacts, exposing him to a constant stream of worthwhile information 
+about the Pact Worlds’ wealthy elite, since for every being he alienates, he entertains hundreds more. 
+
+   
+
+ZORAK ROBERT JONES 
+Male shirren cultist operative 6 
+CE Medium humanoid (shirren) 
+Init +10; Senses blindsense (vibration) 30 ft., darkvision 60 ft., low-light vision; Perception +12 
+
+DEFENSE  SP 48     HP 42     RP 6 
+EAC 20; KAC 22 (armor +6/+8, Dex +4) 
+Fort +4, Ref +9, Will +6 
+Defensive Abilities evasion 
+
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee unarmed strike +4 (1d6+6 B; archaic, nonlethal) 
+Ranged matter intensifier +8 (1d10+3 A; boost 2d4) 
+Offensive Abilities bleeding shot 6, debilitating trick, trick attack +3d8 
+
+STATISTICS 
+Str 10 (+0); Dex 18 (+4); Con 15 (+2); Int 12 (+1); Wis 12 (+1); Cha 16 (+3) 
+Skills Bluff +15 (+19 with trick attack), Culture +14, Diplomacy +13, Disguise +16, Intimidate +14, Perception 
++12, Profession (musician) +14 (+16 with musical keyboard), Sense Motive +12, Stealth +15; Racial 
+Modifiers +2 Culture, +2 Diplomacy 
+Feats Far Shot, Fast Talk, Improved InitiativeB, Improved Unarmed Strike, Skill Focus (bluffB, disguiseB) 
+Languages Common, Shirren, Vesk; limited telepathy 30 ft. 
+Other Abilities combat trick, master of disguise (DC 16), nightvision, operative’s edge +2, operative 
+specialization (spy), quick movement +10, theme knowledge, weapon specialization 
+Combat Gear spare batteries (5); Other Gear credstick (50 credits), freebooter armor II (upgrade: glamer 
+projector), holoskin, matter intensifier (liquidator disintegrator pistol; fusions: glamered, vicious), 
+musical keyboard (basic musical instrument); Augmentations synaptic accelerators (Dexterity Mk I) 
+Encumbrance Limits unencumbered 0 - 5, encumbered 6 - 10, overburdened 11+; Current Bulk 1.3 
+
+SPECIAL ABILITIES 
+Bleeding Shot (Ex) For your debilitating trick, you can afflict your target with an amount of bleed damage 
+equal to your operative level. 
+Blindsense Your sensitive antennae grant you blindsense (vibration)—the ability to sense vibrations in the 
+air—out to 30 feet. You ignore the Stealth bonuses from any form of visual camouflage, invisibility, and 
+the like when attempting a Perception check opposed by a creature’s Stealth check. Even on a 
+successful Perception check, any foe that can’t be seen still has total concealment (50% miss chance) 
+against you, and you still have the normal miss chance when attacking foes that have concealment. 
+You are still flatfooted against attacks from creatures you can’t see. 
+Communalism Once per day, as long as an ally is within 10 feet, you can roll a single attack roll or skill check 
+twice and take the higher result. 
+Cult Infiltrator If you spend 10 minutes conversing with a member of a hidden cult and succeed at a DC 25 
+Culture check, typical followers of that cult have a starting attitude of indifferent toward you. You also 
+gain a +2 bonus to Bluff, Diplomacy, and Intimidate checks against such followers. 
+Cultural Fascination You receive a +2 racial bonus to Culture and Diplomacy checks (included above). 
+Debilitating Trick (Ex) When you hit an enemy with a trick attack, you can make the creature flat-footed or 
+off-target until the beginning of your next turn. If you possess exploits that grant you additional 
+options for your debilitating trick, you can select only one option each time you hit with a trick attack. 
+
+Evasion (Ex) If you succeed at a Reflex save against an effect that normally has a partial effect on a successful 
+save, you instead suffer no effect. You gain this benefit only when unencumbered and wearing light 
+armor or no armor, and you lose the benefit when you are helpless or otherwise unable to move. 
+Limited Telepathy You can communicate telepathically with any creatures within 30 feet with whom you 
+share a language. Conversing telepathically with multiple creatures simultaneously is just as difficult as 
+listening to multiple people speak. 
+Master of Disguise (Ex) You can take on the appearances of other creatures and even specific individuals. This 
+functions as the quick disguise exploit, but the duration increases to 10 minutes per operative level. 
+Alternatively, for 1 minute per operative level, you can take on the appearance of a specific individual 
+that you have seen before. If you have heard the individual talk and can speak her language, you can 
+also modulate your speech to match theirs. This disguise is so convincing that creatures familiar with 
+the individual must succeed at a Will saving throw before they can attempt a Perception check to 
+pierce the disguise. 
+Nightvision (Ex) You can see in the dark as if you had low-light vision and darkvision with a range of 60 feet. 
+Operative’s Edge (Ex) You gain a +2 insight bonus to initiative checks and to skill checks (included above). 
+Quick Movement (Ex) As long as you are unencumbered and wearing light armor or no armor, your land 
+speed increases by 10 feet. 
+Theme Knowledge Reduce the DC of Culture and Mysticism checks to recall knowledge about hidden cults and 
+secretive religions, including knowledge about their beliefs, hierarchy, and symbols, by 5. Reduce the 
+DC of Diplomacy checks to gather information about hidden cults and their enigmatic members 
+(usually considered obscure or secret knowledge or mysterious or obscure individuals) by 5. You gain a 
++1 bonus to Disguise checks (included above). 
+Trick Attack (Ex) As a full action, you can move up to your speed. Whether or not you moved, you can then 
+make an attack with a melee weapon with the operative special property or with any small arm. Just 
+before making your attack, attempt a Bluff, Intimidate, or Stealth check (or a check associated with 
+your specialization) with a DC equal to 20 + your target’s CR. If you succeed at the check, you deal 3d8 
+additional damage and the target is flat-footed. You can’t use this ability with a weapon that has the 
+unwieldy special property or that requires a full action to make a single attack. 
+Weapon Specialization (Ex) You gain the Weapon Specialization feat as a bonus feat for each weapon type 
+with which the Operative class grants you proficiency. 
+ 
+ 
+  
+
+Autographed fan art depicting Zorak as one of his late night holovid characters. 
+
+ 

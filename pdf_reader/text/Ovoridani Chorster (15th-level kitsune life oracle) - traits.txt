@@ -1,0 +1,103 @@
+
+
+Ovoridani Chorster 
+Female kitsune oracle 15 (spirit guide) of Milani 
+CG Medium humanoid (kitsune, shapechanger) 
+Init +5; Senses deathwatch, lifesense 30 ft., low-light vision, Perception +1 
+Languages Aklo, Celestial, Common, Sylvan 
+DEFENSE 
+AC 34, touch 19, flat-footed 29 (+7 armor, +4 deflection, +5 Dex, +4 natural, 
++4 shield) 
+hp 122 (15 HD) 
+Fort +12, Ref +15, Will +15 
+Defensive Abilities freedom of movement; Resist negative energy 10 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. when unarmored 
+Melee +3 agile keen Elven curve blade +19/+14/+9 (1d10+8/15-20) with 
+greater magic weapon, or 
++3 exclusionary scorpion whip +19/+14/+9 (1d4+2) with greater magic weapon, or 
++1 channeler’s aspergillum +17/+12/+7 (1d6–1) or 
++1 sacrosanct morningstar +11/+6/+1 (1d8) or 
++1 scepter of divine providence +11/+6/+1 (1d8) 
+Ranged +3 repeating heavy crossbow +19/+14/+9 (1d10+3/19-20) with greater magic weapon 
+Special Attacks channel energy 12/day (DC 22, 10d6), hexes (enhanced cures), revelations (channel, lifesense) 
+Spell-Like Abilities (CL 15th; Concentration +20) 
+2/day – disguise self, charm person, misdirection, invisibility, suggestion, displacement, confusion 
+Oracle Spells Known (CL 15th; Concentration +20) 
+7th  (4/day) – greater restorationM, mass cure serious woundsB, project image
+S, resurrectionM 
+6th  (6/day) – cold ice strike
+UM, dust formUC, heal, mass cure moderate woundsB 
+5th  (7/day) – breath of life, burst of gloryISG, flame strike, magic jarF S, mass cure light woundsB, 
+serenity
+UM 
+4th  (7/day) – cure critical woundsB, death ward, deathlessMA, freedom of movement, greater magic 
+weapon 
+3rd  (7/day) – communal resist energyUC, cure serious woundsB, magic vestment, prayer, symbol of 
+healingM UM 
+2nd (7/day) – cure moderate woundsB, grace
+APG, life pactACG, minor image
+S, shield otherF, status, touch 
+of mercy
+CoP 
+1st  (8/day) – cure light woundsB, detect undead, diagnose disease
+UM, divine favor, hide from undead, 
+sanctuary, ventriloquismS 
+0  (at will) – create water, detect fiendish presenceAoE, detect magic, detect poison, guidance, light, 
+mending, purify food and drink, virtue 
+S Spirit Magic Spell; Mystery life; Wandering Spirit life 
+STATISTICS 
+Abilities Str 8 (–1), Dex 20 (+5), Con 14 (+2), Int 14 (+2), Wis 12 (+1), Cha 20 (+5) 
+Base Atk +11; CMB +10 (+16 with Weapon Finesse); CMD 29 
+Feats Beacon of Hope, Craft Wondrous Items, Exotic Weapon Proficiency (Elven curve blade
+B, repeating 
+heavy crossbow
+B, whipB), Fox ShapeB, Magical TailB (6), Purifying Channel, Realistic Likeness, Quick 
+Channel, Quick Draw, Selective Channeling, Weapon Finesse 
+Skills Bluff +24, Diplomacy +23, Disguise +23 (+43 with change shape, +45 to appear as human self, +53 with 
+change shape and disguise self), Heal +23, Knowledge (arcana, nature, religion) +10, Sense Motive +19, 
+Spellcraft +8 
+SQ bonded spirit (typically life), change shape (individual humanoids, alter self), gregarious, healer’s 
+touch, oracle’s curse: wrecking mysticism, superior shapeshifter, traits (among humans, fast talker) 
+
+Combat Gear antiplague (9), antitoxin (9), focus components (magic jar, shield other), holy water (5), material 
+components (greater restoration, resurrection), potions (cure light wounds 20), repeating crossbow 
+bolts (30), wands of cure light wounds (2, 50 charges each); Other Gear +1 agile keen Elven curve 
+blade, +1 channeling light steel quickdraw shield, +1 exclusionary whip, +1 sacrosanct morningstar, 
+amulet of natural armor +4, belt of incredible dexterity +4, channeler’s aspergillum, deathwatch eyes, 
+malleable symbol, masterwork backpack, midwife’s kit, mithral armored coat, muleback cords (doubles 
+as a cloak of resistance +5), phylactery of positive channeling, ring of protected life, ring of protection 
++4, scepter of divine providence, sleeves of many garments, tender (50gp) 
+Encumbrance light 86 lb., medium 173 lb., heavy 260 lb.; Weight Carried 77 lb. 5 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Among Humans You gain a +2 trait bonus on Disguise checks to appear human while assuming your specific 
+human form with the change shape racial trait, and Disguise is always a class skill for you. 
+Change Shape (Su) You can assume the appearance of a specific single human form of the same sex. You 
+always takes this specific form when you use this ability. While in human form you cannot use your bite 
+attack, but you gain a +10 racial bonus on Disguise checks made to appear human. Changing shape is a 
+standard action. This ability otherwise functions as alter self, except that you do not adjust your ability 
+scores and can remain in this form indefinitely. 
+Channel Energy (Su) You may release a burst of positive energy in a 30-ft. radius burst as a standard action. 
+When doing so you can choose to harm undead creatures in the area (10d6 damage, Will DC 22 half) or 
+to heal living creatures in the area (10d6 healing). You can use this ability a number of times per day 
+equal to 2 + double your Charisma modifier. 
+Enhanced Cures (Su) When you cast a cure spell, the maximum number of hit points healed is based on your 
+oracle level, not the limit imposed by the spell. 
+Fast Talker You gain a +1 trait bonus on Bluff checks, and Bluff is always a class skill for you. 
+Gregarious (Ex) Whenever you successfully use Diplomacy to win over an individual, that creature takes a –2 
+penalty to resist any of your Charisma-based skill checks for the next 24 hours. 
+Healer’s Touch (Su) You gain a +4 bonus on Heal checks. As a standard action, you can move up to half your 
+speed and touch up to six dying creatures. Each creature is automatically stabilized without the need of a 
+Heal check. 
+Lifesense (Su) You notice and locate living creatures within 30 feet, just as if you possessed the blindsight 
+ability. 
+Ongoing Spells The following spells are regularly active upon your person, your gear, or your allies, as 
+appropriate: greater magic weapon (blade, crossbow, and whip), magic vestment (armor and shield), 
+freedom of movement (when expecting combat), shield other (on one ally), and status (on allies). All 
+ongoing spell effects function at 15th-caster level (and thus require a DC 26 caster level check to dispel) 
+and their effects are included in the above stats where appropriate. 
+Wrecking Mysticism The duration of any poison, sickened condition, or nauseated condition affecting you is 
+increased by 50%. Whenever you would gain a mystery spell, you can gain Magical Tail as a bonus feat 
+instead. Once this choice has been made, it cannot be changed. You cannot replace a bonus spell granted 
+to you by an oracle archetype with Magical Tail, even if it replaces a mystery spell. Add magic jar, 
+minor image, project image, and ventriloquism to your list of spells known. 

@@ -1,0 +1,197 @@
+
+
+Helegûr 
+Female aasimar sorcerer 15 (crossblooded) 
+CN Medium outsider (native) 
+Init +1; Senses darkvision 60 ft.; Perception +13 
+Languages Common, Celestial, Draconic, Sylvan 
+DEFENSE 
+AC 15, touch 11, flat-footed 14 (+4 armor, +1 Dex); mage armor 
+hp 189 plus frozen flesh (15 HD) 
+Fort +18 (reroll 1/day), Ref +11, Will +13; +4 vs. wind effects 
+Immune drowning (60 min./day), extreme cold; Resist acid 5, cold 10, 
+electricity 5, fire 30 
+OFFENSE 
+Speed 30 ft. (6 squares); Icewalker 
+Melee icicle dagger +8 (1d4 plus 1d6+1 cold /19-20) 
+Ranged icicle dagger +9 (1d4 plus 1d6+1 cold /19-20) 
+Spell-like Abilities (CL 15th; Concentration +23) 
+11/day – cold steel 
+1/day – blizzard, daylight 
+Sorcerer Spells Known (CL 15th, CL 16th with cold spells; Concentration +23) 
+7th  (5/day) – elemental body IVB, ice body
+UM, simulacrumM B 
+6th  (7/day) – freezing sphere, ice crystal teleportUM, transformationB 
+5th  (7/day) – cone of coldB, ice skinM (as stoneskin), icy prisonUM, seeming 
+4th  (8/day) – frozen flesh (as greater false life
+UM), ice storm, solid fog, wall of ice
+B 
+3rd  (8/day) – protection from energyB, major image, sleet storm, slow 
+2nd  (8/day) – frigid ray
+B (as scorching ray but cold), frigid touchUM, glitterdust, ice fractal field (as 
+web), see invisibility 
+1st  (8/day) – alarmB, blood money
+RotR (see below), feather fallB, freezing handsB (as burning hands but 
+cold), hoarfrost (as grease), hold portalB, icicle daggerUM, mage armorB, magic missileB, 
+obscuring mistB, shieldB, snowballPotN 
+0  (at will) – arcane mark, detect magic, light, mage hand, mending, message, prestidigitation, read 
+magic 
+Bloodline crossblooded (boreal, elemental water) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 13 (+1), Con 22 (+6), Int 14 (+2), Wis 12 (+1), Cha 26 (+8) 
+Base Atk +7; CMB +7; CMD 18 
+Feats Craft Wondrous Item, DiehardB, Elemental Focus (cold), EnduranceB, Eschew MaterialsB, Expanded 
+Arcana, Great Fortitude, Greater Elemental Focus (cold), Improved Great Fortitude, Rime Spell, 
+Toughness 
+Skills Diplomacy +10, Disguise +18, Intimidate +21, Knowledge (planes) +15, Perception +13, Spellcraft +15, 
+Survival +14; Racial Bonuses +2 Diplomacy, +2 Perception 
+SQ bloodline arcana (change energy damage spells to cold), snow shroud 
+Combat Gear material components (ice skin 10), personal clones (3); Other Gear belt of mighty constitution 
++6, boots of the winterlands, bottled blizzard (functionally an eversmoking bottle), cloak of resistance 
++5, crystal crown of vision (as storm mask), headband of alluring charisma +6, Helch Barad (see 
+below), orb of storms, pages of spell knowledge (alarm, feather fall, hold portal, mage armor, magic 
+missile, obscuring mist, shield), ring of greater fire resistance, rod of ice, shirt of immolation, tender 
+(440gp), troll fighter simulacrum bodyguards (20, see below), simulacrum doubles (9, see below), 
+voidfrost robe 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 18 lb. (excluding tender) 
+SPECIAL ABILITIES 
+
+Blizzard (Sp) You can create a savage winter storm centered on you. This power acts as control winds, but in 
+addition the entire area (not including the “eye” at the center of the storm) is affected as a sleet storm 
+and all in the area are exposed to extreme cold. You may use this ability once per day. 
+Bloodline Arcana Whenever you cast a spell that deals energy damage, you can change the type of damage to 
+cold. This also changes the spell’s type to cold. Additionally, whenever you cast a spell with the cold 
+descriptor, increase the spell’s save DC by 1. 
+Cold Steel (Sp) You can touch a weapon or up to 50 pieces of ammunition as a standard action, giving it the 
+frost property for a number of rounds equal to ½ your sorcerer level (minimum 1). You can confer the 
+icy burst property instead, but the duration of the power is halved. You can use this ability a number of 
+times per day equal to 3 + your Charisma modifier. 
+Icewalker (Ex) You gain resist cold 10 and can move across snow and icy surfaces without penalty and without 
+leaving tracks. You can also climb icy surfaces as if using spider climb. 
+Snow Shroud (Su) You ignore concealment and Perception penalties in natural or magical snow, ice, fog, and 
+similar weather conditions. In addition, you can surround yourself with a cloak of swirling snow for a 
+number of rounds per day equal to your sorcerer level. This power acts and deals damage as a fire shield 
+(chill shield) that sheds no light. It provides a 20% miss chance on attacks made against you and grants a 
+bonus on Stealth checks equal to ½ your sorcerer level in snowy or icy areas. You can use this ability 
+once per day. 
+ 
+Helegûr simulacrum double (as above, except as follows…) 
+Female aasimar sorcerer 7 
+Init +1; Senses darkvision 60 ft.; Perception +10 
+DEFENSE 
+AC 12, touch 12, flat-footed 10 (+1 dodge, +1 Dex) 
+hp 68 (7 HD) 
+Fort +3, Ref +5, Will +6 
+Resist acid 5, cold 5, electricity 5 
+OFFENSE 
+Melee icicle dagger +4 (1d4 plus 1d6+1 cold damage/19-20) 
+Ranged icicle dagger +5 (1d4 plus 1d6+1 cold damage/19-20) 
+Spell-like Abilities (CL 7th; Concentration +11) 
+7/day – cold steel 
+1/day – daylight 
+Sorcerer Spells Known (CL 7th; Concentration +11) 
+3rd-level (5/day) – major image, protection from energy 
+2nd-level (7/day) – frigid ray (as scorching ray but cold), frigid touchUM, ice crystal field (as web) 
+1st-level (7/day) – blood money
+RotR (see below), freezing hands (as burning hands but cold), hoarfrost 
+(as grease), icicle daggerUM 
+0-level (at will) – detect magic, light, mage hand, mending, message, prestidigitation 
+STATISTICS 
+Abilities Str 10 (+0), Dex 13 (+1), Con 16 (+3), Int 14 (+2), Wis 12 (+1), Cha 18 (+4) 
+Base Atk +3; CMB +3; CMD 14 
+Feats Craft Wondrous Item, Elemental Focus (cold), EnduranceB, Eschew MaterialsB, Greater Elemental Focus 
+(cold), Toughness 
+Skills Diplomacy +6, Intimidate +11, Knowledge (planes +8), Perception +10, Spellcraft +12, Survival +11; 
+Racial Bonuses +2 Diplomacy, +2 Perception 
+Gear nonfunctional facsimile gear 
+
+Helegûr’s simulacrum bodyguards 
+Troll simulacrum (3 HD), fighter 4   
+N Large humanoid (giant)   
+Init +4; Senses darkvision 60 ft., low-light vision, 
+scent; Perception +7   
+Languages Giant   
+DEFENSE   
+AC 22, touch 13, flat-footed 18 (+4 armor, +4 
+Dex, +5 natural, –1 size)   
+hp 84 (7 HD); regeneration 5 (acid, fire)   
+Fort +14, Ref +6, Will +4; +1 vs. fear 
+Defensive Abilities bravery +1 
+OFFENSE   
+Speed 20 ft. (4 squares), 30 ft. when unarmored   
+Melee bite +12 (1d8+7) and 
+2 claws +12/+12 (1d6+7 plus rend) or   
+bite +10 (1d8+11) and 
+2 claws +10/+10 (1d6+11 plus rend) with Power Attack, or 
+longspear +12/+7 (2d6+10/×3) or 
+longspear +10/+5 (2d6+16/×3) with Power Attack 
+Ranged javelin +10 (1d8+7) 
+Space 10 ft.; Reach 10 ft. (20 ft. with longspear) 
+Special Attacks rend (2 claws, 1d6+10) 
+STATISTICS 
+Abilities Str 25 (+7), Dex 19 (+4), Con 25 (+7), Int 6 (–2), Wis 11 (+0), Cha 4 (–3) 
+Base Atk +6; CMB +14; CMD 28 
+Feats BodyguardB, Combat ReflexesB (5 AoO’s/round), In Harm’s Way
+B, Lunge, Power Attack, Pushing 
+Assault, Stand Still 
+Skills Perception +7 
+SQ armor training 1 
+Gear hide armor, javelins (4), longspear 
+Encumbrance light 532 lb., medium 1,066 lb., heavy 1,600 lb.; Weight Carried 84 lb. 
+ 
+Blood Money 
+School transmutation; Level magus 1, sorcerer/wizard 1, witch 1 
+Casting Time 1 swift action 
+Components V, S 
+Range 0 ft. 
+Effect 1 material component 
+Duration Instantaneous 
+ 
+You cast blood money just before casting another spell. As part of this spell’s casting, you must cut one of your 
+hands, releasing a stream of blood that causes you to take 1d6 points of damage. When you cast another spell in 
+that same round, your blood transforms into one material component of your choice required by that second 
+spell. Even valuable components worth more than 1 gp can be created, but creating such material components 
+requires an additional cost of 1 point of Strength damage, plus a further point of damage for every full 500 gp of 
+the component’s value (so a component worth 500–999 gp costs a total of 2 points, 1,000–1,500 costs 3, etc.). 
+You cannot create magic items with blood money. 
+ 
+
+For example, a sorcerer with the spell stoneskin prepared could cast blood money to create the 250 gp worth of 
+diamond dust required by that spell, taking 1d6 points of damage and 1 point of Strength damage in the process. 
+ 
+Material components created by blood money transform back into blood at the end of the round if they have not 
+been used as a material component. Spellcasters who do not have blood cannot cast blood money, and those 
+who are immune to Strength damage (such as undead spellcasters) cannot use blood money to create valuable 
+material components. 
+ 
+This spell initially appears in Paizo’s Rise of the Runelords Anniversary Edition adventure path. 
+ 
+Helch Barad, the Cold Fortress 
+ 
+Created by Helegûr to serve as a terrifying mobile base of operations, 
+Helch Barad is an impenetrable intelligent instant fortress made of 
+unmelting ice that turns into a large diamond, rather than a metal 
+cube. By themselves, Helch Barad’s walls are as hard and durable as 
+adamantine, but they have also been further reinforced by Helegûr’s 
+magical treatments with troll’s blood. The crystal tower has the ability 
+to fly her and her simulacrum minions wherever she pleases, though 
+she most often stays far to the north, where it is said her powers are at 
+their strongest. The tower’s crystalline walls also serve as a magical 
+scrying device, allowing her to spy upon the outside world from time 
+to time. 
+Helch Barad was originally a powerful troll mercenary that 
+once served as Helegûr’s personal bodyguard. When he betrayed her 
+to a higher paying client, she slew him and bound his spirit into her 
+newly made fortress—forever ensuring that he would serve as her 
+protector. Helegûr continues to keep much of Helch’s regenerative 
+flesh on ice within the tower (one of her most prized possessions), 
+using it to create numerous simulacrum troll bodyguards which can 
+never betray her. In this way, she keeps both Helch’s body and mind 
+enslaved to her will as punishment for his treachery. 
+Those who oppose Helegûr and the might of her Helch Barad soon find themselves trapped in the midst 
+of a great and terrible storm, as the Cold Fortress and its inhabitants rain ice and fire from on high. Victims of 
+such wrath are often replaced with simulacrum clones that work endlessly towards Helegûr’s goals abroad. 
+The instant fortress, Helch Barad, possesses the following stats: AL CN; Int 10, Wis 10, Cha 10; Telepathy; 120 
+ft. blindsense; Can fly, as the spell, at a speed of 30 feet (Fly +12 modifier); Can cast scry 3/day and can teleport 
+itself and occupants 1/day; Possesses 10 ranks in the fly skill; Ego score 14. Helch Barad possesses double the 
+normal hit points and hardness of a normal instant fortress due to magical treatments to its walls. 

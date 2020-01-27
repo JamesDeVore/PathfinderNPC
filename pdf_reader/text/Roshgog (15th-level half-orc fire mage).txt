@@ -1,0 +1,82 @@
+
+
+Roshgog 
+Male mystic half-orc sorcerer 15 (crossblooded) 
+CN Medium humanoid (human, orc) 
+Init +8; Senses darkvision 90 ft., light sensitivity; Perception +0 
+Languages Common, Giant, Ignan, Orc 
+DEFENSE 
+AC 37, touch 23, flat-footed 35 (+8 armor, +5 deflection, +4 
+Dex, +1 insight, +9 natural) 
+hp 159 (15 HD) 
+Fort +17, Ref +15, Will +13 
+Defensive Abilities dragon resistances; Resist fire 10 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee bite +14 (1d4+7) and 
+2 claws +14 (1d6+7 plus 1d6 fire) 
+Ranged by weapon +12 
+Special Attacks claws (2, 1d6, treated as magic weapons, 11 rounds/day) 
+Sorcerer Spells Known (CL 15
+th; Concentration +23) 
+7th  (5/day) – form of the dragon II
+B, summon monster VII 
+6th  (7/day) – chains of fireARG, siroccoAPG, transformation
+B 
+5th  (7/day) – cloudkillB, fire snakeAPG, telekinesis, teleport 
+4th  (8/day) – fearB, fire shield, scorching ash form
+ARG, wall of fire 
+3rd  (8/day) – ash storm
+UM, fireball, fly
+B, heroism 
+2nd (8/day) – boiling blood
+UM, burning gaze
+APG, fire breathAPG, resist energy
+B, see invisibility 
+1
+st  (8/day) – burning handsB, charm person, magic missile, shieldB, silent image, touch of 
+combustion
+ARG 
+0  (at will) – arcane mark, detect magic, detect poison, light, mage hand, prestidigitation, read magic, 
+spark
+APG 
+Bloodline draconic (brass dragon), orc 
+STATISTICS 
+Abilities Str 24 (+7), Dex 19 (+4), Con 22 (+6), Int 10 (+0), Wis 10 (+0), Cha 26 (+8) 
+Base Atk +7; CMB +14; CMD 34 
+Feats Craft Wondrous Item, Dazing Spell, Elemental Focus (fire), Endurance
+B, Eschew Materials
+B, Improved 
+Initiative
+B, Intensified Spell, Maximize Spell, Quicken SpellB, Razortusk, Spell Perfection (fire snake), 
+Spontaneous Metafocus (fire snake) 
+Skills Acrobatics +9 (+13 when jumping), Fly +12, Spellcraft +18, Use Magic Device +21 
+SQ bloodline arcana (damage spells deal +1 damage per die, fire spells deal +2 per die instead; darkvision, light 
+sensitivity), orc blood, power of giants, sacred tattoo, shaman’s apprentice, weapon familiarity 
+Combat Gear divine spell scrolls (heal 3), wand of cure light wounds (50 charges); Other Gear amulet of 
+natural armor +5, belt of physical perfection +6, boots of striding and springing, bracers of armor +8, 
+cloak of resistance +5, dusty rose prism ioun stone, goblin fire drum (standard), headband of alluring 
+charisma +6, page of spell knowledge (shield), ring of protection +5, robe of arcane heritage, shirt of 
+immolation, tender (1,050gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 8 lb. 1 oz. (excluding tender) 
+   
+
+SPECIAL ABILITIES 
+Claws (Ex/Su) You can grow claws as a free action. These claws are treated as natural weapons, allowing you 
+to make two claw attacks as a full attack action using your full base attack bonus. Each of these attacks 
+deals 1d6 points of damage plus your Strength modifier plus 1d6 fire damage (the fire damage is 
+considered a supernatural ability). These claws are considered magic weapons for the purpose of 
+overcoming DR. You can use your claws for a number of rounds per day equal to 3 + your Charisma 
+modifier. 
+Power of Giants (Sp) You may grow to Large size as a standard action. At this size you gain a +6 size bonus to 
+Strength, a –2 penalty to Dexterity, a +4 size bonus to Constitution, and a +4 natural armor bonus. You 
+may return to your normal size as a standard action. You may remain in this size for up to 1 minute per 
+character level per day; this duration does not need to be consecutive, but it must be used in 1 minute 
+increments. 
+Sacred Tattoo You gain a +1 luck bonus to all saves (included above). 
+Shaman’s Apprentice Due to your stalwart ability to survive the years of harsh treatment that an 
+apprenticeship to an orc shaman entails, you gain Endurance as a bonus feat. 
+Strength of the Beast (Ex) You gain a +4 inherent bonus to your Strength (included above). 
+Weapon Familiarity You are always proficient with greataxes and falchions, and treat any weapon with the 
+word “orc” in its name as a martial weapon. 
+ 

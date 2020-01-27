@@ -1,0 +1,76 @@
+
+
+Vallairs Urn 
+Female drow-descended half-elf druid 6 (cave druid) 
+N Medium humanoid (elf, human) 
+Init +2; Senses darkvision 60 ft., light blindness, tremorsense 30 ft.; 
+Perception +15 
+Languages Common, Elven, Undercommon 
+DEFENSE 
+AC 22, touch 12, flat-footed 20 (+7 armor, +2 Dex, +3 shield) 
+hp 56 (6 HD) 
+Fort +7, Ref +4, Will +9; +2 vs. aberrations and oozes 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +1 club +7 (1d6+3) 
+Ranged +1 sling +7 (1d4+3) or 
++1 club +7 (1d6+3) 
+Spell-like Abilities (CL 6
+th; Concentration +10) 
+7/day – cavesight 
+1/day – dancing lights, darkness, faerie fire 
+Druid Spells Prepared (CL 6
+th; Concentration +10) 
+3rd  (4/day) – deeper darkness
+D, dominate animals, meld into stone, stone shape 
+2nd (5/day) – barkskin, resist energy, soften earth and stone, stone callD APG, summon swarm 
+1st  (5/day) – detect aberration
+D APG, jump, longstrider, obscuring mist, shillelagh 
+0  (4/day) – create water, detect magic, detect poison, light 
+Special Attacks wild shape 1/day 
+STATISTICS 
+Abilities Str 14 (+2), Dex 14 (+2), Con 14 (+2), Int 13 (+1), Wis 18 (+4), Cha 8 (–1) 
+Base Atk +4; CMB +6; CMD 18 
+Feats Elven Spirit (silent hunter), Skill Focus (stealth), Stealthy
+ 
+
+Skills Escape Artist +0, Knowledge (dungeoneering) +12, Perception +15, Stealth +17 (+18 without shield), 
+Survival +15; Armor Check Penalty –4; Racial Modifiers +2 Perception 
+SQ cavesense, drow-blooded, drow magic, lightfoot, nature bond (cave domain), tunnelrunner, wild 
+empathy +5 
+Combat Gear antitoxin (2), sling bullets (50), wand of cure light wounds (2 charges); Other Gear +1 creeping 
+shadow bone agile breastplate, +1 club, +1 heavy bone shield, +1 sling, druid’s kit, tender (40sp) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 107 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Cavesense (Ex) Knowledge (dungeoneering) is druid class skill for you, rather than Knowledge (geography). 
+Furthermore, you gain a +2 bonus on Knowledge (dungeoneering) and Survival checks. 
+Cavesight (Sp) You can grant darkvision 60 feet to a willing creature you touch. This effect lasts 1 minute, or 1 
+hour if used on yourself. You can use this ability a number of times per day equal to 3 + your Wisdom 
+modifier. 
+Light Blindness (Ex) You are blinded for 1 round if exposed to bright light, such as sunlight or the daylight 
+spell. You are dazzled for as long as you remain in areas of bright light. 
+Lightfoot (Ex) You cannot be detected with tremorsense. 
+Resist Subterranean Corruption (Ex) You gain a +2 bonus on saves against exceptional, supernatural, and 
+spell-like abilities of oozes and aberrations. 
+Silent Hunter You reduce the penalty for using Stealth while moving by 5 and can make Stealth checks while 
+running at a –20 penalty (this number includes the penalty reduction from this racial trait). 
+Tunnelrunner (Ex) You can move through areas of rubble or narrow passages that require squeezing at your 
+normal movement rate and without penalty. 
+
+Wild Empathy (Ex) You can improve the attitude of an animal. This ability functions just like a Diplomacy 
+check made to improve the attitude of a person (see Using Skills). You roll 1d20 and add your druid 
+level and your Charisma modifier to determine the wild empathy check result. The typical domestic 
+animal has a starting attitude of indifferent, while wild animals are usually unfriendly. To use wild 
+empathy, you and the animal must be within 30 feet of one another under normal conditions. Generally, 
+influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or 
+less time. You can also use this ability to influence an ooze but you take a –4 penalty on the check. 
+Wild Shape (Su) You can turn yourself into any Small or Medium animal and back again once per day. Your 
+options for new forms include all creatures with the animal type. This ability functions like the beast 
+shape I spell, except as noted here. The effect lasts for 1 hour per druid level, or until you change back. 
+Changing form (to animal or back) is a standard action and doesn’t provoke an attack of opportunity. 
+The form chosen must be that of an animal with which you are familiar. You lose your ability to speak 
+while in animal form because you are limited to the sounds that a normal, untrained animal can make, 
+but you can communicate normally with other animals of the same general grouping as your new form. 
+(The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.) 
+Additionally, due to your favored class bonuses, you natural armor bonus increases by 2 while wild 
+shaped. 

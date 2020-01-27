@@ -1,0 +1,153 @@
+
+
+Obrist Lang 
+Male human fighter 3/magus 8 (phalanx soldier, skirnir) 
+N Medium humanoid 
+Init +3; Senses Perception +11 
+Languages Common, Goblin, Orc 
+DEFENSE 
+AC 36, touch 13, flat-footed 33 (+11 armor, +3 Dex, +3 natural, +9 shield) 
+hp 103 (11 HD) 
+Fort +16, Ref +10, Will +12 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +3 keen naginata +18/+13 (1d8+9/19-20/×4) with one hand, or 
++3 keen naginata +15/+10 (1d8+15/19-20/×4) with one hand and 
+Power Attack, or 
++3 keen naginata +18/+13 (1d8+12/19-20/×4) with two hands, or 
++3 keen naginata +15/+10 (1d8+21/19-20/×4) with two hands and Power Attack, or 
++5 heavy steel shield +16/+11 (1d4+6 plus vampiric touch) or 
++5 heavy steel shield +13/+8 (1d4+12 plus vampiric touch) with Power Attack 
+Ranged chakram +11 (1d8+6) or 
+chakram +13 (1d8+8) with Arcane Pool 
+Space 5 ft., Reach 5 ft. (10 ft. with naginata) 
+Special Attacks arcane pool (7 points, +2 bonus), shielded spell combat, spellstrike 
+Magus Spells Prepared (CL 8
+th; Concentration +11) 
+3rd  (2/day) – fly, haste 
+2nd (4/day) – acid arrow, defensive shock
+UM, mirror image, rime frostbite
+UM 
+1st  (4/day) – enlarge person, shocking grasp, true strike, vanish 
+0  (at will) – arcane mark, detect magic, light, read magic 
+STATISTICS 
+Abilities Str 22 (+6), Dex 14 (+2), Con 14 (+2), Int 16 (+3), Wis 10 (+0), Cha 10 (+0) 
+Base Atk +9; CMB +15; CMD 27 
+Feats Combat Reflexes
+B (3 AoO’s/round), Craft Construct, Craft Magic Arms and Armor, Craft Wondrous 
+Item, Greater Shield FocusB, Improved Shield Bash
+B, Power Attack
+B (–3 attack, +3/+6/+9 damage), 
+Rime Spell, Shield FocusB 
+Skills Knowledge (arcana) +17, Knowledge (dungeoneering) +17, Knowledge (planes) +17, Perception +11, 
+Spellcraft +17, Survival +14; Armor Check Penalty –5 
+SQ arcane bond (shield), magus arcana (concentrate, enduring blade), medium armor, shield pool, sorcerous 
+shield, spellshield 
+Gear +5 steel lamellar, +5 heavy steel shield (currently holding vampiric touch), +3 keen naginata, amulet of 
+natural armor +3, belt of giant strength +4, chakram (10), cloak of resistance +5, construct guardians 
+(2, see below), guard dog, pearls of power (1st 5, 2nd 2), spellbook (51 pages left), spell component 
+pouch 
+Spellbook 3rd—fly, haste, lightning bolt, vampiric touch; 2nd—acid arrow, defensive shock
+UM, fire breathAPG, 
+fog cloud, mirror image, scorching ray; 1st—enlarge person, feather fall, frostbite
+UM, magic missile, 
+obscuring mist, shocking grasp, silent image, true strike, unseen servant, vanish; 0—all magus spells 
+Encumbrance light 173 lb., medium 346 lb., heavy 520 lb.; Weight Carried 77 lb. 
+SPECIAL ABILITIES 
+Arcane Bond (Su) If you attempt to cast a spell without your bonded shield worn or in hand, you must make a 
+concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A bonded 
+shield can be used once per day to cast any one spell that you have in your spellbook and are capable of 
+casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, including 
+
+casting time, duration, and other effects dependent on your caster level. This spell cannot be modified by 
+metamagic feats or other abilities. The magic properties of your bonded shield, including any magic 
+abilities added to the object, only function for you. 
+Arcane Pool (Su) You have a reservoir of mystical arcane energy that you can draw upon to fuel your powers 
+and enhance your weapon or shield (which must be fueled independently of one another). This arcane 
+pool has a number of points equal to ½ your magus level (minimum 1) + your Intelligence modifier. The 
+pool refreshes once each day when you prepare your spells. You can expend 1 point from your arcane 
+pool as a swift action to grant any weapon or shield you are holding a +2 enhancement bonus for 1 
+minute. These bonuses can be added to the weapon or shield, stacking with existing enhancement to a 
+maximum of +5. Multiple uses of this ability do not stack with themselves. These bonuses can be used 
+to add any of the following weapon or shield properties: animated, arrow catching, arrow deflection, 
+bashing, blinding, dancing, flaming, flaming burst, fortification (any), frost, icy burst, keen, reflecting, 
+shock, shocking burst, speed, spell resistance (any), or vorpal. Adding these properties consumes an 
+amount of bonus equal to the property’s cost. These properties are added to any the weapon already has, 
+but duplicates do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be 
+added before any other properties can be added. These bonuses and properties are decided when the 
+arcane pool point is spent and cannot be changed until the next time you use this ability. These bonuses 
+do not function if the weapon is wielded by anyone other than you. You can only enhance one weapon 
+in this way at one time. If you use this ability again, the first use immediately ends. 
+Concentrate (Ex) You can reroll any concentration check you have just made with a +4 bonus. You must use 
+this ability after the roll is made, but before the roll’s outcome is determined. You must take the second 
+roll, even if it is worse. You can use this ability once per day. 
+Diminished Spellcasting A skirnir casts one fewer spell of each level than normal. If this reduces the number 
+to 0, you may cast spells of that level only if your Intelligence allows bonus spells of that level. 
+Enduring Blade (Su) Whenever you enchant your weapon or shield using your arcane pool, you may spend 1 
+additional point from your arcane pool to increase the duration to 1 minute per magus level. 
+Medium Armor (Ex) You can cast magus spells while wearing light or medium armor without incurring the 
+normal arcane spell failure chance. Like any other arcane spellcaster, when using a shield or wearing 
+heavy armor you incur a chance of arcane spell failure if the spell in question has a somatic component. 
+Phalanx Fighting (Ex) When you wield a shield, you can use any polearm or spear of your size as a one-
+handed weapon. 
+Shield Pool (Ex) As a free action, you may spend 1 point from your arcane pool to add your shield bonus to AC 
+(not including enhancement bonuses) on a concentration check to cast defensively. You may also use a 
+touch attack or shield bash with your shield in conjunction with any pool strike magus arcana. 
+Shielded Spell Combat (Su) You learn to cast spells and wield your weapons at the same time. This functions 
+much like two-weapon fighting, but the off-hand weapon is a spell that is being cast. To use this ability, 
+you must have one hand holding a shield, while wielding a light or one-handed melee weapon in the 
+other hand. As a full-round action, you can make all of your attacks with your melee weapon at a –2 
+penalty and can also cast any spell from the magus spell list with a casting time of 1 standard action (any 
+attack roll made as part of this spell also takes this penalty). If you cast this spell defensively, you can 
+decide to take an additional penalty on your attack rolls, up to your Intelligence bonus, and add the same 
+amount as a circumstance bonus on your concentration check. If the check fails, the spell is wasted, but 
+the attacks still take the penalty. You can choose to cast the spell first or make the weapon attacks first, 
+but if you have more than one attack, you cannot cast the spell between weapon attacks. You may use 
+your shield hand to perform somatic components for magus spells, forfeiting the shield’s bonus to AC 
+until the beginning of your next turn; if the bonded shield is a buckler, you retain its bonus to AC. 
+Sorcerous Shield (Ex) You are proficient with all types of shields, including tower shields, and do not suffer an 
+arcane spell failure chance when casting magus spells while using a shield. You treat your magus levels 
+as fighter levels for the purpose of qualifying for shield-related feats. 
+Spellshield (Su) As a standard action, you may store a magus spell in your shield by spending 1 point from 
+your arcane pool per level of the spell. This functions as the spell storing weapon special ability, but 
+activates only on a successful shield bash by you and is not limited to spells of 3rd level or less. 
+
+Spellstrike (Su) Whenever you cast a spell with a range of “touch” from the magus spell list, you can deliver 
+the spell through any weapon you are wielding as part of a melee attack. Instead of the free melee touch 
+attack normally allowed to deliver the spell, you can make one free melee attack with your weapon (at 
+your highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its 
+normal damage as well as the effects of the spell. If you make this attack in concert with spell combat, 
+this melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the 
+weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar 
+effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage 
+uses its own critical modifier. 
+Stand Firm (Ex) You gain a +1 bonus to CMD against bull rush, overrun, and trip attempts. This bonus also 
+applies on saves against trample attacks. 
+ 
+Animated Steel Lamellar Armor 
+Medium Animated Object 
+N Medium construct 
+Init +0; Senses darkvision 60 ft., low-light vision; Perception –5 
+Languages obeys creator 
+DEFENSE 
+AC 18, touch 10, flat-footed 18 (+6 natural, +2 shield) 
+hp 36 (3 HD) 
+Fort +1, Ref +1, Will –4 
+Defensive Abilities hardness 10; Immune construct traits 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee mwk naginata +6 (1d8+3/×4) or 
+slam +5 (1d6+3) or 
+mwk heavy steel shield +6 (1d4+2) 
+Space 5 ft., Reach 5 ft. (10 ft. with naginata) 
+Special Attacks weapon modifications (masterwork naginata, masterwork heavy steel shield) 
+STATISTICS 
+Abilities Str 14, Dex 10, Con –, Int –, Wis 1, Cha 1 
+Base Atk +3; CMB +5; CMD 15 
+SQ construction points (2 points: metal) 
+Gear guard dog (set to defend construct), masterwork heavy steel shield, masterwork naginata 
+Encumbrance light 58 lb., medium 116 lb., heavy 174 lb.; Weight Carried 24 lb. 
+CONSTRUCTION 
+Price 5,155gp; CL 11th; Requirements Craft Construct, animate objects; Skill Spellcraft or Craft (armor); Cost 
+2,905gp 
+ 

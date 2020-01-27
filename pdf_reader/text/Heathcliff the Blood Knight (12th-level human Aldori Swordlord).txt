@@ -1,0 +1,185 @@
+
+
+Heathcliff, the Blood Knight 
+“I will accept nothing less than the best.” 
+ 
+Deference and respect are the privileges of noble birth. Few know 
+this  better  than  the  man  who  calls  himself  the  Blood  Knight,  yet 
+equally  well  does  he  know  that  such  things  are  not  always  freely 
+given where they are due. And in those cases, it’s the burden of the 
+nobly born to correct the error, and to take by force that which is their 
+right. 
+ 
+Heathcliff was born in Taldor with the proverbial silver spoon in his 
+mouth, son of a wealthy but relatively minor noble house. As a boy, 
+he  showed  remarkable  affinity  for  both  physical  activities—
+especially  the  martial  pursuits—and  the  ins  and  outs  of  courtly 
+etiquette  and  intrigue.  Though  both  traits  made  him  quite  popular 
+with  the  peerage—especially  the  young  ladies  of  the  court, 
+necessitating more than one woman being shuffled off to a nunnery 
+on  a  nine-month  “vacation”—Heathcliff’s  wealth  and  natural 
+abilities  also  gave  him  an  excessively  healthy  sense  of  self-
+importance,  sometimes  getting  him  into  trouble  that  would  have 
+crippled  a  man  of  lower  station.  By  the  time  Heathcliff’s  father 
+realized that the cane-scarred whipping boy might not be the most effective means of corralling his youngest son, 
+Heathcliff was already near grown, and thoroughly convinced of his own competence in all things. 
+ 
+Though Heathcliff regularly dismissed such noble studies as literature and linguistics he could never get enough 
+of bards’ tales of battle and bloodshed, often keeping the minstrels at his favorite taverns playing late into the 
+night. Excel as he might at the joust or the ritualized combat of the nobility, he longed for the primal exultation 
+of war, where his mastery over his fellow men would not just be avowed or lauded, but proved undeniably by the 
+blood on his sword, as clear as the red-dripping talons of an eagle. 
+ 
+True warfare has little in common with heroic ballads, and there are few who see its raw, naked face and come 
+back unchanged. Certainly this was true for Heathcliff. Yet where some men learn wisdom in the wrack, at last 
+understanding the price of a life and the senseless ease with which it’s taken, Heathcliff learned something else. 
+In the clash of spears and the screams of horses, the man who had been a trumped-up merchant’s son became an 
+elemental force of destruction, cutting down swaths of men who were never his enemies, but merely opponents 
+to his liege lord. Though he became rich in his own right for serving his patron well, Heathcliff cared only for 
+what the rewards represented: that here was a man whose worth was proven, in fire and iron. 
+ 
+Thanks to his prowess on the battlefield, warriors are often drawn to his lord’s banner to fight at his side, and to 
+Heathcliff’s secret surprise he’s developed quite a knack for leading them, issuing gruff and decisive commands. 
+These companions are almost always cohorts rather than friends—though Heathcliff does a fine job of managing 
+his troops and urging them on to ever-greater feats, long experience has taught him that soldiers are a short-lived 
+lot, and hence he sheds few tears when it’s time to pay the butcher’s bill. 
+ 
+In  truth,  whether  leading  soldiers  in  a  suicidal  charge  or  booting  serving  girls  out  of  his  bed  in  the  morning, 
+Heathcliff cares little about the people around him. More than money, love, or lust, Heathcliff cares about the 
+prestige of his realm. Even more than that, however, he strives with every encounter to increase his own legend, 
+whether as a scoundrel or a saint. 
+   
+
+Heathcliff the Blood Knight 
+Male human cavalier 12 (daring champion) 
+N Medium human 
+Init +9 (+11 with Aldori dueling sword); Senses Perception +2 
+Languages Common 
+DEFENSE 
+AC 39, touch 23, flat-footed 29 (+12 armor, +2 deflection, +7 Dex, +3 dodge, 
++1 insight, +2 natural, +2 shield) 
+hp 122 (12 HD) 
+Fort +13, Ref +14, Will +9 
+Defensive Abilities dizzying defense, dodging panache +2, nimble, subtle 
+blade 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee Glimmer +21/+16/+11 (1d8+9/19-20) or 
+Glimmer +21/+16/+11 (1d8+21/19-20) with Challenge or Precise Strike, or 
+Glimmer +21/+16/+11 (1d8+33/19-20) with Challenge and Precise Strike 
+Ranged +1 darkwood composite longbow +20/+15/+10 (1d8+1/×3) 
+Special Attacks challenge 4/day (+12 damage, +4 AC), champion’s finesse, demanding challenge, for the king, 
+lion’s call, precise strike, superior feint, targeted strike 
+STATISTICS 
+Abilities Str 10 (+0), Dex 24 (+7), Con 14 (+2), Int 13 (+1), Wis 14 (+2), Cha 14 (+2) 
+Base Atk +12; CMB +12 (+21 with Aldori dueling sword); CMD 35 (36 vs. bull rush/reposition) 
+Feats Aldori Dueling Disciple, Aldori Dueling Mastery, Combat ReflexesB, Duelist of the Roaring Falls, 
+Duelist of the Shrouded Lake, Exotic Weapon Proficiency (Aldori dueling swordB), OutflankB, Precise 
+Strike
+B, Quick Draw, Slashing Grace (Aldori dueling sword), Weapon FinesseB (light or one-handed 
+piercing melee weapons only), Weapon Focus (Aldori dueling sword) 
+Skills Bluff +17, Diplomacy +17, Handle Animal +17, Intimidate +17 (+19 to demoralize opponents or +21 
+whilst in a duel), Knowledge (local) +13, Sense Motive +17 
+SQ banner, champion’s finesse, dizzying defense, greater tactician (9 rounds), panache (2), order (lion), 
+swashbuckler initiative 
+Combat Gear darkwood durable arrows (20), potions of cure serious wounds (2); Other Gear +1 darkwood 
+composite longbow, amulet of natural armor +2, banner (can be worn as a cape, worth 20gp), belt of 
+incredible dexterity +4, cloak of resistance +3, dusty rose prism ioun stone (imbedded), Glimmer and 
+Sheen (+1 mithral menacing Aldori dueling sword and +4 burnished mithral celestial plate armor, 
+respectively), jaunt boots, ring of protection +2, tender (50pp, 10gp) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 28 lb. 2 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Banner (Ex) As long as your banner is clearly visible, all allies within 60 feet receive a +5 morale bonus on 
+saving throws against fear and a +4 morale bonus on attack rolls made as part of a charge. The banner 
+must be at least Small or larger and must be carried or displayed by you or your mount to function. 
+Burnished Armor Your armor has been polished to reflect light in your enemies’ eyes. In areas of bright light, 
+all enemies within 30 feet that can see you must succeed at a Will saving throw (DC = 10 + your base 
+attack bonus) or be dazzled for 1 round. Regardless of the result of its saving throw, a target may only be 
+affected by this armor modification once per day. Polished armor imparts a –10 penalty to Stealth 
+checks made in areas of bright or normal light and weighs 5 pounds more than normal. 
+Challenge (Ex) Four times per day, you can challenge a foe to combat. As a swift action, you choose one target 
+within sight to challenge. Your melee attacks deal extra damage whenever the attacks are made against 
+the target of your challenge and you receive a +3 dodge bonus to your AC against attacks made by the 
+target of your challenge. This extra damage is equal to your cavalier level. Challenging a foe requires 
+
+much of your concentration causing you to take a –2 penalty to your Armor Class, except against attacks 
+made by the target of your challenge. The challenge remains in effect until the target is dead or 
+unconscious or until the combat ends. 
+Champion’s Finesse (Ex) You gain the benefits of the Weapon Finesse feat with light or one-handed piercing 
+melee weapons, and you can use Charisma in place of Intelligence for the purpose of combat feat 
+prerequisites. You also count as having the Weapon Finesse feat for the purposes of meeting feat 
+requirements. 
+Demanding Challenge (Ex) Whenever you declare a challenge, your target must pay attention to the threat you 
+pose. As long as the target is within your threatened area, it takes a –2 penalty to its AC from attacks 
+made by anyone other than you. 
+Dizzying Defense (Ex) While wielding a light or one-handed piercing melee weapon in one hand, you can 
+spend 1 panache point to take the fighting defensively action as a swift action instead of a standard 
+action. When fighting defensively in this manner, the dodge bonus to AC gained from that action 
+increases to +4, and the penalty to attack rolls is reduced to –2. 
+Dodging Panache (Ex) When an opponent attempts a melee attack against you, you may spend 1 panache point 
+as an immediate action to move 5 feet; doing so grants you a dodge bonus to AC equal to your Charisma 
+bonus against the triggering attack. This movement doesn’t negate the attack, which is still resolved as if 
+you had not moved from the original square. This movement is not a 5-foot step; it provokes attacks of 
+opportunity from creatures other than the one who triggered this deed. You can only perform this deed 
+while wearing light or no armor, and while carrying no heavier than a light load. 
+For the King (Ex) As a swift action, you can grant a competence bonus equal to your Charisma modifier on all 
+attack and damage rolls to all allies within 30 feet. This bonus lasts for 1 round. This ability can be used 
+once per combat. 
+Greater Tactician (Ex) You receive two teamwork feats as bonus feats. You must meet the prerequisites for 
+these feats. Three times per day, as a swift action, you can grant these feats to all allies within 30 feet 
+who can see and hear you. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every two 
+cavalier levels you possess. Allies do not need to meet the prerequisites of these bonus feats. 
+Lion’s Call (Ex) As a standard action, you can give an encouraging speech which grants all allies within 60 feet 
+a competence bonus on their saving throws against fear equal to your Charisma modifier and a +1 
+competence bonus on attack rolls for a number of rounds equal to your cavalier level. If an ally within 
+range is under the effect of a spell or ability that causes him to be frightened or panicked, he can 
+immediately make another saving throw to resist the effect (if allowed). 
+Nimble (Ex) You gain a +3 dodge bonus to AC when wearing light or no armor and carrying no more than a 
+light load. 
+Panache (Ex) At the start of each day, you gain a number of panache points equal to your Charisma modifier 
+(minimum 1). Your panache goes up or down throughout the day, but usually cannot go higher than 
+your Charisma modifier (minimum 1), though feats and magic items can affect this maximum. You 
+spend panache to accomplish deeds (see below), and regain panache in the following ways. 
+Critical Hit with a Light or One-Handed Piercing Melee Weapon: Each time you confirm a critical 
+hit with a light or one-handed piercing melee weapon, you regain 1 panache point. Confirming a critical 
+hit on a helpless or unaware creature or a creature that has fewer Hit Dice than half your character level 
+doesn’t restore panache. 
+Killing Blow with a Light or One-Handed Piercing Melee Weapon: When you reduce a creature to 0 
+or fewer hit points with a light or one-handed piercing melee weapon attack while in combat, you regain 
+1 panache point. Destroying an unattended object, reducing a helpless or unaware creature to 0 or fewer 
+hit points, or reducing a creature that has fewer Hit Dice than half your character level to 0 or fewer hit 
+points doesn’t restore any panache. 
+Precise Strike (Ex) While you have at least 1 panache point, you gain the ability to strike precisely with a light 
+or one-handed piercing melee weapon (though not natural weapon attacks), adding your cavalier level to 
+the damage dealt. To use this deed, you cannot attack with a weapon in your other hand or use a shield 
+other than a buckler. You can even use this ability with thrown light or one-handed piercing melee 
+weapons, so long as the target is within 30 feet of you. Any creature that is immune to sneak attacks is 
+
+immune to the additional damage granted by precise strike, and any item or ability that protects a 
+creature from critical hits also protects a creature from the additional damage of a precise strike. This 
+additional damage is precision damage, and isn’t multiplied on a critical hit. As a swift action, you may 
+spend 1 panache point to double your precise strike’s damage bonus on the next attack. This benefit 
+must be used before the end of your turn, or it is lost. This deed’s cost cannot be reduced by any ability 
+or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat). 
+Subtle Blade (Ex) While you have at least 1 panache point, you are immune to disarm, steal, and sunder 
+combat maneuvers made against a light or one-handed piercing melee weapon you are wielding. 
+Superior Feint (Ex) While you have at least 1 panache point you can, as a standard action, purposefully miss a 
+creature you could make a melee attack against with a wielded light or one-handed piercing weapon. 
+When you do, the creature is denied its Dexterity bonus to AC until the start of your next turn. 
+Swashbuckler Initiative (Ex) While you have at least 1 panache point, you gain a +2 bonus on initiative 
+checks. In addition, if you have the Quick Draw feat, your hands are free and unrestrained, and you have 
+any single light or one-handed piercing melee weapon that isn’t hidden, you can draw that weapon as 
+part of the initiative check. 
+Targeted Strike (Ex) As a full-round action you can spend 1 panache point to make an attack with a single 
+light or one-handed piercing melee weapon that cripples part of a foe’s body. You choose a part of the 
+body to target. If the attack succeeds, in addition to the attack’s normal damage, the target suffers one of 
+the following effects based on the part of the body targeted. If a creature doesn’t have one of the listed 
+body locations, that body part cannot be targeted. Creatures that are immune to sneak attacks are also 
+immune to targeted strikes. Items or abilities that protect a creature from critical hits also protect a 
+creature from targeted strikes. 
+Arms: The target takes no damage from the attack, but it drops one carried item of your choice, even 
+if the item is wielded with two hands. Items held in a locked gauntlet cannot be chosen. 
+Head: The target is confused for 1 round. This is a mind-affecting effect. 
+Legs: The target is knocked prone. Creatures with four or more legs or that are immune to trip 
+attacks are immune to this effect. 
+Torso or Wings: The target is staggered for 1 round. 

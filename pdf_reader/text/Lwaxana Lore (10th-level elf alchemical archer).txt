@@ -1,0 +1,124 @@
+
+
+Lwaxana Lore 
+Female elf alchemist 10 
+NG Medium humanoid (elf) 
+Init +5; Senses low-light vision; Perception +14 
+Languages Common, Elven, Gnoll, Goblin, Orc 
+DEFENSE 
+AC 28, touch 15, flat-footed 23 (+9 armor, +5 Dex, +4 shield) 
+hp 72 (10 HD) 
+Fort +9, Ref +14, Will +4; +2 vs. enchantments 
+Immune poison, sleep 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 rapier +11/+6 (1d6+3/18-20 plus poison) 
+Ranged +2 conductive longbow +16/+11 (1d8+5 plus bomb plus 
+poison/×3) or 
+blinding bomb +13 touch (5d6+5 fire plus blindness, 10 splash plus dazzled) or 
+confusion bomb +13 touch (3d6+5 fire plus confusion, 8 splash) or 
+dispelling bomb +13 touch (5d6+5 fire plus dispel magic, 10 splash) or 
+force bomb +13 touch (5d4+5 force plus trip, 10 splash) or 
+smoke bomb +13 touch (5d6+5 fire plus smoke, 10 splash) or 
+standard bomb +13 touch (5d6+5 fire, 10 splash) or 
+stink bomb +13 touch (5d6+5 fire plus stink, 10 splash) or 
+tanglefoot bomb +13 touch (5d6+5 fire plus entangle, 10 splash plus entangle) 
+Special Attacks blinding bomb, bomb (5d6+5, 15/day, DC 20), confusion bomb, dispelling bomb, force bomb, 
+poison use, smoke bomb, stink bomb, swift poisoning, tanglefoot bomb, throw anything +5 
+Alchemist Extracts Prepared (CL 10
+th) 
+4
+th  (2/day) – greater invisibility (2) 
+3rd  (4/day) – fly (2), heroism (2) 
+2
+nd (5/day) – barkskin (2), invisibility (2), see invisibility 
+1st  (7/day) – enlarge person (2), expeditious retreat, keen senses, reduce person (2), true strike 
+STATISTICS 
+Abilities Str 16 (+3), Dex 20 (+5), Con 10 (+0), Int 20 (+5), Wis 8 (–1), Cha 10 (+0) 
+Base Atk +7; CMB +10; CMD 25 
+Feats Brew PotionB, Extra Discovery (2), Point Blank Shot, Precise Shot, Throw Anything
+B, Weapon Focus 
+(longbow) 
+Skills Appraise +18, Craft (alchemy) +23, Disable Device +18, Knowledge (arcana) +18, Knowledge (nature) 
++18, Sleight of Hand +18, Perception +14, Spellcraft +18 (+20 identifying magic items); Racial 
+Modifiers +2 Perception, +2 Spellcraft to identify magic items 
+SQ alchemy, discoveries (blinding bomb, confusion bomb, dispelling bomb, force bomb, smoke bomb, stink 
+bomb, tanglefoot bomb), elven magic, mutagen (100 minutes), swift alchemy 
+Combat Gear arrows (100), poison (blue whinnis 90); Other Gear +3 buckler, +3 mithral breastplate, +2 
+conductive longbow (+3 strength modifier), alchemist’s kit, belt of physical might +2 (strength, 
+dexterity), cloak of resistance +2, lesser bracer’s of archery, portable alchemist’s lab, tender (105gp) 
+Formula Book 4th-level—greater invisibility; 3
+rd-level—cure serious wounds, fly, heroism; 2nd-level—
+barkskin, invisibility, see invisibility; 1st-level—crafter’s fortune, enlarge person, expeditious retreat, 
+identify, keen senses, reduce person, true strike 
+Encumbrance light 76 lb., medium 153 lb., heavy 230 lb.; Weight Carried 66 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Alchemy (Su) When using Craft (alchemy) to create an alchemical item, you gain a competence bonus equal to 
+your alchemist class level on the Craft (alchemy) check (included above). In addition, you can use Craft 
+
+(alchemy) to identify potions as if using detect magic. You must hold the potion for 1 round to make 
+such a check. You are also capable of creating bombs, extracts, and mutagens (see below). 
+Blinding Bomb (Su) When you create a bomb, you can choose for it to detonate very brightly. Creatures that 
+take a direct hit from a blinding bomb are blinded for 1 minute unless they succeed at a Fortitude save 
+(DC 20). Creatures in the splash area that fail their saves against the bomb are dazzled for 1 minute. This 
+is a light effect. 
+Bomb (Su) You can use a number of bombs each day equal to your alchemist class level + your Intelligence 
+modifier. Bombs are unstable, and if not used in the round they are created, they degrade and become 
+inert—their method of creation prevents large volumes of explosive material from being created and 
+stored. Creating and throwing a bomb requires a standard action that provokes an attack of opportunity. 
+Thrown bombs have a range of 20 feet and use the Throw Splash Weapon special attack. Bombs are 
+considered weapons and can be selected using feats such as Point-Blank Shot and Weapon Focus. On a 
+direct hit, your bomb inflicts 1d6 points of fire damage plus additional damage equal to your 
+Intelligence modifier (due to the throw anything class ability). The damage of your bomb increases by 
+1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit 
+or by using feats such as Vital Strike). Splash damage from an alchemist bomb is always equal to the 
+bomb’s minimum damage. Those caught in the splash damage can attempt a Reflex save DC 22 for half 
+damage. 
+Confusion Bomb (Su) Your bombs twist the target’s perception of friend and foe. A creature that takes a direct 
+hit from a confusion bomb takes damage from the bomb and is under the effect of a confusion spell for 1 
+round per caster level of the alchemist. Reduce the amount of normal damage dealt by the bomb by 2d6. 
+Dispelling Bomb (Su) When you create a bomb, you can choose to have it dispel magic effects instead of deal 
+damage. Creatures that take a direct hit from a dispelling bomb are subject to a targeted dispel magic 
+spell, using your alchemist level as the caster level. This cannot be used to target a specific spell effect. 
+Extracts (Su) You may create and use extracts, essentially spells in the form a drinkable liquid. For the most 
+part, extracts follow the rules of both potions and spells. 
+Force Bomb (Su) When you create a bomb, you can choose to have it inflict force damage. Force bombs deal 
+1d4 points of force damage, plus 1d4 points of force damage for every odd-numbered level, instead of 
+1d6. Creatures that take a direct hit from a force bomb are knocked prone unless they succeed on a 
+Reflex save. 
+Mutagen (Su) You may brew a dose of mutagen in 1 hour, and once brewed, it remains potent until used. You 
+can only maintain one dose of mutagen at a time—if you brew a second dose, any existing mutagen 
+becomes inert. As with an extract or bomb, a mutagen that is not in your possession becomes inert until 
+you pick it up again. When you brew a mutagen, you select one physical ability score—Strength, 
+Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen 
+causes you to grow bulkier and more bestial, granting you a +2 natural armor bonus and a +4 alchemical 
+bonus to the selected ability score for 10 minutes per alchemist level. In addition, while the mutagen is 
+in effect, you take a –2 penalty to one of your mental ability scores. If the mutagen enhances your 
+Strength, it applies a penalty to your Intelligence. If it enhances your Dexterity, it applies a penalty to 
+your Wisdom. If it enhances your Constitution, it applies a penalty to your Charisma. A non-alchemist 
+who drinks a mutagen must make a DC 20 Fortitude save or become nauseated for 1 hour—a non-
+alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another 
+alchemist’s mutagen if he drinks it. (Although if the other alchemist creates a different mutagen, the 
+effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever 
+you drink a mutagen, the effects of any previous mutagen immediately end. 
+Poison Use (Ex) You are trained in the use of poison and cannot accidentally poison yourself when applying 
+poison to a weapon. 
+Poison Blue whinnis—injury; save Fort DC 14, frequency 1/round for 2 rounds, effect 1 Con/unconsciousness 
+1d3 hours, cure 1 save. 
+Smoke Bomb (Su) When you create a bomb, you can choose to have it create a cloud of thick smoke when it 
+detonates. The cloud functions as fog cloud, filling an area equal to twice the bomb’s splash radius for 1 
+round per level. 
+
+Stink Bomb (Su) The effects of the smoke created by your bomb can duplicate the effects of stinking cloud 
+(Fort DC 20) instead of fog cloud, filling an area equal to twice the bomb’s splash radius for 1 round. 
+Swift Alchemy (Ex) You can create alchemical items with astounding speed. It takes you half the normal 
+amount of time to create alchemical items. 
+Swift Poisoning (Ex) You can apply a dose of poison to a weapon as a swift action. 
+Tanglefoot Bomb (Su) A creature that takes a direct hit from a tanglefoot bomb must save against the bomb’s 
+DC or be entangled and glued to the floor as if it had failed its save against a tanglefoot bag. Creatures in 
+the splash area that fail their saves are entangled but not glued to the floor; those who make this save are 
+not entangled at all. 
+Throw Anything (Ex) You gain the Throw Anything feat as a bonus feat and you add your Intelligence 
+modifier to damage done with splash weapons, including the splash damage if any. This bonus damage 
+is already included in the bomb class feature (and in the above stats). 
+ 

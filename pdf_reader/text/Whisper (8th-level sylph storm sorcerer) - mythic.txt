@@ -1,0 +1,120 @@
+
+
+Whisper 
+Female sylph sorcerer 8 (mythic archmage 4) 
+CG Medium outsider (native) 
+Init +11; Senses darkvision 60 ft.; Perception +8 
+Languages Auran, Common 
+DEFENSE 
+AC 25, touch 13, flat-footed 22 (+7 armor, +2 deflection, +3 Dex, +3 natural) 
+hp 82 plus false life (8 HD) 
+Fort +8, Ref +8, Will +9 
+Defensive Abilities enduring armor +7, hard to kill; Resist electricity 10 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee icicle dagger +4 (1d4 plus 1d6 cold /19-20) 
+Ranged icicle dagger +4 (1d4 plus 1d6 cold /19-20) 
+Special Attacks mythic power (11/day, surge +1d8) 
+Spell-like Abilities (CL 8
+th; Concentration +15) 
+10/day – electric ray (1d6+4) 
+1/day – feather fall 
+Sorcerer Spells Known (CL 8
+th, Concentration +15) 
+4th  (4/day) – dimension door 
+3rd  (7/day) – fly, lightning bolt, protection from energy
+B 
+2nd  (8/day) – false life, invisibility, lightning ray
+B (as scorching ray, but electricity), mirror image 
+1st  (8/day) – feather fall, icicle dagger
+UM, lightning sparksB (as burning hands, but electricity), magic 
+missile, shield, true strike 
+0  (at will) – arcane mark, detect magic, ghost sound, light, open/close, prestidigitation, read magic, 
+spark
+APG 
+Bloodline elemental (air) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 16 (+3), Con 16 (+3), Int 11 (+0), Wis 10 (+0), Cha 24 (+7) 
+Base Atk +4; CMB +4; CMD 17 
+Feats Dimensional Agility, Dodge
+B, Empower SpellB, Eschew Materials
+B, Extend Spell, Extra Path Ability
+M, 
+Improved Initiative, Mythic Spell Lore
+M, Toughness 
+Skills Acrobatics +11, Perception +8, Spellcraft +11 
+SQ archmage arcana (wild arcana), arcane metamastery 1, bloodline arcana (change energy damage spells to 
+electricity), bloodline intensity, crafting mastery, energy conversion, recuperation 
+Combat Gear wand of acid arrow (25 charges), wand of enlarge person (50 charges); Other Gear amulet of 
+natural armor +3, bag of holding (type I), cloak of resistance +3, chronicler’s kit, headband of alluring 
+charisma +4, metamagic rods (lesser merciful, lesser lingering), ring of protection +2, ring of suste-
+nance, tender (170gp) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 31 lb. 8 oz. (excluding tender) 
+   
+
+SPECIAL ABILITIES 
+Amazing Initiative (Ex) You gain a bonus on initiative checks equal to your mythic tier (included above). In 
+addition, as a free action on your turn, you can expend one use of mythic power to take an additional 
+standard action during that turn. This additional standard action can’t be used to cast a spell. You can’t 
+gain an extra action in this way more than once per round. 
+Arcane Metamastery (Su) As a swift action, you can expend one use of mythic power and pick any one meta-
+magic feat you know that increases the slot level of the spell by 0 or 1 levels. For the next 10 rounds, 
+you can apply this metamagic feat to any arcane spell you cast without increasing the spell slot used or 
+casting time. You can also use this ability on an arcane spell you cast from a scroll, staff, or wand. You 
+can’t have more than one use of this ability active at a time. If you use this ability again, any previous 
+use immediately ends (though this doesn’t affect spells already cast). 
+Bloodline Arcana Whenever you cast a spell that deals energy damage, you can change the type of damage to 
+electricity. This also changes the spell’s type to electricity. Additionally, whenever you cast a spell with 
+the electricity descriptor, increase the spell’s save DC by 1. 
+Bloodline Intensity (Su) Your mythic power intensifies your sorcerer bloodline. Select an additional bloodline 
+feat from your bloodline’s list of feats. You must meet the prerequisites for that feat. You can also cast 
+each of your bloodline spells once per day without them counting toward the number of spells you can 
+cast per day. 
+Enduring Armor (Su) You are protected by armor made of force. This armor grants you an armor bonus to AC 
+equal to 3 + your tier. This ability is an abjuration effect with a spell level equal to your tier. If this ar-
+mor is dispelled or otherwise ended, you can reactivate it as a swift action. 
+Energy Conversion (Su) Whenever you cast a spell with the acid, cold, electricity, or fire descriptor, you can 
+expend one use of mythic power to switch the energy type to a different one of those energy types. If the 
+spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type 
+as a descriptor. All other effects of the spell remain unchanged. 
+Hard to Kill (Ex) Whenever you’re below 0 hit points, you automatically stabilize without needing to attempt a 
+Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose 
+hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points 
+when below 0 hit points. In addition, you don’t die until your total number of negative hit points is equal 
+to or greater than double your Constitution score. 
+Recuperation (Ex) You are restored to full hit points after 8 hours of rest so long as you aren’t dead. In addi-
+tion, by expending one use of mythic power and resting for 1 hour, you regain a number of hit points 
+equal to half your full hit points (up to a maximum of your full hit points) and regain the use of any class 
+features that are limited to a certain number of uses per day (such as barbarian rage, bardic performance, 
+spells per day, and so on). This rest is treated as 8 hours of sleep for such abilities. This rest doesn’t re-
+fresh uses of mythic power or any mythic abilities that are limited to a number of times per day. 
+Surge (Su) You can call upon your mythic power to overcome difficult challenges. You can expend one use of 
+mythic power to increase any d20 roll you just made by rolling 1d8 and adding it to the result. Using this 
+ability is an immediate action taken after the result of the original roll is revealed. This can change the 
+outcome of the roll. 
+Wild Arcana (Su) As a standard action, you can expend one use of mythic power to cast any one arcane spell 
+without expending a prepared spell or spell slot. The spell must be on one of your arcane class spell lists, 
+must be of a level that you can cast with that arcane spellcasting class, and must have a casting time of 
+“1 standard action” (or less). You don’t need to have the spell prepared, nor does it need to be on your 
+list of spells known. When casting a spell in this way, you treat your caster level as 2 levels higher for 
+the purpose of any effect dependent on level. You can apply any metamagic feats you know to this spell, 
+but its total adjusted level can’t be greater than that of the highest-level arcane spell you can cast from 
+that spellcasting class. 
+ 
+   
+
+MYTHIC SPELLS KNOWN 
+Dimension Door: The duration of this spell changes to 1 round per 2 caster levels, and it creates a temporary, 
+invisible, one-way portal in your square to your destination. You immediately pass through the portal 
+and arrive at the destination, but you can’t take any other creatures with you. When casting the spell, 
+you can designate a number of creatures equal to your caster level. These creatures can see and use the 
+portal, passing through it to arrive at the destination (this isn’t an action). A creature that passes through 
+the portal can’t take any other actions until its next turn. 
+Lightning Bolt: The damage dealt increases to 1d8 points of electricity damage per caster level (maximum 
+10d8). Any creature that fails its save is staggered for 1 round. Augmented (3rd): If you expend two 
+uses of mythic power, you can bend the line of the spell once up to 90 degrees. Any creature that fails its 
+save is stunned for 1 round. 
+Lightning Ray: Each ray’s damage increases to 6d6 points of electricity damage. The first ray bypasses electric-
+ity resistance and immunity. 
+Lighting Sparks: The range increases to 20 feet, and the damage dealt increases to 1d6 points of electricity dam-
+age per caster level (maximum 5d6). 

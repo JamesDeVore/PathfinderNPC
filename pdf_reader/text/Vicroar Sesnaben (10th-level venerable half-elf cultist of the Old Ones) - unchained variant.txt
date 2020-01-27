@@ -1,0 +1,164 @@
+
+
+Vicroar Sesnaben 
+Male venerable half-elf summoner 10 (blood summoner) 
+CE Medium humanoid (elf, human) 
+Init +1; Senses low-light vision; Perception +2 
+Languages Abyssal, Common, Elven, Undercommon 
+DEFENSE 
+AC 28, touch 15, flat-footed 27 (+4 armor, +3 deflection, +1 Dex, +1 insight, +6 
+natural, +3 shield); mage armor 
+hp 82 (10 HD) 
+Fort +6, Ref +5, Will +8; +2 vs. enchantment 
+Immune magical sleep 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 harpoon +15 (1d8+11/×3) and 2 tentacles +9 (1d4+3) 
+Ranged +1 harpoon +9 (1d8+11/×3) 
+Special Attacks blood travel (DC 21), summon monster V 
+Summoner Spell-like Abilities (CL 10th; Concentration +16) 
+9/day – summon monster V (one casting at a time, usable only without eidolon, 10 minute duration) 
+Summoner Spells Known (CL 10th; Concentration +16) 
+4th  (2/day) – black tentacles, greater evolution surgeAPG 
+3rd  (4/day) – contact entity IIHA, dispel magic, rejuvenate eidolonAPG, heroism 
+2nd (6/day) – alter self, barkskin, bull’s strength, resist energy, summon eidolon 
+1st  (7/day) – enlarge person, mage armor, reduce person, shield, unfetter
+APG 
+0  (at will) – arcane mark, detect magic, guidance, light, mage hand, message 
+STATISTICS 
+Abilities Str 24 (+7), Dex 13 (+1), Con 14 (+2), Int 14 (+2), Wis 10 (+0), Cha 23 (+6) 
+Base Atk +7; CMB +14 (+15 with harpoon, +17 with grapple); CMD 28 (31 vs. grapple) 
+Feats Craft Wondrous Item, Dirty Fighting, Exotic Weapons Proficiency (harpoonB), Extra Evolution (2), 
+Improved Grapple 
+Skills Craft (alchemy) +15, Knowledge (arcana, planes) +15, Perception +2, Spellcraft +15; Racial Modifiers 
++2 Perception 
+SQ ancestral arms (harpoon), arcane training, aspect (improved natural armor ×2), blood offering, bond senses 
+(10 rounds/day), elf blood, eidolon, fiendish calling, life link, maker’s call (2/day) 
+Combat Gear wands of lesser rejuvenate eidolon (2, 50 charges each); Other Gear +1 harpoon, +2 mithral 
+buckler, amulet of natural armor +2, armbands of the brawler, belt of giant strength +4, headband of 
+alluring charisma +4, ioun stones (dusty rose prism, nacreous gray sphere; both imbedded), ring of 
+protection +3, tender (140gp), tentacle cloak (doubles as a cloak of resistance +1) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 22 lb. 10 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Ancestral Arms You are proficient in the harpoon. 
+Arcane Training You can use spell trigger and spell completion items for your favored class as if 1 level 
+higher. 
+Aspect (Su) You can divert up to 2 points from your eidolon’s evolution pool to add evolutions to yourself. 
+You cannot select any evolution that your eidolon could not possess, and you must be able to meet the 
+requirements as well (except for subtype requirements, so long as your eidolon meets the subtype 
+requirement). You cannot select the ability increase evolution through this ability. Any points spent in 
+this way are taken from your eidolon’s evolution pool (reducing the total number available to your 
+eidolon). You can change the evolutions granted by these points anytime you can change your eidolon’s 
+evolutions. 
+
+Blood Offering (Su) You can sacrifice a flask of blood, extracted up to 1 day ago from a living creature or a 
+corpse that’s been dead no longer than 1 minute, to aid and appease an evil outsider within 30 feet as a 
+standard action. This blood can be extracted from a willing or helpless creature as a full-round action 
+that deals 1 point of Constitution damage. The offering grants the outsider a +2 enhancement bonus to 
+the ability score of you choice and grants you a +4 circumstance bonus on Diplomacy checks and 
+Charisma checks to bargain with it. The bonuses last for 10 minutes. The offering cannot be made to the 
+same fiend twice in the same day. 
+Blood Travel (Su) You can use your maker’s call ability to allow your eidolon to travel through the blood of 
+other creatures. Your eidolon can either emerge from the blood of a living creature within range that has 
+fewer than its maximum hit points remaining, or burst from the corpse of a Small or larger creature 
+within range that has been dead for no longer than 1 minute. If your eidolon emerges from an injured 
+creature, that creature takes 4d6 points of damage, which is halved if the creature succeeds at a Fortitude 
+save (DC = 10 + ½ your summoner’s level + your Charisma modifier). The eidolon appears in its choice 
+of the nearest unoccupied square to the creature or corpse it emerged from, and is staggered for 1 round. 
+Bond Senses (Su) You can, as a standard action, share the senses of your eidolon, hearing, seeing, smelling, 
+tasting, and touching everything your eidolon does. You can use this ability a number of rounds per day 
+equal to your summoner level. There is no maximum range to this effect, but you and your eidolon must 
+be on the same plane. You can end this effect as a free action. 
+Eidolon You can summon to your side a powerful outsider called an eidolon. The eidolon forms a link with 
+you, who forever after summons an aspect of the same creature. Your eidolon must have an alignment 
+within one step of your own and can speak all your languages. Your eidolon is treated as a summoned 
+creature, except it is not sent back to its home plane until reduced to a number of negative hit points 
+equal to or greater than its Constitution score. In addition, due to its tie to you, your eidolon can touch 
+and attack creatures warded by protection from evil and similar effects that prevent contact with 
+summoned creatures. 
+Summoning your eidolon requires a ritual that takes 1 minute to perform. When summoned in this 
+way, your eidolon’s hit points are unchanged from the last time it was summoned. The only exception to 
+this is if your eidolon was slain, in which case it returns with half its normal hit points. Eidolons do not 
+heal naturally. Your eidolon remains until dismissed by you as standard action. If your eidolon is sent 
+back to its home plane due to death, it cannot be summoned again until the following day. Your eidolon 
+cannot be sent back to its home plane by means of dispel magic, but spells such as dismissal and 
+banishment function normally. If you are unconscious, asleep, or killed, your eidolon is immediately 
+banished. 
+Your eidolon bears a glowing rune that is identical to a rune that appears on your forehead as long as 
+your eidolon is summoned. While this rune can be hidden through mundane means, it cannot be 
+concealed through magic that changes appearance, such as alter self or polymorph (although invisibility 
+does conceal it as long as the spell lasts). 
+Fiendish Calling (Su) Your summon monster ability can additionally be used as lesser planar binding as a 
+standard action, but only to call evil outsiders. 
+Life Link (Su) Whenever your eidolon takes enough damage to send it back to its home plane, as a reaction to 
+the damage, you can sacrifice any number of hit points you have without using an action. Each hit point 
+sacrificed in this way prevents 1 point of damage dealt to your eidolon. This can prevent your eidolon 
+from being sent back to its home plane. 
+In addition, you and your eidolon must remain within 100 feet of one another for your eidolon to 
+remain at full strength. If your eidolon is beyond 100 feet but closer than 1,000 feet, its current and 
+maximum hit point totals are reduced by 50%. If your eidolon is more than 1,000 feet away but closer 
+than 10,000 feet, its current and maximum hit point totals are reduced by 75%. If your eidolon is more 
+than 10,000 feet away, it is immediately returned to its home plane. Current hit points lost in this way 
+are not restored when your eidolon gets closer to you, but its maximum hit point total does climb to the 
+levels indicated and eventually returns to normal. 
+Maker’s Call (Su) As a standard action, you can call your eidolon to your side. This functions as dimension 
+door, using your summoner caster level. When this ability is used, your eidolon appears adjacent to you 
+
+(or as close as possible if all adjacent spaces are occupied). If your eidolon is out of range, the ability is 
+wasted. You can use this ability twice per day. 
+Summon Monster V (Sp) You can cast summon monster V as a spell-like ability a number of times per day 
+equal to 3 + your Charisma modifier. Drawing on this ability uses up the same power that you use to call 
+your eidolon. Thus, you can use this ability only when your eidolon is not summoned. You can cast this 
+spell as a standard action, and the creatures remain for 1 minute per level (instead of 1 round per level). 
+You cannot have more than one summon monster spell active in this way at one time. If this ability is 
+used again, any existing summon monster from this spell-like ability immediately ends. These summon 
+spells are part of your spell list for the purposes of spell trigger and spell completion items. In addition, 
+you can expend uses of this ability to fulfill the construction requirements of any magic item you create, 
+so long as you can use this ability to cast the required spell. 
+ 
+Chaerim Witch 
+Aberrant Eidolon 
+CE Large outsider (aberrant) 
+Init +3; Senses darkvision 60 ft.; Perception +11 
+Languages as summoner 
+DEFENSE 
+AC 28, touch 12, flat-footed 25 (+4 armor, +3 Dex, +12 natural, –1 size); 
+mage armor 
+hp 92 (8 HD) 
+Fort +10, Ref +5, Will +6 
+Defensive Abilities evasion; Immunities mind-affecting effects 
+OFFENSE 
+Speed 20 ft. (4 squares), swim 20 ft. 
+Melee tentacle mass +12 (1d8+5 plus grab), bite +12 (1d8+5), 2 claws +12 
+(1d6+5), tentacle +10 (1d6+2) 
+Ranged improvised boulder +6 (1d8+5) 
+Space 10 ft.; Reach 5 ft. (10 ft. with tentacle mass) 
+Special Attacks constrict (1d8+5) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 16 (+3), Con 18 (+4), Int 8 (–1), Wis 10 (+0), Cha 11 (+0) 
+Base Atk +8; CMB +14 (+20 grapple); CMD 24 (26 vs. grapple) 
+Skills Bluff +11, Knowledge (planes) +10, Perception +11, Stealth +10, Sense Motive +11 
+Feats Body Shield, Combat Reflexes, Dirty Fighting, Improved Grapple, MultiattackB 
+SQ evolutions, link, multiattack, share spells 
+Combat Gear 50-lb. boulders (5); Possessions healer’s kit 
+Encumbrance light 399 lb., medium 798 lb., heavy 1,200 lb.; Weight Carried 251 lb. 
+SPECIAL ABILITIES 
+Evolutions bite
+F, claws, constrict, grab (tentacle massF), large, limbs (arms), magic attacks, reach (tentacle 
+mass), tentacle massF 
+Evasion (Ex) If subjected to an attack that normally allows a Reflex save for half damage, your eidolon takes 
+no damage if it succeeds at its saving throw. 
+Link (Ex) You and your eidolon share a mental link that allows for communication across any distance (if both 
+are on the same plane). This communication is a free action, allowing you to give orders to your eidolon 
+at any time. In addition, magic items interfere with your connection to your eidolon. Thus, you and your 
+eidolon share magic item slots. For example, if you are wearing a ring, your eidolon can wear no more 
+than one ring. In case of a conflict, the items worn by you remain active, and those used by your eidolon 
+become dormant. Your eidolon must possess the appropriate appendages to use a magic item. 
+
+Magic Attacks (Su) Your eidolon’s natural attacks count as magic and chaotic for the purposes of bypassing 
+damage reduction. 
+Share Spells (Ex) You can cast a spell with a target of “you” on your eidolon (as a spell with a range of touch) 
+instead of on yourself. You can cast spells on your eidolon even if the spells normally do not affect 
+creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner spell 
+list. This ability does not allow your eidolon to share abilities that are not spells, even if they function 
+like spells. 

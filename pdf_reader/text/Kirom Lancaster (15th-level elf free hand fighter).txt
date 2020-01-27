@@ -1,0 +1,99 @@
+
+
+ 
+
+ 
+
+Kirom Lancaster 
+Female elf fighter 6/duelist 9 (weapon master) 
+CG Medium humanoid (elf) 
+Init +10; Senses low-light vision; Perception +20 
+Languages Common, Draconic, Elven, Gnoll, Gnome, Goblin, Orc, Sylvan 
+DEFENSE 
+AC 40, touch 28, flat-footed 27 (+9 armor, +4 deflection, +6 Dex, +1 dodge, +1 
+insight, +6 Int, +3 natural) 
+hp 145 (15 HD) 
+Fort +16, Ref +18, Will +10; +2 vs. enchantment effects 
+Defensive Abilities canny defense, elaborate defense, parry; Immune magical 
+sleep effects 
+OFFENSE 
+Speed 35 ft. (7 squares) 
+Melee +3 agile keen rapier +27/+22/+17 (1d6+12/15-20) or 
++3 agile keen rapier +27/+22/+17 (1d6+21/15-20) with precise strike, or 
+unarmed strike +21/+16/+11 (1d3+2) 
+Ranged +2 returning chakram +23 (1d8+4) 
+Special Attacks acrobatic charge, no retreat, precise strike +9, riposte, weapon training (rapier +3) 
+STATISTICS 
+Abilities Str 14 (+2), Dex 22 (+6), Con 14 (+2), Int 22 (+6), Wis 10 (+0), Cha 8 (–1) 
+Base Atk +15; CMB +17 (+24 disarm with rapier); CMD 44 (53 vs. disarm/sunder attempts against rapiers) 
+Feats Combat Reflexes
+B (7 AoO’s/round), Crane Style, Crane Riposte, Crane Wing, Critical Focus, Deflect 
+ArrowsB (see below), Dodge
+B, Following Step, Improved Unarmed Strike
+B, Mobility
+B, Spring Attack, 
+Step Up, Step Up and Strike, Weapon Finesse
+B 
+Skills Acrobatics +22, Bluff +17 (+22 to feint), Escape Artist +22, Handle Animal +17, Perception +20, 
+Perform (dance) +11, Ride +22, Sense Motive +18, Stealth +19, Survival +12 (+14 to avoid becoming 
+lost); Armor Check Penalty –2; Racial Modifiers +2 Perception 
+SQ enhanced mobility, grace, improved reaction +4, silent hunter, weapon familiarity 
+Combat Gear oils/potions (cure light wounds 4, fly 4, grease 4); Other Gear +2 returning chakram, +3 agile 
+keen rapier, amulet of natural armor +3, backpack, belt of incredible dexterity +4, bit and bridle, boots 
+of speed (doubles as boots of the cat), cage (tiny), caltrops, canteen, cape of bravado, cloak of resistance 
++5, Elven trail rations (for 4 days), falconry gauntlet, flint and steel, gear maintenance kit, glamered 
+celestial armor, gloves of dueling, hammock, headband of vast intellect +4 (handle animal, ride), light 
+combat trained horse, mess kit, military saddle, mirror, perfume, pet falcon (trained in performance; also 
+knows the watch trick), ring of protection +4, saddlebags with feed (for 4 days), signal whistle, soap, 
+skeleton key (+10 bonus), tender (19gp, 8sp, 9sp) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 56 lb. 10 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Acrobatic Charge (Ex) You may charge over difficult terrain that normally slows movement. Depending on 
+the circumstance, you may still need to make appropriate checks to successfully move over the terrain. 
+Canny Defense (Ex) When wearing light or no armor and not using a shield, you add 1 point of Intelligence 
+bonus (if any) per duelist class level as a dodge bonus to your Armor Class while wielding a melee 
+weapon. If you are caught flat-footed or otherwise denied your Dexterity bonus, you also lose this 
+bonus. 
+Combat Reflexes You gain the benefit of the Combat Reflexes feat when using a light or one-handed piercing 
+weapon (included above). 
+
+ 
+
+ 
+
+Deflect Arrows You gain the benefit of the Deflect Arrows feat when using a light or one-handed piercing 
+weapon (included above). You do not need a free hand to use this feat. 
+Elaborate Defense (Ex) If you choose to fight defensively or use total defense in melee combat, you gain an 
+additional +3 dodge bonus to AC. 
+Enhanced Mobility (Ex) When wearing light or no armor and not using a shield, you gain an additional +4 
+bonus to AC against attacks of opportunity caused when you move out of a threatened square. 
+Grace (Ex) You gain an additional +2 competence bonus on all Reflex saving throws (included above). This 
+ability functions for you only when you are wearing light or no armor and not using a shield. 
+Improved Reaction (Ex) You gain a +4 bonus on initiative checks (included above). This bonus stacks with 
+the benefit provided by the Improved Initiative feat. 
+Long-Limbed You have a base move speed of 35 feet, rather than 30 feet. 
+No Retreat (Ex) Enemies adjacent to you that take a withdraw action provoke an attack of opportunity from 
+you. 
+Parry (Ex) Whenever you take a full attack action with a light or one-handed piercing weapon, you can elect 
+not to take one of your attacks. At any time before your next turn, you can attempt to parry an attack 
+against you or an adjacent ally as an immediate action. To parry the attack, you make an attack roll, 
+using the same bonuses as the attack you chose to forego during your previous action. If your attack roll 
+is greater than the roll of the attacking creature, the attack automatically misses. For each size category 
+that the attacking creature is larger than you, you take a –4 penalty on your attack roll. You also take a   
+–4 penalty when attempting to parry an attack made against an adjacent ally. You must declare the use 
+of this ability after the attack is announced, but before the roll is made. 
+Precise Strike (Ex) You gain the ability to strike precisely with a light or one-handed piercing weapon, adding 
+your duelist level to your damage roll. When making a precise strike, you cannot attack with a weapon 
+in your other hand or use a shield. Your precise strike only works against living creatures with 
+discernible anatomies. Any creature that is immune to critical hits is also immune to a precise strike, and 
+any item or ability that protects a creature from critical hits also protects a creature from a precise strike. 
+Reliable Strike (Ex) Once per day you may reroll an attack roll, critical hit confirmation roll, miss chance 
+check, or damage roll as an immediate action. You must accept the second roll even if it is worse. 
+Riposte (Ex) You can make an attack of opportunity against any creature whose attack you successfully parry, 
+so long as the creature you are attacking is within reach. 
+Silent Hunter You reduce the penalty for using Stealth while moving by 5 and can make Stealth checks while 
+running at a –20 penalty (this number includes the penalty reduction from this racial trait). 
+Weapon Guard (Ex) You gain a +2 bonus to CMD against disarm and sunder attempts while wielding your 
+chosen weapon. This bonus also applies on saves against any effect that targets your chosen weapon (for 
+example, grease, heat metal, shatter, warp wood). 
+Weapon Training (Ex) You gain a +3 bonus on attack and damage rolls with your chosen weapon. 

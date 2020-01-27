@@ -1,0 +1,105 @@
+
+
+Jamaver Bloodblade 
+  
+
+Female human magus 7 
+N Medium humanoid 
+Init +2; Senses Perception +0 
+Languages Common, Goblin, Orc 
+DEFENSE 
+AC 19, touch 12, flat-footed 17 (+5 armor, +2 Dex, +2 shield) 
+hp 65 plus false life (7 HD) 
+Fort +8, Ref +5, Will +6 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 adamantine gladius +9 (1d6+3/19-20) or 
++1 adamantine gladius +13 (1d6+3/19-20) with Arcane 
+Accuracy, or 
++3 adamantine gladius +11 (1d6+5/19-20) with Arcane Pool, or 
++3 adamantine gladius +15 (1d6+5/19-20) with Arcane Pool and 
+Arcane Accuracy, or 
+Ranged  mithral chakram +8 (1d8+2) 
+Special Attacks arcane accuracy +4, arcane pool (7 points, +2 bonus), 
+performance combat +11, pool strike (3d6), spell combat, 
+spellstrike 
+Magus Spells Prepared (CL 7
+th; Concentration +11) 
+3rd (2/day) – haste, heroism
+B 
+2nd (4/day) – acid arrow, brow gasherUC, bull’s strength, mirror image 
+1
+st (5/day) – frostbite
+UM, magic missile, shocking grasp, true strike, vanish 
+0 (at will) – dancing lights, detect magic, ghost sound, light, prestidigitation 
+STATISTICS 
+Abilities Str 14 (+2), Dex 14 (+2), Con 14 (+2), Int 18 (+4), Wis 10 (+0), Cha 12 (+4) 
+Base Atk +5; CMB +7; CMD 19 
+Feats Dazzling Display, Dramatic Display
+B, Extra Arcana
+B (2), Performing Combatant, Weapon Focus (short 
+sword) 
+Skills Acrobatics +8, Intimidate +14, Knowledge (arcana) +15, Perform (dance) +14, Profession (gladiator) 
++13, Spellcraft +15, Use Magic Device +14 
+SQ knowledge pool (4 max), magus arcana (enduring blade, spell blending: heroism), medium armor, spell 
+recall 
+Combat Gear wand of cure light wounds (12 charges); Other Gear +1 adamantine gladius, +1 glamered 
+mithral armored coat, +1 mithral buckler, circlet of persuasion, mithral chakram (5), cloak of resistance 
++1, spellbooks (2) (72 pages), spell component pouch, tender (100sp) 
+Spellbook all magus spells of 2nd-level and lower from the Pathfinder Reference Document, plus burst of 
+speed
+UC, haste, and heroism
+B 
+Encumbrance light 173 lb., medium 346 lb., heavy 520 lb.; Weight Carried 26 lb. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Arcane Accuracy (Su) You can expend 1 point from your arcane pool as a swift action to grant yourself an 
+insight bonus equal to your Intelligence bonus on all attack rolls until the end of your turn. 
+Arcane Pool (Su) You have a reservoir of mystical arcane energy that you can draw upon to fuel your powers 
+and enhance your weapon. This arcane pool has a number of points equal to ½ your magus level 
+(minimum 1) + your Intelligence modifier. The pool refreshes once each day when you prepare your 
+spells. You can expend 1 point from your arcane pool as a swift action to grant any weapon you are 
+holding a +2 enhancement bonus for 1 minute. These bonuses can be added to the weapon, stacking with 
+existing weapon enhancement to a maximum of +5. Multiple uses of this ability do not stack with 
+themselves. These bonuses can be used to add any of the following weapon properties: dancing, flaming, 
+flaming burst, frost, icy burst, keen, shock, shocking burst, speed, or vorpal. Adding these properties 
+consumes an amount of bonus equal to the property’s cost. These properties are added to any the 
+weapon already has, but duplicates do not stack. If the weapon is not magical, at least a +1 enhancement 
+bonus must be added before any other properties can be added. These bonuses and properties are 
+decided when the arcane pool point is spent and cannot be changed until the next time you use this 
+ability. These bonuses do not function if the weapon is wielded by anyone other than you. You can only 
+enhance one weapon in this way at one time. If you use this ability again, the first use immediately ends. 
+Enduring Blade (Su) Whenever you enchant your weapon using your arcane pool, you may spend 1 additional 
+point from your arcane pool to increase the duration to 1 minute per magus level. 
+Knowledge Pool (Su) When you prepare your magus spells, you can decide to expend 1 or more points from 
+your arcane pool, up to your Intelligence bonus. For each point you expend, you can treat any one spell 
+from the magus spell list as if it were in your spellbook and can prepare that spell as normal that day. If 
+you do not cast spells prepared in this way before the next time you prepares spells, you loses those 
+spells. You can also cast spells added in this way using you pool spell ability, but only until you prepare 
+spells again. 
+Medium Armor (Ex) You can cast magus spells while wearing light or medium armor without incurring the 
+normal arcane spell failure chance. Like any other arcane spellcaster, when using a shield or wearing 
+heavy armor you incur a chance of arcane spell failure if the spell in question has a somatic component. 
+Pool Strike (Su) You can expend 1 point from your arcane pool as a standard action to charge your free hand 
+with energy. You can make a melee touch attack with that hand as a free action as part of activating this 
+ability. If the touch attack hits, it releases the charge and deals 2d6 points of energy damage (acid, cold, 
+electricity, or fire, chosen when you spend the arcane pool point to activate this ability). You can use 
+this ability with the spellstrike class feature. If you miss with this attack, you can hold the charge for up 
+to 1 minute before it dissipates. At 6th level, and every three levels thereafter, the amount of damage 
+dealt by this attack increases by 1d6. 
+Spell Blending (Ex) You treat one or more wizard spells (shown above) as magus spells. You know them for 
+free. 
+Spell Recall (Su) With a swift action you can recall any single magus spell that you have already prepared and 
+cast that day by expending a number of points from your arcane pool equal to the spell’s level 
+(minimum 1). The spell is prepared again, just as if it had not been cast. 
+Spellstrike (Su) Whenever you cast a spell with a range of “touch” from the magus spell list, you can deliver 
+the spell through any weapon you are wielding as part of a melee attack. Instead of the free melee touch 
+attack normally allowed to deliver the spell, you can make one free melee attack with your weapon (at 
+your highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its 
+normal damage as well as the effects of the spell. If you make this attack in concert with spell combat, 
+this melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the 
+weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar 
+effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage 
+uses its own critical modifier. 
+ 

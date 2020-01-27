@@ -1,0 +1,52 @@
+
+
+Seregon   
+  
+
+Male human fighter 20 
+CN Medium humanoid 
+Init +7; Senses Perception +22 
+Languages Common, Giant 
+DEFENSE 
+AC 60, touch 22, flat-footed 53 (+14 armor, +5 deflection, +7 
+Dex, +15 natural, +9 shield) 
+hp 253 (20 HD); Fast Healing 1 
+Fort +22, Ref +18, Will +13; +5 vs. fear 
+Defensive Abilities bravery +5, heavy fortification; DR 5/–; 
+Immune bleed 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee Guruthos +40/+40/+35/+30/+25 (2d6+25/17-20/×3) or 
+Guruthos +40/+34/+29/+24/+19 (2d6+43/17-20/×3) with Power Attack, or 
+Guruthos +35/+35/+30/+25/+20 (2d6+25 plus stun/17-20/×3) with Stunning Assault, or 
+Guruthos +35/+29/+24/+19/+14 (2d6+43 plus stun/17-20/×3) with Stunning Assault and Power Attack, 
+or 
+Geol +35/+30/+25/+20 (1d6+18) or 
+Geol +35/+24/+19/+14 (1d6+39) with Power Attack, or 
+Geol +30/+25/+20/+15 (1d6+18 plus stun) with Stunning Assault, or 
+Geol +30/+19/+14/+9 (1d6+39 plus stun) with Stunning Assault and Power Attack 
+Ranged Geol +35 (1d6+15) 
+Special Attacks weapon mastery, weapon training (heavy blades +6, hammers +5, close +4, thrown +3) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 24 (+7), Con 20 (+5), Int 13 (+1), Wis 14 (+2), Cha 8 (–1) 
+Base Atk +20; CMB +27 (+38 with Guruthos, +33 with Geol); CMD 49 (53 vs. disarm/sunder, 69 vs. bull 
+rush/grapple, cannot be disarmed of Guruthos) 
+Feats Furious FocusB, Greater Penetrating Strike (greatsword
+B), Greater Shield Focus
+B, Greater Weapon Focus 
+(greatsword
+B), Greater Weapon Specialization (greatsword
+B), Improved Natural Armor (9), Ironhide, 
+Penetrating Strike (greatswordB), Power Attack
+B, Racial Heritage (dwarf
+B), Shield FocusB, Stunning 
+AssaultB (Fort DC 30 negates), Weapon Focus (greatswordB), Weapon Specialization (greatswordB) 
+Skills Acrobatics +32 (+36 when jumping), Climb +30, Perception +22, Swim +30 
+SQ armor mastery, armor training 4 
+Combat Gear potions of cure serious wounds (10), potions of enlarge person (10), potions of fly (10); Other 
+Gear +5 animated heavy mithral shield, +5 defending distance returning shortspear (Geol), +5 
+determination heavy fortification mithral full plate, +5 keen speed adamantine greatsword (Guruthos), 
+amulet of natural armor +5, belt of physical perfection +6, boots of striding and springing, cloak of 
+resistance +5, gloves of dueling, ring of protection +5, ring of regeneration, tender (1,129gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 48 lb. 6 oz. (excluding tender) 
+ 

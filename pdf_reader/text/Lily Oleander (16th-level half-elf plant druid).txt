@@ -1,0 +1,114 @@
+
+
+Lily Oleander 
+Female half-elf druid 16 
+N Medium humanoid (elf, human) 
+Init +5; Senses low-light vision; Perception +29 
+Languages Common, Draconic, Druidic, Elven, Sylvan 
+DEFENSE 
+AC 23, touch 15, flat-footed 18 (+8 armor, +5 Dex) 
+hp 130 (16 HD) 
+Fort +13, Ref +11, Will +19 
+Defensive Abilities resist nature’s lure; Immune aging, magical sleep, 
+poison 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +4 guided spell storing scorpion whip +24/+19/+14 (1d4+12 plus 
+poison) or 
++3 guided armor spikes +23/+18/+13 (1d6+11 plus poison) or 
+wooden fists +17/+12/+7 (1d3+8 plus poison) 
+Ranged +1 seeking spell storing blowgun +18/+13/+8 (1d2+1 plus poison) 
+Special Attacks bramble armor 1d6+8 (17 rounds/day), wild shape 7/day, wooden fist +8 (11 rounds/day) 
+Druid Spells Prepared (CL 16th, CL 17th with plant-based spells; Concentration +24) 
+8th  (4/day) – blood mistUM, control plants
+D, deadly kiss (as finger of death) (2) 
+7th  (5/day) – animate plantsD (2), changestaff, control weather, heal 
+6th  (5/day) – liveoak, mass cure light wounds, repel woodD, transport via plants (2) 
+5
+th  (6/day) – awakenM, commune with nature, cure critical wounds, treestride, wall of thorns
+D (2) 
+4th  (7/day) – arboreal hammerUM, command plantsD, cure serious wounds (2), freedom of movement (2), 
+repel vermin 
+3rd  (7/day) – burrow
+UM, burst of nettlesUM, daylight, fungal infestation
+UM, plant growth
+D, poison, wall of 
+spores (as wind wall) 
+2
+nd (7/day) – barkskin
+D (2), delay poison, resist energy, pernicious poisonUM, spore cloud (as fog cloud), 
+tree shape 
+1
+st  (7/day) – endure elements, entangle
+D (5), pass without trace 
+0  (at will) – create water, detect magic, detect poison, light 
+D Domain spell; Domain Plant 
+STATISTICS 
+Abilities Str 10 (+0), Dex 20 (+5), Con 14 (+2), Int 14 (+2), Wis 26 (+8), Cha 10 (+0) 
+Base Atk +12; CMB +12 (+26 disarm/trip with whip); CMD 27 
+Feats Craft Magic Arms and Armor, Exotic Weapon Proficiency (scorpion whip), Greater Disarm, Greater 
+Trip, Improved Disarm, Improved Trip, Master Alchemist, Skill Focus (craft: alchemy
+B) 
+Skills Craft (alchemy) +29, Heal +27, Knowledge (nature +23), Perception +29, Ride +24, Spellcraft +21, 
+Survival +29 
+SQ a thousand faces, elf blood, nature bond (plant domain), nature sense, resist nature’s lure, timeless body, 
+trackless step, venom immunity, wild empathy +16, woodland stride 
+Combat Gear blowgun darts (100), poisons (black lotus extract 5, oil of taggit 50), wand of cure light wounds 
+(40 charges); Other Gear +1 seeking spell storing blowgun (imbued with fungal infestation), +5 wild 
+ironwood studded leather with +3 guided armor spikes (armor spike studs are made of greenwood 
+enchanted by the ironwood spell and look like thorns), +4 guided spell storing scorpion whip (looks like 
+a thorny vine, often contains the poison spell along with real poison), all tools vest, apples of eternal 
+sleep (3), belt of incredible dexterity +6, cloak of resistance +1 (doubles as muleback cords), 
+hollywreath band (doubles as a headband of inspired wisdom +4), quarterstaff, tender (905gp) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 46 lb. (excluding tender) 
+
+SPECIAL ABILITIES 
+A Thousand Faces (Su) You can change your appearance at will, as if using the alter self spell, but only while 
+in your normal form. 
+Bramble Armor (Su) You can cause a host of wooden thorns to burst from your skin as a free action. While 
+bramble armor is in effect, any foe striking you with an unarmed strike or a melee weapon without reach 
+takes 1d6 points of piercing damage + 1 point per two druid levels you possess. You can use this ability 
+for a number of rounds per day equal to your druid level. These rounds do not need to be consecutive. 
+Nature Sense (Ex) You gain a +2 bonus to knowledge: nature checks and Survival checks (included above). 
+Poisons You carry of variety of poisons, primarily for use with your poisoner’s glove: 
+Black lotus extract—contact; save Fort DC 20, onset 1 minute, frequency 1/round for 6 rounds, effect 
+1d3 Str, cure 2 consecutive saves. 
+Oil of taggit—ingested; save Fort DC 15, onset 1 minute, effect unconsciousness for 1d3 hours, cure 1 
+save. 
+Resist Nature’s Lure (Ex) You gain a +4 bonus on saving throws against the spell-like and supernatural 
+abilities of fey. This bonus also applies to spells and effects that utilize or target plants, such as blight, 
+entangle, spike growth, and warp wood. 
+Timeless Body (Ex) You do not take ability score penalties for aging and cannot be magically aged. Any 
+penalties you may have already incurred, however, remain in place. Bonuses still accrue, and you still 
+die of old age when your time is up. 
+Trackless Step (Ex) You leave no trail in natural surroundings and cannot be tracked. You may choose to leave 
+a trail if so desired. 
+Wild Empathy (Ex) You can improve the attitude of an animal. This ability functions just like a Diplomacy 
+check made to improve the attitude of a person. You roll 1d20 and add your druid level and your 
+Charisma modifier to determine the wild empathy check result. The typical domestic animal has a 
+starting attitude of indifferent, while wild animals are usually unfriendly. To use wild empathy, you and 
+the animal must be within 30 feet of one another under normal conditions. Generally, influencing an 
+animal in this way takes 1 minute but, as with influencing people, it might take more or less time. 
+Additionally, you may also use this ability to influence a magical beast with an Intelligence score of 1 or 
+2, but you take a –4 penalty on the check. 
+Wild Shape (Su) You have the ability to turn yourself into a variety of creatures and back again seven times per 
+day. Your options for new forms include animals of Diminutive to Huge size, elementals of Small to 
+Huge size, and plant creatures of Small to Huge size. This ability functions like the beast shape III spell 
+(for animals), the elemental body IV spell (for elementals) or as the plant shape III spell (for plant 
+creatures), except as noted here. The effect lasts for 1 hour per druid level, or until you change back. 
+Changing form (to animal or back) is a standard action and doesn’t provoke an attack of opportunity. 
+The form chosen must be that of an animal, elemental, or plant creature with which you are familiar. 
+You lose your ability to speak while in animal form because you are limited to the sounds that a normal, 
+untrained animal can make, but you can communicate normally with other animals of the same general 
+grouping as your new form. (The normal sound a wild parrot makes is a squawk, so changing to this 
+form does not permit speech.) 
+Wooden Fist (Su) As a free action, your hands can become as hard as wood, covered in tiny thorns. While you 
+have wooden fists, your unarmed strikes do not provoke attacks of opportunity, deal lethal damage, and 
+gain a bonus on damage rolls equal to ½ your druid level (minimum +1). You can use this ability for a 
+number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be 
+consecutive. 
+Woodland Stride (Ex) You may move through any sort of undergrowth (such as natural thorns, briars, 
+overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any 
+other impairment. Thorns, briars, and overgrown areas that have been magically manipulated to impede 
+motion, however, still affect you. 
+ 

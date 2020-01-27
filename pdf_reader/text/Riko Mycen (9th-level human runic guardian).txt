@@ -1,0 +1,153 @@
+
+
+Riko Mycen 
+  
+
+Male human inquisitor 9 
+CG Medium humanoid 
+Init +6; Senses Perception +20 
+Languages Common, Dwarven, Elven 
+DEFENSE 
+AC 26, touch 15, flat-footed 23 (+6 armor, +2 deflection, +3 Dex, +2 natural, 
++3 shield) 
+hp 83 (9 HD) 
+Fort +11, Ref +8, Will +11 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +1 menacing longsword +11/+6 (1d8+5/19-20) with one hand, or 
++1 menacing longsword +11/+6 (1d8+7/19-20) with two hands 
+Ranged +1 composite longbow +10/+5 (1d8+5/×3) or 
+mwk bolas +10/+5 (1d4+4 nonlethal) or 
+mwk javelin +10/+5 (1d6+4) or 
+mwk sling +10 (1d4+4) 
+Special Attacks bane (9 rounds/day), judgment 3/day (any two), spell rune 
+Spell-Like Abilities (CL 9th; concentration +12) 
+At-will – detect chaos, detect evil, detect good, detect law, discern lies (immediate action, up to 9 
+rounds/day) 
+6/day – blast rune (1d6+4 energy damage, 9 rounds) 
+Inquisitor Spells Known (CL 9th; concentration +12) 
+3rd (4/day) – blood biographyAPG, glyph of warding
+M, heroism, magic circle against evil 
+2nd (5/day) – bloodhoundAPG, cure moderate wounds, hold person, invisibility, knock, shield otherF, 
+silence 
+1
+st (6/day) – alarm, burst bondsAPG, comprehend languages, cure light wounds, disguise self, divine 
+favor, tireless pursuitAPG, wrathAPG 
+0 (at will) – brandAPG, create water, detect magic, detect poison, guidance, light, read magic, siftAPG, 
+stabilize 
+Domain rune 
+STATISTICS 
+Abilities Str 18 (+4), Dex 16 (+3), Con 16 (+3), Int 14 (+2), Wis 16 (+3), Cha 10 (+0) 
+Base Atk +6; CMB +10 (+12 with longsword); CMD 23 
+Feats Craft Wondrous Item, Endurance
+B, Exotic Weapon Proficiency (bolas), Extend Spell, LookoutB, 
+OutflankB, Precise StrikeB, Quick Draw, Reach Spell, Scribe Scroll
+B 
+Skills Intimidate +16, Knowledge (arcana) +14 (+17 monster identification), Knowledge (nature) +14 (+17 
+monster identification), Perception +20, Sense Motive +19, Spellcraft +14, Stealth +15, Survival +19 
+(+28 tracking); Armor Check Penalty –2 
+SQ cunning initiative +3, heart of the wilderness +4, monster lore +3, second judgment, solo tactics, stern gaze 
++4, teamwork feat (3/day), track +4 
+Combat Gear arrows (20), divine spell scrolls (cure light wounds [15], disguise self [4], invisibility [CL 4
+th] 
+[2], wrath [CL 9
+th] [2]), sling bullets (10); Other Gear +1 composite longbow (+4 strength bonus), +1 
+menacing longsword, +2 armored coat, +2 light steel quickdraw shield, amulet of natural armor +2, 
+belt of physical perfection +2, cloak of resistance +2, lens of detection, masterwork bolas (2), 
+masterwork javelins (4), masterwork sling, ring of protection +2, shield other spell focus, tender (4sp), 
+wooden holy symbol 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 57 lb. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Bane (Su) You can imbue one of your weapons with the bane weapon special ability as a swift action. You 
+must select one creature type when you use this ability (and a subtype if the creature type selected is 
+humanoid or outsider). Once selected, the type can be changed as a swift action. This ability only 
+functions while you wield the weapon. If dropped or taken, the weapon resumes granting this ability if it 
+is returned to you before the duration expires. This ability lasts for a number of rounds per day equal to 
+your inquisitor level. These rounds do not need to be consecutive. 
+Blast Rune (Sp) As a standard action, you can create a blast rune in any adjacent square. Any creature entering 
+this square takes 1d6 points of damage + 1 point for every two inquisitor levels you possess. This rune 
+deals either acid, cold, electricity, or fire damage, decided when you create the rune. The rune is 
+invisible and lasts a number of rounds equal to your inquisitor level or until discharged. You cannot 
+create a blast rune in a square occupied by another creature. This rune counts as a 1
+st-level spell for the 
+purposes of dispelling. It can be discovered with a DC 26 Perception skill check and disarmed with a 
+DC 26 Disable Device skill check. You can use this ability a number of times per day equal to 3 + your 
+Wisdom modifier. 
+Cunning Initiative (Ex) You add your Wisdom modifier on initiative checks, in addition to your Dexterity 
+modifier (included above). 
+Discern Lies (Sp) You can discern lies, as per the spell, for a number of rounds per day equal to your inquisitor 
+level. These rounds do not need to be consecutive. Activating this ability is an immediate action. 
+Heart of the Wilderness You gain a bonus equal to half your character level on Survival checks (included 
+above). You also gain a +5 bonus on Constitution checks to stabilize when dying and add half your 
+character level to your Constitution score when determining the negative hit point total necessary to kill 
+you. 
+Judgment (Su) You can pronounce judgment upon your foes as a swift action. Starting when the judgment is 
+made, you receive a bonus or special ability based on the type of judgment made. Once activated, this 
+ability lasts until the combat ends, at which point all of the bonuses immediately end. You must 
+participate in the combat to gain these bonuses. If you are frightened, panicked, paralyzed, stunned, 
+unconscious, or otherwise prevented from participating in the combat, the ability does not end, but the 
+bonuses do not resume until you can participate in the combat again. When you use this ability, you 
+must select two types of judgments to make. As a swift action, you can change this judgment to another 
+type. All your judgment bonuses are sacred bonuses. The types of judgments are shown below. 
+Monster Lore (Ex) You add your Wisdom modifier on Knowledge skill checks in addition to your Intelligence 
+modifier, when making skill checks to identify the abilities and weaknesses of creatures. 
+Second Judgment (Ex) Whenever you use your judgment ability, you select two different judgments, instead 
+of one. This only consumes one use of your judgment ability. As a swift action, you can change one of 
+these judgments to another type. 
+Solo Tactics (Ex) All of your allies are treated as if they possessed the same teamwork feats as you for the 
+purpose of determining whether you receive a bonus from your teamwork feats. Your allies do not 
+receive any bonuses from these feats unless they actually possess the feats themselves. The allies’ 
+positioning and actions must still meet the prerequisites listed in the teamwork feat for you to receive the 
+listed bonus. 
+Spell Rune (Sp) You can attach another spell that you cast to one of your blast runes, causing that spell to 
+affect the creature that triggers the rune, in addition to the damage. This spell must be of at least one 
+level lower than the highest-level inquisitor spell you can cast and it must target one or more creatures. 
+Regardless of the number of targets the spell can normally affect, it only affects the creature that triggers 
+the rune. 
+Stern Gaze (Ex) You receive a morale bonus on all Intimidate and Sense Motive checks equal to ½ your 
+inquisitor level. 
+
+Teamwork Feat As a standard action, you can choose to learn a new bonus teamwork feat in place of the most 
+recent bonus teamwork feat you have already learned. In effect, you lose the bonus feat in exchange for 
+the new one. You can only change the most recent teamwork feat gained. Whenever you gain a new 
+teamwork feat, the previous teamwork feat becomes set and cannot be changed again. You can change 
+your most recent teamwork feat a number of times per day equal to your Wisdom modifier. 
+Track (Ex) You add half your inquisitor level on Survival skill checks made to follow or identify tracks. 
+ 
+JUDGMENT SELECTIONS 
+Destruction You are filled with divine wrath, gaining a +1 sacred bonus on all weapon damage rolls. This 
+bonus increases by +1 for every three inquisitor levels you possess. 
+Healing You are surrounded by a healing light, gaining fast healing 1. This causes you to heal 1 point of 
+damage each round as long as you are alive and the judgment lasts. The amount of healing increases by 
+1 point for every three inquisitor levels you possess. 
+Justice This judgment spurs you to seek justice, granting a +1 sacred bonus on all attack rolls. This bonus 
+increases by +1 for every five inquisitor levels you possess. At 10
+th level, this bonus is doubled on all 
+attack rolls made to confirm critical hits. 
+Piercing This judgment gives you great focus and makes your spells more potent. This benefit grants a +1 
+sacred bonus on concentration checks and caster level checks made to overcome a target’s spell 
+resistance. This bonus increases by +1 for every three inquisitor levels you possess. 
+Protection You are surrounded by a protective aura, granting a +1 sacred bonus to Armor Class. This bonus 
+increases by +1 for every five inquisitor levels you possess. At 10
+th level, this bonus is doubled against 
+attack rolls made to confirm critical hits against you. 
+Purity You are protected from the vile taint of your foes, gaining a +1 sacred bonus on all saving throws. This 
+bonus increases by +1 for every five inquisitor levels you possess. At 10
+th level, the bonus is doubled 
+against curses, diseases, and poisons. 
+Resiliency This judgment makes you resistant to harm, granting DR 1/magic. This DR increases by 1 for every 
+five levels you possess. At 10
+th level, this DR changes from magic to an alignment (chaotic, evil, good, 
+or lawful) that is opposite of yours. If you are neutral, you do not receive this increase. 
+Resistance You are shielded by a flickering aura, gaining 2 points of energy resistance against one energy type 
+(acid, cold, electricity, fire, or sonic) chosen when the judgment is declared. The protection increases by 
+2 for every three inquisitor levels you possess. 
+Smiting This judgment bathes your weapons in a divine light. Your weapons count as magic for the purposes of 
+bypassing damage reduction. At 6
+th level, your weapons also count as one alignment type (chaotic, evil, 
+good, or lawful) for the purpose of bypassing damage reduction. The type selected must match one of 
+your alignments. If you are neutral, you do not receive this bonus. At 10th level, your weapons also 
+count as adamantine for the purpose of overcoming damage reduction (but not for reducing hardness). 
+ 

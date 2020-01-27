@@ -1,0 +1,79 @@
+
+
+Julian Vargo 
+Male human sorcerer 10 (wild-blooded, wordcaster) 
+N Medium humanoid 
+Init +4; Senses Perception +11 
+Languages Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, 
+Dwarven, Elven, Gnome, Halfling Ignan, Infernal, Orc, Sylvan, Terran 
+DEFENSE 
+AC 22, touch 14, flat-footed 20 (+5 armor, +1 deflection, +3 Dex, +3 natural) 
+hp 92 (10 HD) 
+Fort +9, Ref +10, Will +12 
+OFFENSE 
+Speed 30 ft. (6 squares)  
+Melee by weapon +5 
+Ranged extended intensified corrosive bolt +9 touch (10d4 acid once per 
+round for 4 rounds) or 
+arcane bolt +9 touch (1d4+5) 
+Spell-like Abilities (CL 10
+th; Concentration +17) 
+10/day – arcane bolt (1d4+5 force damage, 5
+th-level spell effect) 
+Sorcerer Spells Known (CL 10
+th; Concentration +17) 
+5th  (4/day) – overland flight
+B 
+4th  (6/day) – dimension door
+B 
+3rd  (8/day) – dispel magic
+B 
+2nd (7/day) – invisibility
+B 
+1st  (8/day) – identify
+B 
+0  (at-will) – detect magic
+B, guidance
+B, mage handB 
+Spell Words Known (CL 10
+th; Concentration +17) 
+5th  – servitor V 
+4th  – mind warpM, manifestation
+M, perfect form
+B 
+3rd  – barrierT, lightning blast, soar, torture 
+2nd  – accelerate, corrosive bolt, energy resistance, servitor II 
+1st  – burstT, carefulM, fog bank, force shield, line
+T, quietM, servitor I, wrack 
+0  – acid burn, boostM, cold snap, cone
+T, decipher, distant
+M, flame jet, lengthy
+M, personalT, sense 
+magic, selectedT, spark 
+Bloodline arcane (sage) 
+STATISTICS 
+Abilities Str 8 (–1), Dex 16 (+3), Con 14 (+2), Int 24 (+7), Wis 12 (+1), Cha 10 (+0) 
+Base Atk +5; CMB +5; CMD 14 
+Feats Craft Wand, Craft Wondrous Item, Eschew Materials
+B, Extend Spell, Greater Spell Focus (necromancy), 
+Intensify Spell, Meta Word Mastery
+B, Spell Focus (necromancy
+B) 
+Skills Appraise +20, Craft (alchemy) +20, Fly +16, Knowledge (arcana) +25, Knowledge (planes) +25, 
+Knowledge (religion) +22, Linguistics +17, Perception +11, Spellcraft +20, Stealth +13 
+SQ metamagic adept 2/day 
+Gear amulet of natural armor +3, bracers of armor +5, cloak of resistance +4, headband of vast intellect +4 
+(fly, stealth), ioun stones (dusty rose prism [cracked], mossy disks 3 [arcana, planes, religion], orange 
+prisms (3, all cracked [detect magic, guidance, mage hand]), pale green prism [cracked, attack]), ring of 
+protection +1, wand of extended intensified corrosive bolt (CL 10
+th, 50 charges) 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 3 lb. 
+SPECIAL ABILITIES 
+Bloodline Arcana You use your Intelligence, rather than your Charisma, to determine all class features and 
+effects relating to your sorcerer class, such as bonus spells per day, the maximum spell level you can 
+
+cast, the save DCs of your spells, and the number of daily uses of your bloodline powers. You gain a +2 
+bonus on all Knowledge (arcana) and Spellcraft checks. 
+Metamagic Adept (Ex) You can apply any one metamagic feat you know to a spell you are about to cast 
+without increasing the casting time. You must still expend a higher-level spell slot to cast this spell. You 
+can use this ability twice per day. 

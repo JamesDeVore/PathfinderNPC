@@ -1,0 +1,57 @@
+
+
+Il Rob Spitbeard 
+Male dwarf fighter 5 
+NG Medium humanoid (dwarf) 
+Init +1; Senses darkvision 60 ft., stonecunning; Perception +1 
+Languages Common, Draconic, Dwarven, Giant, Gnoll, Goblin, Orc, 
+Terran, Undercommon 
+DEFENSE 
+AC 26, touch 11, flat-footed 25 (+11 armor, +1 Dex, +4 shield) 
+hp 70 (5 HD) 
+Fort +9, Ref +2, Will +2; +1 vs. fear, +2 vs. poison, spells, and spell-like 
+abilities 
+Defensive Abilities bravery +1, defensive training (+4 dodge bonus to AC 
+vs. giants) 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +1 dwarven waraxe +10 (1d10+6/×3) or 
++1 heavy shield +8 (1d4+3) 
+Ranged masterwork light crossbow +6 (1d8/19-20) 
+Special Attacks +1 on attack rolls against giant humanoids, weapon training (axes +1) 
+STATISTICS 
+Abilities Str 16 (+3), Dex 12 (+1), Con 20 (+5), Int 14 (+2), Wis 12 (+1), Cha 6 (–2) 
+Base Atk +5; CMB +8 (+11 with dwarven waraxe); CMD 19 (23 vs. bull rush/trip) 
+Feats Armor Focus (full plate), Improved Shield BashB, Power Attack, Shield Focus, Weapon Focus (dwarven 
+waraxe
+B), Weapon Specialization (dwarven waraxe
+B) 
+Skills Acrobatics +1 (–3 when jumping), Climb +6, Linguistics +7, Ride +4; Armor Check Penalty –5; Racial 
+Modifiers +2 Appraise relating to metals/minerals, +2 Perception to notice unusual stonework, +2 
+Survival to track giants 
+SQ armor training +1, weapon familiarity 
+Combat Gear crossbow bolts (10); Other Gear +1 full plate, +1 dwarven waraxe, +1 heavy steel shield, belt 
+of mighty constitution +2, masterwork light crossbow, tender (14gp) 
+Encumbrance light 76 lb., medium 153 lb., heavy 230 lb.; Weight Carried 79 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 1 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 1 (included above). 
+Bravery (Ex) You gain a +1 bonus on Will saves against fear effects (not included above). 
+Defensive Training You gain a +4 dodge bonus to AC against attacks made by Giants (not included above). 
+Giant Hunter You gain a +1 bonus on attack rolls against humanoids with the giant subtype. Furthermore, you 
+gain a +2 bonus on Survival checks to find and follow tracks made by humanoids with the giant subtype. 
+Greed You gain a +2 racial bonus on Appraise skill checks made to determine the price of nonmagical goods 
+that contain precious metals or gemstones (not included above). 
+Hardy You receive a +2 racial bonus on saving throws against poison, spells, and spell-like abilities (not 
+included above). 
+Stability You receive a +4 racial bonus to your Combat Maneuver Defense when resisting a bull rush or trip 
+attempt while standing on the ground (included above). 
+Stonecunning You receive a +2 bonus on Perception checks to potentially notice unusual stonework, such as 
+traps and hidden doors located in stone walls or floors. You receive a check to notice such features 
+whenever you pass within 10 feet of them, whether or not you are actively looking (not included above). 
+Weapon Familiarity You are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon 
+with the word “dwarven” in its name as a martial weapon. 
+
+Weapon Training (Ex) You receive a +1 bonus to attack and damage rolls when using axes, to any combat 
+maneuver checks made with axes, and to your Combat Maneuver Defense when defending against 
+disarm and sunder attempts made against axes (included above). 

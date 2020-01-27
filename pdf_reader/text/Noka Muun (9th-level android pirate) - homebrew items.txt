@@ -1,0 +1,182 @@
+
+
+Noka Muun 
+“You best move on out of my way if you know what’s good for ya’ darlin’.” 
+ 
+An android refugee, Noka suffered for years at the hands of the relentless and 
+savage  barbarian  tribes  and  their  anti-technology  doctrines,  as  well  as  at  the 
+hands  of  the  ever-curious  mad  techno  surgeons  within  the  Technic  League. 
+Escaping  captivity  more  than  once,  Noka  eventually  fled  west  from  the 
+Numeria wastelands until there was no more land on which for him to run; then 
+he just kept on going. Noka ultimately became a ruthless pirate, sailing his way 
+southward  to  the  Shackles—a  personal  paradise  which  provided  him  ample 
+opportunities to vent his bitter rage upon others. 
+ 
+No dashing swashbuckler, Noka Muun might best be described as a dastard in 
+search of a crime. Widely regarded as a cold-hearted villain, Noka is not well-
+liked  by  anyone.  Lacking  the  charm  of  a  true  leader,  he  instead  relies  on 
+intimidation and money to raise vicious gangs of cutthroat pirates and violent 
+criminals for as long as he can hold onto them. When he’s able, he leads small fleets on pirate raids by land and 
+sea; hires his ships out for mercenary contracts; and dabbles in assassination, extortion, ransom, and smuggling 
+as well. The warrants that authorities and victims try to put out for his arrest (or death) frequently go unsigned 
+thanks to a few well-placed bribes. 
+ 
+Though much of his circuitry tattoos are concealed by body wraps and intricate gang tattoos, making him appear 
+largely human, his glowing red cybernetic eye leaves no mistake that he isn’t altogether human—a mystery he 
+often capitalizes on to better intimidate the superstitious thugs that commonly surround him. His ability to turn 
+hapless victims into smoldering piles of ash with a powerful eye beam  certainly doesn’t serve to diminish his 
+fearsome reputation either. 
+ 
+Known  primarily  for  his  cold  personality  and  vicious  and  unpredictable  fighting  style,  Noka  has  grown 
+increasingly infamous for his excessive cruelty. Many are the stories in which he slowly carved his prisoners with 
+his many knives or choked the life out of them with his bare hands. However, he is most famous for his ability to 
+perform an aerial tuck and roll maneuver, violently launching himself through the air like a cannon ball, knocking 
+wayward victims aside like bowling pins. Many a sailor has drowned after suddenly being thrown from their ship 
+by just such a charge—an ability granted to Noka by a second unseen cybernetic implant forced upon him by the 
+mad techno surgeons within the Technic League in Numeria.   
+
+Noka Muun 
+Android brawler 9 
+LE Medium humanoid (android) 
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +10 
+Languages Common, Dwarven, Gnome 
+DEFENSE 
+AC 21, touch 15, flat-footed 16 (+6 armor, +3 Dex, +2 dodge) 
+hp 97 (9 HD) 
+Fort +10, Ref +10, Will +4; +4 vs. mind-effecting, paralysis, poison, and stun 
+effects 
+Defensive Abilities constructed; Immune disease, emotion-based effects, 
+exhaustion, fatigue, fear, poison, sleep 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee unarmed strike +15/+10 (1d10+6) or 
+unarmed strike +13/+13/+8/+8 (1d10+6) with Brawler’s Flurry 
+Ranged mwk throwing knife +13/+8 (1d8+5/19-20) or 
+mwk throwing knives +11/+11/+6/+6 (1d8+5/19-20) with Brawler’s Flurry 
+Special Attacks brawler’s flurry (improved two-weapon fighting), brawler’s strike (cold iron, magic, silver), 
+close weapon mastery (1d8), knockout 1/day (DC 19), maneuver training (grapple +2, bull rush +1), 
+nanite surge +12, unarmed strike (1d10) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 16 (+3), Con 16 (+3), Int 12 (+1), Wis 10 (+0), Cha 8 (–1) 
+Base Atk +9; CMB +14 (+21 bull rush [roll twice], +20 grapple); CMD 29 (34 vs. bull rush, 33 vs. grapple) 
+Feats ChokeholdB, Dirty Fighting, Greater Bull Rush, Greater GrappleB, Improved Bull Rush, Improved 
+Grapple
+B, Improved Unarmed StrikeB, Power Attack (–3 attack; +3/+6/+9 damage), Quick Bull Rush 
+Skills Acrobatics +14, Climb +16, Escape Artist +14, Intimidate +11, Perception +10, Profession (sailor) +7, 
+Sense Motive –4, Swim +16; Armor Check Penalty –1; Racial Modifiers +2 Perception, –4 Sense 
+Motive 
+SQ brawler’s cunning, emotionless, martial flexibility 7/day (2 feats), martial training 
+Combat Gear fuse grenades (12), tindertwigs (12); Other Gear +2 martial arts padding (as leather lamellar), 
+amulet of mighty fists +1, bandolier, cloak of resistance +1, cybernetic eye laser (functionally identical 
+to a minor crown of blasting, see below), cybernetic launch suite (functionally identical to pauldrons of 
+the bull and a minotaur belt, see below), masterwork throwing knives (5, as daggers; each with versatile 
+design [close] modification), tender (87gp, 5sp), wraps of the skilled maneuver (bull rush, as gauntlets of 
+the same name) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 44 lb. (excluding tender) 
+SPECIAL ABILITIES 
+AC Bonus (Ex) While wearing light or no armor, you gain a +2 dodge bonus to AC and CMD. These bonuses 
+to AC apply against touch attacks. You lose these bonuses while immobilized or helpless, wearing 
+medium or heavy armor, using a shield, or carrying a medium or heavy load. 
+Brawler’s Cunning (Ex) If your Intelligence score is less than 13, it counts as 13 for the purpose of meeting 
+the prerequisites of combat feats. 
+Brawler’s Flurry (Ex) You can make a brawler’s flurry as a full-attack action. When doing so, you have the 
+Two-Weapon Fighting and Improved Two-Weapon Fighting feats when attacking with any combination 
+of unarmed strikes, weapons from the close fighter weapon group, or weapons with the “monk” special 
+feature. You do not need to use two different weapons to use this ability. You apply your full Strength 
+modifier to your damage rolls for all attacks made with brawler’s flurry, whether the attacks are made 
+with an off-hand weapon or a weapon wielded in both hands. You can substitute disarm, sunder, and trip 
+
+combat maneuvers for unarmed attacks as part of brawler’s flurry. You can’t use natural weapons as part 
+of brawler’s flurry, nor can you make natural weapon attacks in addition to your brawler’s flurry attacks. 
+Brawler’s Strike (Ex) Your unarmed strikes are treated as cold iron, silver, magic weapons for the purpose of 
+overcoming damage reduction. 
+Close Weapon Mastery (Ex) Your damage with close weapons increases. When wielding a close weapon, you 
+use the unarmed strike damage of a brawler 4 levels lower instead of the base damage for that weapon. 
+If the weapon normally deals more damage than this, its damage is unchanged. This ability does not 
+affect any other aspect of the weapon. You can decide to use the weapon’s base damage instead of your 
+adjusted unarmed strike damage—this must be declared before the attack roll is made. 
+Constructed (Ex) For the purposes of effects targeting creatures by type (such as a ranger’s favored enemy and 
+bane weapons), you count as both a humanoid and a construct. You gain a +4 racial bonus on all saving 
+throws against mind-affecting effects, paralysis, poison, and stun effects, are not subject to fatigue or 
+exhaustion, and are immune to disease and sleep effects. You can never gain morale bonuses, and are 
+immune to fear effects and all emotion-based effects. 
+Emotionless (Ex) You have problems processing emotions properly, and thus take a –4 penalty on Sense 
+Motive checks. 
+Knockout (Ex) Once per day you can unleash a devastating attack that can instantly knock a target 
+unconscious. You must announce this intent before making your attack roll. If you hit and the target 
+takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + ½ your 
+brawler level + the higher of your Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. 
+Each round on its turn, the unconscious target may attempt a new saving throw to end the effect as a full 
+round action that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal 
+damage are immune to this ability. 
+Maneuver Training (Ex) You gain a +2 bonus on combat maneuver checks when attempting to bull rush and a 
++2 bonus to your CMD when defending against bull rush combat maneuvers. You gain a similar bonus 
+with grapple combat maneuvers, but only with a +1 bonus. 
+Martial Flexibility (Ex) You can take a move action to gain the benefit of two combat feats you don’t possess, 
+or a swift action to gain one combat feat you don’t possess. This effect lasts for 1 minute. You must 
+meet all the feats’ prerequisites. You may use this ability a number of times per day equal to 3 + ½ your 
+brawler level (minimum 1). You can use this ability again before the duration expires in order to replace 
+one of your two combats feat with another choice. If a combat feat has a daily use limitation (such as 
+Stunning Fist), any uses of that combat feat while using this ability count toward that feat’s daily limit. 
+You may use one of these feats to meet a prerequisite of the second feat; doing so means that you cannot 
+replace a feat currently fulfilling another’s prerequisite without also replacing those feats that require it. 
+Each individual feat selected counts toward your daily uses of this ability. 
+Martial Training (Ex) You count your total brawler levels as both fighter levels and monk levels for the 
+purpose of qualifying for feats. You also count as both a fighter and a monk for feats and magic items 
+that have different effects based on whether the character has levels in those classes (such as Stunning 
+Fist and a monk’s robe). This ability does not automatically grant feats normally granted to fighters and 
+monks based on class level, namely Stunning Fist. 
+Nanite Surge (Ex) Your body is infused with nanites. Once per day as an immediate action, you can cause your 
+nanites to surge, granting a bonus equal to 3 + your character level on any one d20 roll; this ability must 
+be activated before the roll is made. When you use this power, your circuitry-tattoos glow with light 
+equivalent to that of a torch for 1 round. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat and deal increased unarmed strike damage 
+ash shown above. You may attack with fists, elbows, knees, and feet. This means that you may make 
+unarmed strikes with your hands full. You apply your full Strength modifier (not half) on damage rolls 
+for all your unarmed strikes. Usually, your unarmed strikes deal lethal damage, but you can choose to 
+deal nonlethal damage instead with no penalty on your attack roll. You have the same choice to deal 
+lethal or nonlethal damage while grappling. Your unarmed strike is treated as both a manufactured 
+weapon and a natural weapon for the purpose of spells and effects that modify either manufactured 
+weapons or natural weapons. 
+
+ 
+Unique Cybertech 
+Noka makes use of several unique cybertech devices (shown in more detail below) that he had implanted before 
+fleeing Numeria. Per the crafting rules of the Technology Guide, there’s no extra cost associated with 
+technological items since they have extra weaknesses to go along with their advantages. The following 
+cybertech items are essentially technological counterparts to existing magical items, and thus should be treated 
+in all ways as their magical counterparts except where noted below and in the general rules for high-tech items 
+found in the Technology Guide. 
+ 
+CYBERNETIC EYE LASER 
+Price 6,480 gp; Slot eyes; Weight 1 lb.; Install DC 28; Implantation 2 
+A cybernetic eye laser allows its host to draw power from the sun and other passive sources to fire a powerful 
+laser beam from their cybernetic eye. Once fired, the eye’s internal power reserves are exhausted and need time 
+to recharge. On command, this implant projects a blast of searing light (3d8 points of damage) once per day. 
+The cybernetic eye laser in no way impedes or enhances its host’s normal vision. 
+ 
+The listed price, implantation value, and install DC are for having one such eye installed. Installing a pair of 
+cybernetic eye lasers costs twice the price with double the listed implantation value and allows two such blasts 
+each day. In this case, the implants simultaneously fire two half-powered beams, one from each eye, at the same 
+target (requiring only one attack roll and dealing damage as above). 
+ 
+Greater cybernetic eye lasers also exist, dealing 40 damage rather than 3d8. Greater cybernetic eye lasers have a 
+base price of 23,760gp, and a crafting cost equal to half that. A cybernetic eye laser (or lasers) can be upgraded 
+into its greater counterpart. Treat this as though the implant were being installed for the first time, but the cost is 
+the difference between the greater variant and the standard one. 
+CONSTRUCTION 
+Craft DC 28; Cost 2,000 gp 
+Craft Cybertech, cybernetics lab 
+ 
+CYBERNETIC LAUNCH SUITE 
+Price 21,000 gp; Slot body; Weight 10 lb.; Install DC 26; Implantation 8 
+A cybernetic launch suite consists of cyberfiber muscles, weak antigravity generators, and a series of micro 
+thrusters. It enhances the host’s strength and stability, and allows the user to launch themselves through the air 
+with great force, easily knocking aside anyone in the way (without harm to the user of the implant). This suite 
+grants the host a +2 enhancement bonus to Strength, and the ability to ignore difficult terrain while charging or 
+making an overrun, bull rush, or trample attempt. When the host makes a bull rush combat maneuver, make the 
+check twice and take the better result. Furthermore, the cybernetic launch suite grants a +2 enhancement bonus 
+to CMD against bull rushes. 
+CONSTRUCTION 
+Craft DC 26; Cost 10,500 gp 
+Craft Cybertech, cybernetics lab 

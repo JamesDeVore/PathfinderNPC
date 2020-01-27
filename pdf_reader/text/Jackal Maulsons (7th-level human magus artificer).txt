@@ -1,0 +1,181 @@
+
+
+Jackal Maulsons 
+“The rule of law is only as strong as the people who uphold it.” 
+ 
+A Mwangi orphan who was adopted by a former noble family of Galt, Jackal 
+was raised to despise the chaos that had robbed his adoptive parents of their 
+proper name and station, forcing them to hide as middle-class apothecaries. 
+Yet for Jackal himself, apprenticed to an artificer and never having person-
+ally known the aristocratic comforts his parents mourned, this was no true 
+inconvenience. What frustrated him about his nation was not that power re-
+sided with the people, but rather that it was wielded in such a capricious fash-
+ion. His fellow citizens’ constant false accusations and refusal to abide by 
+court rulings—not to mention the Gray Gardeners’ tendency to pronounce 
+sentences completely outside the system—drove young Jackal to distraction. 
+ 
+When Jackal was twenty, having recently lost both parents in a violent rob-
+bery, his simmering rage finally came to a head. After the ruling faction sen-
+tenced the wrong man to death for his parents’ murders with flagrant disregard for due process, Jackal overstepped 
+by investigating the matter himself, turning up irrefutable proof of the man’s innocence. When his attempts to 
+reopen the case were stymied, he returned the night before the scheduled execution and set the man free—only to 
+run straight into a Gray Gardener patrol. The prisoner escaped in the ensuing fracas, and even as Jackal ran, he 
+heard the Gardeners shouting his name. 
+ 
+Jackal fled for the border with a new name and identity, knowing that there was now a price on his head. Unable 
+to return home to avenge his family by finding and bringing their real killer to justice, Jackal instead chose to 
+begin a new chapter in his life. Roaming the nations of the Inner Sea, he quickly learned how to protect himself 
+with sword and spell, and even used his experience as an alchemist and artificer to start a living as a lawful arms 
+dealer, eventually settling down in beautiful Magnimar, the City of Monuments. He spends his free time by look-
+ing out for allegations of unjust accusations or abuses of power, or for clearly unrepentant criminals that were 
+freed by a flawed system. When he finds such a case, he investigates it himself, using long years of association 
+with both lawful and unlawful organizations to help him ferret out truth and justice. If the legal proceedings seem 
+fair, he often shows up unexpectedly at the court, presenting sworn evidence and acting as defending counsel for 
+the accused (if innocent) or as an advisor to the prosecution (if guilty). If he finds a court judge to be corrupt, he 
+takes a more direct hand in protecting the innocent or  stopping the guilty. While he respects the law, he also 
+knows that people are imperfect, and that breaking local laws is sometimes necessary in order to uphold more 
+universal ones. Of course, his meddling is rarely popular with the opposition, and so Jackal generally hides his 
+activities, quickly moving along as soon as he’s seen justice done and taken steps to ensure that victims won’t 
+suffer further  abuses. Always having had  a plan, he has so  far managed  to avoid undue scrutiny  of his illicit 
+vigilante activities, though he knows it’s only a matter of time before his luck runs out. 
+ 
+Due to the many injustices he’s seen in his life, Jackal has long since grown rough and unforgiving, though he 
+remains able to fit easily into both high and low  society  when needed, thanks in no small part to his worldly 
+nature. His well-honed analytical mind is capable of astounding feats of logic and deduction, and he’s fond of 
+sharpening it still further with his many alchemical and magical creations. While a formidable adversary in com-
+bat, he nevertheless believes that the best weapon is the one your foe never sees coming, and therefore prefers 
+ambushes and subterfuge to direct confrontation. He’s loyal to his friends, and sometimes seems to have a con-
+nection in every town, yet he is also wary of associating too long or too openly with his allies, knowing that his 
+fight for justice has made him unpopular with various powerful factions. 
+ 
+VITAL STATISTICS 
+Birthdate/Age Lamashan 7, 4680 AR (27 years old)  Height 6 ft.  Eye Color Brown 
+Ethnicity/Race Mwangi human  Weight 190 lb.  Hair Color Black (bald) 
+
+ 
+Jackal Maulsons 
+Male Mwangi human magus 7 
+LN Medium humanoid 
+Init +4; Senses death watch; Perception +12 
+Languages Aklo, Aquan, Auran, Common, Ignan, Polyglot, Sylvan, 
+Terran 
+DEFENSE 
+AC 25, touch 16, flat-footed 21 (+8 armor, +1 deflection, +4 Dex, +1 in-
+sight, +1 natural) 
+hp 72 (7 HD) 
+Fort +11, Ref +8, Will +8 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 adamantine keen spell storing scimitar +10 (1d6+5/15-20) or 
++3 adamantine keen spell storing scimitar +12 (1d6+7/15-20) 
+with Arcane Pool, or 
+alien knife +10 (1d4+5/15-20) or 
+alien knife +12 (1d4+7/15-20) with Arcane Pool 
+Ranged +1 whipwood composite longbow +10 (1d8+5 plus leprosy/×3 plus poison) or 
++3 whipwood composite longbow +12 (1d8+7 plus leprosy/×3 plus poison) with Arcane Pool 
+Special Attacks arcane pool (10/day, +2 bonus), spell combat, spellstrike 
+Magus Spells Prepared (CL 7
+th, Concentration +15) 
+3rd  (2/day) – haste, heroism 
+2nd (5/day) – acid arrow, bladed dashISM, invisibility, mirror image, scorching ray 
+1st  (6/day) – blade lash
+ACG, intensified shocking grasp (2), long armACG, magic missile, shield 
+0  (at will) – arcane mark, detect magic, open/close, prestidigitation, ray of frost 
+STATISTICS 
+Abilities Str 18 (+4), Dex 18 (+4), Con 18 (+4), Int 23 (+6), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +5; CMB +9; CMD 25 (27 to sunder bow); Hero Points 3 
+Feats Craft Magic Arms and Armor, Craft Wondrous Item, Extra Arcana, Focused Overseer
+B, Focused Worker 
+(magic +, labor –), Intensify SpellB 
+Skills Climb +14, Craft (alchemy) +16, Fly +14, Knowledge (arcana) +16, Perception +12, Ride +14, Spellcraft 
++16, Stealth +20 (+21 in hilly or rocky areas), Swim +14 
+SQ knowledge pool, magus arcana (arcane accuracy, spell blending [heroism], spell-scars), medium ar-
+mor, spell recall, traits (eyes and ears of the city, highlander, magical lineage [shocking grasp], meticu-
+lous) 
+Combat Gear bandages of rapid recovery, durable viridium arrows (20, magically strengthened), spell-scars 
+(fly, gaseous form, haste, heroism, major image, water breathing); Other Gear +1 keen spell storing 
+adamantine scimitar (typically contains intensified shocking grasp), +1 whipwood composite longbow 
+(+4 strength bonus), +2 shadow mithral agile breastplate, alien knife (scavenged from Numeria, func-
+tionally a glowing +1 keen living steel kukri), amulet of natural armor +1, belt of physical perfection 
++4, blessed book (contains harmful surge preparation ritual, see below; rarely carried), bookplate of re-
+call (on blessed book), deathwatch eyes (in the form of an eye patch), dusty rose prism ioun stone (in the 
+form of a glass eye), handy haversack, headband of vast intelligence +4 (fly, ride), jingasa of the fortu-
+nate soldier (in the form of a “lucky” earring), lambent crystal (crystal orb with heightened [4th] contin-
+ual flame cast upon it), lead-lined quiver, pearls of power (1
+st 6, 2nd 3), spell component pouches (3; 2 
+concealed, DC 26 to find), tender (6gp, 6sp, 7cp), traveler’s any-tools (2), tunic of careful casting; 
+Downtime Assets capital (magic 1) 
+Spellbook all magus spells of 3rd-level and lower 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 55 lb. 
+
+ 
+SPECIAL ABILITIES 
+Arcane Accuracy (Su) You can expend 1 point from your arcane pool as a swift action to grant yourself an in-
+sight bonus equal to your Intelligence bonus on all attack rolls until the end of your turn. 
+Arcane Pool (Su) You have a reservoir of mystical arcane energy that you can draw upon to fuel your powers 
+and enhance your weapon. This arcane pool has a number of points equal to ½ your magus level (mini-
+mum 1) + your Intelligence modifier. The pool refreshes once each day when you prepare your spells. 
+You can expend 1 point from your arcane pool as a swift action to grant any weapon you are holding a 
++5 enhancement bonus for 1 minute. These bonuses can be added to the weapon, stacking with existing 
+weapon enhancement to a maximum of +5. Multiple uses of this ability do not stack with themselves. 
+These bonuses can be used to add any of the following weapon properties: dancing, flaming, flaming 
+burst, frost, icy burst, keen, shock, shocking burst, speed, or vorpal. Adding these properties consumes 
+an amount of bonus equal to the property’s cost. These properties are added to any the weapon already 
+has, but duplicates do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be 
+added before any other properties can be added. These bonuses and properties are decided when the ar-
+cane pool point is spent and cannot be changed until the next time you use this ability. These bonuses do 
+not function if the weapon is wielded by anyone other than you. You can only enhance one weapon in 
+this way at one time. If you use this ability again, the first use immediately ends. 
+Eyes and Ears of the City You gain a +1 trait bonus on Perception checks, and Perception is always a class 
+skill for you. 
+Harmful Surge (Su) Once per day, after having prepared spells, you may maximize a spell, but doing so dam-
+ages you. Spend this boon effect as a free action when you cast a wizard evocation spell. When you do, 
+you can treat that spell as if it were cast with the Maximize Spell metamagic feat, but you take 1d4 
+points of damage × the level of the spell that you are maximizing. The damage you take cannot be re-
+duced in any way. 
+Highlander You gain a +1 trait bonus on Stealth checks, and Stealth is always a class skill for you. This trait 
+bonus increases to +2 in hilly or rocky areas. 
+Knowledge Pool (Su) When you prepare your magus spells, you can decide to expend 1 or more points from 
+your arcane pool, up to your Intelligence bonus. For each point you expend, you can treat any one spell 
+from the magus spell list as if it were in your spellbook and can prepare that spell as normal that day. If 
+you do not cast spells prepared in this way before the next time you prepares spells, you loses those 
+spells. You can also cast spells added in this way using you pool spell ability, but only until you prepare 
+spells again. 
+Magical Lineage When you apply metamagic feats to the shocking grasp spell that add at least 1 level to the 
+spell, treat its actual level as 1 lower for determining the spell’s final adjusted level. 
+Medium Armor (Ex) You can cast magus spells while wearing medium armor without incurring the normal 
+arcane spell failure chance. Like any other arcane spellcaster, a magus wearing heavy armor or using a 
+shield incurs a chance of arcane spell failure if the spell in question has a somatic component. 
+Meticulous You plan and prepare everything in detail, and aren’t good at improvising when things don’t go as 
+planned. You take a –2 penalty on skill checks for skills with which you’re untrained. 
+Spell Blending (Ex) You treat one or more wizard spells (shown above) as magus spells. 
+Spell Combat (Ex) You can cast spells and wield your weapons at the same time. This functions much like 
+two-weapon fighting, but the off-hand weapon is a spell that is being cast. To use this ability, you must 
+have one hand free (even if the spell being cast does not have somatic components), while wielding a 
+light or one-handed melee weapon in the other hand. As a full-round action, you can make all of your 
+attacks with your melee weapon at a –2 penalty and can also cast any spell from the magus spell list with 
+a casting time of 1 standard action (any attack roll made as part of this spell also takes this penalty). If 
+you cast this spell defensively, you can decide to take an additional penalty on your attack rolls, up to 
+your Intelligence bonus, and add the same amount as a circumstance bonus on your concentration check. 
+If the check fails, the spell is wasted, but the attacks still take the penalty. You can choose to cast the 
+
+spell first or make the weapon attacks first, but if you have more than one attack, you cannot cast the 
+spell between weapon attacks. 
+Spell Recall (Su) With a swift action you can recall any single magus spell that you have already prepared and 
+cast that day by expending a number of points from your arcane pool equal to the spell’s level (mini-
+mum 1). The spell is prepared again, just as if it had not been cast. 
+Spell-Scars (Ex) You can use special scar-based tattoos called spell-scars on your skin to cast or prepare spells, 
+much like scrolls. You can cast a spell from a spell-scar exactly like casting from a scroll; the ink and 
+scars vanish when the spell is cast. You can also prepare spells from your spell-scars without expending 
+them, similar to a wizard using the Spell Mastery feat. You do not need to be able to see your spell-scar 
+to use it. You have room on your skin for 18 total spell levels of spell-scars, which you can create using 
+the rules for scribing scrolls (although they do not require the Scribe Scroll feat). 
+Spellstrike (Su) Whenever you cast a spell with a range of “touch” from the magus spell list, you can deliver 
+the spell through any weapon you are wielding as part of a melee attack. Instead of the free melee touch 
+attack normally allowed to deliver the spell, you can make one free melee attack with your weapon (at 
+your highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its nor-
+mal damage as well as the effects of the spell. If you make this attack in concert with spell combat, this 
+melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the weapon’s 
+critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar effects), but the 
+spell effect only deals ×2 damage on a successful critical hit, while the weapon damage uses its own 
+critical modifier. 

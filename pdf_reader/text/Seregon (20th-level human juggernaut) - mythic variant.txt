@@ -1,0 +1,159 @@
+
+
+Seregon 
+“Stand before me and you’ll perish beneath me.” 
+ 
+Considered a king among the barbarian tribes of 
+the world, Seregon is said to be an invincible 
+warrior. Originally hailing from a group called 
+“the great eagle tribe,” Seregon now roams the 
+world as an everyman, helping out wherever he 
+can. His triumphs long ago made him a great hero 
+among men. 
+ 
+His legend began when his tribe was slaughtered 
+by a horde of orcs. Not even an adult at the time, 
+Seregon led a small band of survivors in a mission 
+of revenge. They were killed to the man—leaving 
+only Seregon. The stories say Seregon challenged 
+the leader of the orcs for the right to rule the horde and beat him in one on one combat, but historians often 
+disagree with each other on the matter. What is known as fact is that Seregon was not accepted as the horde’s 
+new leader and was forced to flee for his life anyways. 
+ 
+Many years later Seregon would unite and lead several impoverished barbarian tribes in a fierce war against the 
+orc horde. Still without a leader and wholly chaotic, the orcs quickly fell to the furious onslaught and were 
+forced out of the occupied valleys and back into their mountain homes. Seregon is the only known individual to 
+have been offered the position “chief of chiefs” among all the barbarian tribes—and to have turned it down 
+without hesitation or regret. 
+   
+
+Seregon 
+Male human fighter 20 (mythic guardian/champion 8) 
+CG Medium humanoid (mythic) 
+Init +15; Senses Perception +22 
+Languages Common, Giant 
+DEFENSE 
+AC 64, touch 22, flat-footed 57 (+18 armor, +5 deflection, +7 
+Dex, +15 natural, +9 shield) 
+hp 413 (20 HD); fast healing 1 
+Fort +26, Ref +18, Will +13; +5 vs. fear 
+Defensive Abilities bravery +5, guardian’s call (absorb blow), 
+hard to kill, heavy fortification, mythic saving throws, 
+sudden block, unstoppable; DR 5/– and 10/epic (20/epic when below 0 hp); Immune bleed 
+OFFENSE 
+Speed 70 ft. (14 squares) 
+Melee Guruthos +40/+40/+40/+40/+40 (2d6+25/17-20/×3) or 
+Guruthos +40/+34/+34/+34/+34 (2d6+52/17-20/×3) with Power Attack, or 
+Guruthos +35/+35/+35/+35/+35 (2d6+25 plus stun/17-20/×3) with Stunning Assault, or 
+Guruthos +35/+29/+29/+29/+29 (2d6+52 plus stun/17-20/×3) with Stunning Assault and Power Attack, 
+or 
+Geol +36/+36/+36/+36 (1d6+16) or 
+Geol +36/+30/+30/+30 (1d6+34) with Power Attack, or 
+Geol +31/+31/+31/+31 (1d6+16 plus stun) with Stunning Assault, or 
+Geol +31/+25/+25/+25 (1d6+34 plus stun) with Stunning Assault and Power Attack 
+Ranged Geol +36 (1d6+16) 
+Special Attacks champion’s strike (fleet charge), mythic power (19/day, surge +1d10), weapon mastery 
+(greatsword), weapon training (heavy blades +6, hammers +5, close +4, thrown +3) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 24 (+7), Con 28 (+9), Int 13 (+1), Wis 14 (+2), Cha 8 (–1) 
+Base Atk +20; CMB +27 (+40 with Guruthos, +35 with Geol); CMD 49 (53 vs. disarm/sunder, 69 vs. bull 
+rush/grapple, cannot be disarmed of Guruthos) 
+Feats Deadly FinishB, Dual Path
+M (champion), Furious FocusBM, Greater Penetrating Strike (greatsword
+B), 
+Greater Shield Focus
+B, Greater Weapon Focus (greatsword
+B), Greater Weapon Specialization 
+(greatsword
+B), Improved Natural Armor (9), Ironhide, Penetrating Strike (greatswordB), Power Attack
+BM 
+(–6 attack, +9/+18/+27), Racial Heritage
+B (dwarf), Shield FocusB, Stunning AssaultB (Fort DC 30 
+negates), ToughnessBM, Weapon Focus (greatswordB), Weapon Specialization (greatsword
+B) 
+Skills Acrobatics +32 (+36 when jumping), Climb +30, Perception +22, Swim +30 
+SQ additional call, always a chance, amazing initiative, armor mastery, armor training 4, armored might, fleet 
+warrior, force of will, impossible speed, precision (3), recuperation 
+Combat Gear potions (cure serious wounds 10, enlarge person 10, fly 10); Other Gear +5 animated heavy 
+mithral shield, +5 distance guardian returning shortspear (Geol), +5 determination heavy fortification 
+mithral full plate, +5 keen speed adamantine greatsword (Guruthos), amulet of natural armor +5, belt 
+of physical perfection +6, boots of striding and springing, cloak of resistance +5, gloves of dueling, ring 
+of protection +5, ring of regeneration, tender (1,129gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 48 lb. 6 oz. (excluding tender) 
+   
+
+SPECIAL ABILITIES 
+Absorb Blow (Su) As an immediate action, whenever you take hit point damage from a single source (such as a 
+dragon’s breath, a spell, or a weapon), you can expend one use of mythic power to reduce the damage 
+you take from that source by 5 per tier (to a minimum of 0 points of damage taken). If you have another 
+ability or effect that reduces damage (such as protection from energy), reduce the damage with the 
+absorb blow ability before applying any other damage-reducing effects. For every 10 points of damage 
+that this ability prevents, for 1 minute you gain DR 1/epic and 5 points of resistance against acid, cold, 
+electricity, fire, and sonic damage. The DR and resistances stack with any other DR and resistances that 
+you have. 
+Always a Chance (Ex) You don’t automatically miss when you roll a 1 on an attack roll.  
+Amazing Initiative (Ex) You gain a bonus on initiative checks equal to your mythic tier (included above). In 
+addition, as a free action on your turn, you can expend one use of mythic power to take an additional 
+standard action during that turn. This additional standard action can’t be used to cast a spell. You can’t 
+gain an extra action in this way more than once per round. 
+Armor Mastery (Ex) You gain DR 5/– whenever you are wearing armor or using a shield. 
+Armor Training (Ex) Whenever you are wearing armor, you reduce the armor check penalty by 4 (to a 
+minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 4. Additionally, 
+you can move at your normal speed while wearing medium or heavy armor. 
+Bravery (Ex) You gain a +5 bonus on Will save against fear. 
+Fleet Charge (Ex) As a swift action, you can expend one use of mythic power to move up to your speed. At 
+any point during this movement, you can make a single melee or ranged attack at your highest attack 
+bonus, adding your tier to the attack roll. This is in addition to any other attacks you make this round. 
+Damage from this attack bypasses all damage reduction. 
+Fleet Warrior (Ex) When making a full attack, you can move up to your speed either before or after your 
+attacks. This movement provokes attacks of opportunity as normal. 
+Force of Will (Ex) You can exert your will to force events to unfold as you would like. As an immediate 
+action, you can expend one use of mythic power to reroll a d20 roll you just made, or force any non-
+mythic creature to reroll a d20 roll it just made. You can use this ability after the results are revealed. 
+Whoever rerolls a roll must take the result of the second roll, even if it is lower. 
+Hard to Kill (Ex) Whenever you’re below 0 hit points, you automatically stabilize without needing to attempt a 
+Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose 
+hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points 
+when below 0 hit points. In addition, you don’t die until your total number of negative hit points is equal 
+to or greater than double your Constitution score. 
+Impossible Speed (Ex) Your base land speed increases by 30 feet (included above). In addition, if you expend 
+one use of mythic power, for 1 hour your base land speed increases by 10 feet per mythic tier. 
+Mythic Saving Throws (Ex) Whenever you succeed at a saving throw against a spell or special ability, you 
+suffer no effects as long as that ability didn’t come from a mythic source (such as a creature with a 
+mythic tier or mythic ranks). If you fail a saving throw that results from a mythic source, you take the 
+full effects as normal. 
+Precision (Ex) Whenever you make a full attack, your attack bonus on the additional attacks you gain by 
+having a high base attack bonus is 5 higher for each time you take this ability. This ability can’t give any 
+of these attacks a higher attack bonus than your base attack bonus and doesn’t reduce the penalties from 
+two-weapon fighting or other situational penalties on attack rolls.  
+Recuperation (Ex) You are restored to full hit points after 8 hours of rest so long as you aren’t dead. In 
+addition, by expending one use of mythic power and resting for 1 hour, you regain a number of hit 
+points equal to half your full hit points (up to a maximum of your full hit points) and regain the use of 
+any class features that are limited to a certain number of uses per day (such as barbarian rage, bardic 
+performance, spells per day, and so on). This rest is treated as 8 hours of sleep for such abilities. This 
+rest doesn’t refresh uses of mythic power or any mythic abilities that are limited to a number of times 
+per day. 
+
+Sudden Block (Su) As an immediate action, you can expend one use of mythic power to hinder a melee attack 
+made against you or an adjacent ally. Add your tier to your AC or the ally’s AC against this attack. The 
+creature making the attack must make two attack rolls and take the lower result. Once the attack is 
+resolved, you or your ally (your choice) can make one melee attack against the creature. The damage 
+from this attack bypasses all damage reduction. 
+Surge (Su) You can call upon your mythic power to overcome difficult challenges. You can expend one use of 
+mythic power to increase any d20 roll you just made by rolling 1d10 and adding it to the result. Using 
+this ability is an immediate action taken after the result of the original roll is revealed. This can change 
+the outcome of the roll.  
+Unstoppable (Ex) You can expend one use of mythic power as a free action to immediately end any one of the 
+following conditions currently affecting you: bleed, blind, confused, cowering, dazed, dazzled, 
+deafened, entangled, exhausted, fascinated, fatigued, frightened, nauseated, panicked, paralyzed, shaken, 
+sickened, staggered, or stunned. All other conditions and effects remain, even those resulting from the 
+same spell or effect that caused the selected condition. You can use this ability at the start of your turn 
+even if a condition would prevent you from acting. 
+Weapon Mastery (Ex) Any attacks you make with greatswords automatically confirm all critical threats and 
+have their damage multiplier increased by 1 (×2 becomes ×3, for example). In addition, you cannot be 
+disarmed while wielding a greatsword. 
+Weapon Training (Ex) You receive a +6 bonus to attack and damage rolls when using heavy blades, to any 
+combat maneuver checks made with heavy blades, and to your Combat Maneuver Defense when 
+defending against disarm and sunder attempts made against heavy blades. You gain similar bonuses with 
+hammers, close weapons, and thrown weapons, but only at a +5, +4, and +3 bonus, respectively. 
+ 

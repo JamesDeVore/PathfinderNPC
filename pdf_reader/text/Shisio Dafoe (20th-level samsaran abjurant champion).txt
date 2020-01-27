@@ -1,0 +1,302 @@
+
+
+Shisio Dafoe 
+“I am here to help you.” 
+ 
+Shisio appears to be a frozen knight covered in an unending 
+layer of frost. His skin is a brilliant transparent blue with 
+glimpses of liquid beneath. Frost forms across his hands and 
+arms, dripping down to form knife-like icicles. Despite his 
+rigid, frozen appearance, he moves about gracefully and 
+methodically. 
+ 
+Every breath he breathes hisses out into a cold white mist. The 
+air surrounding him is always bitterly cold and even blows 
+mystical snow as ice crystals spread from his very footprints. 
+Despite being a tall ominous figure, Shisio has a calming effect 
+on those around him. 
+ 
+Despite being a knight, Shisio wears magical white robes, 
+which would be better fit for powerful spellcasters. His robe, 
+like the rest of his form, is covered in a layer of slick ice. 
+Shisio is generally as quiet and calm as the morning snow. 
+When filled with righteous anger, however, his temperament is 
+more volatile and dangerous than a raging arctic blizzard. He has no love of evil creatures and refuses to 
+associate himself with anyone who may consistently offend his moral code (which is very similar to that of 
+many paladins). When forced to deal with such creatures, he does so harshly and without mercy. When around 
+goodly people, however, Shisio prefers to remain in the background, allowing others to accomplish tasks for 
+themselves—jumping in to help only when it is absolutely necessary. In this regard, Shisio modestly sees 
+himself more as a guide than a hero. 
+ 
+Shisio is not a name most people know. Shisio himself rarely speaks it and he never volunteers it to others 
+lightly. He is a powerful, if seemingly random, force of good in the world and few people know (or care to 
+know) more than that. The many legends told of him say he trained as a paladin in his youth (and still is today) 
+and supplemented his already great power with a knack for sorcery. He has fought and slain demons, devils, 
+dragons, giants, and worse creatures of a fell nature. He has rescued nobles, peasants, and royalty alike—even a 
+young bunny once it has been said. Shisio seemingly adventures at random appearing in various parts of the 
+world to work good deeds within moments of one another. No one knows anything about this strange paladin’s 
+goals and intentions, just that he is as likely to come and go as the weather and is always as beneficial as the 
+cleansing, life giving rays of the sun. 
+ 
+   
+
+Shisio Dafoe 
+Male samsaran magus 20 
+LG Medium humanoid (samsaran) 
+Init +5; Senses low-light vision; Perception +31 
+Languages Abyssal, Celestial, Common, Infernal, Samsaran 
+DEFENSE 
+AC 36, touch 20, flat-footed 31 (+11 armor, +5 deflection, +5 Dex, +5 
+natural) 
+hp 222 plus greater false life (20 HD) 
+Fort +22, Ref +17, Will +22 (reroll vs. mind-influencing effects); +2 vs. 
+death effects, negative energy, and to remove negative levels 
+Defensive Abilities freedom of movement, lifebound, no need to eat, drink, 
+or breathe, reflection; DR 5/evil; Immune bleed effects, 
+environmental temperature extremes; Miss Chance 20%; Resist fire 
+30; SR 18 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good) 
+Melee +5 icy burst spell storing cold iron scythe +29/+24/+19 (2d4+14 plus 1d6 cold/×4 plus 3d10 cold) with 
+greater magic weapon and heroism, or 
++5 icy burst spell storing cold iron scythe +25/+20/+15 (2d4+26 plus 1d6 cold/×4 plus 3d10 cold) with 
+greater magic weapon, heroism, and Power Attack, or 
++5 alchemical silver spiked gauntlet +28/+23/+18 (1d4+10/×2) with greater magic weapon and 
+heroism, or 
++5 alchemical silver spiked gauntlet +24/+19/+14 (1d4+18/×2) with greater magic weapon, heroism, 
+and Power Attack 
+Ranged +5 adaptive composite longbow +29/+24/+19 (1d8+12/×3) with greater magic weapon and heroism, or 
++5 adaptive composite longbow +25/+20/+15 (1d8+20/×3) with greater magic weapon, heroism, and 
+Deadly Aim 
+Special Attacks arcane pool (18 points plus 4 in storage, +5 bonus), greater spell combat, spellstrike, true 
+magus 
+Spell-Like Abilities (CL 20
+th; Concentration +23) 
+1/day – comprehend languages, death watch, stabilize 
+Magus Spells Prepared (CL 20
+th; Concentration +28) 
+6th  (6/day) – chain lightning, freezing sphere, greater dispel magic, greater heroism*, icy crystal 
+teleportUM*, mislead 
+5th  (7/day) – cone of cold, icy prison
+UM* (2), overland flight, telekinesis (2), teleport 
+4th  (12/day) – bestow curse*, fire shield, greater false lifeUM*, greater invisibility (2), ice storm, 
+intensified fireball (2), intensified lightning bolt (2), wall of ice (2) 
+3rd  (7/day) – greater magic weapon (3), heroism* (2), magic circle against evil** (2) 
+2nd (7/day) – acid arrow, frigid touch
+UM*, glitterdust, intensified shocking grasp (2), see invisibility, 
+web 
+1st  (8/day) – chill touch, icicle daggerUM*, magic missile (2), shield (2), true strike, unseen servant 
+0  (at will) – detect magic, light, mage hand, prestidigitation, ray of frost 
+STATISTICS 
+Abilities Str 22 (+6), Dex 20 (+5), Con 18 (+4), Int 28 (+8), Wis 18 (+4), Cha 20 (+5) 
+Base Atk +15; CMB +21; CMD 41 
+Feats Craft Staff, Craft Wondrous Item, Deadly AimB, Forge Ring, Heighten Spell, Intensified Spell, Maximize 
+Spell, Power Attack
+B, Preferred Spell (battering blast), Quicken Spell, Rime Spell, Spell Perfection 
+(battering blast), Weapon Focus (scythe
+B) 
+Skills Acrobatics +26, Bluff +10, Diplomacy +30, Disguise +10, Fly +17 (overland flight), Intimidate +33, 
+Knowledge (arcana) +33, Knowledge (planes) +33, Perception +31, Perform (any) +10, Sense Motive 
+
++31, Spellcraft +33, Stealth +16, Swim +30, Use Magic Device +33; Armor Check Penalty –1; Spell 
+Modifiers +2 all skills (heroism) 
+SQ fighter training (10
+th), greater spell access, improved spell combat, improved spell recall, knowledge pool (8 
+max), magus arcana (accurate strike, arcane accuracy +8, close range, familiar, reflection, spell 
+blending: magic circle against evil, spell shield, wand wielder), medium/heavy armor, samsaran magic, 
+shards of the past (perception, sense motive) 
+Combat Gear durable arrows (adamantine 20, standard 80), true seeing material components (10), wands 
+(bless weapon, 50 charges; cure critical wounds, 25 charges; cure light wounds, 100 charges [among 
+multiple wands]; intensified fireball [CL 15
+th], 25 charges; intensified lightning bolt [CL 15
+th], 25 
+charges; intensified shocking grasp [CL 10
+th], 25 charges; maximized magic missile [CL 9
+th], 25 
+charges; wall of ice, 25 charges); Other Gear +1 adaptive composite longbow, +1 icy burst spell 
+storing cold iron scythe (doubles as a staff of frost), +5 mithral glamered hosteling improved shadow 
+breastplate, amulet of natural armor +5 (doubles as a hand of glory), belt of physical perfection +6 
+(doubles as a meridian belt), blessed book (482 pages left), boots of speed  (doubles as boots of the 
+winterlands), circlet of persuasion, cloak of minor displacement (doubles as muleback cords), eyes of 
+charming, glove of storing, greater bracers of archery, headband of mental superiority +6 (Diplomacy, 
+Intimidate, Sense Motive), ioun stones (clear spindle, iridescent spindle, pearly white spindle), mantle of 
+faith, masterwork alchemical silver spiked gauntlet, pearls of power (2 spells) (2), ring of arcane 
+mastery, ring of greater energy resistance (fire; doubles as a ring of freedom of movement), ring of 
+inner fortitude (greater), ring of protection +5, ring of wizardry IV, robe of the archmagi (white), spell 
+component pouch, tender (239gp), tome of clear thought +3 (already read) 
+Spellbook all magus spells plus the following wizard spells: 6th—greater heroism*, ice crystal teleport
+UM *; 
+5th—dominate person*, icy prison
+UM*; 4th—bestow curse*, greater false lifeUM*; 3
+rd—battering 
+blast
+DoG* (see below), heroism*, magic circle against evil**; 2nd—frigid touch*, see invisibility*; 1st—
+disguise self*, icicle dagger
+UM*; 0—bleed*, message* 
+Encumbrance light 173 lb., medium 346 lb., heavy 520 lb.; Weight Carried 60 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Accurate Strike (Ex) You can expend 2 points from your arcane pool as a swift action to resolve all of your 
+melee weapon attacks until the end of your turn as melee touch attacks. 
+Arcane Accuracy (Su) You can expend 1 point from your arcane pool as a swift action to grant yourself an 
+insight bonus equal to your Intelligence bonus on all attack rolls until the end of your turn. 
+Arcane Pool (Su) You have a reservoir of mystical arcane energy that you can draw upon to fuel your powers 
+and enhance your weapon. This arcane pool has a number of points equal to ½ your magus level 
+(minimum 1) + your Intelligence modifier. The pool refreshes once each day when you prepare your 
+spells. You can expend 1 point from your arcane pool as a swift action to grant any weapon you are 
+holding a +5 enhancement bonus for 1 minute. These bonuses can be added to the weapon, stacking with 
+existing weapon enhancement to a maximum of +5. Multiple uses of this ability do not stack with 
+themselves. These bonuses can be used to add any of the following weapon properties: dancing, flaming, 
+flaming burst, frost, icy burst, keen, shock, shocking burst, speed, or vorpal. Adding these properties 
+consumes an amount of bonus equal to the property’s cost. These properties are added to any the 
+weapon already has, but duplicates do not stack. If the weapon is not magical, at least a +1 enhancement 
+bonus must be added before any other properties can be added. These bonuses and properties are 
+decided when the arcane pool point is spent and cannot be changed until the next time you use this 
+ability. These bonuses do not function if the weapon is wielded by anyone other than you. You can only 
+enhance one weapon in this way at one time. If you use this ability again, the first use immediately ends. 
+Close Range (Ex) You can deliver ray spells that feature a ranged touch attack as melee touch spells. You can 
+use a ranged touch attack spell that targets more than one creature (such as scorching ray), but you make 
+only one melee touch attack to deliver one of these ranged touch effects; additional ranged touch attacks 
+from that spell are wasted and have no effect. These spells can be used with the spellstrike class feature. 
+Fighter Training (Ex) You count ½ your total magus level as your fighter level for the purpose of qualifying 
+for feats. If you have levels in fighter, these levels stack. 
+
+Greater Spell Access (Su) You gain access to an expanded spell list. You learn and place 14 spells from the 
+wizard’s spell list into your spellbook as magus spells of their wizard level, provided they aren’t already 
+on your magus spell list. You gain two of each of spell levels 0 through 6. You can ignore the somatic 
+component of these spells, casting them without the normal chance of spell failure. These spells are 
+denoted above by asterisks. 
+Greater Spell Combat (Ex) You can cast spells and wield your weapons at the same time. This functions much 
+like two-weapon fighting, but the off-hand weapon is a spell that is being cast. To use this ability, you 
+must have one hand free (even if the spell being cast does not have somatic components), while wielding 
+a light or one-handed melee weapon in the other hand. As a full-round action, you can make all of your 
+attacks with your melee weapon at a –2 penalty and can also cast any spell from the magus spell list with 
+a casting time of 1 standard action (any attack roll made as part of this spell also takes this penalty). If 
+you cast this spell defensively, you can decide to take an additional penalty on your attack rolls, up to 
+your Intelligence bonus, and add twice that amount +2 as a circumstance bonus on your concentration 
+check. If the check fails, the spell is wasted, but the attacks still take the penalty. You can choose to cast 
+the spell first or make the weapon attacks first, but if you have more than one attack, you cannot cast the 
+spell between weapon attacks. 
+Improved Spell Recall (Su) With a swift action you can recall any single magus spell that you have already 
+prepared and cast that day by expending a number of points from your arcane pool equal to ½ the spell’s 
+level (minimum 1). Furthermore, instead of recalling a used spell, you can prepare a spell of the same 
+level that you have in your spellbook. You do so by expending a number of points from your arcane 
+pool equal to the spell’s level (minimum 1). You cannot apply metamagic feats to a spell prepared in 
+this way. You do not need to reference your spellbook to prepare a spell in this way. 
+Knowledge Pool (Su) When you prepare your magus spells, you can decide to expend 1 or more points from 
+your arcane pool, up to your Intelligence bonus. For each point you expend, you can treat any one spell 
+from the magus spell list as if it were in your spellbook and can prepare that spell as normal that day. If 
+you do not cast spells prepared in this way before the next time you prepares spells, you loses those 
+spells. You can also cast spells added in this way using you pool spell ability, but only until you prepare 
+spells again. 
+Lifebound (Ex) You gain a +2 racial bonus on all saving throws made to resist death effects, saving throws 
+against negative energy effects, Fortitude saves made to remove negative levels, and Constitution checks 
+made to stabilize if reduced to negative hit points. 
+Medium/Heavy Armor (Ex) You can cast magus spells while wearing armor without incurring the normal 
+arcane spell failure chance. Like any other arcane spellcaster, when using a shield you incur a chance of 
+arcane spell failure if the spell in question has a somatic component. 
+Ongoing Spell Effects You have the following spells cast upon you no less than 12 hours a day (unless noted 
+otherwise): greater false life, heroism, magic circle against evil, overland flight. Additionally, all of 
+your weapons have received the benefits of the greater magic weapon spell. The effects of these 
+ongoing spells are included in the above statistics where appropriate. 
+Reflection (Su) You can sacrifice 1 or more points from your arcane pool as an immediate action to reflect a 
+spell back at its caster. This functions as spell turning, but only if the targeted spell is of a level equal to 
+or less than the number of points expended. If insufficient points are expended, they instead grant an 
+insight bonus on any saving throws allowed by the spell, equal to the number of points spent. 
+Shards of the Past (Ex) You gain a +2 racial bonus two skills of your choice (shown above), and they are 
+always treated as class skills for you. 
+Spell Blending (Ex) You treat one or more wizard spells (shown above) as magus spells. You know them for 
+free. These spells are marked above by double asterisks. 
+Spell Shield (Su) You can expend a point from your arcane pool as an immediate action to grant yourself a 
+shield bonus to AC equal to your Intelligence bonus until the end of your next turn. 
+Spellstrike (Su) Whenever you cast a spell with a range of “touch” from the magus spell list, you can deliver 
+the spell through any weapon you are wielding as part of a melee attack. Instead of the free melee touch 
+attack normally allowed to deliver the spell, you can make one free melee attack with your weapon (at 
+your highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its 
+
+normal damage as well as the effects of the spell. If you make this attack in concert with spell combat, 
+this melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the 
+weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar 
+effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage 
+uses its own critical modifier. 
+True Magus (Su) Whenever you use your spell combat ability, you do not need to make a concentration check 
+to cast the spell defensively. Whenever you use spell combat and your spell targets the same creature as 
+your melee attacks, you can choose to either increase the DC to resist the spell by +2, grant yourself a 
++2 circumstance bonus on any checks made to overcome spell resistance, or grant yourself a +2 
+circumstance bonus on all attack rolls made against the target during your turn. 
+Wand Wielder (Su) You can activate a wand or staff in place of casting a spell when using spell combat. 
+ 
+Fufu 
+Rabbit familiar 
+N Tiny magical beast (augmented animal) 
+Init +2; Senses low-light vision, scent; Perception +24 
+Languages empathic link, speak with master, speak with burrowing mammals 
+DEFENSE 
+AC 24, touch 14, flat-footed 22 (+2 Dex, +10 natural, +2 size) 
+hp 111 (20 HD) 
+Fort +12, Ref +8, Will +13 
+Defensive Abilities improved evasion; SR 25 
+OFFENSE 
+Speed 15 ft. (3 squares), climb 15 ft., swim 15 ft. 
+Melee bite +19 (1d3–4) or 
+by spell +19 touch (as the spell) 
+Space 2½ ft.; Reach 0 ft. 
+Special Attacks deliver touch spells 
+STATISTICS 
+Abilities Str 2 (–4), Dex 15 (+2), Con 11 (+0), Int 15 (+2), Wis 13 (+1), Cha 2 (–4) 
+Base Atk +15; CMB +15; CMD 21 
+Feats Weapon Finesse 
+Skills Acrobatics +25, Climb +10, Diplomacy +16, Intimidate +16, Knowledge (arcana) +22, Knowledge 
+(planes) +22, Perception +24, Sense Motive +21, Spellcraft +22, Stealth +18, Swim +25, Use Magic 
+Device +16; Racial Modifiers +4 Stealth 
+SQ alertness, empathic link, familiar traits, scry on familiar, share spells, speak with master, speak with 
+burrowing mammals 
+Encumbrance light 4 lb. 8 oz., medium 9 lb. 12 oz., heavy 15 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+Deliver Touch Spells (Su) If you and your familiar are in contact at the time you cast a touch spell, you can 
+designate your familiar as the toucher. Your familiar can then deliver the touch spell personally. As 
+usual, if you cast another spell before the touch is delivered, the touch spell dissipates. 
+Empathic Link (Su) Your familiar has an empathic link with you out to one mile. You cannot see through your 
+familiar’s eyes, but the two of you can communicate empathically. Only general emotional content can 
+be communicated. You have the same connection to an item or place that your familiar does. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, your familiar takes no damage if he makes a successful saving throw and half damage even if 
+the saving throw fails. 
+Scry On Familiar (Sp) Once per day you may scry on your familiar, as if using the scry spell. 
+
+Share Spells You may cast a spell with a target of “You” on your familiar (as a touch spell) instead of on 
+yourself. You may cast spells on your familiar even if the spells do not normally affect creatures of your 
+familiar’s type (magical beast). 
+Speak with Burrowing Mammals (Ex) Your familiar may communicate with other burrowing mammals. Such 
+communication is limited by the Intelligence of the conversing creatures. 
+Speak With Master (Ex) You and your familiar may communicate verbally, using a private language no one 
+else understands. 
+ 
+BATTERING BLAST 
+School evocation (force); Level sorcerer/wizard 3 
+Casting Time 1 standard action 
+Components V, S 
+Range close (25 ft. + 5 ft./2 levels) 
+Target one creature or unattended object 
+Duration instantaneous 
+Saving Throw Reflex partial (see text); Spell Resistance yes 
+ 
+You hurl a fist-sized ball of force resembling a sphere of spikes to ram a designated creature or object. You 
+must succeed on a ranged touch attack to strike your target. On a successful hit, you deal 1d6 points of force 
+damage per two caster levels (maximum 5d6). For every 5 caster levels you possess beyond 5th, you gain a 
+second ball of force. 
+ 
+A creature struck by any of these is subject to a bull rush attempt. The force has a Strength modifier equal to 
+your Intelligence, Wisdom, or Charisma modifier (whichever is highest). The CMB for the force’s bull rush 
+uses your caster level as its base attack bonus, adding the force’s Strength modifier and a +10 bonus for each 
+additional blast directed against the same target. Each sphere of force makes its own separate bull rush 
+attempt—if multiple spheres strike one target, you make multiple CMB checks but only take the highest result 
+to determine success. If the bull rush succeeds, the force pushes the creature away from you in a straight line, 
+and the creature must make a Reflex save or fall prone. 
+ 
+This spell pushes an unattended object struck by it 20 feet away from you, provided it weighs no more than 25 
+pounds per level (maximum 250 pounds). This spell cannot move creatures or objects beyond your range. Used 
+on a door or other obstacle, the spell attempts a Strength check to destroy it if the sheer damage inflicted by the 
+spell doesn’t do the job. 
+ 
+This spell originally appears in Dungeons of Golarion. 

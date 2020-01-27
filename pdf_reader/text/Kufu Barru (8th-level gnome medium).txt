@@ -1,0 +1,144 @@
+
+
+Kufu Barru 
+Male old gnome witch 8 (beast-bonded) 
+NG Small humanoid (gnome) 
+Init –2; Senses familiar’s alertness, low-light vision; Perception +4 
+Languages Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, 
+Orc, Sylvan 
+DEFENSE 
+AC 13, touch 9, flat-footed 13 (+4 armor, –2 Dex, +1 size); mage armor 
+hp 56 plus false life (8 HD) 
+Fort +2, Ref +0, Will +8; +2 vs. illusions 
+Defensive Abilities warden of nature (+2 dodge bonus to AC vs. aberrations, 
+oozes, and vermin) 
+OFFENSE 
+Speed 15 ft. (3 squares), 20 ft. when unencumbered 
+Melee by weapon +5 
+Ranged by weapon +5 
+Special Attacks +1 on attack rolls against aberrations, oozes, and vermin 
+Gnome Spell-Like Abilities (CL 8th; Concentration +14) 
+At-will – familiar form (8 minutes/day) 
+1/day – dancing lights, ghost sound, prestidigitation, speak with animals 
+Witch Spells Prepared (CL 8th; Concentration +15) 
+4th  (3/day) – confusion, summon monster IV, summon nature’s ally IV 
+3rd  (5/day) – deep slumber, dominate animal, stinking cloud (2) 
+2
+nd (5/day) – blindness/deafness (2), false life, see invisibility, speak with animals 
+1st  (6/day) – charm person, command, enlarge person, mage armor, mount, unseen servant 
+0  (at will) – guidance, light, mending, message 
+Witch Patron animals 
+STATISTICS 
+Abilities Str 2 (–4), Dex 7 (–2), Con 11 (+0), Int 24 (+7), Wis 14 (+2), Cha 22 (+6) 
+Base Atk +4; CMB –1; CMD 8 
+Feats Brew Potion
+B, Extra Hex, Improved Familiar, Master Alchemist, Telepathic Link 
+Skills Craft (alchemy) +33, Handle Animal +14, Heal +13, Knowledge (arcana) +18, Knowledge (geography) 
++15, Knowledge (nature) +18, Perception +4 (+6 with familiar), Spellcraft +18, Stealth –1, Survival 
++13, Use Magic Device +17; Check Penalty –3; Racial Modifiers +2 Craft (alchemy), +2 Perception 
+SQ hexes (cackle, cauldron, evil eye), weapon familiarity, witch’s familiar (silvanshee) 
+Combat Gear alchemical ingredients (300gp worth), antiplague (9), antitoxin (9), bloodblock (9), iron pellet 
+grenades (9), poisons (burnt othur fumes 3, dragon bile 3, oil of taggit 30), potions (cure light wounds 
+10, cure serious wounds 5, enlarge person 20, heroism 5, mage armor 5), soothe syrup (9), tanglefoot 
+bags (9), thunderstones (9), twitch tonic (3), wand of entangle (10 charges); Other Gear alchemist’s 
+lab, cauldron of brewing, headband of mental superiority +2 (heal), heavyload belt, masterwork 
+backpack, muleback cords, silvanshee familiar (see below), spell component pouch, tender (38gp) 
+Familiar Spells 4th—confusion, cure serious wounds, divination, summon monster IV, summon nature’s ally 
+IV
+B; 3rd—deep slumber, dominate animalB, heroism, speak with dead, stinking cloud; 2nd—
+blindness/deafness, cure moderate wounds, false life, see invisibility, speak with animals
+B; 1st—charm 
+animalsB, charm person, command, comprehend languages, cure light wounds, detect secret doors, 
+enlarge person, hypnotism, identify, mage armor, mount, unseen servant; 0—all 
+Encumbrance light 85 lb. 8 oz., medium 171 lb., heavy 258 lb. 12 oz.; Weight Carried 109 lb. 12 oz. 
+(excluding tender) 
+   
+
+SPECIAL ABILITIES 
+Cackle (Su) You can cackle madly as a move action. Any creature that is within 30 feet that is under the effects 
+of an agony hex, charm hex, evil eye hex, fortune hex, or misfortune hex caused by you has the duration 
+of that hex extended by 1 round. 
+Cauldron (Ex) You receive Brew Potion as a bonus feat and a +4 insight bonus on Craft (alchemy) skill 
+checks. 
+Enhanced Familiar (Su) For the purposes of determining your familiar’s powers and abilities, you treat your 
+familiar as if you were one level higher than your actual witch level. 
+Evil Eye (Su) You can cause doubt to creep into the mind of a foe within 30 feet that you can see. The target 
+takes a –4 penalty on one of the following (your choice): AC, ability checks, attack rolls, saving throws, 
+or skill checks. This hex lasts for a number of rounds equal to 3 + your Intelligence modifier. A Will 
+save reduces this to just 1 round. This is a mind-affecting effect. 
+Familiar Form (Sp) You may take the shape of your familiar (or a giant version of your familiar or a similar 
+kind of animal) as if using beast shape II. For example, a witch with a rat familiar can turn into a Tiny 
+rat, Small dire rat, or a larger rodent; one with a cat familiar can turn into a Tiny cat or a Large feline 
+such as a tiger or lion; one with a monkey familiar can turn into a Tiny monkey or a Large gorilla, and 
+so on. You can remain in animal form for a number of minutes per day equal to your witch level. 
+Poisons You carry of variety of poisons, primarily for use with your poisoner’s glove: 
+Burnt othur fumes—inhaled; save Fort DC 18, frequency 1/round for 6 rounds, effect 1 Con drain/1d3 
+Con, cure 2 consecutive saves. 
+Dragon bile—contact; save Fort DC 26, frequency 1/round for 6 rounds, effect 1d3 Str, cure none. 
+Oil of taggit—ingested; save Fort DC 15, onset 1 minute, effect unconsciousness for 1d3 hours, cure 1 
+save. 
+Transfer Feats (Ex) Whenever you are capable of learning a new feat, you may choose to instead have you 
+familiar learn the feat as a bonus feat. The familiar must meet the prerequisites for any feats that it learns 
+this way. If your familiar is lost or dies, you can reclaim the feat slots and select new feats for yourself, 
+or apply the slots toward your new familiar. 
+ 
+Jeknys 
+Male silvanshee familiar 
+NG Tiny outsider (agathion, extraplanar, good) 
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +10 
+Languages Celestial, Draconic, Infernal; speak with animals, truespeech 
+DEFENSE 
+AC 20, touch 14, flat-footed 18 (+2 Dex, +6 natural, +2 size) 
+hp 32 (8 HD) 
+Fort +5, Ref +6, Will +8 
+Defensive Abilities improved evasion; DR 5/evil or silver; Immune 
+electricity, petrification; Resist cold 10, sonic 10; SR 13 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 90 ft. (good) 
+Melee bite +6 (1d4–4) and 2 claws +6 (1d2–4) or 
+by spell +8 touch (as the spell) 
+Space 2½ ft.; Reach 0 ft. 
+Special Attacks deliver touch spells 
+Spell-like Abilities (CL 2
+nd except where noted) 
+Constant – know direction, speak with animals 
+At will – dancing lights, prestidigitation, stabilize 
+1/day – dimension door (self plus 5 lb. of objects only) 
+1/week – commune (6 questions, CL 12
+th) 
+
+STATISTICS 
+Abilities Str 3 (–4), Dex 15 (+2), Con 12 (+1), Int 10 (+0), Wis 12 (+1), Cha 13 (+1) 
+Base Atk +4; CMB +4; CMD 10 (14 vs. trip) 
+Feats Improved Initiative, Weapon Finesse
+B 
+Skills Acrobatics +11, Climb +7, Craft (alchemy) +8, Fly +6, Handle Animal +9, Heal +9, Knowledge (arcana) 
++11, Knowledge (geography) +11, Knowledge (nature) +11, Knowledge (planes) +5, Perception +10, 
+Spellcraft +8, Stealth +19, Survival +9, Use Magic Device +9; Racial Modifiers +4 Acrobatics, +4 
+Perception, +4 Stealth 
+SQ alertness, cat’s luck, empathic link, familiar traits, flight, lay on hands (4d6, 5/day), share spells, speak with 
+master, spectral mist 
+Combat Gear potions of cure light wounds (10); Other Gear mini pouch 
+Encumbrance light 7 lb. 8 oz., medium 15 lb., heavy 22 lb. 8 oz.; Weight Carried 10 oz. 
+SPECIAL ABILITIES 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+Cat’s Luck (Su) A silvanshee adds its Charisma modifier as a luck bonus on all its saving throws. Once per day 
+as a standard action, it can also grant this bonus to one ally within 30 feet for 10 minutes. 
+Deliver Touch Spells (Su) If you and your familiar are in contact at the time you cast a touch spell, you can 
+designate your familiar as the toucher. Your familiar can then deliver the touch spell personally. As 
+usual, if you cast another spell before the touch is delivered, the touch spell dissipates. 
+Empathic Link (Su) Your familiar has an empathic link with you out to one mile. You cannot see through your 
+familiar’s eyes, but the two of you can communicate empathically. Only general emotional content can 
+be communicated. You have the same connection to an item or place that your familiar does. 
+Heroic Strength (Su) Once per day, a silvanshee can grant itself a +8 enhancement bonus to Strength for 1 
+minute. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, your familiar takes no damage if he makes a successful saving throw and half damage even if 
+the saving throw fails. 
+Share Spells Any spell you cast on yourself also affects your familiar if he is within 5 feet at the time of 
+casting. If the spell is continuous, it stops affecting your familiar if he moves farther than 5 feet away. 
+Your familiar may accept such spells even if he would normally be an invalid target. 
+Spectral Mist (Su) A silvanshee can assume an eerie, mist-like form roughly the size and shape of a cat. This 
+ability has the same effect as a gaseous form spell, except the silvanshee retains its own DR and 
+supernatural abilities and can move at its normal speed. It can remain in mist form up to 5 minutes per 
+day. This duration does not have to be consecutive, but it must be used in 1-minute increments. 

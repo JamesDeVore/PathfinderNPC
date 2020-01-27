@@ -1,0 +1,154 @@
+
+
+Lermos Daewolf 
+  
+
+Male human oracle 11 
+LE Medium humanoid 
+Init +2; Senses Perception +0 
+Languages Common, Infernal 
+DEFENSE 
+AC 28, touch 14, flat-footed 26 (+8 armor, +2 deflection, +2 Dex, +2 
+natural, +4 shield) 
+hp 101 plus false life (11 HD) 
+Fort +8, Ref +7, Will +9; +4 vs. death effects, diseases, mind-affecting 
+effects, poison, sleep effects, and stunning 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 conductive club +11/+6 (1d6+4) or 
+death’s touch +10 touch (1d6+5 negative energy plus 3 bleed) 
+Ranged +1 conductive club +11 (1d6+4) or 
+soul siphon +10 touch (1 negative level, cures 11 damage to you) 
+Special Attacks bleeding wounds 3, death’s touch (10/day), raise the dead (2/day), soul siphon (2/day), undead 
+servitude (10/day, Will DC 22 negates), voice of the grave –4 (11 rounds/day) 
+Oracle Spells Known (CL 11th; Concentration +21) 
+5th (5/day) – mass cure light wounds
+B, raise deadM, slay livingB, summon monster V 
+4
+th (7/day) – blessing of fervor
+APG, cure critical woundsB, fearB, giant vermin, inflict critical wounds, 
+lesser planar ally 
+3rd (8/day) – animate dead
+B, bestow curse, blindness/deafness, blood biographyAPG, contagion, cure 
+serious woundsB, dispel magic, invisibility purge 
+2nd (8/day) – cure moderate woundsB, death knell, desecrateM, false life
+B, hold person, minor image, 
+resist energy, shatter, shield otherF, status 
+1st (8/day) – cause fear
+B, command, cure light woundsB, deathwatch, detect evil, detect good, detect 
+undead, obscuring mist, sanctuary 
+0 (at will) – bleed, create water, detect magic, detect poison, ghost sound, guidance, light, mage hand, 
+mending, purify food and drink, read magic, sparkAPG, stabilize 
+Mystery bones 
+STATISTICS 
+Abilities Str 14 (+2), Dex 14 (+2), Con 16 (+3), Int 12 (+1), Wis 10 (+0), Cha 24 (+10); circlet of persuasion 
+Base Atk +8; CMB +10; CMD 22 
+Feats Command UndeadB, Craft Wondrous Item, Extra Revelation (4), Greater Spell Focus (necromancy), 
+Spell Focus (necromancy) 
+Skills Bluff +24, Diplomacy +24, Intimidate +24, Knowledge (religion) +15, Spellcraft +15, Sense Motive +14; 
+Armor Check Penalty –1 (+0 with climb and jump) 
+SQ haunted, near death +4, spirit walk (11 rounds, 1/day) 
+Combat Gear animate dead material components (500gp worth), wand of cure light wounds (50 charges), 
+wand of inflict light wounds (50 charges); Other Gear +1 conductive club, +2 heavy mithral shield, +2 
+mithral agile breastplate, amulet of natural armor +2, belt of mighty constitution +2, bloody heavy 
+horse skeleton steed (see below), bloody hill giant skeleton bodyguards (see below), circlet of 
+persuasion, cloak of resistance +2, headband of alluring charisma +6, ring of mind shielding, ring of 
+protection +2, tender (108gp, 5sp) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 22 lb. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Bleeding Wounds (Su) Whenever a creature takes damage from one of your spells or effects that causes 
+negative energy damage (such as inflict light wounds or the death’s touch revelation), it begins to bleed, 
+taking 3 points of damage each round. The bleeding can be stopped by a DC 15 Heal check or any effect 
+that heals damage. 
+Death’s Touch (Su) You can cause terrible wounds to appear on a creature with a melee touch attack. This 
+attack deals 1d6 points of negative energy damage +1 point for every two oracle levels you possess. If 
+used against an undead creature, it heals damage and grants a +2 channel resistance for 1 minute. You 
+can use this ability a number of times per day equal to 3 + your Charisma modifier. 
+Haunted Malevolent spirits follow you wherever you go, causing minor mishaps and strange occurrences (such 
+as unexpected breezes, small objects moving on their own, and faint noises). Retrieving any stored item 
+from your gear requires a standard action, unless it would normally take longer. Any item you drop 
+lands 10 feet away from you in a random direction. 
+Near Death (Su) You gain a +4 insight bonus on saves against death effects, diseases, mind-affecting effects, 
+poisons, sleep effects, and stunning. 
+Raise the Dead (Su) Twice per day, you can summon a single skeleton, bloody skeleton, zombie, or fast 
+zombie to serve you as a standard action. The undead creature has a number of Hit Dice equal to your 
+oracle level. It remains for a number of rounds equal to your Charisma modifier. 
+Soul Siphon (Su) As a ranged touch attack, you can unleash a ray that causes a target to gain one negative 
+level. The ray has a range of 30 feet. This negative level lasts for a number of minutes equal to your 
+Charisma modifier. Whenever this ability gives a target a negative level, you heal a number of hit points 
+equal to your oracle level. You can use this ability twice per day. 
+Spirit Walk (Su) Once per day as a standard action, you can become incorporeal and invisible. While in this 
+form, you can move in any direction and through any object (except for those made of force). You can 
+take no action other than to move while in this form. You remain in this form for a number of rounds 
+equal to your oracle level, but you can end this effect prematurely with a standard action. 
+Undead Servitude (Su) You gain Command Undead as a bonus feat. You can channel negative energy a 
+number of times per day equal to 3 + your Charisma modifier, but only to use Command Undead. You 
+can take other feats to add to this ability, such as Improved Channeling, but not feats that alter this 
+ability, such as Alignment Channel. 
+Voice of the Grave (Su) You can speak with dead, as per the spell, for a number of rounds per day equal to 
+your oracle level. These rounds do not need to be consecutive. The dead creature takes a –4 penalty on 
+its Will save to resist this effect. 
+ 
+   
+
+Bloody Hill Giant Skeleton Bodyguard 
+  
+
+NE Large Undead 
+Init +4; Senses darkvision 60 ft., Perception +0 
+DEFENSE 
+AC 27, touch 9, flat-footed 27 (+7 armor, +11 natural, –1 size) 
+hp 65 (10 HD); Fast Healing 5 
+Fort +5, Ref +3, Will +5 
+Defensive Abilities channel resistance +4; DR 5/bludgeoning; Immune cold, 
+undead traits 
+OFFENSE 
+Speed 30 ft. (6 squares), 40 ft. without armor 
+Melee +1 longspear +14/+9 (2d6+11/×3) or 
+2 slams +13 (1d8+7) or 
+2 claws +13 (1d6+7) 
+Ranged by weapon +6 
+Space 10 ft.; Reach 10 ft. (20 ft. with longspear) 
+STATISTICS 
+Abilities Str 25 (+7), Dex 10 (+0), Con –, Int –, Wis 10 (+0), Cha 14 (+2) 
+Base Atk +7; CMB +15; CMD 25 
+Feats Improved InitiativeB 
+Skills Stealth –7; Armor Check Penalty –3 
+SQ deathless 
+Gear +1 breastplate, +1 longspear, hat of disguise 
+Encumbrance light 532 lb., medium 1,066 lb., heavy 1,600 lb.; Weight Carried 66 lb. 
+SPECIAL ABILITIES 
+Deathless (Su) A bloody skeleton is destroyed when reduced to 0 hit points, but it reanimates 1 hour later at 1 hit point, 
+allowing its fast healing thereafter to resume healing it. A bloody skeleton can be permanently destroyed if it is 
+destroyed by positive energy, if it is reduced to 0 hit points in the area of a bless or hallow spell, or if its remains 
+are sprinkled with a vial of holy water. 
+ 
+Bloody Heavy Horse Skeleton Steed 
+  
+
+NE Large Undead 
+Init +9; Senses darkvision 60 ft., Perception +0 
+DEFENSE 
+AC 23, touch 14, flat-footed 18 (+5 armor, +5 Dex, +4 natural, –1 size) 
+hp 13 (2 HD); Fast Healing 1 
+Fort +2, Ref +5, Will +1 
+Defensive Abilities channel resistance +4; DR 5/bludgeoning; Immune cold, 
+undead traits 
+OFFENSE 
+Speed 50 ft. (10 squares) 
+Melee bite +5 (1d4+5) and 
+2 hooves +5 (1d6+5) 
+Space 10 ft.; Reach 5 ft. 
+STATISTICS 
+Abilities Str 20 (+5), Dex 20 (+5), Con –, Int –, Wis 10 (+0), Cha 14 (+2) 
+Base Atk +1; CMB +7; CMD 22 (26 vs. overrun and trip) 
+Feats Improved InitiativeB 
+Skills Acrobatics +5 (+13 when jumping), Stealth –1 
+SQ deathless 
+Gear +1 mithral shirt barding, bit and bridle, hat of disguise, military saddle, saddlebags 
+Encumbrance light 399 lb., medium 798 lb., heavy 1,200 lb.; Weight Carried 89 lb. 
+SPECIAL ABILITIES 
+Deathless (Su) As above. 
+ 

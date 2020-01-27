@@ -1,0 +1,162 @@
+
+
+Mizu 
+  
+
+Female samsaran cleric 3/transmuter 3/mystic theurge 2 
+NG Medium humanoid (samsaran) 
+Init +0; Senses familiar’s alertness, low-light vision; Perception +15 
+Languages Abyssal, Aquan, Auran, Celestial, Common, Ignan, Infernal, Samsaran, Terran 
+DEFENSE 
+AC 14, touch 10, flat-footed 14 (+4 armor); mage armor 
+hp 51 plus greater false life (8 HD) 
+Fort +9, Ref +7, Will +17; +2 vs. death and negative energy effects 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee by weapon +4 
+Ranged by weapon +4 
+Special Attacks channel positive energy 2/day (DC 10, 2d6) 
+Spell-Like Abilities (CL 5th; Concentration +9) 
+10/day – augment, bit of luck 
+Cleric Spells Prepared (CL 8th, cast spells as 6
+th-level cleric; Concentration +15) 
+3rd (5/day) – communal resist energyUC, dispel magic, meld into stone, plant growthD, 
+protection from energy 
+2nd (6/day) – barkskinD, bear’s endurance, bull’s strength, grace
+APG, heroic fortune
+APG, silence 
+1st (6/day) – bless, doom, entangle
+D, ray of sickeningUM, shield of faith, sun metalUC 
+0 (at will) – create water, detect magic, guidance, purify food and drink 
+D Domain spells; Domains luck, plant 
+Wizard Spells Prepared (CL 8th; Concentration +15) 
+4th (4/day) – black tentacles, cloud shapeARG, greater false life
+UM, greater invisibility 
+3rd (6/day) – displacement, fireball, haste, lightning bolt, stinking cloud, slow 
+2nd (6/day) – blindness/deafness, cat’s grace, invisibility, mirror image, vision of hell
+UM, web 
+1st (7/day) – burning hands, grease, mage armor, magic missile, moment of greatness, ray of enfeeblement, shield 
+0 (at will) – light, open/close, mending, spark
+APG 
+Prohibited Schools divination, enchantment 
+STATISTICS 
+Abilities Str 10 (+0), Dex 10 (+0), Con 12 (+1), Int 24 (+7), Wis 24 (+7), Cha 8 (–1) 
+Base Atk +4; CMB +4; CMD 14; Hero Points 3 
+Feats Additional Traits, AlertnessB (with familiar), Combat Casting, Craft Wondrous Item, Improved Familiar, Scribe Scroll
+B 
+Skills Appraise +18, Heal +18, Knowledge (arcana) +20, Knowledge (history) +18, Knowledge (nature) +18, Knowledge (religion) 
++20, Perception +15 (+17 with familiar), Sense Motive +18 (+20 with familiar), Spellcraft +18; Racial Modifier +2 
+Knowledge (arcana), +2 Knowledge (religion) 
+SQ arcane bond (silvanshee familiar), arcane spellcasting guild member (40 fame, 40 PP), aura of good (moderate), combined spells 
+(1st), esoteric training, lifebound, senior guild member (wondrous items), shards of the past (knowledge: arcana, knowledge: 
+religion), spontaneous casting (cure spells), traits (deft dodger, magical knack: cleric) 
+Combat Gear divine spell scrolls (communal protection from evil
+UC [CL 8th], remove paralysis 2), wand of cure light wounds (50 
+charges); Other Gear blessed book (796 pages left), cloak of resistance +3, headband of mental prowess +4 (knowledge: 
+nature, perception), spell component pouch, tender (112gp, 5sp), traveler’s any-tool 
+Spellbook 0-level—all; 1st-level—burning hands, expeditious retreat, enlarge person, feather fall, grease, hold portal, mage armor, 
+magic missile, moment of greatnessUC, ray of enfeeblement, shield, silent image; 2nd-level—blindness/deafness, cat’s grace, 
+invisibility, mirror’s image, scorching ray, vision of hell
+UM, web; 3rd-level—displacement, fireball, fly, haste, heroism
+O, 
+lightning bolt, slow, stinking cloud; 4th-level—bestow curse, black tentacles, cloud shape
+ARG, firefall
+APG, greater false life
+UM, 
+greater invisibility, wall of fire, wall of ice 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 7 lb. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Augment (Sp) As a standard action, you can touch a creature and grant it either a +2 enhancement bonus to a single ability score of 
+your choice or a +1 bonus to natural armor that stacks with any natural armor the creature might possess. This augmentation 
+lasts a number of rounds equal to ½ your wizard level (minimum 1 round). You can use this ability a number of times per day 
+equal to 3 + your Intelligence modifier. 
+Bit of Luck (Sp) You can touch a willing creature as a standard action, giving it a bit of luck. For the next round, any time the target 
+rolls a d20, he may roll twice and take the more favorable result. You can use this ability a number of times per day equal to 
+3 + your Wisdom modifier. 
+Channel Energy (Su) Channeling energy causes a burst that affects all creatures of one type (either undead or living) in a 30-foot 
+radius centered on you. The amount of damage dealt or healed is equal to 1d6 points of damage plus 1d6 points of damage 
+for every two cleric levels beyond 1
+st. Creatures that take damage from channeled energy receive a Will save to halve the 
+damage. The DC of this save is equal to 10 + ½ your cleric level + your Charisma modifier. Creatures healed by channeled 
+energy cannot exceed their maximum hit point total—all excess healing is lost. You may channel energy a number of times 
+per day equal to 3 + your Charisma modifier. This is a standard action that does not provoke an attack of opportunity. You 
+can choose whether or not to include yourself in this effect. You must be able to present your holy symbol to use this ability. 
+Combined Spells (Su) You can prepare and cast spells from one of your spellcasting classes using the available slots from any of 
+your other spellcasting classes. Spells prepared or cast in this way take up a slot one level higher than they originally 
+occupied. This ability cannot be used to cast a spell at a lower level if that spell exists on both spell lists. You may only cross 
+1st-level spells in this fashion. The components of these spells do not change, but they otherwise follow the rules for the 
+spellcasting class used to cast the spell. 
+Deft Dodger You gain a +1 trait bonus to Reflex saves (included above). 
+Esoteric Training Due to your membership in a spellcasting guild (and Fame score of 40) you gain a +3 bonus to your caster level 
+with wizard spells and a +1 bonus to your caster level with cleric spells (up to a maximum of your character level). These 
+bonuses grant you additional spells known and spells per day for your modified caster level. 
+Lifebound (Ex) You gain a +2 racial bonus on all saving throws made to resist death effects, saving throws against negative energy 
+effects, Fortitude saves made to remove negative levels, and Constitution checks made to stabilize if reduced to negative hit 
+points. 
+Magical Knack Pick a class when you gain this trait—your caster level in that class gains a +2 trait bonus as long as this bonus 
+doesn’t raise your caster level above your current Hit Dice. Thise bonus does not grant you additional spells known and 
+spells per day for your modified caster level. 
+Senior Guild Member Using guild contacts, you can earn an additional 10% profit when selling magical wondrous items. 
+Shards of the Past (Ex) Choose two skills—you gain a +2 racial bonus on both of these skills (included above), and they are treated 
+as class skills regardless of what class you actually take. 
+ 
+   
+
+Artemis 
+  
+
+Female silvanshee familiar 
+NG Tiny outsider (agathion, extraplanar, good) 
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +16 
+Languages Celestial, Draconic, Infernal; speak with animals, truespeech 
+DEFENSE 
+AC 18, touch 14, flat-footed 16 (+2 Dex, +4 natural, +2 size) 
+hp 25 (8 HD) 
+Fort +7, Ref +6, Will +9 
+Defensive Abilities improved evasion; DR 5/evil or silver; Immune electricity, 
+petrification; Resist cold 10, sonic 10; SR 13 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 90 ft. (good) 
+Melee bite +6 (1d4–4) and 2 claws +6 (1d2–4) or 
+by spell +8 touch (as the spell) 
+Space 2½ ft.; Reach 0 ft. 
+Special Attacks deliver touch spells 
+Spell-like Abilities (CL 2nd except where noted) 
+Constant – know direction, speak with animals 
+At will – dancing lights, prestidigitation, stabilize 
+1/day – dimension door (self plus 5 lb. of objects only) 
+1/week – commune (6 questions, CL 12th) 
+STATISTICS 
+Abilities Str 3 (–4), Dex 15 (+2), Con 12 (+1), Int 10 (+0), Wis 12 (+1), Cha 13 (+1) 
+Base Atk +4; CMB +4; CMD 10 (14 vs. trip) 
+Feats Improved Initiative, Weapon Finesse
+B 
+Skills Acrobatics +11, Appraise +8, Climb +7, Fly +6, Heal +8, Knowledge (arcana) +11, Knowledge (history) +8, Knowledge 
+(nature) +8, Knowledge (planes) +5, Knowledge (religion) +8, Perception +16, Sense Motive +9, Spellcraft +8, Stealth +19; 
+Racial Modifiers +4 Acrobatics, +4 Perception, +4 Stealth 
+SQ alertness, cat’s luck, empathic link, familiar traits, flight, lay on hands (1d6, 1/day), share spells, spectral mist 
+Gear spare spell component pouch 
+Encumbrance light 7 lb. 8 oz., medium 15 lb., heavy 22 lb. 8 oz.; Weight Carried 2 lb. 
+SPECIAL ABILITIES 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+Cat’s Luck (Su) A silvanshee adds its Charisma modifier as a luck bonus on all its saving throws. Once per day as a standard action, 
+it can also grant this bonus to one ally within 30 feet for 10 minutes. 
+Deliver Touch Spells (Su) If you and your familiar are in contact at the time you cast a touch spell, you can designate your familiar as 
+the toucher. Your familiar can then deliver the touch spell personally. As usual, if you cast another spell before the touch is 
+delivered, the touch spell dissipates. 
+Empathic Link (Su) Your familiar has an empathic link with you out to one mile. You cannot see through your familiar’s eyes, but 
+the two of you can communicate empathically. Only general emotional content can be communicated. You have the same 
+connection to an item or place that your familiar does. 
+Heroic Strength (Su) Once per day, a silvanshee can grant itself a +8 enhancement bonus to Strength for 1 minute. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half damage, your familiar takes 
+no damage if he makes a successful saving throw and half damage even if the saving throw fails. 
+Share Spells Any spell you cast on yourself also affects your familiar if he is within 5 feet at the time of casting. If the spell is 
+continuous, it stops affecting your familiar if he moves farther than 5 feet away. Your familiar may accept such spells even if 
+he would normally be an invalid target. 
+Spectral Mist (Su) A silvanshee can assume an eerie, mist-like form roughly the size and shape of a cat. This ability has the same 
+effect as a gaseous form spell, except the silvanshee retains its own DR and supernatural abilities and can move at its normal 
+speed. It can remain in mist form up to 5 minutes per day. This duration does not have to be consecutive, but it must be used 
+in 1-minute increments. 
+ 

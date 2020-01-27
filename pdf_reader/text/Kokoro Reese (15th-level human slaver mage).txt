@@ -1,0 +1,126 @@
+
+
+Kokoro Reese 
+Male human enchanter 15 
+LE Medium humanoid 
+Init +2; Senses Perception +15 
+Languages Common, Giant, Goblin, Orc 
+DEFENSE 
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 armor); mage armor 
+hp 144 plus false life (15 HD) 
+Fort +15, Ref +12, Will +14; +2 vs. mind-affecting effects 
+Defensive Abilities mind blank; SR 21 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee by weapon +7/+2 
+Ranged by weapon +9/+4 
+Special Attacks irresistible demand (DC 26, 15 rounds) 
+Arcane School Spell-Like Ability (CL 15
+th; Concentration +24) 
+12/day – dazing touch 
+Wizard Spells Prepared (CL 15
+th; Concentration +24) 
+8th  (3/day) – mind blank, power word stun, summon monster VIII 
+7th  (4/day) – finger of death, insanity, mass hold person*, waves of exhaustion 
+6th  (5/day) – circle of death, conjure black pudding
+UM, guards and wards, mass suggestion, unwilling 
+shieldAPG 
+5th  (7/day) – mass pain strikeAPG, persistent deep slumber, reach vampiric touch (medium range) (2), 
+suffocationAPG, teleport (2) 
+4th  (11/day) – crushing despair (2), lesser geas, persistent blindness/deafness (2), reach ghoul touch 
+(medium range) (2), reach vampiric touch (close range) (2), shadow projection
+APG (2) 
+3rd  (7/day) – deep slumber, lightning bolt (2), pain strikeAPG, phantom steed, suggestion (2) 
+2nd (7/day) – disguise otherUM O, false life (2), hideous laughter, reach chill touch (close range), reach 
+unseen servant (medium range) 
+1st  (8/day) – disguise selfO, feather fall, mage armor, magic missile (2), shield (2) 
+0  (at will) – acid splash, arcane mark, detect poison, prestidigitation 
+Arcane School enchantment (controller); O Opposition school spell; Opposition Schools illusion, 
+transmutation 
+STATISTICS 
+Abilities Str 10 (+0), Dex 14 (+2), Con 20 (+5), Int 28 (+9), Wis 10 (+0), Cha 14 (+5); circlet of persuasion 
+Base Atk +7; CMB +7; CMD 19 
+Feats Craft Wondrous Items, Greater Spell Focus (enchantment), Heighten Spell
+B, Persistent SpellB, Preferred 
+Spell (bestow curse, charm monster, dominate person, enervation, hold monster), Reach Spell
+B, Scribe 
+ScrollB, Spell Focus (enchantment), Spell Mastery
+B (mastered spells marked with asterisks below) 
+Skills Appraise +27, Bluff +20, Diplomacy +20, Intimidate +20, Knowledge (arcana) +27, Knowledge (local) 
++27, Knowledge (nobility) +27, Perception +15, Sense Motive +15, Spellcraft +27, Stealth +17 
+SQ arcane bond (object), force of will 
+Gear attendant slaves (3) (use village idiot stats from the GameMastery Guide), belt of mighty constitution +6, 
+blessed book (654 pages left), circlet of persuasion, cloak of resistance +5, dominated hill giant 
+bodyguard (see Bestiary), eyes of charming, hand of glory, headband of vast intelligence +6 (perception, 
+sense motive, stealth), jailer’s dungeon ring, manacles of cooperation (2), mantle of spell resistance, 
+metamagic rod (lesser maximize), prisoner’s dungeon rings (8), ring of mind shielding, ring of wizardry 
+IV (bonded object), spell component pouch, tender (340gp), tome of clear thought +1 (already read) 
+Spellbook 8
+th—binding
+M, demand, discern location, euphoric tranquility
+APG, mass charm monster, mind blank, 
+power word stun, summon monster VIII; 7th—finger of death, insanity, mass hold person*, phantasmal 
+revengeAPG, sequester, waves of ecstasy
+UM, waves of exhaustion; 6th—circle of death, cloak of 
+
+dreamsAPG, conjure black pudding
+UM, envious urge
+UM, guards and wards, mass suggestion, serenity
+UM, 
+unwilling shield
+APG, utter contemptUM; 5th—curse of disgust
+UM, dominate person*, hold monster*, mass 
+pain strike
+APG, smug narcissism
+UM, suffocationAPG, teleport*; 4
+th—agonize
+UM, bestow curse*, charm 
+monster* confusion, control summoned creature
+UM, crushing despair, lesser geas, malicious spite
+UM, 
+mass daze
+UM, overwhelming griefUM, shadow projectionAPG, terrible remorse
+UM, touch of slime
+UM; 3rd—
+deep slumber, hold person, howling agony
+UM, lightning bolt, pain strike
+APG, phantom steed, rage, 
+reckless infatuationUM, slowO, suggestion, unadulterated loathing
+UM, vampiric touch; 2nd—bestow 
+weapon proficiency
+UC, blindness/deafness, compassionate ally
+UM, daze monster, disguise otherUM, ghoul 
+touch, false life, hideous laughter, miserable pity
+UM, oppressive boredom
+UM, qualm
+UC, share memory
+UM; 
+1st—charm person, chill touch, delusional pride
+UM, disguise selfO, feather fall, identify, interrogationUM, 
+lock gaze
+UM, mage armor, magic missile, memory lapse
+APG, shield, moment of greatnessUC, unseen 
+servant; 0—all non-evocation/illusion spells 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 19 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Dazing Touch (Sp) You can cause a living creature to become dazed for 1 round as a melee touch attack. 
+Creatures with more Hit Dice than your wizard level are unaffected. You can use this ability a number 
+of times per day equal to 3 + your Intelligence modifier. 
+Force of Will (Su) You can send thoughts and instructions telepathically to any creature within 60 feet that you 
+have charmed or dominated as though you shared a common language. Affected creatures can 
+communicate back to you via the telepathic link as well. 
+Irresistible Demand (Sp) You can force others to do your bidding. As a standard action, you attempt to 
+dominate a creature as though using the dominate monster spell, except that the creature must have a 
+number of Hit Dice equal to or less than your wizard level. The targeted creature receives a Will saving 
+throw each round to negate the effect. The DC is equal to 10 + ½ your wizard level + your Intelligence 
+modifier. You can dominate creatures for a number of rounds per day equal to your wizard level. These 
+rounds do not need to be consecutive. You must concentrate as a standard action to maintain control 
+over a dominated creature. 

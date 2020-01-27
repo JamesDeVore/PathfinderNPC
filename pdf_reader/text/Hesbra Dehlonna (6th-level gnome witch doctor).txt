@@ -1,0 +1,102 @@
+
+
+Hesbra Dehlonna 
+Female gnome shaman 6 
+CG Small humanoid (gnome) 
+Init +2; Senses familiar’s alertness, low-light vision; Perception +5 
+Languages Common, Elven, Gnome, Sylvan 
+DEFENSE 
+AC 20, touch 12, flat-footed 19 (+7 armor, +1 Dex, +1 natural, +1 size) 
+hp 62 (6 HD) 
+Fort +5, Ref +4, Will +8; +2 vs. illusions 
+OFFENSE 
+Speed 15 ft. (3 squares), 20 ft. without armor 
+Melee spear +3 (1d6–1/×3) 
+Ranged spear +6 (1d6–1/×3) 
+Special Attacks channel positive energy 4/day (DC 16, 3d6), hexes (cauldron, 
+enhanced cures, fetish, healing), storm burst (6/day) 
+Spell-Like Abilities (CL 6
+th; Concentration +9) 
+1/day – dancing lights, ghost sound, prestidigitation, speak with animals 
+Shaman Spells Prepared (CL 6
+th; Concentration +9) 
+3rd  (4/day) – call lightning, deep slumber, stinking cloud, neutralize poisonS, speak with plantsS 
+2
+nd (5/day) – barkskin
+S, false life, lesser restorationS, life pact
+ACG, sickening entanglementACG, tree 
+shape 
+1st  (5/day) – charm animal
+S, cure light wounds (2), detect undead
+S, stone shieldARG (2) 
+0  (4/day) – create water, dancing lights, detect magic, guidance 
+S Spirit Magic Spell; Spirit life; Wandering Spirit nature 
+STATISTICS 
+Abilities Str 8 (–1), Dex 14 (+2), Con 16 (+3), Int 12 (+1), Wis 16 (+3), Cha 16 (+3) 
+Base Atk +4; CMB +2; CMD 13 
+Feats Brew PotionB, Craft Wondrous ItemB, Extra Hex (2), Master Alchemist 
+Skills Craft (alchemy) +18, Heal +12, Knowledge (nature) +10, Profession (gardener) +5, Spellcraft +10, 
+Survival +12; Check Penalty –6; Racial Modifiers +2 Craft (alchemy), Perception, and Profession 
+(gardener) 
+SQ gnome magic, spirit animal (armadillo), spirit magic, wandering hex (currently life link), warden of 
+nature, weapon familiarity 
+Combat Gear alchemical weapons (acid 3, alchemist’s fire 3, bottled lightning 3, liquid ice 3, tanglefoot bags 
+3, thunderstones 3), alchemical tools (alchemical glue 2, sunrods 3, tindertwigs 3), feather tokens 
+(anchor, bird 2, campsite 2, catapult, fan, floating feather 2, lance, ram, siege tower, sky hook 2, swan 
+boat 2, tar and feathers 2, tree 2, whip 2), unique feather tokens (as one each of all the patches from a 
+robe of useful items plus one additional door, window, and pit), potions/oils (alter self 2, barkskin 2, 
+bear’s endurance, bull’s strength, cure light wounds 4, darkness, daylight, endure elements, fly, hide 
+from animals, lesser restoration 2, magic weapons, resist energy: fire, speak with dead, warp wood, 
+water breathing); Other Gear +2 horn lamellar armor, chirurgeon’s kit, spear, tender (6sp, 7cp) 
+Encumbrance light 19 lb. 8 oz., medium 39 lb. 12 oz., heavy 60 lb.; Weight Carried 57 lb. 4 oz. (excluding 
+tender) 
+SPECIAL ABILITIES 
+Channel Energy (Su) Four times per day you may release a burst of positive energy in a 30-ft. radius burst as a 
+standard action. When doing so you can choose to harm undead creatures in the area (3d6 damage, Will 
+DC 16 half) or to heal the living (3d6 healing). 
+Gnome Magic You add +1 to the DC of any saving throws against illusion spells that you cast. If you have a 
+Charisma score of 11 or higher you also gain the following spell-like abilities: 1/day—dancing lights, 
+
+ghost sound, prestidigitation, and speak with animals. The caster level for these effects is equal to your 
+character level. The DC for these spells is equal to 10 + the spell’s level + your Charisma modifier. 
+Spirit Magic You can spontaneously cast a limited number of spells per day beyond those you prepared ahead 
+of time. You have one spell slot per day of each shaman spell level you can cast, not including orisons. 
+You can choose these spells from the list of spells granted by your spirits at the time you cast them. You 
+can enhance these spells using any metamagic feat that you know, using up a higher-level spell slot as 
+required by the feat and increasing the time to cast the spell. 
+Storm Burst (Su) As a standard action, you can cause a small storm of swirling wind and rain to form around 
+one creature within 30 feet. This storm causes the target to treat all foes as if they had concealment, 
+suffering a 20% miss chance for 1 round plus 1 round for every 4 shaman levels you possess. You can 
+use this ability a number of times per day equal to 3 + your Charisma modifier. 
+Warden of Nature You gain a +2 dodge bonus to AC against aberrations, oozes, and vermin, and a +1 bonus 
+on attack rolls against them because of your special training against such creatures. 
+Weapon Familiarity You treat any weapon with the word “gnome” in its name as a martial weapon. 
+ 
+Armando 
+Armadillo Familiar 
+N Tiny outsider (native) 
+Init +2; Senses scent; Perception +8 
+DEFENSE 
+AC 16, touch 14, flat-footed 14 (+2 Dex, +2 natural, +2 size) 
+hp 28 (6 HD); fast healing 1 
+Fort +2, Ref +4, Will +6 
+Defensive Abilities improved evasion 
+OFFENSE 
+Speed 30 ft., burrow 5 ft. 
+Melee claw +3 (1d2–3) or 
+by spell +3 touch (as the spell) 
+Space 2½ ft., Reach 0 ft. 
+Special Attacks deliver touch spells 
+STATISTICS 
+Abilities Str 4 (–3), Dex 15 (+2), Con 11 (+0), Int 8 (–1), Wis 12 (+1), Cha 9 (–1) 
+Base Atk +4; CMB +4; CMD 11 (13 vs. overrun/trip) 
+Feats Skill Focus (Perception) 
+Skills Craft (alchemy) +5, Heal +7, Knowledge (nature) +5, Perception +8, Spellcraft +5, Survival +7, Swim 
++1; Racial Modifiers +4 Swim 
+SQ alertness, empathic link, familiar traits, share spells, speak with master 
+SPECIAL ABILITIES 
+Natural Diver (Ex) Armadillos can hold their breath underwater for up to 6 minutes. Their dense armor 
+naturally causes them to sink; they can inflate their stomachs to counter this, accounting for their racial 
+bonus on Swim checks. 
+Protective Ball (Ex) Some armadillos can roll up into a ball, increasing their natural armor bonus to +3 but 
+decreasing their speed to 0. 

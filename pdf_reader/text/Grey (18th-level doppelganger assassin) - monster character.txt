@@ -1,0 +1,134 @@
+
+
+Grey 
+“Don’t run…you’ll only die tired.” 
+ 
+Grey grew up quick and he grew up mean. Abandoned at birth, he grew up within the fetid sewers of a bustling 
+city not knowing that he was anything more than a monster. He would skulk below the surface during the day, 
+emerging only at night to forage for supplies by breaking into homes and shops on the surface. Eventually Grey 
+was discovered by the local thieves’ guilds who had been most interested in finding the young upstart who had 
+been  infringing  upon  their  territory  for  some  years.  Grey  was  spared  by  the  guild  only  due  to  the  accidental 
+discovery of his unique ability to change shape. The guild master, recognizing the usefulness of Grey’s unique 
+abilities, took the young street urchin on as an apprentice, gave him a proper education, and taught him everything 
+he knew about stealing identities and pulling off cons. Over the next two decades, Grey was slowly groomed into 
+being a prodigious member of the guild as well as a master of assassination. Due to his legendary skill and natural 
+abilities, Grey was never discovered by the local authorities and he never gained much notoriety outside of his 
+own  guild.  Eventually,  Grey  grew  bored  of  his  criminal  life  style  and  left  the  guild  to  take  up  more  exciting 
+adventures elsewhere in the world. For a time, he participated in a military campaign as a member of a small 
+espionage  group.  During  his  time  he  quickly  rose  to  the  rank  of  Colonel  all  the  while  never  revealing  his 
+monstrous heritage. When the campaign ended, he retired from his post and resumed traveling the world in search 
+of adventure. He now wanders the various nations of the world as an opportunist. 
+ 
+Grey 
+Male doppelganger rogue 6/assassin 10 
+N Medium monstrous humanoid (shapechanger) 
+Init +14; Senses darkvision 60 ft.; Perception +25 
+Languages Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, 
+Dwarven, Elven, Giant, Gnome, Goblin, Gnoll, Halfling, Ignan, 
+Infernal, Orc, Sylvan, Terran, Undercommon 
+DEFENSE 
+AC 36, touch 26, flat-footed 25 (+6 armor, +5 deflection, +10 Dex, +1 dodge, 
++4 natural); trap sense +2 
+hp 149 (20 HD) 
+Fort +12, Ref +29, Will +16; +2 vs. enchantment, +5 vs. poison 
+Defensive Abilities evasion, improved uncanny dodge, trap sense +2; 
+Immune charm, sleep 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee +5 adamantine keen speed rapier +30/+30/+25/+20 (1d6+9/15-20) and claw +20 (1d8+2) or 
++5 adamantine returning dagger +31/+26/+21 (1d4+9/17-20) and claw +20 (1d8+2) or 
+2 claws +25/+25 (1d8+4 each) 
+Ranged +5 adamantine returning dagger +31/+26/+21 (1d4+9/17-20) 
+Special Attacks angel of death 1/day, death attack (DC 27, 1d6+10 rounds), quiet death, sneak attack +9d6, 
+swift death 1/day, true death (DC 25) 
+Spell-like Abilities (CL 18th; Concentration +22) 
+At will – detect thoughts (DC 16) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 30 (+10), Con 12 (+1), Int 20 (+5), Wis 14 (+2), Cha 18 (+4) 
+Base Atk +15; CMB +19 (+31 with dagger, +30 with rapier); CMD 45 
+Feats Ability Focus (death attack), Accomplished Sneak Attacker, Bleeding Critical, Critical Focus, Dodge, 
+Improved Critical (dagger), Improved Initiative, Mobility, Spring Attack, Vital Strike, Weapon Finesse, 
+Weapon Focus (daggerB) 
+
+Skills Acrobatics +28 (+37 when jumping), Bluff +31, Climb +27, Diplomacy +27, Disable Device +37, 
+Disguise +31 (+41 with perfect copy), Escape Artist +16, Linguistics +28, Perception +25 (+28 to find 
+traps), Ride +30, Sleight of Hand +23 (+33 to conceal weapons), Stealth +33, Swim +17; Racial 
+Modifiers +4 Bluff, +4 Disguise 
+SQ change shape (alter self), hidden weapons, hide in plain sight, mimicry, perfect copy, poison use, rogue 
+talents (bleeding attack 9, fast stealth, weapon training), still mind, trapfinding +3 
+Gear +5 adamantine keen speed rapier, +5 adamantine returning dagger, belt of incredible dexterity +6, boots 
+of striding and springing, bracers of armor +6, cloak of resistance +5, figurine of wondrous power 
+(ebony fly), handy haversack, headband of vast intellect +4 (climb, swim), manual of quickness in 
+action +3 (already read), ring of invisibility, ring of protection +5, tender (1,778gp), vest of escape 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 13 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Angel of Death (Su) Once per day, when you make a successful death attack, you can cause the target’s body 
+to crumble to dust. This prevents raise dead and resurrection (although true resurrection works as 
+normal). You must declare the use of this ability before the attack is made. If the attack misses or the 
+target successfully saves against the death attack, this ability is wasted with no effect. 
+Bleeding Attack You can cause living opponents to bleed by hitting them with a sneak attack. This attack 
+causes the target to take 1 additional point of damage each round for each die of sneak attack you 
+possess. Bleeding creatures take that amount of damage every round at the start of each of their turns. 
+The bleeding can be stopped by a DC 15 Heal check or the application of any effect that heals hit point 
+damage. Bleeding damage from this ability does not stack with itself. Bleeding damage bypasses any 
+damage reduction the creature might possess. 
+Change Shape (Su) You can assume the appearance of a specific creature or type of creature (usually a 
+humanoid), but you retain most of your own physical qualities. You cannot change shape to a form more 
+than one size category smaller or larger than your original form. This ability functions as alter self, but 
+you do not adjust your ability scores (although you gain any other abilities of the creature you mimic). 
+Death Attack (Ex) If you study your victim for 3 rounds and then make a sneak attack with a melee weapon 
+that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or 
+killing the target (your choice). Studying the victim is a standard action. The death attack fails if the 
+target detects you or recognizes you as an enemy (although the attack might still be a sneak attack if the 
+target is denied his Dexterity bonus to his Armor Class or is flanked). If the victim of such a death attack 
+fails a Fortitude save (DC 27) against the kill effect, they die. If the saving throw fails against the 
+paralysis effect, the victim is rendered helpless and unable to act for 1d6+10 rounds. If the victim’s 
+saving throw succeeds, the attack is just a normal sneak attack. Once you have completed the 3 rounds 
+of study, you must make the death attack within the next 3 rounds. If a death attack is attempted and 
+fails (the victim makes their save) or if you do not launch the attack within 3 rounds of completing the 
+study, 3 new rounds of study are required before you can attempt another death attack. 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. Evasion can be used only if you are wearing light 
+armor or no armor. If you are helpless, you do not gain the benefit of evasion. 
+Fast Stealth (Ex) You may move at full speed while using the Stealth skill at no penalty. 
+Hidden Weapons (Ex) You add your assassin levels to all Sleight of Hand checks made to conceal weapons on 
+your person (included above). 
+Hide in Plain Sight (Su) You can use the Stealth skill even while being observed. As long as you are within 10 
+feet of some sort of shadow or an area of dim light, you can hide yourself from view in the open without 
+having anything to actually hide behind. You cannot, however, hide in your own shadow. 
+Improved Uncanny Dodge (Ex) You retain your Dexterity bonus to AC even if you are caught flat-footed or 
+struck by an invisible attacker. However, you still lose your Dexterity bonus to AC if immobilized. In 
+addition, you cannot be flanked, denying rogues and similar creatures the ability to sneak attack you 
+unless happen to be a rogue (or similar character with access to sneak attack) of at least 20th-level. 
+
+Mimicry (Ex) You are proficient in all weapons, armor, and shields. In addition, you can use any spell trigger 
+or spell completion item as if the spells were on your spell list. Your caster level is equal to your racial 
+Hit Dice. 
+Perfect Copy (Su) When you use change shape, it can assume the appearance of specific individuals. 
+Poison Use You are trained in the use of poison and cannot accidentally poison yourself when applying poison 
+to a blade. 
+Quiet Death (Ex) Whenever you kill a creature using your death attack during a surprise round, you can also 
+make a Stealth check, opposed by the Perception checks of those in the vicinity to prevent them from 
+identifying you as the assailant. If successful, those nearby might not even notice that the target is dead 
+for a few moments, allowing you to avoid detection. 
+Save Bonus against Poison You gain a +5 saving throw bonus against poisons (included above). 
+Sneak Attack Your attack deals 9d6 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target has a Dexterity bonus or not), or when you flank your target. Should you score a 
+critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as sneak 
+attacks only if the target is within 30 feet. With a weapon that deals nonlethal damage (like a sap, whip, 
+or an unarmed strike), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, 
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with 
+concealment. 
+Still Mind (Ex) You gain a +2 bonus on saving throws against enchantment spells and effects (included above). 
+Swift Death (Ex) Once per day, you can make a death attack against a foe without studying the foe beforehand. 
+You must still sneak attack your foe using a melee weapon that deals damage. 
+Trapfinding You add ½ your rogue level to Perception skill checks made to locate traps and to Disable Device 
+skill checks. You can use Disable Device to disarm magic traps. 
+True Death (Su) Anyone slain by your death attack becomes more difficult to bring back from the dead. 
+Spellcasters attempting to bring a creature back from the dead using raise dead or similar magic must 
+make a caster level check (DC 25) or the spell fails and the material component is wasted. Casting 
+remove curse the round before attempting to bring the creature back from the dead negates this chance. 
+The DC of the remove curse is 20. 
+ 

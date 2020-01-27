@@ -1,0 +1,140 @@
+
+
+Sir Orrin Neville-Smythe 
+Male middle-aged human cavalier 16 (disciple of the 
+pike) 
+LG Medium human 
+Init +1; Senses Perception +0 
+Languages Common 
+DEFENSE 
+AC 31, touch 14, flat-footed 30 (+14 armor, +3 
+deflection, +1 Dex, +3 natural armor) 
+hp 171 (16 HD) 
+Fort +17, Ref +10, Will +9; +3 bonus vs area of 
+effects requiring Fortitude or Reflex saves; +5 vs effects targeting your spears 
+Defensive Abilities bigger they are, evasion, freedom of movement, monster expert +3 
+OFFENSE 
+Speed 20 ft. (6 squares), 30 ft. without full plate 
+Melee +4 lance +32/+27/+22/+17 (1d8+14/×3) or 
++4 lance +32/+27/+22/+17 (1d8+30/×3) with Challenge, or 
++4 lance +27/+22/+17/+12 (1d8+29/×3) with Power Attack, or 
++4 lance +27/+22/+17/+12 (1d8+45/×3) with Power Attack and Challenge, or 
++4 longsword +27/+22/+17/+12 (1d8+9/19-20) or 
++4 longsword +27/+22/+17/+12 (1d8+25/19-20) with Challenge, or 
++4 longsword +22/+17/+12/+7 (1d8+24/19-20) with Power Attack, or 
++4 longsword +22/+17/+12/+7 (1d8+40/19-20) with Power Attack and Challenge 
+Ranged +1 sharding javelin +23/+18/+13/+8 (1d6+13) 
+Space 5 ft.; Reach 5 ft. (10 ft. with lance) 
+Special Attacks challenge 5/day (+16 damage; additional +5 damage vs. larger targets), counterstriking 
+challenge 1/day (DC 21), weapon training (spears +5) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 12 (+1), Con 16 (+3), Int 10 (+0), Wis 10 (+0), Cha 16 (+3) 
+Base Atk +16; CMB +20; CMD 34 (39 vs. attacks against your spears) 
+Feats Animal Ally, Boon Companion, Cavalry FormationB, Dazing AssaultB, Ferocious Loyalty
+B, Mounted 
+Combat, Mounted Skirmisher, Nature SoulB, Power AttackB, Ride-by Attack, Spirited Charge, Trick 
+Riding, Wheeling Charge 
+
+Skills Climb +6, Diplomacy +22, Handle Animal +22 (+26 with Lancer), Knowledge (arcana, nature) +17 (+33 
+to identify monsters), Knowledge +0 (+16 to identify monsters), Ride +20, Survival +20, Swim +6; 
+Armor Check Penalty –5 
+SQ agile charger, greater tactician (11 rounds) 4/day, monster hunter +8, order (hero), pike charge, resist 
+energy 3/day 
+Combat Gear potions (enlarge person 4, fly 2); Other Gear +1 sharding javelin, +4 lance, +4 longsword, +5 
+full plate with +2 defending armor spikes, amulet of natural armor +3, belt of giant strength +6, cloak 
+of resistance +4, gloves of dueling, Lancer (horse animal companion), lucky helm (as jingasa of the 
+fortunate soldier, but with a +3 deflection bonus), ring of evasion, ring of freedom of movement, tender 
+(18gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 81 lb. 6 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Agile Charger (Ex) You take no penalties caused by difficult terrain while charging. Your movement is still 
+hampered by obstacles, poor visibility, and other conditions. This ability doesn’t allow you to move 
+through impassible terrain. 
+Bigger They Are (Ex) You gain a cumulative +1 dodge bonus to AC for every size category a creature is than 
+you, to a maximum of +4. 
+
+Challenge (Ex) Five times per day, you can challenge a foe to combat. As a swift action, you choose one target 
+within sight to challenge. Your melee attacks deal extra damage whenever the attacks are made against 
+the target of your challenge. This extra damage is equal to your cavalier level. Challenging a foe 
+requires much of your concentration causing you to take a –2 penalty to your Armor Class, except 
+against attacks made by the target of your challenge. The challenge remains in effect until the target is 
+dead or unconscious or until the combat ends. What’s more, you receive an additional +1 morale bonus 
+on melee damage rolls against the target of your challenge if it is at least one size category larger than 
+you are. This bonus increases by 1 for every 4 cavalier levels you have. 
+Counterstriking Challenge (Ex) Once per day when you challenge a Large or larger creature, you can also 
+prepare to interrupt the creature’s special attacks. The challenged target provokes an attack of 
+opportunity from you whenever it activates an extraordinary or a supernatural attack (such as a breath 
+weapon or gaze attack).  If you deal damage with this attack, the creature must succeed at a Will save 
+(DC = 10 + half your cavalier level + your Charisma modifier) or it fails to activate the special attack 
+and loses the action it took to do so. You can perform three such attacks of opportunity over the course 
+of a counterstriking challenge. 
+Edict You’ve vowed to slay any monster threatening your chosen area. You must fulfill any pledge you make 
+to slay a beast, tracking it to its lair if necessary, and forsaking any new quarry until your current target 
+is slain. You must attempt to ensure that no lasting damage is dealt to your chosen domain in the pursuit 
+of your prey. 
+Greater Tactician (Ex) You receive two teamwork feats as bonus feats. You must meet the prerequisites for 
+these feats. Three times per day, as a swift action, you can grant this feat to all allies within 30 feet who 
+can see and hear you. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every two 
+cavalier levels you possess. Allies do not need to meet the prerequisites of these bonus feats. 
+Monster Expert (Ex) You gain a bonus equal to your Charisma bonus on Fortitude and Reflex saves against 
+abilities and spells that have an area of effect. 
+Monster Hunter (Ex) You can attempt Knowledge checks untrained to identify monsters and their weaknesses, 
+and you gain a bonus equal to half of your cavalier level on Knowledge checks to identify monsters. 
+Pike Charge (Ex) You receive a +4 bonus on melee attacks when charging with a weapon from the polearm or 
+spear weapon groups (instead of the normal +2). In addition, you take no penalty to your AC after 
+making a charge attack with a polearm or spear. 
+Resist Energy (Su) Three times per day as a move action, you can choose one of the following: acid, cold, 
+electricity, or fire. You gain energy resistance 15 against the chosen type for 1 minute. 
+Skills Knowledge (arcana) and Knowledge (nature) are class skills for you. In addition, whenever you use a 
+Knowledge check to identify a monster, you gain a bonus on your check equal to half your cavalier level 
+(minimum +1). 
+Weapon Training (Ex) You receive a +5 bonus to attack and damage rolls when using spears, to any combat 
+maneuver checks made with spears, and to your Combat Maneuver Defense when defending against 
+disarm and sunder attempts made against spears. 
+  “Blade with whom I have lived, 
+blade with whom I now die, 
+serve right and justice one last time, 
+seek one last heart of evil, 
+still one last life of pain. 
+Cut well, old friend, 
+and then farewell!” 
+
+Lancer 
+Male horse animal companion 
+N Large animal 
+Init +4; Senses low-light vision, scent; Perception 
++23 
+DEFENSE 
+AC 32, touch 12, flat-footed 29 (+6 armor, +3 
+Dex, +14 natural, –1 size) 
+hp 110 (13 HD) 
+Fort +12, Ref +13, Will +8; +4 bonus vs. 
+enchantment, fear, and emotion effects 
+Defensive Abilities devotion, evasion 
+OFFENSE 
+Speed 40 ft. (8 squares); 50 ft. without armor 
+Melee bite +17 (1d4+8) and 2 hooves +15 
+(1d6+4) 
+Space 10 ft.; Reach 5 ft. 
+STATISTICS 
+Abilities Str 26 (+8), Dex 18 (+4), Con 17 (+3), Int 2 (–4), Wis 12 (+1), Cha 6 (–3) 
+Base Atk +9; CMB +18; CMD 32 (36 vs. overrun and trip) 
+Feats Armor Proficiency (light, medium), Cavalry FormationB, Ferocious Loyalty
+B, Iron Will, MultiattackB, 
+Nomad-Trained Horse, Run, Skill Focus (perception), Valiant Steed 
+Skills Acrobatics +9 (+13 to jump), Perception +23; Armor Check Penalty –3 
+SQ link, share spells, tricks (advanced attack, break out, come, defend, deliver, detect, down, exclusive, fetch, 
+flank, flee, get help, guard, heel, serve, stay, watch, work) 
+Gear bit and bridle, cloak of resistance +1 (worn as a saddle blanket), horsemaster’s saddle, masterwork 
+breastplate barding with masterwork armor spikes, saddlebags 
+Encumbrance light 918 lb., medium 1,839 lb., heavy 2,760 lb.; Weight Carried 95 lb. (plus 286 lb. 6 oz. with 
+rider) 
+SPECIAL ABILITIES 
+Devotion (Ex) Your animal companion gains a +4 morale bonus on Will saves against enchantment spells and 
+effects (included above). 
+Evasion (Ex) If your animal companion is subjected to an attack that normally allows a Reflex save for half 
+damage, it takes no damage if it makes a successful saving throw. 
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding your animal companion. 
+ 

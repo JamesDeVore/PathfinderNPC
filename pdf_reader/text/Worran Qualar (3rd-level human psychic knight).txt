@@ -1,0 +1,66 @@
+
+
+Worran Qualar 
+Male human psychic 3 
+NG Medium humanoid 
+Init +1; Senses Perception +8 
+Languages Common, Dwarven, Elven, Gnome, Halfling 
+DEFENSE 
+AC 20, touch 11, flat-footed 19 (+9 armor, +1 Dex) 
+hp 27 (3 HD) 
+Fort +4, Ref +2, Will +5 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. without armor 
+Melee mwk morningstar +4 (1d8+3) or 
+mwk longsword +0 (1d8+3/19-20) 
+Ranged mwk sling +3 (1d4+2) 
+Special Attacks phrenic amplifications (focused force, mindtouch), phrenic pool (3/day) 
+Spell-Like Abilities (CL 3
+rd; Concentration +7) 
+1/day – detect thoughts 
+Psychic Spells Known (CL 3
+rd; Concentration +7) 
+1st  (6/day) – color spray, magic missile, shield 
+0  (at will) – dancing lights, detect poison, ghost sound, prestidigitation, resistance 
+Psychic Discipline Psychedelia 
+STATISTICS 
+Abilities Str 14 (+2), Dex 12 (+1), Con 16 (+3), Int 18 (+4), Wis 14 (+2), Cha 7 (–2) 
+Base Atk +1; CMB +3; CMD 14 
+Feats Armor Proficiency (light
+B, medium, heavy) 
+Skills Bluff +4, Craft (alchemy) +10, Diplomacy +4, Intimidate +4, Perception +8, Sense Motive +8, Spellcraft 
++10; Armor Check Penalty –5 
+SQ cognatogen, detect thoughts, drug resistance 
+Combat Gear antitoxin (3), potions of cure light wounds (3), sling bullets (10), zerk (3); Other Gear 
+masterwork full plate, masterwork longsword (for show only), masterwork morningstar, masterwork 
+sling, psychic’s kit, tender (41gp, 9sp) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 92 lb. 3 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Cognatogen (Su) Once per day, you can create a cognatogen, a mutagen-like mixture that heightens one mental 
+ability score at the expense of a physical ability score. When you imbibe a cognatogen, you gain a +2 
+natural armor bonus and a +4 alchemical bonus to the selected ability score for 1 minute per psychic 
+level. In addition, while the cognatogen is in effect, you take a –2 penalty to one of your physical ability 
+scores. If the cognatogen enhances your Intelligence, it applies a penalty to your Strength. If it enhances 
+your Wisdom, it applies a penalty to your Dexterity. If it enhances your Charisma, it applies a penalty to 
+your Constitution. Otherwise, this ability works just like the alchemist’s mutagen ability. When the 
+effect of the cognatogen ends, you take 2 points of ability damage to the ability score penalized by the 
+cognatogen. 
+Drug Resistance (Ex) When you ingest drugs, you take half as much ability damage (minimum 1). You also 
+gain a +4 bonus on saving throws to avoid becoming addicted to a drug or to overcome being addicted. 
+Focused Force (Su) When casting a force spell, you can increase the spell’s damage by spending 1 point from 
+your phrenic pool. Increase the die size for the spell’s damage by one step (from 1d4 to 1d6, 1d6 to 1d8, 
+1d8 to 1d10, or 1d10 to 1d12). This increases the size of each die rolled. This amplification can be 
+linked only to spells that deal force damage, and only if that damage includes a die value. A spell that 
+already uses d12s for damage can’t be amplified in this way. 
+
+Mindtouch (Su) You can spend 1 point from your phrenic pool to probe one target’s mind if that creature is 
+affected by the linked spell. If the target of the linked spell fails its saving throw or is hit by the spell, 
+you detect its surface thoughts (as the 3
+rd-round effect of detect thoughts). If the linked spell doesn’t 
+already require an attack roll or allow a saving throw, the target can attempt a Will saving throw to avoid 
+the thought-detection effect only; the DC is calculated using the linked spell’s level (and all other 
+bonuses that would apply if the linked spell allowed a Will save). This amplification can be linked only 
+to spells that affect a target or an area. If the linked spell can affect more than one creature, you can 
+attempt to detect more than one target’s thoughts by spending 1 additional point per creature beyond the 
+first. You must select these targets when you cast the spell and spend the points. This is a mind-affecting 
+effect. 

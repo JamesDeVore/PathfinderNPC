@@ -1,0 +1,147 @@
+
+
+Wan Shi Tong 
+Male giant owl psychic 12 
+LN Huge magical beast 
+Init +13; Senses darkvision 60 ft., low-light vision; Perception +37 
+Languages Aklo (cannot speak), Auran (cannot speak), Common, 
+Dwarven, Elven, Gnome, Sylvan (cannot speak); animal 
+telepathy (30 ft.) 
+DEFENSE 
+AC 32, touch 20, flat-footed 25 (+4 armor, +5 deflection, +4 Dex, +8 
+natural, –2 size); mage armor 
+hp 222 plus false life (18 HD) 
+Fort +20, Ref +21, Will +22 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 10 ft. (2 squares), fly 60 ft. (average) 
+Melee 2 claws +14 (2d6+4) 
+Ranged touch spell +14 touch (by spell) 
+Space 15 ft.; Reach 10 ft. 
+Special Attacks major amplifications (dispelling pulse), phrenic amplifications (mindtouch, overpowering 
+mind, relentless casting), phrenic pool (13/day) 
+Spell-Like Abilities (CL 12
+th; Concentration +21) 
+1/day – detect thoughts, telepathic bond 
+Psychic Spells Known (CL 12
+th; Concentration +21) 
+6th  (4/day) – fluid form
+APG, legend lore
+B, mind thrust VI
+B OA 
+5th  (7/day) – dominate person, greater synaptic pulseOA, retrocognition
+B OA 
+4th  (8/day) – freedom of movement, mind probe
+B OA, shadow step
+UM, telekinesis 
+3
+rd  (8/day) – blood biography
+APG, dispel magic
+B, gaseous form, meld into stone, protection from energy 
+2
+nd (8/day) – acute senses
+UM, commune with birdsARG, false life, hypercognitionB OA, shield other, 
+silence 
+1
+st  (9/day) – burst of insight
+OA, charm person, comprehend languagesB, mage armor, shield, true strike 
+0  (at will) – detect magic, detect psychic significance
+OA, ghost sound, mage hand, mending, message, 
+prestidigitation, read magic, stabilize 
+Psychic Discipline Lore 
+STATISTICS 
+Abilities Str 18 (+4), Dex 24 (+7), Con 22 (+6), Int 28 (+9), Wis 24 (+7), Cha 10 (+0) 
+Base Atk +12; CMB +18; CMD 40 
+Feats Expanded Arcana (mind thrust VI), Extend Spell, Flyby Attack, Hover, Logical Spell, Maximize Spell, 
+Merciful Spell, Quicken Spell, Wingover 
+Skills Bluff +20, Diplomacy +20, Fly +28, Handle Animal +18, Heal +25, Intimidate +2 (+6 vs. smaller 
+creatures), Knowledge (all) +21, Linguistics +14, Perception +37, Perform (oratory) +2, Sense Motive 
++32, Spellcraft +30, Stealth +28, Survival +25 (+30 when tracking); Racial Bonuses +4 Fly, +8 
+Knowledge (all), +4 Perception, +4 Sense Motive, +8 Stealth 
+SQ insightful senses, piercing stare, traits (magical lineage: mind thrust VI, reactionary) 
+Gear amulet of speech (as ring of eloquence), belt of the weasel +6, headband of mental prowess +6 
+(intelligence, wisdom; handle animal, heal, survival), lenses of detection, ring of evasion, ring of 
+protection +5, tender (250gp), vest of resistance +5 (as cloak of resistance) 
+Encumbrance light 400 lb., medium 800 lb., heavy 1,200 lb.; Weight Carried 4 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Animal Telepathy (Su) You can telepathically communicate with other animals as if under the effects of speak 
+with animals. 
+
+Detect Thoughts (Sp) You can use detect thoughts as a spell-like ability once per day. You can also expend 
+any unused spell slot of 1
+st-level or higher to cast detect thoughts. If you do so, you use the level of the 
+spell slot expended to determine the Will save DC. 
+Dispelling Pulse (Su) You can spend 3 points from your phrenic pool to entwine dispelling magic with a 
+targeted spell. If the target is hit by the linked spell or fails its saving throw, it’s affected as though you 
+had cast a targeted dispel magic spell on it. This effect can dispel only spells of the linked spell’s level 
+or lower. If the linked spell doesn’t already require an attack roll or allow a saving throw, the target can 
+attempt a Will saving throw to avoid the dispelling effect only; the DC is calculated using the linked 
+spell’s level (and all other bonuses that would apply if the linked spell allowed a Will save). This 
+amplification can be linked only to a spell that targets one creature or object. 
+Illuminating Answers (Su) When you use a spell or spell-like ability that allows you to get answers to 
+questions (such as augury, blood biography, or contact other plane) and get at least one answer, you 
+regain 1 point in your phrenic pool. You regain this point even if the answer is false or vague. The 
+maximum number of points you can regain in this way per day is equal to your Wisdom modifier. 
+Insightful Senses (Su) You add your Wisdom modifier as an insight bonus on your initiative checks. 
+Magical Lineage When you apply metamagic feats to mind thrust VI that add at least 1 level to the spell, treat 
+its actual level as 1 lower for determining the spell’s final adjusted level. 
+Mindtouch (Su) You can spend 1 point from your phrenic pool to probe one target’s mind if that creature is 
+affected by the linked spell. If the target of the linked spell fails its saving throw or is hit by the spell, the 
+psychic detects its surface thoughts (as the 3
+rd-round effect of detect thoughts). If the linked spell doesn’t 
+already require an attack roll or allow a saving throw, the target can attempt a Will saving throw to avoid 
+the thought-detection effect only; the DC is calculated using the linked spell’s level (and all other 
+bonuses that would apply if the linked spell allowed a Will save). This amplification can be linked only 
+to spells that affect a target or an area. If the linked spell can affect more than one creature, you can 
+attempt to detect more than one target’s thoughts by spending 1 additional point per creature beyond the 
+first. You must select these targets when you cast the spell and spend the points. This is a mind-affecting 
+effect. 
+Mnemonic Cache (Su) You can memorize a piece of information and later recall it perfectly. Your mnemonic 
+cache can hold roughly 65 pages of written information, including images and maps, or 85 minutes’ 
+worth of speech or music. (Memorizing music doesn’t confer the ability to perform it properly.) You can 
+hold only one piece of information in your mnemonic cache at a time. The information doesn’t go away 
+when you recall it, but when you put a new piece of information in the cache, the old piece becomes as 
+imperfect as any other memory. Memorizing magical writing (such as a scroll or a page from a 
+spellbook) doesn’t confer the ability to borrow, duplicate, or retain any of the magic in the writing. You 
+could reproduce the spell in writing to allow someone who prepares spells from a spellbook to prepare 
+it, though this functions as using a borrowed spellbook for anyone other than you. If you’re in telepathic 
+contact with another creature (through telepathic bond, for example), you can transfer the information 
+directly into its mind as a free action. For this creature, the information functions like a normal memory, 
+not one with perfect clarity. You can attempt to sequester a written magical trap (such as explosive runes 
+or sepia snake sigil) in your mnemonic cache and destroy it. Treat this as a Disable Device check to 
+disarm a magical trap (as though you had the trapfinding class feature). Your bonus on this roll is equal 
+to either your Disable Device modifier or the sum of 5 + your psychic level + your Wisdom modifier, 
+whichever is higher. If you succeed, instead of being disabled, the trap is erased and destroyed. This 
+ability can’t destroy symbol traps; it functions only if written text is involved. 
+Overpowering Mind (Ex) You can spend 2 points from your phrenic pool to increase the Will save DC of the 
+linked spell by 1. You can choose to instead spend 4 points to increase the DC by 2. This amplification 
+can be linked only to spells that have the mind-affecting descriptor and require a Will saving throw. 
+Phrenic Pool (Su) You have a pool of supernatural mental energy that you can draw upon to manipulate 
+psychic spells as you cast them. The maximum number of points in your phrenic pool is equal to ½ your 
+psychic level + your Wisdom modifier. The phrenic pool is replenished each morning after 8 hours of 
+rest or meditation; these hours don’t need to be consecutive. You might be able to recharge points in 
+
+your phrenic pool in additional circumstances dictated by your psychic discipline. Points gained in 
+excess of the pool’s maximum are lost. 
+Piercing Stare (Su) Up to three times per day as a swift action, you can gain the effects of true seeing (as the 
+spell) for 1 round. 
+Reactionary You gain a +2 trait bonus on initiative checks. 
+Relentless Casting (Su) You can spend 1 point from your phrenic pool to roll twice on any caster level checks 
+to overcome spell resistance required for the linked spell and take the better result. Because you must 
+decide to spend points from your phrenic pool when you start casting a spell, you must decide to use this 
+ability before the GM calls for the caster level check. 
+Superior Automatic Writing (Ex) When attempting checks for the automatic writing occult skill unlock, you 
+can treat your psychic level + your Wisdom bonus as your number of Linguistics skill ranks. You gain 
+an additional option when using automatic writing, and can attempt a DC 35 check to gain information 
+as though you’d used commune instead of augury or divination. This type of commune requires no 
+material component, and the duration equals 1 round per psychic class level you possess. You connect to 
+a distant being of great intellect, a fragment of the Akashic Record, or a similar bastion of knowledge 
+instead of to a deity. 
+Telepathic Bond (Sp) You can use telepathic bond as a spell-like ability once per day, using your psychic level 
+as your caster level. You can’t leave yourself out of a bond created in this way. You can also expend any 
+unused spell slot of 4
+th-level or higher to cast telepathic bond. Casting the spell using a higher-level spell 
+slot gives no benefit on its own, but you can apply metamagic feats that would increase the spell level to 
+the appropriate level. For instance, if you know Extend Spell, you can use a 5
+th-level spell slot to cast 
+extended telepathic bond as a full-round action. 

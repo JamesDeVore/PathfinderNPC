@@ -1,0 +1,105 @@
+
+
+Krammer 
+“BURN! FREEZE!” 
+ 
+Krammer is a fierce kobold alchemist specializing in fire and ice magic. 
+He  was  exiled  from  his  clan  after  leading  a  coup  de  tat  against  their 
+chieftain. After years of careful planning, Krammer managed to get close 
+enough  to  burn  his  chieftain  alive  while  he  slept.  Unfortunately, 
+Krammer’s followers betrayed him shortly afterwards in an attempt to take 
+control of the clan for themselves. 
+ 
+The  entire  coup  de  tat  was  set  up  by  the  leaders  of  the  nearby  town  of 
+Sandpoint who wanted to control the growing menace near their  homes. 
+Promises of wealth and power to the clan’s resident alchemist, Krammer, 
+was all it took to incite open rebellion. Though Krammer’s ability to take 
+control of his clan ultimately failed, the sheer damage his civil war inflicted 
+would  ensure  that  his  clan  wouldn’t  rise  to  be  a  significant  threat  to 
+Sandpoint for several decades to come. 
+ 
+Krammer, having been betrayed by his own brethren, now continues to work closely with the town leaders as a 
+pawn—determined to  get revenge against his former brothers. Though allowed within town limits,  Krammer, 
+quite understandably, is not well liked amongst the local populace. 
+   
+
+Krammer 
+Male kobold alchemist 9 
+LE Small humanoid (kobold) 
+Init +3; Senses darkvision 60 ft., light sensitivity; Perception +14 
+Languages Common, Draconic, Dwarven, Gnome, Undercommon 
+DEFENSE 
+AC 21, touch 15, flat-footed 18 (+5 armor, +1 deflection, +3 Dex, +1 
+natural, +1 size) 
+hp 65 plus false life (9 HD) 
+Fort +8, Ref +10, Will +4; +6 vs. poison 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee mwk longspear +5/+0 (1d6 /×3) 
+Ranged bomb +11/+6 touch (5d6+4 cold or fire, 9 splash) or 
+bomb +9/+9/+4 touch (5d6+4 cold or fire, 9 splash) 
+Space 5 ft.; Reach 5 ft. (10 ft. with longspear) 
+Special Attacks bomb (5d6+4, DC 18, 13/day), poison use, swift poisoning, throw anything +5 
+Alchemist Extracts Prepared (CL 9th) 
+3rd  (4/day) – gaseous form, haste, heroism (2) 
+2nd (5/day) – barkskin (2), false life, fire breathAPG, invisibility 
+1st  (6/day) – ant haulAPG, bomber’s eyeAPG, reduce person, shield (2), true strike 
+STATISTICS 
+Abilities Str 10 (+0), Dex 16 (+3), Con 12 (+1), Int 18 (+4), Wis 10 (+0), Cha 10 (+0) 
+Base Atk +6; CMB +5; CMD 19 
+Feats Brew PotionB, Kobold Sniper, Master Alchemist, Point Blank Shot, Precise Shot, Rapid Shot, Quick 
+Draw, Throw Anything
+B 
+Skills Craft (alchemy) +27, Craft (traps) +18, Disable Device +15, Knowledge (arcana) +16, Knowledge 
+(nature) +16, Perception +14, Profession (miner) +2, Sleight of Hand +15, Spellcraft +16, Stealth +19; 
+Racial Modifiers +2 Craft (traps), +2 Perception, +2 Profession (miner) 
+SQ alchemy, discoveries (explosive bomb, fast bombs, frost bomb, strafe bomb), mutagen, swift alchemy 
+Combat Gear alchemist’s fire (20), liquid ice (20); Other Gear +1 mithral shirt, admixture vial, blessed book, 
+cloak of resistance +1, formula alembic, hybridization funnel, ring of protection +1, tender (5gp), 
+trapmaker’s sack 
+Formula Book all 3rd-level and lower extracts from the Advanced Player’s Guide, Core Rulebook, Ultimate 
+Combat, and Ultimate Magic 
+Encumbrance light 74 lb. 4 oz., medium 148 lb. 8 oz., heavy 225 lb.; Weight Carried 68 lb.; ant haul 
+SPECIAL ABILITIES 
+Alchemy (Su) When using Craft (alchemy) to create an alchemical item, you gain a competence bonus equal to 
+your alchemist class level on the Craft (alchemy) check (included above). In addition, you can use Craft 
+(alchemy) to identify potions as if using detect magic. You must hold the potion for 1 round to make 
+such a check. You are also capable of creating bombs, extracts, and mutagens (see below). 
+Bomb (Su) You can use a number of bombs each day equal to your alchemist class level + your Intelligence 
+modifier. Bombs are unstable, and if not used in the round they are created, they degrade and become 
+inert—their method of creation prevents large volumes of explosive material from being created and 
+stored. Creating and throwing a bomb requires a standard action that provokes an attack of opportunity. 
+Thrown bombs have a range of 20 feet and use the Throw Splash Weapon special attack. Bombs are 
+considered weapons and can be selected using feats such as Point-Blank Shot and Weapon Focus. On a 
+direct hit, your bomb inflicts 1d6 points of fire damage plus additional damage equal to your 
+Intelligence modifier (due to the throw anything class ability). The damage of your bomb increases by 
+1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit 
+
+or by using feats such as Vital Strike). Splash damage from an alchemist bomb is always equal to the 
+bomb’s minimum damage. Those caught in the splash damage can attempt a Reflex save DC 22 for half 
+damage. 
+Extracts (Su) You may create and use extracts, essentially spells in the form a drinkable liquid. For the most 
+part, extracts follow the rules of both potions and spells. 
+Mutagen (Su) You may brew a dose of mutagen in 1 hour, and once brewed, it remains potent until used. You 
+can only maintain one dose of mutagen at a time—if you brew a second dose, any existing mutagen 
+becomes inert. As with an extract or bomb, a mutagen that is not in your possession becomes inert until 
+you pick it up again. When you brew a mutagen, you select one physical ability score—Strength, 
+Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen 
+causes you to grow bulkier and more bestial, granting you a +2 natural armor bonus and a +4 alchemical 
+bonus to the selected ability score for 10 minutes per alchemist level. In addition, while the mutagen is 
+in effect, you take a –2 penalty to one of your mental ability scores. If the mutagen enhances your 
+Strength, it applies a penalty to your Intelligence. If it enhances your Dexterity, it applies a penalty to 
+your Wisdom. If it enhances your Constitution, it applies a penalty to your Charisma. A non-alchemist 
+who drinks your mutagen must make a DC 18 Fortitude save or become nauseated for 1 hour—a non-
+alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another 
+alchemist’s mutagen if he drinks it. (Although if the other alchemist creates a different mutagen, the 
+effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever 
+you drink a mutagen, the effects of any previous mutagen immediately end. 
+Poison Use (Ex) You are trained in the use of poison and cannot accidentally poison yourself when applying 
+poison to a weapon. 
+Swift Alchemy (Ex) You can create alchemical items with astounding speed. It takes you half the normal 
+amount of time to create alchemical items. 
+Swift Poisoning (Ex) You can apply a dose of poison to a weapon as a swift action. 
+Throw Anything (Ex) You gain the Throw Anything feat as a bonus feat and you add your Intelligence 
+modifier to damage done with splash weapons, including the splash damage if any. This bonus damage 
+is already included in the bomb class feature (and in the above stats). 

@@ -1,0 +1,93 @@
+
+
+Sulern Yoruda 
+  
+
+Male halfling druid 4 of Besmara 
+N Small humanoid (halfling) 
+Init +5; Senses Perception +10 
+Languages Druidic, Halfling, Sylvan, Taldane 
+DEFENSE 
+AC 23, touch 15, flat-footed 19 (+6 armor, +3 Dex, +1 dodge, 
++1 natural, +1 shield, +1 size) 
+hp 34 (4 HD) 
+Fort +6, Ref +5, Will +9; +2 vs. fear, +4 vs. water spells or the 
+exceptional or supernatural abilities of aquatic or water 
+creatures 
+Defensive Abilities resist ocean’s fury 
+OFFENSE 
+Speed 20 ft. (4 squares), swim 10 ft.; 30 ft., swim 15 ft. when unarmored and unencumbered 
+Melee +1 scimitar +6 (1d4+2/18-20) 
+Ranged sling +7 (1d3+1) 
+Druid Spells Prepared (CL 4th; Concentration +8) 
+2nd-level (3/day) – bull’s strength, frost fallUC, stone callAPG 
+1st-level (4/day) – calm animals, deadeye’s loreUC, cure light wounds, touch of the seaAPG 
+0-level (at will) – create water, detect magic, mending, purify food and drink 
+STATISTICS 
+Abilities Str 12 (+1), Dex 16 (+3), Con 12 (+1), Int 12 (+1), Wis 18 (+4), Cha 10 (+0) 
+Base Atk +3; CMB +3; CMD 17; Hero Points 3 
+Feats Dodge, Toughness 
+Skills Acrobatics +1, Climb +2, Fly +7, Handle Animal +5, Heal +9, Knowledge (nature) +10, Perception +10 
+(+12 in aquatic terrain), Ride +4, Sense Motive +9,  Spellcraft +5, Stealth +5 (+7 in aquatic terrain), 
+Survival +10, Swim +11 (+13 in aquatic terrain); Armor Check Penalty –3 (–4 with shield); Racial 
+Bonuses +2 Perception 
+SQ aquatic adaption +2, fleet of foot, nature bond (roc animal companion), nature sense, resist ocean’s fury, 
+spontaneous casting (summon nature’s ally spells), traits (adopted: humans, reactionary, world traveler: 
+sense motive), wild empathy +4 
+Combat Gear sling bullets (10); Other Gear +1 horn lamellar, +1 scimitar, amulet of natural armor +1, holly 
+and mistletoe, Kraven (roc animal companion, see below) masterwork backpack, light wooden shield, 
+pathfinder’s kit, sling, spear, tender (363gp, 9sp) 
+Encumbrance light 37 lb. 8 oz., medium 75 lb., heavy 112 lb. 8 oz.; Weight Carried 36 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Aquatic Adaptation (Ex) You gain an insight bonus on Initiative checks and Knowledge (geography), 
+Perception, Stealth, Survival, and Swim checks equal to ½ your druid level in aquatic terrain, and you 
+cannot be tracked such environments. 
+Nature Sense (Ex) You gain a +2 bonus to knowledge: nature checks and Survival checks (included above). 
+Resist Ocean’s Fury (Ex) You gain a +4 bonus on saving throws against spells of the water type or the 
+exceptional or supernatural abilities of creatures with the aquatic or water subtype. 
+Wild Empathy (Ex) You can improve the attitude of any creature with a swim speed or the aquatic or water 
+subtype (even if they are mindless). This ability functions just like a Diplomacy check made to improve 
+the attitude of a person. You roll 1d20 and add your druid level and your Charisma modifier to 
+determine the wild empathy check result. The typical domestic animal has a starting attitude of 
+indifferent, while wild animals are usually unfriendly. To use wild empathy, you and the creature must 
+be within 30 feet of one another under normal conditions. Generally, influencing a creature in this way 
+takes 1 minute but, as with influencing people, it might take more or less time. 
+ 
+
+Kraven 
+  
+
+Roc Animal Companion 
+N Medium animal 
+Init +5; Senses low-light vision; Perception +5 
+DEFENSE 
+AC 24, touch 16, flat-footed 17 (+5 Dex, +1 dodge, +7 natural) 
+hp 22 (4 HD) 
+Fort +4, Ref +9, Will +2 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 20 ft. (4 squares), fly 80 ft. (average) 
+Melee 2 talons +4 (1d4+1) and 
+bite +4 (1d6+1) 
+STATISTICS 
+Abilities Str 13 (+1), Dex 20 (+5), Con 10 (+0), Int 2 (–4), Wis 13 (+1), Cha 11 (+0) 
+Base Atk +3; CMB +4; CMD 20 
+Feats Dodge, Flyby Attack 
+Skills Fly +11, Perception +5 
+SQ link, share spells, tricks (attack [anything], come, defend, down, guard, heel, stay) 
+Encumbrance light 50 lb., medium 100 lb., heavy 150 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding an animal companion. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your animal companion (as a spell with a 
+range of touch) instead of on yourself. You may cast spells on your animal companion even if the spells 
+normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come 
+from a class that grants an animal companion. This ability does not allow the animal to share abilities 
+that are not spells, even if they function like spells. 
+ 
+KIT BREAKDOWN 
+This kit consists of a backpack, a bedroll, a belt pouch, a clay mug, a dagger, two fishhooks, a flint and steel, a 
+sewing needle, a signal whistle, 50 feet of string, 50 feet of thread, a waterskin, a week's worth of trail rations, 
+and a whetstone. Leaving the bedroll and rations at camp or on a mount reduces the weight by 3 pounds. 
+ 

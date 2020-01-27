@@ -1,0 +1,130 @@
+
+
+Yiankun Lee 
+  
+
+Female Halfling sorcerer 20 
+NG Small humanoid (halfling) 
+Init +12; Senses blindsense 60 ft., darkvision 120 ft., familiar’s alertness, see invisibility, 
+superior low-light vision, tremorsense 20 ft.; Perception +30 
+Languages Aklo, Common, Halfling, Terran, Undercommon 
+DEFENSE 
+AC 21, touch 17, flat-footed 15 (+4 armor, +6 Dex, +1 size) 
+hp 232 plus false life (20 HD) 
+Fort +25, Ref +23, Will +22; +2 vs. fear, +3 vs. mind-affecting effects, +5 vs. both 
+Defensive Abilities hardness 8; Immunities acid (120 points), cold (120 points), divination, 
+electricity (120 points), fire (120 points), forced movement, petrification, polymorph, 
+starvation, suffocation, thirst 
+OFFENSE 
+Speed 30 ft. (6 squares); fly 40 ft. (good); overland flight 
+Melee by weapon +16/+11 
+Ranged  by weapon +20/+15 
+Sorcerer Spells Known (CL 21st or CL 25th to overcome SR; Concentration +35) 
+9th (7/day) – clashing rocksAPG, shapechangeF, wishB, summon monster IX 
+8th (8/day) – maze, mind blank, moment of prescience, power word: stunB 
+7th (8/day) – greater arcane sightB, greater teleportB, limited wishM, rampartAPG, spell turningB, statue 
+6th (8/day) – disintegrate, flesh to stone (see below), mislead, true seeingM B, veil
+B 
+5th (8/day) – baleful polymorph (+1 DC/CL), overland flightB, telekinesis, transmute rock to mud, wall of stone 
+4th (9/day) – charm monsterB (+1 DC/CL), dimension doorB, enervation, fabricateB, secure shelter, stone shape, 
+stoneskinM 
+3rd (9/day) – dispel magicB, hasteB, heroism, major image, protection from energy, shrink item, slow
+B 
+2nd (9/day) – false life, glitterdust, invisibilityB, knockB, make whole, rope trickB, see invisibilityB, shatter, web 
+1st (9/day) – ant haul B APG, feather fall, identifyB, mage armor, magic missile, protection from evil, shield, unseen servant
+B 
+0 (at will) – arcane mark, dancing lights, detect poison, ghost sound, light, mage hand, message, prestidigitation, read 
+magic 
+Bloodline Arcane 
+STATISTICS 
+Abilities Str 14 (+4), Dex 22 (+8), Con 24 (+9), Int 16 (+5), Wis 10 (+2), Cha 34 (+14) 
+Base Atk +10; CMB +14; CMD 28 
+Feats Craft Wondrous Item, Eschew MaterialsB, Go Unnoticed, Greater Spell Focus (transmutation), Greater Spell Penetration, 
+Improved InitiativeB, Persistent Spell, Quicken Spell, Silent Spell, Spell Focus (transmutationB), Spell Penetration, Spell 
+Perfection (flesh to stone), Spell Specialization (flesh to stone), Still SpellB 
+Skills Bluff +21 (+31 to lie, +26 to feint, +16 to pass hidden messages), Disguise +29, Knowledge (arcana) +31, Perception +26 
+(+30 with familiar), Sense Motive +4 (+6 with familiar), Spellcraft +30, Stealth +34, Survival +24, Use Magic Device 
++24; Racial Bonuses +2 Perception 
+SQ arcane bond (rat familiar), bloodline arcana (+1 DC for metamagic spells that increase spell level), fleet of foot, school power 
+(+2 DC for transmutation spells), traits (magical lineage: flesh to stone; outlander: lore seeker [baleful polymorph, charm 
+monster, flesh to stone]), weapon familiarity 
+Combat Gear arcane spell scroll of permanent image, arcane spell scrolls of heightened guards and wards (2, CL 20th, 9th-level), 
+beads of newt prevention (3), elven absinthe (20), familiar clones (3), focus components (shapechange), material 
+components (limited wish 10, stoneskin 10, true seeing 10, wish 3), mnemonic crystals (10, shrunk via shrink item and 
+wrapped in protective padding), personal clones (9, made into statues via limited wish), staff of earth and stone, stone salve 
+(5), wand of cure critical wounds (CL 20th, 10 charges), wand of freedom of movement (10 charges), wand of greater 
+infernal healing (10 charges), wand of infernal healing (50 charges), wand of restoration (10 charges), wand of spiked 
+stones (10 charges), stone salve (5); Other Gear amulet of proof against petrification, belt of physical might +6 (dexterity, 
+strength; doubles as an elemental earth belt), cloak of resistance +5, eyes of the dragon, familiar satchel, gloves of 
+shaping, handy haversack, headband of mental prowess +6 (intelligence, charisma; Perception, Stealth, Survival), ioun 
+stones (clear spindle, iridescent spindle, orange prism, pale green prism), mask of stony demeanor, metamagic rods 
+(minor extend 5), pages of spell knowledge (ant haul, fabricate, greater arcane sight, haste, knock, rope trick, slow, 
+unseen servant), polymorphic pouch, quick runner’s shirts (10), rat familiar (see below), ring of delayed doom (9 charges), 
+ring of sustenance, robe of infinite twine, sleeves of many garments, sorcerer’s kit, stone of alarm, stone of good luck, 
+teepee (shrunk via shrink item and worn as a conical hat), tender (742gp), stone of good luck, traveler’s any-tool, tremor 
+boots 
+Encumbrance light 130 lb. 8 oz., medium 261 lb., heavy 393 lb. 12 oz. with ant haul; Weight Carried 31 lb. 6 oz. (excluding 
+tender) 
+ 
+ SPECIAL ABILITIES 
+Arcane Apotheosis (Ex) You can add any metamagic feats that you know to your spells without increasing their casting time, 
+although you must still expend higher-level spell slots. Whenever you use magic items that require charges, you can 
+instead expend spell slots to power the item. For every three levels of spell slots that you expend, you consume one less 
+charge when using a magic item that expends charges. 
+Bloodline Arcana Whenever you apply a metamagic feat to a spell that increases the slot used by at least one level, increase the 
+spell’s DC by +1. This bonus does not stack with itself and does not apply to spells modified by the Heighten Spell feat. 
+Flesh to Stone Your flesh to stone spell has a DC of 37 and a caster level of 27 (or 35 for overcoming spell resistance) when cast 
+with any metamagic feat. 
+Ongoing Spells The following spells are regularly active upon your person: ant haul, false life, freedom of movement (from wand), 
+heroism (extended), mage armor, mind blank, moment of presence, overland flight, protection from energy (extended; 
+acid, cold, electricity, fire), see invisibility, shapechange, spell turning, and statue. Excepting freedom of movement, all 
+ongoing spell effects function at 21st-caster level (and thus require a DC 32 caster level check to dispel) and their effects 
+are included in the above stats where appropriate. Additionally, you have used wish to add a +5 inherent bonus to your 
+Charisma score, and a +4 inherent bonus to your Constitution score. You have also used wish to grant yourself the ability 
+to teleport your personal gear back to you should it ever be parted from you for any reason and limited wish to make all of 
+your clone bodies into stone statues that are each as tough as adamantine (which still come to life at the appropriate time). 
+Weapon Familiarity You are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon. 
+  Nicodemus 
+  
+
+Rat familiar 
+N Tiny magical beast (augmented animal) 
+Init +2; Senses low-light vision, scent; Perception +1 
+Languages empathic link, speak with master, speak with rodents 
+DEFENSE 
+AC 24, touch 14, flat-footed 22 (+2 Dex, +10 natural, +2 size) 
+hp 116 (20 HD) 
+Fort +6, Ref +8, Will +13 
+Defensive Abilities improved evasion; SR 25 
+OFFENSE 
+Speed 15 ft. (3 squares), climb 15 ft., fly 40 ft. (good), swim 15 ft.; overland flight 
+Melee bite +14 (1d3–4) or 
+by spell +14 touch (as the spell) 
+Ranged dropped boulder +14 touch (2d6, 4d6, or 8d6, based on height dropped from) 
+Space 2½ ft.; Reach 0 ft. 
+Special Attacks deliver touch spells 
+STATISTICS 
+Abilities Str 2 (–4), Dex 15 (+2), Con 11 (+0), Int 15 (+2), Wis 13 (+1), Cha 2 (–4) 
+Base Atk +10; CMB +10; CMD 16 
+Feats Weapon Finesse 
+Skills Climb +10, Knowledge (arcana +21), Spellcraft +21, Stealth +18, Swim +10, Use Magic Device +11; Racial Modifiers +4 
+Stealth 
+SQ alertness, empathic link, familiar traits, scry on familiar, share spells, speak with master, speak with rodents 
+Gear boulders (40; 375 lb. each, reduced via shrink item), mini pouch, stone of alliance 
+Encumbrance light 4 lb. 8 oz., medium 9 lb. 12 oz., heavy 15 lb.; Weight Carried 4 lb. 
+SPECIAL ABILITIES 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+Deliver Touch Spells (Su) If you and your familiar are in contact at the time you cast a touch spell, you can designate your familiar 
+as the toucher. Your familiar can then deliver the touch spell personally. As usual, if you cast another spell before the 
+touch is delivered, the touch spell dissipates. 
+Empathic Link (Su) Your familiar has an empathic link with you out to one mile. You cannot see through your familiar’s eyes, but 
+the two of you can communicate empathically. Only general emotional content can be communicated. You have the same 
+connection to an item or place that your familiar does. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half damage, your familiar 
+takes no damage if he makes a successful saving throw and half damage even if the saving throw fails. 
+Scry On Familiar (Sp) Once per day you may scry on your familiar, as if using the scry spell. 
+Share Spells You may cast a spell with a target of “You” on your familiar (as a touch spell) instead of on yourself. You may cast 
+spells on your familiar even if the spells do not normally affect creatures of your familiar’s type (magical beast). 
+Speak with Rodents (Ex) Your familiar may communicate with other rodents. Such communication is limited by the Intelligence 
+of the conversing creatures. 
+Speak With Master (Ex) You and your familiar may communicate verbally, using a private language no one else understands. 

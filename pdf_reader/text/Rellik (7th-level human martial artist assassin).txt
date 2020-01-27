@@ -1,0 +1,118 @@
+
+
+Rellik 
+Male human monk 5/assassin 2 (martial artist) 
+LE Medium humanoid 
+Init +4; Senses Perception +12 
+Languages Common, Draconic, Dwarven, Elven, Giant, Gnoll, 
+Gnome, Goblin, Hafling, Orc, Undercommon 
+DEFENSE 
+AC 22, touch 20, flat-footed 17 (+1 armor, +1 deflection, +4 
+Dex, +1 dodge, +2 monk, +1 natural, +2 Wis) 
+hp 58 (7 HD) 
+Fort +8, Ref +10, Will +8; +1 vs. poison 
+Defensive Abilities deflect arrows, evasion, uncanny dodge; 
+Immunities fatigue 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee short sword +8 (1d6+2/19-20 plus poison), or 
+unarmed +9 (1d10+2 plus poison), or 
+unarmed +9/+9 (1d10+2 plus poison) with Flurry of Blows 
+Ranged shuriken +9 (1d2+2 plus poison), or 
+shuriken +9/+9 (1d2+2 plus poison) with Flurry of Blows 
+Special Attacks death attack (DC 17, 1d6+2 rounds), exploit weakness, flurry of blows, pain points, sneak 
+attack +1d6, stunning fist (6/day, DC 16) 
+STATISTICS 
+Abilities Str 14 (+2), Dex 18 (+4), Con 14 (+2), Int 16 (+3), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +4; CMB +10; CMD 24 
+SQ fast movement, high jump +5, maneuver training, martial arts master, poison use 
+Feats Ability Focus (death attack), Adder Strike, Deflect ArrowsB, DodgeB, Improved Unarmed Strike
+B, Master 
+Alchemist, Stunning FistB, Weapon Finesse
+B, Weapon Focus (unarmed) 
+Skills Acrobatics +14 (+19 when jumping), Bluff +10, Craft (alchemy) +13, Disable Device +11 (improvised 
+tools), Disguise +10, Linguistics +13, Perception +12, Sleight of Hand +14, Stealth +14 
+Combat Gear blue whinnis poison (10), masterwork shuriken (10), smokesticks (2); Other Gear amulet of 
+natural armor +1, belt of incredible dexterity +2, bracers of armor +1, monk’s robe, ring of protection 
++1, short sword, tindertwigs (24) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 7 lb. 
+SPECIAL ABILITIES 
+AC Bonus (Ex) When unarmored and unencumbered, you add your Wisdom bonus +1 to your AC and your 
+CMD (included above). These bonuses to AC apply even against touch attacks or when you are flat-
+footed. You lose these bonuses when you are immobilized or helpless, when you wear any armor, or 
+when you carry a shield or medium or greater load. 
+Death Attack (Ex) If you study your victim for 3 rounds and then make a sneak attack with a melee weapon 
+that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or 
+killing the target (your choice). Studying the victim is a standard action. The death attack fails if the 
+target detects you or recognizes you as an enemy (although the attack might still be a sneak attack if the 
+target is denied his Dexterity bonus to his Armor Class or is flanked). If the victim of such a death attack 
+fails a Fortitude save (DC 17) against the kill effect, they die. If the saving throw fails against the 
+paralysis effect, the victim is rendered helpless and unable to act for 1d6+2 rounds. If the victim’s 
+saving throw succeeds, the attack is just a normal sneak attack. Once you have completed the 3 rounds 
+of study, you must make the death attack within the next 3 rounds. If a death attack is attempted and 
+fails (the victim makes their save) or if you do not launch the attack within 3 rounds of completing the 
+study, 3 new rounds of study are required before you can attempt another death attack. 
+
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. Evasion can be used only if you are wearing light 
+armor or no armor. If you are helpless, you do not gain the benefit of evasion. 
+Exploit Weakness (Ex) As a swift action, you can observe a creature or object to find its weak point by making 
+a Wisdom check and adding your monk level against a DC of 10 + the object’s hardness or the target’s 
+CR. If the check succeeds, you gain a +2 bonus on attack rolls until the end of your turn, and any attacks 
+you make until the end of your turn ignore the creature or object’s DR or hardness. You may instead use 
+this ability as a swift action to analyze the movements and expressions of one creature within 30 feet, 
+granting a bonus on Sense Motive checks and Reflex saves and a dodge bonus to AC against that 
+opponent equal to ½ your monk level until the start of your next turn. 
+Extreme Endurance (Ex) You gain immunity to fatigue. 
+Fast Movement (Ex) You gain a +10 ft. enhancement bonus to your land speed (included above). You lose this 
+extra speed if in armor or carrying a medium or heavy load. 
+Flurry of Blows (Ex) You can make a flurry of blows as a full-attack action. When doing so you may make one 
+additional attack using any combination of unarmed strikes or attacks with a special monk weapon 
+(kama, nunchaku, quarterstaff, sai, shuriken, and siangham) as if using the Two-Weapon Fighting feat 
+(even if you do not meet the prerequisites for the feat). For the purpose of these attacks, your base attack 
+bonus is equal to your monk level. For all other purposes, such as qualifying for a feat or a prestige 
+class, you use your normal base attack bonus. 
+High Jump (Ex) You add your monk level to all Acrobatics checks made to jump, both for vertical jumps and 
+horizontal jumps (included above). In addition, you always count as having a running start when making 
+jump checks using Acrobatics. By spending 1 point from your ki pool as a swift action, you gain a +20 
+bonus on Acrobatics checks made to jump for 1 round. 
+Maneuver Training (Ex) You use your monk level in place of your base attack bonus when calculating your 
+Combat Maneuver Bonus (included above). Base attack bonuses granted from other classes are 
+unaffected and are added normally. 
+Martial Arts Master (Ex) You may use your monk level to qualify for feats with a fighter level prerequisite 
+when those feats are applied to unarmed strikes or weapons with the monk special quality. 
+Pain Points (Ex) Your advanced knowledge of humanoid anatomy grants a +1 bonus on critical hit 
+confirmation rolls and increases the DC of your stunning fist and quivering palm by 1. 
+Poison Use You are trained in the use of poison and cannot accidentally poison yourself when applying poison 
+to a blade. 
+Poison Blue whinnis—injury; save Fort DC 14, frequency 1/round for 2 rounds, effect 1 Con/unconsciousness 
+1d3 hours, cure 1 save. 
+Save Bonus against Poison You gain a +1 saving throw bonus against poisons (included above). 
+Sneak Attack Your attack deals 1d6 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Should you 
+score a critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as 
+sneak attacks only if the target is within 30 feet. With a weapon that deals nonlethal damage (like a sap, 
+whip, or an unarmed strike), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, 
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with 
+concealment. 
+Stunning Fist (Ex) You gain Stunning Fist as a bonus feat, even if you do not meet the prerequisites. You also 
+gain the ability to fatigue the target of your Stunning Fist. This condition replaces stunning the target for 
+1 round, and a successful saving throw still negates the effect. You must choose which condition will 
+apply before the attack roll is made. These effects do not stack with themselves (a creature fatigued by 
+Stunning Fist cannot become exhausted if hit by Stunning Fist again), but additional hits do increase the 
+duration. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat. Your attacks may be with fist, elbows, 
+knees, and feet. This means that you may make unarmed strikes with his hands full. There is no such 
+
+thing as an off-hand attack for you. You may apply your full Strength bonus on damage rolls for all of 
+your unarmed strikes. Usually your unarmed strikes deal lethal damage, but you can choose to deal 
+nonlethal damage instead with no penalty on your attack roll. You have the same choice to deal lethal or 
+nonlethal damage while grappling. Your unarmed strike is treated as both a manufactured weapon and a 
+natural weapon for the purpose of spells and effects that enhance or improve either manufactured 
+weapons or natural weapons. You deal more damage with your unarmed strikes than a normal person 
+would, as shown above. 
+Uncanny Dodge (Ex) You retain your Dexterity bonus to AC even if you are caught flat-footed or struck by an 
+invisible attacker. However, you still lose your Dexterity bonus to AC if immobilized. 
+ 

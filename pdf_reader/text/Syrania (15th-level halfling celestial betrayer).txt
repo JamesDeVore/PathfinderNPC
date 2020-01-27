@@ -1,0 +1,200 @@
+
+
+Syrania, Betrayer of Heaven 
+“No matter the outcome, I will always win.” 
+ 
+Syrania is a despicable creature who, through hating herself and her 
+own deformities, has grown to hate all other life as well. Her hatred is 
+so strong that she desires nothing less than the utter annihilation or 
+corruption of all other beings. Unfortunately, she more than has the 
+skills and preparation to back up her overweening ambitions. She 
+prefers to remain unseen, working through lackeys and servitor 
+creatures (usually the inhabitants of whatever town or kingdom she 
+happens to inhabit at the time) while she plots and schemes. She’s 
+quite prepared to abandon servants and attempts if they fail, and 
+simply try again later in a better way (though her schemes are always 
+designed to benefit her regardless of their outcome). It is her sole 
+hobby to corrupt and manipulate the rulers of small kingdoms, 
+destroying the population through politics and hate, often keeping an 
+entire kingdom’s treasure for herself after it falls to deadly sin. 
+Syrania frequently spins simultaneous intrigues, and with her vile 
+powers ever growing, she seems content to view existence as nothing 
+more than a dull game with one inevitable conclusion. 
+ 
+Even before her birth, it was foretold in her peoples’ prophecies that a “hidden evil” would one day come and 
+destroy all. Raised by cultists to believe that she was the subject of the prophecy, Syrania grew into a living 
+symbol of corruption and evil. While still young, the ambitious Syrania lured a group of powerful angels into a 
+deadly trap, and usurped their holy powers for herself—knowingly destroying her own cult in the process. 
+Within a year of her “rebirth,” as a sorceress possessing divine power, Syrania had used her newfound powers 
+of persuasion to subjugate her entire kingdom from the shadows, ultimately leading the nation’s citizens to 
+destroy themselves through infighting. 
+ 
+Since engineering the utter annihilation of her own homeland through guile alone, Syrania has moved on to 
+other lands, making use of her unsurpassed abilities of subterfuge to bring down kingdom after kingdom. 
+Nobody knows how many kingdoms Syrania has actually destroyed in this manner…indeed, few even know 
+that she exists at all. 
+ 
+   
+
+Syrania, Betrayer of Heaven 
+Asexual halfling sorcerer 15 
+NE Small humanoid (halfling) 
+Init +1; Senses Perception +2 
+Languages Abyssal, Celestial, Common, Dwarven, Elven, Gnome, Halfling, 
+Infernal 
+DEFENSE 
+AC 17, touch 13, flat-footed 15 (+4 armor, +1 Dex, +1 dodge, +1 size); mage 
+armor 
+hp 130 plus false life (15 HD) 
+Fort +15, Ref +12, Will +15; +2 vs. fear 
+Immune alignment discernment, detect thoughts, discern lies; Resist acid 10, 
+cold 10; SR 21 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 60 ft. (good); wings of heaven 
+Melee mwk longspear +8/+3 (1d6–1/×3) 
+Ranged heavenly fire +9 touch (1d4+7) or 
+mwk sling +10 (1d3–1) 
+Space 5 ft.; Reach 5 ft. (10 ft. with longspear) 
+Spell-Like Abilities (CL 15
+th; Concentration +26) 
+15/day – heavenly fire (1d4+7 divine energy) 
+Sorcerer Spells Known (CL 15
+th; Concentration +29) 
+7th  (6/day) – banishmentB, mass hold person, plane shift
+B, summon monster VII 
+6th  (8/day) – greater dispel magic
+B, mass suggestion, planar binding
+B, siroccoAPG, true seeing
+M 
+5th  (8/day) – dominate person, flame strike
+B, telekinesis, teleport 
+4th  (8/day) – bestow curse, charm monster, contagion, dimensional anchor, malicious spite
+M UM, remove 
+curse
+B 
+3rd  (9/day) – ash storm
+UM, haste, magic circle against evil
+B, major image, slow 
+2
+nd (9/day) – detect thoughts, disguise otherUM, false life, haunting mists
+UM, invisibility, resist energy
+B 
+1st  (9/day) – blessB, mage armor, magic aura, magic missile, protection from evil, shield 
+0  (at will) – arcane mark, dancing lights, detect magic, ghost sound, light, mage hand, message, 
+prestidigitation, read magic 
+Bloodline celestial 
+STATISTICS 
+Abilities Str 8 (–1), Dex 13 (+1), Con 18 (+4), Int 16 (+3), Wis 10 (+0), Cha 32 (+14); circlet of persuasion 
+Base Atk +7; CMB +5; CMD 17 
+Feats Childlike, Cosmopolitan (diplomacy, disguise), Craft Wondrous Item, Deceitful, Dodge
+B, Eschew 
+MaterialsB, Expanded Arcana (2), Extend SpellB, Persuasive, Skill Focus (intimidate) 
+Skills Bluff +36 (may take 10 to act innocent), Diplomacy +36, Disguise +36 (+38 to pose as human child), Fly 
++7, Intimidate +42, Knowledge (planes) +18, Linguistics +4, Perception +2, Spellcraft +20, Stealth +5; 
+Racial Bonuses +2 Perception 
+SQ bloodline arcana (summoned creatures gain DR 7/evil), celestial resistances, fleet of foot, weapon 
+familiarity, wings of heaven (15 minutes/day) 
+Combat Gear material components (malicious spite 4, true seeing 5), potions of cure moderate wounds (8), 
+sling bullets (10); Other Gear belt of mighty constitution +6, circlet of persuasion, cloak of resistance 
++5, broken soul glabrezu bodyguards (2, see below), headband of alluring charisma +6, jewelry (worth 
+100gp), mantle of spell resistance, masterwork longspear, masterwork sling, ring of mind shielding, 
+tender (44gp, 5sp), tome of leadership and influence +5 (already read) 
+Encumbrance light 19 lb. 8 oz., medium 39 lb. 12 oz., heavy 60 lb.; Weight Carried 17 lb. 4 oz. (excluding 
+tender) 
+
+SPECIAL ABILITIES 
+Bloodline Arcana Whenever you cast a spell of the summoning subschool, the creatures summoned gain 
+DR/evil equal to ½ your sorcerer level (minimum 1). This does not stack with any DR the creature might 
+have. 
+Celestial Resistances (Ex) You gain resist acid 10 and resist cold 10 (included above). 
+Conviction (Su) You can reroll any one ability check, attack roll, skill check, or saving throw you just made. 
+You must decide to use this ability after the die is rolled, but before the results are revealed by the GM. 
+You must take the second result, even if it is worse. You can use this ability once per day. 
+Heavenly Fire (Sp) You can unleash a ray of heavenly fire as a standard action, targeting any foe within 30 feet 
+as a ranged touch attack. Against evil creatures, this ray deals 1d4 points of damage + 1 for every two 
+sorcerer levels you possess. This damage is divine and not subject to energy resistance or immunity. 
+This ray heals good creatures of 1d4 points of damage + 1 for every two sorcerer levels you possess. A 
+good creature cannot benefit from your heavenly fire more than once per day. Neutral creatures are 
+neither harmed nor healed by this effect. You can use this ability a number of times per day equal to 3 + 
+your Charisma modifier. 
+Weapon Familiarity You are proficient with slings and treat any weapon with the word “halfling” in its name 
+as a martial weapon. 
+Wings of Heaven (Su) You can sprout feathery wings and fly for a number of minutes per day equal to your 
+sorcerer level, with a speed of 60 feet and good maneuverability. This duration does not need to be 
+consecutive, but it must be used in 1 minute increments. 
+ 
+Phaborlo & Uglolek 
+“As the mistress commands!” 
+ 
+Phaborlo and Uglolek were once proud glabrezu demons long ago. Captured 
+by Syrania and tortured into giving up their true names, they are now eternal 
+prisoners to Syrania’s will. They continue to exist only as broken souls, 
+torment and pain made manifest, and no longer possess any will of their own. 
+Tortured to the extremes of both physical and mental endurance, and then 
+taken beyond those barriers, they have gained extraordinary reserves of 
+fortitude and resilience as well as the ability to inflict a measure of their own 
+terrible suffering on others. Their skin is a mass of scar tissue, marred with 
+bruises that do not fade and scored with countless scars. Much of their flesh 
+has been flayed away, revealing the musculature and bone underneath. 
+Weeping sores and open cuts cover their bodies, wounds that will never fully 
+heal. Their limbs are twisted, the result of broken bones that were never set 
+properly, and there are more than a few missing fingers, toes, and other 
+appendages. Phaborlo’s and Uglolek’s existence is one of unending suffering, and the constant pain long ago 
+drove them irrevocably mad. 
+ 
+The two fiends primarily serve as her loyal bodyguards, but fanatically follow any orders given them by their 
+mistress for fear of disappointing her and bringing about her great wrath. While traveling with their lady, they 
+generally veil themselves as her parents, so as to not disrupt her various machinations. Even when away from 
+prying eyes, they often continue to use veil to conceal their horrific mutilations. While wearing such guises, 
+they do not have access to their baleful gaze attack.   
+
+Phaborlo & Uglolek 
+Broken Soul Glabrezu 
+CE Huge outsider (chaotic, demon, evil, extraplanar) 
+Init +0; Senses darkvision 60 ft., true seeing; Perception +21 
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft. 
+DEFENSE 
+AC 32, touch 8, flat-footed 32 (+24 natural, –2 size) 
+hp 246 (12 HD) 
+Fort +24, Ref +4, Will +7 
+DR 10/good and 5/–; Immune electricity, poison; Resist acid 10, cold 10, 
+fire 10, sonic 5; SR 24 
+OFFENSE 
+Speed 30 ft. 
+Melee 2 pincers +20 (2d8+10/19–20), 2 claws +20 (1d6+10), bite +20 
+(1d8+10) 
+Space 15 ft.; Reach 15 ft. 
+Special Attacks rend (2 pincers, 2d8+15) 
+Spell-Like Abilities (CL 14
+th; Concentration +9) 
+Constant – true seeing 
+At will – chaos hammer (DC 19), confusion (DC 19), dispel magic, mirror image, reverse gravity (DC 
+22), greater teleport (self plus 50 lbs. of objects only), veil (self only), unholy blight 
+1/day – power word stun, summon (level 4, 1 glabrezu 20% or 1d2 vrocks 50%) 
+1/month – wish (granted to a mortal humanoid only) 
+STATISTICS 
+Str 31, Dex 11, Con 39, Int 16, Wis 8, Cha 20 
+Base Atk +12; CMB +24; CMD 34 
+Feats Cleave, DiehardB, Endurance
+B, Great Cleave, Great Fortitude
+B, Improved Critical (pincer), Persuasive, 
+Power Attack, Toughness
+B, Vital Strike 
+Skills Bluff +28, Diplomacy +22, Intimidate +30, Knowledge (history) +18, Knowledge (local) +18, Perception 
++21, Sense Motive +14, Stealth +7, Use Magic Device +17; Racial Modifiers +8 Bluff, +8 Intimidate, 
++8 Perception 
+Gear none; apparent gear is nonfunctional 
+Encumbrance light 2,448 lb., medium 4,896 lb., heavy 7,360 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Agonized Wail (Su) As a standard action, a broken soul can emit an agonized wail that inspires terror in those 
+who hear it. All creatures within 120 feet must succeed at a Will save or become shaken for as long as 
+they remain within 120 feet of the broken soul. A successful save renders a creature immune to that 
+broken soul’s agonized wail for 24 hours. This is a sonic mind-affecting fear effect. 
+Baleful Gaze (Su) Any creature within 60 feet of a broken soul must succeed at a Fortitude save or take 1d4 
+points of Strength, Constitution, and Charisma drain. Whatever the result of the saving throw, the 
+creature cannot be affected by the same broken soul’s baleful gaze again for 1 minute. 
+Torturous Touch (Su) A broken soul can make a touch attack to cause hideous, painful wounds to rip open in 
+the target's body. This touch deals 2d6 points of slashing damage and 1d6 points of Dexterity damage, 
+and causes the touched creature to fall prone in a fit of convulsions and be dazed for 1d4 rounds. A 
+successful Fortitude save negates the Dexterity damage and the convulsive fit. 
+   

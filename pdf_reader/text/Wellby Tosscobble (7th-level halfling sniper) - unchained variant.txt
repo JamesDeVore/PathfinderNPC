@@ -1,0 +1,83 @@
+
+
+Wellby Tosscobble 
+Male halfling unchained rogue 7 (sniper) 
+NG Small humanoid (halfling) 
+Init +5; Senses Perception +17 
+Languages Common, Elven, Gnome, Halfling 
+DEFENSE 
+AC 21, touch 16, flat-footed 16 (+5 armor, +5 Dex, +1 size) 
+hp 65 (7 HD) 
+Fort +4, Ref +10, Will +2 
+Defensive Abilities evasion, uncanny dodge 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee dagger +11 (1d3+5/19-20) 
+Ranged +1 composite shortbow +12 (1d4+2/×3) or 
+dagger +11 (1d3+5/19-20) 
+Special Attacks accuracy, deadly range +20 ft., debilitating injury, finesse training (dagger), skulker, sneak 
+attack +4d6 
+STATISTICS 
+Abilities Str 12 (+1), Dex 21 (+5), Con 14 (+2), Int 10 (+0), Wis 10 (+0), Cha 10 (+0) 
+Base Atk +5; CMB +5; CMD 20 
+Feats Expert Sniper, Go Unnoticed, Skill Focus (stealth), Hellcat Stealth, Weapon Finesse
+B 
+Skills Acrobatics +18 (+14 when jumping), Bluff +2, Climb +16, Disable Device +19, Escape Artist +23, 
+Perception +17, Sleight of Hand +15, Stealth +29 (+33 with camouflage, no penalties when sniping), 
+Swim +16; Racial Modifiers +2 Bluff, +2 Perception, +2 Stealth 
+SQ rogue’s edge (stealth), rogue talents (camouflage, fast stealth, surprise attack), secretive survivor 
+Combat Gear arrows (20); Other Gear +1 mithral shirt, +1 composite shortbow (+1 strength bonus), boots of 
+elvenkind, cloak of elvenkind, dagger, eyes of the eagle, gloves of swimming and climbing, vest of escape 
+Encumbrance light 32 lb. 4 oz., medium 64 lb. 8 oz., heavy 97 lb. 8 oz.; Weight Carried 10 lb. 8 oz. 
+SPECIAL ABILITIES 
+Accuracy (Ex) You halve all range increment penalties when making ranged attacks with a bow or crossbow. 
+Camouflage (Ex) You can craft simple but effective camouflage from the surrounding foliage. You need 1 
+minute to prepare the camouflage, but once you do, it is effective for the rest of the day or until you fail 
+a saving throw against an area-effect spell that deals acid, cold, or fire damage, whichever comes first. 
+You gain a +4 bonus on Stealth checks while within terrain that matches the foliage used to make the 
+camouflage. This ability cannot be used in areas without natural foliage. 
+Deadly Range (Ex) You increase the range at which you can apply your sneak attack damage by 20 feet (for a 
+total of 50 feet). 
+Debilitating Injury (Ex) Whenever you deal sneak attack damage to a foe, you can also debilitate the target of 
+your attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue 
+talent or other special ability). You can choose to apply any one of the following penalties when the 
+damage is dealt. 
+Bewildered: The target becomes bewildered, taking a –2 penalty to AC. The target takes an 
+additional –2 penalty to AC against all attacks made by you. 
+Disoriented: The target takes a –2 penalty on attack rolls. In addition, the target takes an additional 
+–2 penalty on all attack rolls it makes against you. 
+Hampered: All of the target’s speeds are reduced by half (to a minimum of 5 feet). In addition, the 
+target cannot take a 5-foot step. 
+These penalties do not stack with themselves, but additional attacks that deal sneak attack damage 
+extend the duration by 1 round. A creature cannot suffer from more than one penalty from this ability at 
+
+a time. If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a 
+target suffering from one of these penalties also removes the penalty. 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. Evasion can be used only if you are wearing light 
+armor or no armor. If you are helpless, you do not gain the benefit of evasion. 
+Fast Stealth (Ex) This ability allows you to move at full speed using the Stealth skill without penalty. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, whenever you make a successful 
+melee attack with a dagger, you add your Dexterity modifier instead of your Strength modifier to the 
+damage roll. If any effect would prevent you from adding your Strength modifier to the damage roll, you 
+do not add your Dexterity modifier. 
+Rogue’s Edge (Ex) You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. You gain the skill unlock powers for that skill as appropriate for your 
+number of ranks in that skill. 
+Stealth: Reduce the Stealth penalty from sniping by 10. 
+Skulker You gain a +1 racial bonus on attacks against foes who are denied their Dexterity bonus to AC. 
+Sneak Attack Your attack deals an extra 4d6 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+Surprise Attack (Ex) During the surprise round, you always consider opponents flat-footed, even if they have 
+already acted. You add ½ your rogue level to your sneak attack damage rolls made during the surprise 
+round. 
+Uncanny Dodge (Ex) You cannot be caught flat-footed, nor do you lose your Dexterity bonus to AC if the 
+attacker is invisible. You still lose your Dexterity bonus to AC if immobilized or if an opponent 
+successfully uses the feint action against you. 

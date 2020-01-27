@@ -1,0 +1,121 @@
+
+
+Niscies Craven 
+“You are naught but dust, and like dust you shall be scattered!” 
+ 
+Pale as the midnight moon and as translucent as a wispy cloud, Niscies 
+appears far from human. Her eyes glow with the bright light of 
+undeath, her wild black hair constantly moves around her face as if it 
+had a life of its own, and her hands tremor with psychic power. She 
+wears a long purple robe with fiery phoenixes sewn onto the sleeves 
+and a bright red sash around her waist to hold it together. These regal 
+garments, having been buried with Niscies’ corpse, are as immaterial 
+as her translucent flesh. 
+ 
+Utterly insane, Niscies craves more and more  psychic  power, 
+believing that it is the only way for her to discover the secret to 
+immortality. She is willing to do anything to accomplish her goals and 
+is not the slightest bit concerned about ethics or morals, seeing them 
+merely as obstacles that could impede her  research. She doesn’t 
+realize that she is a ghost, instead believing that her special abilities 
+are merely another part of her psychic potential. 
+ 
+In truth, Nisces was a sickly sorceress in life who sought freedom from her ails and everlasting immortality above 
+all else. Her search consumed her for many years. Finally, she succeeded in her goal by sacrificing her soul to a 
+powerful demon lord. Although she was granted immortality in the form of undeath in return, the demon lord’s 
+trickery has only served to drive her even more insane. She now wonders the world as an enslaved ghost still 
+trying to find the secrets to immortality—not even realizing that she has already secured her former life’s dream. 
+The demon lord directs her movements across the material plane, continually plying her with empty promises of 
+an eternal reward, effectively transforming her into a near-mindless plague of death and destruction that ravages 
+all in its path. 
+ 
+Not only does she suffer from severe denial, but Niscies is also so deluded by the demon’s lies, that any attempts 
+to make her see the truth of her undead existence only serves to drive her into a blind fury. Reaching out to her in 
+such a fashion only serves to remind her (on a subconscious level) that the one thing she ever truly wanted in life 
+is the very thing that  has resulted in her eternal  anguish.  When not  manipulated  by  her unholy master, she 
+adventures freely in search of the psychic secrets of the world, though any alliances she may make with the living 
+along the way generally prove to be short lived. 
+   
+
+Niscies Craven 
+Male human sorcerer 13 
+CE Medium undead (augmented humanoid, incorporeal) 
+Init +6; Senses darkvision 60 ft.; Perception +22 
+Languages Abyssal, Common, Infernal 
+DEFENSE 
+AC 31, touch 27, flat-footed 25 (+4 armor, +6 Dex, +11 deflection); mage 
+armor 
+hp 203 plus false life (13 HD) 
+Fort +19, Ref +14, Will +13; +4 vs. mind-affecting effects 
+Defensive Abilities channel resistance +4, incorporeal, rejuvenation; 
+Immune undead traits 
+OFFENSE 
+Speed fly 30 ft. (perfect) 
+Melee corrupting touch +12 incorporeal touch (12d6, Fort DC 27 half) or 
+draining touch +12 incorporeal touch (1d4 ability damage) 
+Ranged by touch spell +12 touch (as spell) 
+Special Attacks corrupting gaze (DC 27), corrupting touch, draining touch, psychic strike (DC 27, 1d6+6, 
+14/day), telekinesis (CL 13th, DC 27, usable every 1d4 rounds) 
+Sorcerer Spells Known (CL 13
+th; Concentration +24) 
+6th  (5/day) – chain lightning, chains of fire
+ARG, ego whip IV
+B OA, intellect fortress IIIB OA, mental barrier 
+V
+B OA, mind thrust VI
+B OA, psychic crush II
+B OA 
+5th  (7/day) – acidic spray
+M UM, cloudkill, cone of cold, dominate person, id insinuation IVB OA, 
+possessionOA 
+4th  (7/day) – ball lightning
+APG, black tentacles, death knell auraBotD:V3, emergency force sphere
+CEoD, 
+enervation, resilient sphere 
+3rd (7/day) – battering blast
+DoG, call the voidDEP, create soul gemF BotD:V3, dispel magic, fire trailARG, 
+sleet storm 
+2nd (8/day) – blindness/deafness, darkness, false life, fog cloud, resist energy, see invisibility, shatter 
+1st  (8/day) – mage armor, magic missile, shield, silent image, stone shieldARG, true strike, vanishAPG 
+0  (at will) – acid splash, bleed, detect magic, light, mage hand, mending, message, open/close, 
+prestidigitation, ray of frost, read magic, sparkAPG 
+Bloodline psychic 
+STATISTICS 
+Abilities Str –, Dex 22 (+6), Con –, Int 14 (+2), Wis 12 (+1), Cha 32 (+11) 
+Base Atk +6; CMB +12; CMD 33 
+Feats Craft Wondrous Item, Dazing Spell, Empower Spell, Eschew Materials
+B, Flyby Attack, Focused Spell
+B, 
+Lingering Spell, Reach SpellB, Quicken SpellB, Seeking Spell, Widen Spell 
+Skills Fly +22, Intimidate +27, Perception +22, Spellcraft +18, Stealth +27; Racial Bonuses +8 Perception, +8 
+Stealth 
+SQ bloodline arcana (cast psychic spells instead of arcane spells) 
+Combat Gear focus/material components (acidic spray 10, create soul gem 10); Other Gear belt of incredible 
+dexterity +6, crystal ball (true seeing), headband of alluring charisma +6, orb of storms, otherworldly 
+kimono, rusted sacrificial dagger (with which she killed herself), tome of leadership and influence +4 
+(already read), treasure cache (100pp, 100gp, 500sp) 
+SPECIAL ABILITIES 
+Corrupting Gaze (Su) You have a gaze attack with a range of 30 feet that causes 2d10 damage and 1d4 
+Charisma damage (Fortitude save negates Charisma damage but not physical damage). 
+Corrupting Touch (Su) By passing part of your incorporeal body through a foe’s body as a standard action, 
+you inflict 12d6 damage. This damage is not negative energy—it manifests in the form of physical 
+
+wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this 
+damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save halves the 
+damage inflicted. 
+Draining Touch (Su) You gain a touch attack that drains 1d4 points from any one ability score you select on a 
+hit. On each such successful attack, you heal 5 points of damage to yourself. When you make a draining 
+touch attack, you cannot use your standard ghostly touch attack. 
+Mental Resistance (Ex) You gain a +4 bonus on saving throws against mind-affecting effects. 
+Psychic Strike (Su) You can overwhelm the minds of those nearby. You can target one creature within 30 feet 
+that you can see; that creature must succeed at a Will saving throw (DC = 10 + ½ your sorcerer level + 
+your Charisma modifier) or it takes 1d6 points of damage + 1 point for every 2 sorcerer levels you 
+possess and becomes shaken for 1 round. You can use this ability a number of times per day equal to 3 + 
+your Charisma modifier. 
+Rejuvenation (Su) When destroyed through simple combat, Niscies’ spirit restores itself in 2d4 days inside her 
+tomb. Even the most powerful spells are usually only temporary solutions. The only way to permanently 
+lay Niscies to rest is to slay the demon lord who owns her soul with her rustic dagger. 
+Telekinesis (Su) You can use telekinesis as a standard action once every 1d4 rounds. 
+Undercasting Prodigy (Sp) Whenever you gain a new level of spells, you automatically replace any psychic 
+bloodline spells that can be undercast with the highest-level version you can cast in your list of spells 
+known. 

@@ -1,0 +1,132 @@
+
+
+Guinn Black 
+Male catfolk barbarian 8 (invulnerable rager, mythic champion 4) 
+CE Medium humanoid (catfolk, mythic) 
+Init +6; Senses low-light vision; Perception +13 
+Languages Catfolk, Common 
+DEFENSE 
+AC 22, touch 13, flat-footed 20 (+8 armor, +1 deflection, +2 Dex, +1 
+natural) 
+hp 127 (8 HD) 
+Fort +10, Ref +5, Will +3 
+Defensive Abilities cat’s luck, extreme endurance, hard to kill; DR 4/–; 
+DR 8/lethal; Resist cold 1 
+OFFENSE 
+Speed 70 ft. (8 squares), climb 70 ft., swim 70 ft.; 90 ft. while charging, 
+running, or withdrawing 
+Melee +1 greatsword +15/+10 (2d6+10/19-20) 
++1 greatsword +12/+7 (2d6+23/19-20) with Power Attack 
+Ranged +1 adaptive composite longbow +11/+6 (1d8+7 plus poison/×3) 
+Special Attacks champion’s strike (fleet charge), mythic power (11/day, surge +1d8), rage (21 rounds/day), 
+rage powers (lesser beast totem, sprint, swift foot [+10 ft.]) 
+STATISTICS 
+Abilities Str 22 (+6), Dex 14 (+2), Con 16 (+3), Int 10 (+0), Wis 10 (+0), Cha 10 (+0) 
+Base Atk +8; CMB +14; CMD 27 
+Feats Catfolk Exemplar (fast sprinter), Power Attack
+M (–3 attack, +4/+9/+13), Raging Vitality, RunM 
+Skills Acrobatics +12 (+28 to jump, +36 with a running start), Climb +14, Disguise +0 (+10 with stalker’s 
+mask), Perception +13, Stealth +16, Survival +13, Swim +14; Armor Check Penalty –1 (excluding 
+climb and jump); Racial Bonuses +2 Perception, +2 Stealth, +2 Survival 
+Combat Gear durable arrows (20), feather tokens (bird 3, tree 3), poison (blue whinnis 8), potions of cure light 
+wounds (4); Other Gear +1 adaptive composite longbow, +1 greatsword, +2 expeditious mithral agile 
+breastplate, amulet of natural armor +1, ancestral hair ties, barbarian’s kit, cloak of resistance +1, false 
+left eye, feather step slippers, medium tent, quick runner’s shirt, stalker’s mask, survival kit, tender 
+(10gp, 30sp, 100cp) 
+SQ amazing initiative, climbing master, fast movement, fleet warrior, impossible speed, recuperation, 
+swimming master 
+Encumbrance light 173 lb., medium 346 lb., heavy 520 lb.; Weight Carried 89 lb. 12 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Amazing Initiative (Ex) You gain a bonus on initiative checks equal to your mythic tier (included above). In 
+addition, as a free action on your turn, you can expend one use of mythic power to take an additional 
+standard action during that turn. This additional standard action can’t be used to cast a spell. You can’t 
+gain an extra action in this way more than once per round. 
+Cat’s Luck (Ex) Once per day when you make a Reflex saving throw, you can roll the saving throw twice and 
+take the better result. You must decide to use this ability before the saving throw is attempted. 
+Climbing Master (Ex) You gain a climb speed equal to your base land speed and a +8 racial bonus on Climb 
+checks. If you already have a climb speed, your base climb speed increases by 30 feet. In addition, you 
+retain your Dexterity bonus to AC while climbing. You can climb perfectly flat or smooth surfaces, 
+treating them as if they had a Climb DC of 40. 
+Extreme Endurance (Ex) You are inured to hot climate effects as if using endure elements. In addition, you 
+gain 1 point of fire or cold resistance for every three barbarian levels beyond 3rd. 
+
+Fast Sprinter (Ex) You gain a 10-foot racial bonus to your speed when using the charge, run, or withdraw 
+actions. If you have the sprinter racial trait, your racial bonus to speed when using the charge, run, or 
+withdraw action increases to a 20-foot bonus. 
+Fleet Charge (Ex) As a swift action, you can expend one use of mythic power to move up to your speed. At 
+any point during this movement, you can make a single melee or ranged attack at your highest attack 
+bonus, adding your tier to the attack roll. This is in addition to any other attacks you make this round. 
+Damage from this attack bypasses all damage reduction. 
+Fleet Warrior (Ex) When making a full attack, you can move up to your speed either before or after your 
+attacks. This movement provokes attacks of opportunity as normal. 
+Hard to Kill (Ex) Whenever you’re below 0 hit points, you automatically stabilize without needing to attempt a 
+Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose 
+hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points 
+when below 0 hit points. In addition, you don’t die until your total number of negative hit points is equal 
+to or greater than double your Constitution score. 
+Impossible Speed (Ex) Your base land speed increases by 30 feet (included above). In addition, if you expend 
+one use of mythic power, for 1 hour your base land speed increases by 10 feet per mythic tier. 
+Lesser Beast Totem (Su) While raging, you gain two claw attacks. These attacks are considered primary 
+attacks and are made at your full base attack bonus. The claws deal 1d6 points of slashing damage (1d4 
+if Small) plus your Strength modifier (but see Greater Beast Totem). 
+Poison Blue whinnis—injury; save Fort DC 14, frequency 1/round for 2 rounds, effect 1 Con/unconsciousness 
+1d3 hours, cure 1 save. 
+Rage (Ex) You can enter a rage as a free action for 21 rounds each day. The total number of rounds of rage per 
+day is renewed after resting for 8 hours, although these hours do not need to be consecutive. While in 
+rage, you gain a +4 morale bonus to your Strength, a +6 morale bonus to Constitution, and a +2 morale 
+bonus on Will saves. In addition, you take a –2 penalty to Armor Class. The increase to Constitution 
+grants you 3 hit points per Hit Dice, but these disappear when the rage ends and are not lost first like 
+temporary hit points. While in rage, you cannot use any Charisma-, Dexterity-, or Intelligence-based 
+skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or 
+concentration. You can end your rage as a free action and you become fatigued afterwards for a number 
+of rounds equal to 2 times the number of rounds spent in the rage. You cannot enter a new rage while 
+fatigued or exhausted but can otherwise enter rage multiple times during a single encounter or combat. 
+Your rage does not end, even if you fall unconscious, provided you still have rounds of rage remaining. 
+Recuperation (Ex) You are restored to full hit points after 8 hours of rest so long as you aren’t dead. In 
+addition, by expending one use of mythic power and resting for 1 hour, you regain a number of hit 
+points equal to half your full hit points (up to a maximum of your full hit points) and regain the use of 
+any class features that are limited to a certain number of uses per day (such as barbarian rage, bardic 
+performance, spells per day, and so on). This rest is treated as 8 hours of sleep for such abilities. This 
+rest doesn’t refresh uses of mythic power or any mythic abilities that are limited to a number of times 
+per day. 
+Sprint (Ex) Once per rage, you can use a single full-round run action to move up to 6 times your speed or a 
+single full-round charge action to move up to 3 times your speed. 
+Sprinter You gain a 10-foot racial bonus to your speed when using the charge, run, or withdraw actions (but 
+see Fast Sprinter). 
+Surge (Su) You can call upon your mythic power to overcome difficult challenges. You can expend one use of 
+mythic power to increase any d20 roll you just made by rolling 1d10 and adding it to the result. Using 
+this ability is an immediate action taken after the result of the original roll is revealed. This can change 
+the outcome of the roll.  
+Swift Foot (Ex) You gain a 10-foot enhancement bonus to your speed while raging. 
+Swimming Master (Ex) You gain a swim speed equal to your base land speed and a +8 racial bonus on Swim 
+checks. If you already have a swim speed, your base swim speed increases by 30 feet. You can hold 
+your breath for a number of minutes equal to 10 × your Constitution score, but afterward you must 
+
+succeed at checks as normal to avoid drowning. If you expend one use of mythic power, for 1 hour your 
+base swim speed increases by 10 feet per mythic tier. 
+ 
+While Raging… 
+DEFENSE 
+AC 20, touch 11, flat-footed 18 (+8 armor, +1 deflection, +2 Dex, +1 natural, –2 rage) 
+hp 151 (8 HD) 
+Fort +13, Ref +5, Will +5 
+OFFENSE 
+Speed 80 ft. (10 squares), climb 80 ft., swim 80 ft.; 100 ft. while charging, running, or withdrawing 
+Melee +1 greatsword +17/+12 (2d6+13/19-20) or 
++1 greatsword +14/+9 (2d6+26/19-20) with Power Attack, or 
+2 claws +16 (1d6+8) or 
+2 claws +13 (1d6+17) with Power Attack 
+Ranged +1 adaptive composite longbow +11/+6 (1d8+9 plus poison/×3) 
+STATISTICS 
+Abilities Str 26 (+8), Dex 14 (+2), Con 22 (+6), Int 10 (+0), Wis 10 (+0), Cha 10 (+0) 
+Base Atk +8; CMB +16; CMD 29 
+Skills Acrobatics +12 (+32 to jump, +40 with a running start), Climb +16, Perception +13, Stealth not possible, 
+Survival +13, Swim +16; Armor Check Penalty –1 (excluding climb and jump); Racial Bonuses +2 
+Perception, +2 Stealth, +2 Survival 
+Encumbrance light 306 lb., medium 613 lb., heavy 920 lb.; Weight Carried as above 
+ 
+KIT BREAKDOWN 
+In addition to your adventuring gear listed above, your kits also contain the following items: backpack, basic 
+maps showing major landmarks, belt pouch, blanket, flint and steel (2), iron pot, mess kit, rope, small utility 
+knife, soap, torches (10), trail rations (5), and waterskins (3). 
+ 

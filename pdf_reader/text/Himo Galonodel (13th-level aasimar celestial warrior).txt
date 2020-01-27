@@ -1,0 +1,65 @@
+
+
+Himo Galonodel 
+Male aasimar fighter 13 
+LG Medium outsider (native) 
+Init +2; Senses Perception +22 
+Languages Celestial, Common 
+DEFENSE 
+AC 27, touch 22, flat-footed 25 (+14 armor, +1 deflection, +2 Dex) 
+hp 139 (13 HD) 
+Fort +15, Ref +11, Will +11; +3 vs. fear, +2 vs. evil effects 
+Defensive Abilities bravery +3, exalted resistance; SR 18 (vs. evil magic 
+and magic from evil outsiders only) 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 30 ft. (average) 
+Melee +3 greatsword +28/+23/+18 (2d6+19/19-20) or 
++3 greatsword +24/+19/+14 (2d6+31/19-20) with Power Attack 
+Ranged +3 adaptive composite longbow +24/+19/+14 (1d8+17/×3) or 
++3 adaptive composite longbow +20/+15/+10 (1d8+25/×3) with Deadly Aim, or 
++3 adaptive composite longbow +22/+22/+17/+12 (1d8+17/×3) with Rapid Shot, or 
++3 adaptive composite longbow +18/+18/+13/+8 (1d8+25/×3) with Rapid Shot and Deadly Aim 
+Special Attacks advanced weapon training (heavy blades; weapon sacrifice [4/day]), weapon training (bows 
++5, heavy blades +4) 
+Spell-Like Ability (CL 13
+th; Concentration +15) 
+At-will – light (on halo only) 
+2/day – daylight or wandering star motes
+APG 
+STATISTICS 
+Abilities Str 24 (+7), Dex 14 (+2), Con 14 (+2), Int 11 (+0), Wis 14 (+2), Cha 15 (+2) 
+Base Atk +13; CMB +20 (+30 with greatsword); CMD 33 
+Feats Angel Wings, Angelic Blood, Dazing AssaultB, Deadly Aim (–4 attack, +8 damage), Heavenly Radiance, 
+Point Blank Shot, Power Attack
+B (–4 attack, +4/+8/+12 damage), Precise Shot, Rapid Shot, Shield of 
+SwingsB, Weapon Focus (greatsword
+B, longbow
+B), Weapon Specialization (greatswordB, longbow
+B) 
+Skills Diplomacy +17, Fly +18, Perception +22; Armor Check Penalty –2; Racial Modifiers +2 Diplomacy, 
++2 Perception 
+SQ armor training 3, halo, wings of heaven (11 minutes/day) 
+Combat Gear arrows (60), potions of cure light wounds (16); Other Gear +3 adaptive composite longbow, +3 
+greatsword, +5 full plate, belt of giant strength +6, cloak of resistance +5, eyes of the eagle, gloves of 
+dueling, masterwork backpack, ring of protection +1, tender (47gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 75 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 3 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 3. In addition, your speed is not 
+reduced for wearing medium or heavy armor. 
+Bravery (Ex) You gain a +3 bonus on Will saves against fear effects. 
+Exalted Resistance You gain spell resistance equal to 5 + your level against spells and spell-like abilities with 
+the evil descriptor, as well as any spells and spell-like abilities cast by evil outsiders. 
+Halo You possess the ability to manifest a halo. You can create light centered on your head at will as a spell-
+like ability. When using your halo, you gain a +2 circumstance bonus on Intimidate checks against evil 
+creatures and on saving throws against becoming blinded or dazzled. 
+Weapon Sacrifice (Ex) When damage would cause you or an adjacent ally to be knocked unconscious or 
+killed, as a swift or immediate action you can instead direct the damage to a weapon from the associated 
+weapon group that you are wielding. The original target takes no damage, but the weapon receives only 
+
+half its normal hardness. You can use this option a number of times per day equal to your weapon 
+training bonus with the associated weapon group.  
+Weapon Training (Ex) You receive a +5 bonus to attack and damage rolls when using bows, to any combat 
+maneuver checks made with bows, and to your Combat Maneuver Defense when defending against 
+disarm and sunder attempts made against bows. You receive a similar bonus with heavy blades, but only 
+at +4. 

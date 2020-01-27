@@ -1,0 +1,47 @@
+
+
+Theen Fida 
+Female human fighter 8 
+N Medium humanoid (human) 
+Init +3; Senses Perception +10 
+Languages Common, Goblin 
+DEFENSE 
+AC 27, touch 15, flat-footed 23 (+10 armor, +3 Dex, +1 deflection, +1 
+dodge, +1 natural, +1 shield) 
+hp 83 (8 HD) 
+Fort +9, Ref +6, Will +5; +2 vs. fear 
+Defensive Abilities bravery +2 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 meteor hammer +14/+9 (1d8+8) in fortress mode, or 
++1 meteor hammer +11/+6 (1d8+17) with power attack in fortress 
+mode, or 
++1 meteor hammer +12/+12/+7 (1d8+6/1d8+4) with two-weapon fighting in meteor mode, or 
++1 armor spikes +13/+8 (1d6+5) or 
+mwk hunga munga +13/+8 (1d6+4) or 
+mwk spiked gauntlets +13/+8 (1d4+4) 
+Ranged mwk hunga munga +12 (1d6+4) 
+Special Attacks weapon training (flails +1) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 16 (+3), Con 14 (+2), Int 13 (+1), Wis 14 (+2), Cha 8 (–1) 
+Base Atk +8; CMB +12; CMD 27 (35 vs. overrun and trip) 
+Feats BodyguardB, Combat Patrol, Combat ReflexesB, Dodge, In Harm’s Way
+B, Mobility, Power AttackB, 
+Stand Still, Two-Weapon Fighting
+B 
+Skills Acrobatics +8, Perception +10, Sense Motive +10, Survival +13; Armor Check Penalty –3 
+SQ armor training 2, military tradition (dire flail, meteor hammer) 
+Combat Gear potions (cure light wounds 10, mage armor 10); Other Gear +1 meteor hammer, +1 full plate 
+with +1 armor spikes, amulet of natural armor +1, belt of giant strength +4, cloak of resistance +1, hat 
+of disguise (often used on charges), masterwork backpack, masterwork hunga mungas (4), masterwork 
+spiked gauntlets (2), ring of protection +1, tender (164gp) 
+Encumbrance light 116 lb., medium 233 lb., heavy 350 lb.; Weight Carried 88 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 2 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 2. In addition, your speed is not 
+reduced for wearing medium or heavy armor. 
+Bravery (Ex) You gain a +2 bonus on Will saves against fear effects. 
+Military Tradition You gain proficiency with up to two martial or exotic weapons appropriate to your culture. 
+Weapon Training (Ex) You receive a +1 bonus to attack and damage rolls when using flails, to any combat 
+maneuver checks made with flails, and to your Combat Maneuver Defense when defending against 
+disarm and sunder attempts made against flails (included above). 

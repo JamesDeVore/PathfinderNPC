@@ -1,0 +1,206 @@
+
+
+Akoran, the Mad Mage 
+“I care not for the depredations of good or of evil. I have 
+suffered grievously from both.” 
+ 
+Once a brilliant young woman full of joy, Akoran is now an empty 
+husk tediously striving  towards her next arcane achievement, 
+whatever it takes. Having seen the best and the worst of the world 
+during her life and unlife, Akoran has long since grown cynical. 
+She throws herself into her research  and has since become 
+emotionally withdrawn. Despite her reputation, Akoran is not 
+mad, merely absorbed by her drive for answers. 
+ 
+As a girl, Akoran was raised by her grandmother (her parents 
+having been murdered by bandits) and they lived together happily 
+in relative peace for many years. Shortly after Akoran became a 
+young  woman, however, her  grandmother  fell terribly ill. 
+Knowing what was to come, the dying woman sent her grandchild 
+out into the woods to gather medicinal herbs—the better to 
+prevent her from witnessing her passing. Much like the ivory bowl 
+full of herbs that slipped from her grasp, Akoran’s heart shattered 
+upon her return. 
+ 
+Having never coped with death well, Akoran broke down and became terrified over the inevitability of death. She 
+grew paranoid, believing that death was waiting around every corner. In desperation she joined up with a peaceful 
+cult in a nearby city seeking answers of the afterlife. Ultimately, concerned city authorities sabotaged the cult by 
+planting seeds of discord causing the otherwise peaceful group to fracture and turn to violent infighting. 
+ 
+Akoran, trying to salvage the group’s ties, was soon caught up in the violence. Forced by unknown attackers to 
+undergo a dark ritual, she was brutally tortured and then sacrificed. When she next awoke, she not only found her 
+organization destroyed by the authorities (who swooped in upon them in their weakened state), but also that she 
+had been transformed into an undead monster (as evidenced by the large spike protruding from her stilled heart). 
+To this day she does not know whether her kidnappers were opposing cult members trying to sacrifice her, friends 
+trying to protect her from the guild’s inevitable collapse in their own way, or corrupt city authorities simply trying 
+to set up the cult with an incriminating “murder.” Anyone with knowledge of the incident either fled the area or 
+was killed in the raid shortly afterwards—leaving Akoran with far too many questions without answers. Her life, 
+having once again fallen apart, Akoran took what little she knew about the arts of necromancy and dedicated her 
+life to learning its most powerful secrets. For decades she has adventured abroad in hopes that her growing power 
+will one day reveal to her the attackers who betrayed her to the cold eternity of undeath and the secrets of the 
+terrible ritual they performed. 
+   
+
+Akoran 
+Female human lich, necromancer 13 
+N Medium undead (augmented humanoid) 
+Init +2; Senses darkvision 60 ft., life sight 20 ft., low-light vision; Perception 
++27 
+Aura fear (60 ft. radius, DC 24) 
+Languages Abyssal, Common, Dark Folk, Infernal 
+DEFENSE 
+AC 31, touch 17, flat-footed 29 (+4 armor, +5 deflection, +2 Dex, +10 natural); 
+mage armor 
+hp 151 plus false life (13 HD) 
+Fort +14, Ref +11, Will +16 
+Defensive Abilities channel resistance +4; DR 15/bludgeoning and magic; 
+Immunities cold, electricity, undead traits 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee grave touch +8 touch (shaken for 6 rounds/frightened for 1 round, also see paralyzing touch) 
+paralyzing touch +8 touch (1d8+6 negative energy plus paralysis, also see grave touch) 
+Ranged by weapon +8/+3 
+Special Attacks grave touch (14/day), paralyzing touch (DC 24), power over undead (DC 24, 14/day) 
+Wizard Spells Prepared (CL 13
+th; Concentration +22) 
+7th  (3/day) – finger of death, project image, waves of exhaustion 
+6th  (5/day) – circle of death
+M, eyebite, flesh to stone, veil (2) 
+5
+th  (6/day) – dominate person, hold monster, magic jarF, telekinesis, teleport (2) 
+4
+th  (7/day) – bestow curse, contagion, enervation (2), greater invisibility (2), phantasmal killer 
+3rd  (7/day) – fly (2), haste (2), phantom steed, slow, vampiric touch 
+2nd (8/day) – blindness/deafness, false life (2), hideous laughter, rope trick, see invisibility, web (2) 
+1st  (8/day) – comprehend languages, feather fall, identify, mage armor (2), ray of enfeeblement, shield, 
+true strike 
+0  (at will) – bleed, detect magic, mage hand, prestidigitation 
+Arcane School necromancy; Opposition Schools abjuration, evocation 
+STATISTICS 
+Abilities Str 15 (+2), Dex 14 (+2), Con –, Int 32 (+11), Wis 16 (+3), Cha 22 (+6); +2 strength from greater hat 
+of disguise 
+Base Atk +6; CMB +8; CMD 25 
+Feats Ability Focus (fear aura, paralyzing touch), Command Undead
+B, Craft Staff, Craft Wondrous Item
+B, 
+Deceitful, Greater Spell Focus (necromancy), Scribe Scroll
+B, Skill Focus (disguise
+B, spellcraft
+B), Spell 
+Focus (necromancy), Spell Mastery
+B (spells marked by asterisks below), Undead Master Skills 
+Appraise +27, Bluff +23, Craft (alchemy) +27, Craft (trapmaking) +27, Disguise +42, Fly +18, 
+Intimidate +22, Knowledge (arcana) +27, Knowledge (religion) +27, Perception +27, Sense Motive +27, 
+Spellcraft +33, Stealth +26; Racial Modifiers +8 Perception, +8 Sense Motive, +8 Stealth 
+SQ arcane bond (ring), focused study, rejuvenation 
+Combat Gear material components (animate undead/create undead [3,000gp worth], circle of death [3,000gp 
+worth], simulacrum [3,500gp worth], symbol spells [6,000gp worth]), staff of abjuration (10 charges); 
+Other Gear amulet of natural armor +5, cloak of resistance +5, darkskull (keyed to discern lies), 
+greater hat of disguise (appears elven), headband of vast intellect +6 (disguise, perception, sense 
+motive), lich’s phylactery (hidden away), magic jar focus, ring of mind shielding, ring of protection +5 
+(bonded object), spellbooks (3) (41 pages remaining), spell component pouch, tender (488gp), tome of 
+clear thought +4 (already read), tome of leadership and influence +4 (already read), troll fighter 
+simulacrum bodyguards (4, see below) 
+
+Spellbook 7th—control undead, finger of death, insanity, mass hold person, project image, reverse gravity, 
+simulacrum
+M, symbol of stunning, symbol of weakness, waves of exhaustion; 6th—circle of death
+M, 
+create undeadM, disintegrate, eyebite, flesh to stone, symbol of fearM, symbol of persuasionM, veil; 5th—
+dominate person, feeblemind, hold monster, magic jarF*, permanency
+M, symbol of painM, symbol of 
+sleep
+M, telekinesis, teleport*; 4th—animate deadM, bestow curse*, charm monster*, contagion, 
+enervation*, fear, greater invisibility*, phantasmal killer; 3rd—fly*, haste, phantom steed, slow, 
+vampiric touch*; 2
+nd—blindness/deafness*, command undead, detect thoughts, false life, ghoul touch, 
+hideous laughter, rope trick, see invisibility*, web; 1st—comprehend languages, decompose corpse
+UM, 
+detect secret doors, detect undead, feather fall, identify, mage armor, ray of enfeeblement*, restore 
+corpse
+UM, shield, true strike, unseen servant; 0—all but abjuration and evocation 
+Encumbrance light 66 lb., medium 133 lb., heavy 200 lb.; Weight Carried 23 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Fear Aura (Su) Creatures of less than 5 HD in a 60-foot radius that look at you must succeed on a Will save or 
+become frightened. Creatures with 5 HD or more must succeed at a Will save (see above) or be shaken 
+for 13 rounds. A creature that successfully saves cannot be affected again by your aura for 24 hours. 
+This is a mind-affecting fear effect. 
+Grave Touch (Sp) Fourteen times per day you can make a melee touch attack as a standard action that causes a 
+living creature to become shaken for 6 rounds. If you touch a shaken creature with this ability, it 
+becomes frightened for 1 round if it has fewer than 11 Hit Dice. 
+Life Sight (Su) You gain blindsight to a range of 20 feet for 13 rounds per day. This ability only allows you to 
+detect living creatures and undead creatures. This sight also tells you whether a creature is living or 
+undead. Constructs and other creatures that are neither living nor undead cannot be seen with this ability. 
+Paralyzing Touch (Su) Any living creature you hit with a touch attack must succeed on a Fortitude save (DC 
+24) or be permanently paralyzed. Remove paralysis or any spell that can remove a curse can free the 
+victim (see the bestow curse spell description, with a DC equal to the lich’s save DC). The effect cannot 
+be dispelled. Anyone paralyzed by a lich seems dead, though a DC 20 Perception check or a DC 15 Heal 
+check reveals that the victim is still alive. 
+Power Over Undead (Su) You receive Command Undead as a bonus feat. You can channel energy 14 times 
+per day, but only to command undead. You can take other feats to add to this ability, such as Extra 
+Channel and Improved Channel, but not feats that alter this ability, such as Elemental Channel and 
+Alignment Channel. The base DC to save against these feats is equal to 20. 
+Rejuvenation (Su) When you are destroyed, your phylactery immediately begins to rebuild your undead body 
+nearby. This process takes 1d10 days—if your body is destroyed before that time passes, the phylactery 
+merely starts the process anew. After this time passes, you awaken fully healed (albeit without any gear 
+from your old body). 
+Undead Traits (Ex) Undead are immune to death effects, disease, mind-affecting effects (charms, 
+compulsions, morale effects, phantasms, and patterns), paralysis, poison, sleep, stun, and any effect that 
+requires a Fortitude save (unless the effect also works on objects or is harmless). Undead are not subject 
+to ability drain, energy drain, or nonlethal damage. Undead are immune to damage or penalties to their 
+physical ability scores (Strength, Dexterity, and Constitution), as well as to fatigue and exhaustion 
+effects. Undead are not at risk of death from massive damage. 
+     
+
+Akoran’s Simulacrum Bodyguards 
+Troll, fighter 1 
+N Large humanoid (giant) 
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +7 
+Languages Giant 
+DFENSE 
+AC 22, touch 13, flat-footed 18 (+4 armor, +4 Dex, +5 natural, –1 size) 
+hp 88 (7 HD); regeneration 5 (acid or fire) 
+Fort +14, Ref +6, Will +4 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee bite +11 (1d8+7) and 
+2 claws +11/+11 (1d6+11 plus rend) or 
+bite +9 (1d8+7) and 
+2 claws +9/+9 (1d6+11 plus rend) with Power Attack, or 
+masterwork longspear +12 (2d6+10/×3) or 
+masterwork longspear +10 (2d6+16/×3) with Power Attack 
+Ranged javelin +9 (1d8+7) 
+Space 10 ft.; Reach 10 ft. (20 ft. with longspear) 
+Special Attacks rend (2 claws, 1d6+10) 
+STATISTICS 
+Abilities Str 25 (+7), Dex 19 (+4), Con 25 (+7), Int 6 (–2), Wis 11 (+0), Cha 4 (–3) 
+Base Atk +5; CMB +13; CMD 27 
+Feats Combat Reflexes (5 AoO’s/round), Lunge
+B, Power Attack, Stand Still, Toughness 
+Skills Perception +7 
+Gear chain shirt, masterwork longspear, javelins (4) 
+Encumbrance light 532 lb., medium 1,066 lb., heavy 1,600 lb.; Weight Carried 84 lb. 
+SPECIAL ABILITIES 
+Infected Akoran uses regular castings of her contagion spell to infect her simulacrum bodyguards with the 
+mindfire disease. As such, they are highly infectious to those around them. Due to their high resistance 
+to the disease, repeated castings are often necessary and the above stats do not reflect any ability 
+damage. 
+Regeneration (Ex) Akoran’s troll simulacrums heal damage at a fixed rate, as with fast healing, but they cannot 
+die as long as their regeneration is still functioning (although creatures with regeneration still fall 
+unconscious when their hit points are below 0). Fire and acid cause a troll’s regeneration to stop 
+functioning on the round following the attack. During this round, the troll does not heal any damage and 
+can die normally. Attack forms that don’t deal hit point damage are not healed by regeneration. 
+Regeneration also does not restore hit points lost from starvation, thirst, or suffocation. Trolls can 
+regrow lost portions of their bodies and can reattach severed limbs or body parts if they are brought 
+together within 1 hour of severing. Severed parts that are not reattached wither and die normally. 
+Rend (Ex) If it hits with two or more claw attacks in 1 round, a troll can cause tremendous damage by latching 
+onto the opponent’s body and tearing flesh. This attack deals an additional 1d6+7 points of damage, but 
+no more than once per round. 

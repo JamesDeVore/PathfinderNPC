@@ -1,0 +1,115 @@
+
+
+Rafaj 
+Male human sorcerer 11 
+NE Medium humanoid 
+Init +4; Senses familiar’s alertness; Perception +0 
+Languages Common, Infernal 
+DEFENSE 
+AC 23, touch 16, flat-footed 19 (+4 armor, +2 deflection, +4 Dexterity, +3 
+natural); mage armor 
+hp 73 plus false life (11 HD) 
+Fort +5, Ref +7, Will +7; +2 vs. poison 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee bite +4 (1d4–1 plus poison) or 
+cobra scepter +5 (1d6) 
+Ranged cobra scepter +10 (1d6) 
+Special Attacks poison (bite, DC 17), serpent’s fang (11 rounds/day) 
+Sorcerer Spells Known (CL 11
+th; Concentration +22) 
+5th  (5/day) – dominate person, hold monster
+B, vampiric shadow shieldACG 
+4
+th  (8/day) – acid pit
+APG, bestow curse, charm monster, poisonB 
+3rd  (8/day) – deep slumber, gaseous form, heroism, suggestion, summon monster III
+B (reptiles only) 
+2nd (8/day) – delay poison
+B, detect thoughts, false life, hideous laughter, mirror image, see invisibility 
+1st  (8/day) – charm person, disguise self, hypnotism
+B, mage armor, shield, vanishAPG 
+0  (at will) – arcane mark, bleed, dancing lights, daze, detect poison, ghost sound, mage hand, 
+mending, message 
+Bloodline serpentine 
+STATISTICS 
+Abilities Str 8 (–1), Dex 18 (+4), Con 14 (+2), Int 12 (+1), Wis 10 (+0), Cha 26 (+11) 
+Base Atk +5; CMB +4; CMD 20 
+Feats Conceal Spell, Cunning Caster, Deceitful, Eschew Materials
+B, Improved Conceal Spell, Silent Spell
+B, 
+Spell Focus (enchantment), Still Spell
+B, Subtle Enchantments 
+Skills Bluff +32, Diplomacy +25, Disguise +29, Escape Artist +9, Sense Motive +11, Sleight of Hand +19; 
+Circumstantial Bonuses +4 on Charisma-based checks to appear friendly, harmless, helpless, or 
+otherwise in need of assistance or deserving of proper respect for someone of his apparent age (+8 bonus 
+against children) 
+SQ arcane bond (viper), bloodline arcana (mind-affecting or language-dependent spells affect animals, 
+magical beasts, and monstrous humanoids), serpentfriend, traits (child of the streets, keeper of the veil) 
+Gear amulet of natural armor +2, belt of incredible dexterity +2, circlet of persuasion, cloak of the elder (as 
+shawl of the crone, but male), cobra scepter (functionally a +1 shortspear), disguise kit, grand turban 
+(as jingasa of the fortunate soldier, but provides a +2 deflection bonus), headband of alluring charisma 
++6, pet parrot, tender (99gp), viper familiar (Ogai, see below) 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 13 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bloodline Arcana Whenever you cast a mind-affecting or language-dependent spell, it affects animals, magical 
+beasts, and monstrous humanoids as if they were humanoids who understood your language. 
+Child of the Streets You gain a +1 trait bonus on Sleight of Hand checks, and Sleight of Hand is always a class 
+skill for you. 
+Keeper of the Veil You gain a +1 competence bonus on Bluff and Disguise checks, and Disguise is always a 
+class skill for you. 
+Serpent’s Fang (Ex) You can grow fangs as a free action. These fangs are treated as a natural weapon inflicting 
+1d4 points of damage plus your Strength modifier plus poison (Bite—injury; save Fort DC 10 + ½ your 
+
+sorcerer level + your Constitution modifier; frequency 1/round for 6 rounds; effect 1d4 Con damage; 
+cure 2 saves). These fangs are considered magical for the purpose of overcoming DR. You can use your 
+fangs for a number of rounds per day equal to 3 + your Charisma modifier. 
+Serpentfriend (Ex) You can use speak with animals at will with reptilian animals (including various forms of 
+dinosaurs, lizards, and other cold-blooded creatures), and you gain a viper familiar using your sorcerer 
+level –2 as your effective wizard level. 
+Snakeskin (Ex) You gain a +1 bonus to natural armor, a +2 racial bonus on saves against poison, and a +2 
+bonus on Escape Artist checks.   
+
+Ogai 
+Viper familiar 
+N Tiny magical beast (augmented animal) 
+Init +3; Senses low-light vision, scent; Perception +9 
+Languages empathic link, speak with master, speak with reptiles 
+DEFENSE 
+AC 25, touch 15, flat-footed 21 (+4 armor, +3 Dex, +6 natural, 
++2 size); mage armor 
+hp 36 (11 HD) 
+Fort +2, Ref +6, Will +8 
+Defensive Abilities improved evasion 
+OFFENSE 
+Speed 20 ft. (4 squares), climb 20 ft., swim 20 ft. 
+Melee bite +10 (1d2–2 plus poison) or 
+by spell +10 touch (as the spell) 
+Ranged by weapon +10 
+Space 2½ ft.; Reach 0 ft. 
+Special Attacks deliver touch spells, poison 
+STATISTICS 
+Abilities Str 4 (–3), Dex 17 (+3), Con 8 (–1), Int 10 (+0), Wis 13 (+1), Cha 2 (–4) 
+Base Atk +5; CMB +6; CMD 10 (can’t be tripped) 
+Feats Weapon Finesse 
+Skills Bluff +7, Climb +11, Diplomacy +7, Disguise +7, Perception +9, Sense Motive +12, Sleight of Hand 
++14, Stealth +15, Swim +11; Racial Modifiers +4 Perception, +4 Stealth 
+SQ alertness, empathic link, familiar traits, share spells, speak with master, speak with reptiles 
+Encumbrance light 4 lb. 8 oz., medium 9 lb. 12 oz., heavy 15 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+Deliver Touch Spells (Su) If you and your familiar are in contact at the time you cast a touch spell, you can 
+designate your familiar as the toucher. Your familiar can then deliver the touch spell personally. As 
+usual, if you cast another spell before the touch is delivered, the touch spell dissipates. 
+Empathic Link (Su) Your familiar has an empathic link with you out to one mile. You cannot see through your 
+familiar’s eyes, but the two of you can communicate empathically. Only general emotional content can 
+be communicated. You have the same connection to an item or place that your familiar does. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, your familiar takes no damage if he makes a successful saving throw and half damage even if 
+the saving throw fails. 
+Poison (Ex) Bite—injury; save Fort DC 9; frequency 1/round for 6 rounds; effect 1d2 Con; cure 1 save. 
+Share Spells You may cast a spell with a target of “You” on your familiar (as a touch spell) instead of on 
+yourself. You may cast spells on your familiar even if the spells do not normally affect creatures of the 
+familiar’s type (magical beast). 
+Speak With Master (Ex) You and your familiar may communicate verbally, using a private language no one 
+else understands. 

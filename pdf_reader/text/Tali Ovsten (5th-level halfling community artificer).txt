@@ -1,0 +1,81 @@
+
+
+Tali Ovsten 
+Female halfling cleric 5 
+LG Small humanoid (halfling) 
+Init +1; Senses Perception +5 
+Languages Common, Dwarven, Gnome, Halfling 
+DEFENSE 
+AC 28, touch 12, flat-footed 27 (+11 armor, +1 Dex, +5 shield, +1 size) 
+hp 42 (5 HD) 
+Fort +8, Ref +4, Will +9; +2 vs. fear 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. without armor 
+Melee +1 gnoll bane warhammer +6 (1d6+2/×3) or 
++1 gnoll bane warhammer +9 (1d6+5 plus 2d6/×3) against gnolls 
+Ranged sling +5 (1d3+1) 
+Special Attacks channel positive energy 5/day (DC 14, 3d6) 
+Spell-like Abilities (CL 5
+th; Concentration +8) 
+At Will – mending 
+6/day – artificer’s touch (1d6+2), calming touch 
+Cleric Spells Prepared (CL 5
+th; Concentration +8) 
+3
+rd  (3/day) – magic circle against evil, meld into stone, stone shape
+D 
+2nd (4/day) – hold person, shatter, shield otherD F, status 
+1st  (5/day) – blessD, deathwatch, endure elements, protection from evil, sanctuary 
+0  (at will) – create water, detect magic, light, stabilize 
+D Domain spell; Domains Artifice, Community 
+STATISTICS 
+Abilities Str 12 (+1), Dex 12 (+1), Con 14 (+2), Int 14 (+2), Wis 16 (+3), Cha 14 (+2) 
+Base Atk +3; CMB +3; CMD 14 
+Feats Armor Proficiency (heavy), Craft Magic Arms and Armor, Tower Shield Proficiency 
+Skills Appraise +10 (+12 with small or highly detailed items, or items valued by weight), Disable Device +1, 
+Heal +11, Knowledge (engineering +7), Perception +5, Spellcraft +10, Stealth +0; Armor Check 
+Penalty –5, or –13 with tower shield, Racial Modifiers +2 Perception 
+SQ aura of good (strong), fleet of foot, spontaneous casting (cure spells), traits (Gnoll killer, hedge magician), 
+weapon familiarity 
+Combat Gear divine spell scroll of lesser planar ally, focus components (shield other), sling bullets (10); 
+Other Gear +1 darkwood tower shield, +1 gnoll bane warhammer, +2 full plate, cloak of resistance 
++1, riding dog (see below), silver holy symbol, sling, spell component pouch, tender (35gp) 
+Encumbrance light 32 lb. 4 oz., medium 64 lb. 8 oz., heavy 97 lb. 8 oz.; Weight Carried 51 lb. (excluding 
+tender) 
+SPECIAL ABILITIES 
+Artificer’s Touch (Sp) You can cast mending at will, using your cleric level as the caster level to repair 
+damaged objects. In addition, you can cause damage to objects and construct creatures by striking them 
+with a melee touch attack. Objects and constructs take 1d6 points of damage +1 for every two cleric 
+levels you possess. This attack bypasses an amount of damage reduction and hardness equal to your 
+cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. 
+Calming Touch (Sp) You can touch a creature as a standard action to heal it of 1d6 points of nonlethal damage 
++ 1 point per cleric level. This touch also removes the fatigued, shaken, and sickened conditions (but has 
+no effect on more severe conditions). You can use this ability a number of times per day equal to 3 + 
+your Wisdom modifier. 
+Channel Energy (Su) You may release a burst of positive energy in a 30-ft. radius burst as a standard action. 
+When doing so you can choose to harm undead creatures in the area (3d6 damage, Will DC 16 half) or 
+
+to heal living creatures in the area (3d6 healing). You can use this ability a number of times per day 
+equal to 3 + your Charisma modifier. 
+ 
+Bower 
+Riding Dog Steed 
+N Medium animal 
+Init +2; Senses low-light vision, scent; Perception +8 
+DEFENSE 
+AC 18, touch 12, flat-footed 16 (+5 armor, +2 Dex, +1 natural) 
+hp 13 (2 HD) 
+Fort +5, Ref +5, Will +1 
+OFFENSE 
+Speed 30 ft. (6 squares), 40 ft. without armor or rider 
+Melee bite +3 (1d6+3 plus trip) 
+STATISTICS 
+Abilities Str 15 (+1), Dex 15 (+1), Con 15 (+2), Int 2 (–4), Wis 12 (+1), Cha 6 (–2) 
+Base Atk +1; CMB +1; CMD 15 (19 vs. overrun and trip) 
+Feats Skill Focus (perception) 
+Skills Acrobatics  +2 (+10 when jumping), Perception  +8 (low-light vision, scent), Survival  +1 (+5 scent 
+tracking); Armor Check Penalty –4; Racial Modifiers +4 Acrobatics when jumping, +4 Survival 
+tracking by scent 
+SQ tricks (attack, come, defend, down, guard, heel) 
+Possessions bit and bridle, military saddle, saddlebags, scale mail barding, spare wooden holy symbol 
+Encumbrance light 99 lb., medium 198 lb., heavy 297 lb.; Weight Carried 147 lb. 8 oz. (69 lbs. without Tali) 

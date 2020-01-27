@@ -1,0 +1,98 @@
+
+
+Rowan Mouri 
+Male human sorcerer 9 
+NE Medium humanoid 
+Init +3; Senses Perception +0 
+Languages Abyssal, Common, Infernal 
+DEFENSE 
+AC 20, touch 15, flat-footed 17 (+3 armor, +3 Dex, +2 deflection, +2 
+natural) 
+hp 60 plus false life (9 HD) 
+Fort +6, Ref +9, Will +9 
+Defensive Abilities death’s gift; DR 10/– vs. nonlethal damage; Resist cold 
+10 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee club +4 (1d6) 
+Ranged 3 scorching rays +7 touch (4d6 fire) 
+Bloodline Spell-like Abilities (CL 9
+th; Concentration +13) 
+1/day – grasp of the dead (9d6 slashing, DC 18) 
+7/day – grave touch (7 rounds) 
+Sorcerer Spells Known (CL 9
+th; Concentration +13) 
+4th  (5/day) – animate dead, rigor mortis
+HA, wall of bone
+MTT 
+3rd  (7/day) – excruciating deformation
+UM, symbol of exsanguinationM HA, vampiric touch, waves of 
+bloodHA 
+2nd (7/day) – boneshakerHA, darkness, darkvision, false life, ghoul touch 
+1
+st  (7/day) – bloodbath
+HA, chill touch, detect undead, feather fall, grasping corpseHA, obscuring mist 
+0  (at will) – arcane mark, bleed, detect magic, disrupt undead, ghost sound, light, prestidigitation, 
+touch of fatigue 
+Bloodline undead 
+STATISTICS 
+Abilities Str 10 (+0), Dex 16 (+3), Con 10 (+0), Int 14 (+2), Wis 10 (+0), Cha 18 (+4) 
+Base Atk +4; CMB +4; CMD 17 
+Feats Eschew Materials
+B, Greater Spell Focus (necromancy), Magical Aptitude
+B, Spell Focus (necromancy), 
+Spell Specialization (animate dead), Toughness
+B, Undead Master, Weapon Finesse 
+Skills Bluff +16, Intimidate +16, Knowledge (religion) +14, Spellcraft +16, Use Magic Device +18 
+SQ bloodline arcana (corporeal undead affected by humanoid-affecting spells) 
+Combat Gear material components (animate dead [300gp worth]), wand of scorching ray (CL 11
+th, 10 
+charges); Other Gear amulet of natural armor +2, bracers of armor +3, cloak of resistance +3, club, 
+cyclops fast zombies (4), ring of protection +2 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 5 lb. 
+SPECIAL ABILITIES 
+Death’s Gift (Su) You gain resist cold 10 and DR 10/– against nonlethal damage. 
+Grasp of the Dead (Sp) You can cause a swarm of skeletal arms to burst from the ground to rip and tear at 
+your foes. The skeletal arms erupt from the ground in a 20-foot-radius burst. Anyone in this area takes 
+1d6 points of slashing damage per sorcerer level. Those caught in the area receive a Reflex save for half 
+damage. Those who fail the save are unable to move for 1 round. The DC of this save is equal to 10 + ½ 
+your sorcerer level + your Charisma modifier. The skeletal arms disappear after 1 round. The arms must 
+burst up from a solid surface. This power has a range of 60 feet. 
+Grave Touch (Sp) You can make a melee touch attack as a standard action that causes a living creature to 
+become shaken for a number of rounds equal to ½ your sorcerer level (minimum 1). If you touch a 
+shaken creature with this ability, it becomes frightened for 1 round if it has fewer Hit Dice than your 
+sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier. 
+
+ 
+Rowan’s Zombie Bodyguards 
+Cyclops Fast Zombies 
+NE Large undead 
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0 
+DEFENSE 
+AC 16, touch 9, flat-footed 16 (+4 armor, +3 natural, –1 size) 
+hp 66 (12 HD) 
+Fort +4, Ref +4, Will +8 
+Immunities undead traits 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee greataxe +14/+9 (3d6+9/×3) and slam +14 (1d8+6) or 
+slam +14/+14 (1d8+6) 
+Ranged heavy crossbow +8 (2d6/19-20) 
+Space 10 ft.; Reach 10 ft. 
+Special Attacks quick strikes 
+STATISTICS 
+Abilities Str 23 (+6), Dex 10 (+0), Con –, Int –, Wis 10 (+0), Cha 10 (+0) 
+Base Atk +9; CMB +16; CMD 26 
+Feats ToughnessB 
+Skills Stealth –7; Armor Check Penalty –3 
+Gear greataxe, heavy crossbow, hide armor 
+Encumbrance light 400 lb., medium 800 lb., heavy 1,200 lb.; Weight Carried 90 lb. 
+SPECIAL ABILITIES 
+Quick Strikes (Ex) Whenever a fast zombie takes a full-attack action, it can make one additional slam attack at 
+its highest base attack bonus (included above). 
+Undead Traits (Ex) Undead are immune to death effects, disease, mind-affecting effects (charms, 
+compulsions, morale effects, phantasms, and patterns), paralysis, poison, sleep, stun, and any effect that 
+requires a Fortitude save (unless the effect also works on objects or is harmless). Undead are not subject 
+to ability drain, energy drain, or nonlethal damage. Undead are immune to damage or penalties to their 
+physical ability scores (Strength, Dexterity, and Constitution), as well as to fatigue and exhaustion 
+effects. Undead are not at risk of death from massive damage. 

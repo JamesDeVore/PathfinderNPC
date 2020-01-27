@@ -1,0 +1,66 @@
+
+
+Guymelef Dilandou 
+  
+
+Male human fighter 1/sorcerer 6/eldritch knight 3 
+N Medium humanoid 
+Init +2; Senses darkvision 30 ft.; Perception +1 
+Languages Common, Gnome 
+DEFENSE 
+AC 28, touch 14, flat-footed 26 (+12 armor, +2 deflection, +2 Dex, +2 
+natural) 
+hp 86 plus false life (10 HD) 
+Fort +11, Ref +8, Will +10 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 transformative greatsword +12/+7 (2d6+8/19-20) with Arcane Strike, or 
++1 transformative greatsword +10/+5 (2d6+14/19-20) with Power Attack and Arcane Strike, or  
++1 transformative greatsword +12 (4d6+8/19-20) with Vital Strike and Arcane Strike, or 
++1 transformative greatsword +10 (4d6+14/19-20) with Vital Strike, Power Attack, and Arcane Strike, or 
+shadowstrike +11 touch (1d4+3 nonlethal plus daze for 1 minute) 
+Ranged mwk composite longbow +10/+5 (1d8+4/×3) with normal arrows, or 
+mwk composite longbow +10/+5 (1d8+4 nonlethal/×3) with blunt arrows, or 
+mwk composite longbow +10/+5 (1d6+4/×3) with flight arrows 
+Special Attacks shadowstrike 
+Arcane Spell-Like Abilities (CL 10
+th; Concentration +12) 
+5/day – shadowstrike 
+Sorcerer Spells Known (CL 10
+th; Arcane Spell Failure 5%; Concentration +12) 
+4th (3/day) – greater invisibility 
+3
+rd (6/day) – fly, heroism 
+2nd (7/day) – darkvision, false life, invisibility, see invisibility 
+1
+st (7/day) – enlarge person, expeditious retreat, magic missile, ray of enfeeblement, shield, ventriloquism 
+0 (at will) – bleed, detect magic, ghost sound, light, mage hand, mending, open/close, prestidigitation 
+Bloodline shadow 
+STATISTICS 
+Abilities Str 18 (+4), Dex 14 (+2), Con 14 (+2), Int 13 (+1), Wis 12 (+1), Cha 16 (+3) 
+Base Atk +7; CMB +11 (+13 to disarm or trip); CMD 25 (27 vs. disarm and trip) 
+Feats Additional Traits (armor expert, magical knack [sorcerer]), Arcane Armor Mastery, Arcane Armor Training, Arcane 
+Strike, Combat Expertise
+B (–2 attack, +2 AC), Eschew Materials
+B, Power Attack
+B (–2 attack, +2/+4/+6 damage), 
+Skill Focus (knowledge: arcana
+B, stealth
+B), Vital Strike 
+Skills Acrobatics +5, Knowledge (arcana) +20, Knowledge (nobility) +9, Spellcraft +14, Stealth +19; Armor Check 
+Penalty –2 
+SQ bloodline arcana (gains bonus to Stealth when casting darkness or shadow spells), diverse training, focused study, 
+nighteye 
+Combat Gear arrows (20), blunt arrows (20), flight arrows (20), smoke arrows (3), tanglefoot bags (3); Other Gear +3 
+mithral full plate, +1 transformative greatsword, amulet of natural armor +2, belt of giant strength +2, cloak of 
+resistance +3, masterwork composite longbow (+4 strength bonus), ring of protection +2, tender (15gp) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 59 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bloodline Arcana Whenever you cast a spell with the darkness descriptor or the shadow subschool, you gain a 
+circumstance bonus on Stealth checks equal to the spell’s level for 1d4 rounds. 
+Nighteye (Ex) You have darkvision 30 feet. 
+Shadowstrike (Sp) You can make a melee touch attack as a standard action that inflicts 1d4 points of nonlethal damage + 
+1 for every two sorcerer levels you possess. In addition, the target is dazzled for 1 minute. Creatures with low-
+light vision or darkvision are not dazzled by this ability. You can use this ability a number of times per day equal 
+to 3 + your Charisma modifier. 
+ 

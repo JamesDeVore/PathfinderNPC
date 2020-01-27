@@ -1,0 +1,180 @@
+
+
+Dr. Krolmnite 
+“I want to be the very best. Like no one ever was. To design them 
+will be my real test. To craft them for my cause, I will travel across 
+the land, searching far and wide, each secret to understand. The 
+power that will be mine. The Krolmnite Golem Workshops are my 
+real quest. I know it’s my destiny. I will make them the best, and 
+they’ll wreck all the rest!” 
+ 
+Like many lava gnomes, Doctor Krolmnite lived with others of his 
+own  kind  in  massive  caverns  underneath  an  active  volcano  and 
+shared a great love of all things fire. 
+ 
+Then his home blew up. 
+ 
+The volcanic eruption was so great that it wiped out much of his 
+native village and split the cavern ceiling and mountain above them 
+wide  open.  Krolmnite  was  one  of  the  lucky  few  to  survive  the 
+natural  disaster.  Where  others  were  crushed  under  thousands  of 
+tons  of  stone,  Krolmnite  watched  as  thousands  of  tons  of  stone 
+opened up and gave way above him, revealing the open sky and 
+shining sun to his virgin eyes for the very first time. 
+ 
+Believing  he  had  been  spared  for  a  purpose,  Krolmnite  converted  to  the  worship  of  Sarenrae  soon  after  he 
+evacuated the smoking ruin of his home. Nearly all his old patients being deceased, he gave up on his old life as 
+a doctor to start again under Sarenrae’s teachings. Whether the potent sorcerer powers over fire and light that he 
+would later develop are merely an extension of his lava gnome heritage, or a gift from Sarenrae none can know 
+for sure. Nevertheless, Krolmnite believes that she has granted him life and power for great purpose. 
+ 
+In  addition  to  possessing  extensive  medical  knowledge,  Krolmnite  is  also  an  accomplished  engineer  and 
+alchemist. Though he is hardly a genius, Dr. Krolmnite is quite arrogant, and works very hard at convincing others 
+that he is one. Like most lava gnomes, he is hot-tempered and dangerously unstable (even by the standards of 
+other gnomes). Having a few gear gnomes in his family tree, he also happens to share a love of knowledge, of 
+inventing  new  things,  and  tinkering  with  old  ones.  Thus,  much  of  his  “dangerous  instability”  ends  up  being 
+channeled into the very productive, if reckless, creation of his various inventions and contraptions. He hopes to 
+one day start a lucrative franchise of golem workshops that will allow the world to better know his name, and 
+now adventures abroad to further realize that dream just as much as he does to spread the good news of Sarenrae. 
+   
+
+Dr. Krolmnite 
+Male lava gnome sorcerer 11 
+CG Small humanoid (gnome) 
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +0 
+Languages Common, Dwarven, Gnome, Orc, Sylvan 
+DEFENSE 
+AC 17, touch 13, flat-footed 15 (+4 armor, +2 Dex, +1 size); mage armor 
+hp 84 (11 HD) 
+Fort +11, Ref +10, Will +12 
+Defensive Abilities defensive training (+4 dodge bonus to AC vs. giants), 
+sunsight; Immune dazzled; Resist fire 20 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee produce flame +4 touch (1d6+5 fire) or 
+mwk longspear +5 (1d6–1/×3) 
+Ranged produce flame +7 touch (1d6+5 fire) 
+Spell-like Abilities (CL 11th or CL 12th with fire spells; Concentration +16 or +17 with fire spells) 
+1/day – dancing lights, flare, prestidigitation, produce flame 
+Sorcerer Spells Known (CL 11th, CL 12th with fire spells; Concentration +16, +17 with fire spells) 
+5th  (5/day) – flame strike
+B, telekinesis, teleport 
+4th  (7/day) – greater make wholeTG, pyrotechnic eruptionHA, shield of dawnB ISG, wall of fire 
+3rd  (7/day) – daylightB, disable constructACG, earth tremorUW, fireball, fractions of heal and harmISG 
+2nd (7/day) – burning arc
+HoG, fury of the sunB ARG, meteoric flight (as raven’s flightHotW, except you turn 
+into a flying meteor rather than a raven), pyrotechnics, resist energy, see invisibility 
+1st  (8/day) – comprehend languages, endure elements, feather fall, mage armor, searing lightB, shield 
+0  (at will) – arcane mark, detect magic, flare, light, mage hand, mending, message, prestidigitation, 
+spark
+APG 
+Bloodline Solar 
+Special Attacks +1 on attack rolls against humanoid creatures of the reptilian and goblinoid subtypes 
+STATISTICS 
+Abilities Str 8 (–1), Dex 14 (+2), Con 16 (+3), Int 16 (+3), Wis 10 (+0), Cha 20 (+5) 
+Base Atk +5; CMB +3; CMD 15 
+Feats Craft Construct, Craft Magic Arms and Armor, Craft Wondrous Items, Empower SpellB, Eschew 
+MaterialsB, Healer’s Hands, Master Alchemist, Signature Skill (heal) 
+Skills Craft (alchemy) +21, Heal +20 (+22 with healer’s satchel, +23 to treat poison with antidote kit or to treat 
+wounds or deadly wounds with surgeon’s tools, +25 to give first aid, treat wounds, or treat deadly 
+wounds with bloodblock), Knowledge (arcana) +11, Knowledge (engineering) +9, Knowledge (planes) 
++14, Spellcraft +17, Stealth +6, Use Magic Device +19; Racial Bonus +2 Craft (alchemy) 
+SQ bloodline arcana (fire spells deal +1 damage per die), cleansing flame (2/day), darkvision, obsessive, 
+pyromaniac, traits (caretaker, hedge magician), weapon familiarity 
+Combat Gear alchemical grease (3), alchemist’s kindness (3), antiplague (6), antitoxin (6), bloodblock (36), 
+meditation tea (6), padzahr (3), smelling salts (3), smokesticks (3), soothe syrup (6), sunrods (3), 
+surgeon’s tools, tindertwigs (9), twitch tonic (6), vermin repellent (6), wand of magic missile (CL 5th, 25 
+charges), wismuth salix (6); Other Gear antidote kit, handy haversack, headband of vast intelligence 
++2 (use magic device), healer’s gloves, healer’s satchel (specialized for treatement), masterwork 
+longspear, muleback cords, portable alchemist’s lab, rune-carved alchemical golems with runes of 
+shielding (4), tender (32gp), traveler’s any-tool, vest of resistance +5 (as cloak of resistance) 
+Encumbrance light 57 lb., medium 114 lb. 12 oz., heavy 172 lb. 8 oz.; Weight Carried 22 lb. 4 oz. (excluding 
+tender) 
+   
+
+SPECIAL ABILITIES 
+Bloodline Arcana Whenever you cast a spell with the fire descriptor, if it deals damage, it deals +1 point of 
+damage per die rolled. 
+Caretaker You gain a +1 trait bonus on Heal checks, and Heal is always a class skill for you. 
+Cleansing Flame (Su) Twice per day, as a standard action, you can wreathe your hand in a halo of flame and 
+touch yourself or another creature. The touch heals 2d8 + your character level points of damage. You 
+can also remove one of the following conditions affecting the target: 1d6 points of ability damage, 
+blinded, confused, dazzled, deafened, diseased, exhausted, fatigued, nauseated, poisoned, or sickened. 
+Friend of Fire (Su) You gain fire resistance 20. 
+Healer’s Hands Eleven times per day you can use the Heal skill to treat deadly wounds as a full-round action. 
+You do not take a penalty for not using a healer’s kit when treating deadly wounds this way, and you 
+can do so on a given creature more than once per day. When treating deadly wounds this way, if your 
+result exceeds the DC by 10 or more, add your ranks in Knowledge (planes) to the damage healed. 
+These benefits do not apply to creatures that are not healed by positive energy. 
+Hedge Magician Whenever you craft a magic item, you reduce the required gp cost to make the item by 5%. 
+Pyromaniac You are treated as one level higher when casting spells with the fire descriptor, using granted 
+powers of the Fire domain, using the bloodline powers of the fire elemental bloodline or the revelations 
+of the oracle’s flame mystery, and determining the damage of alchemist bombs that deal fire damage 
+(this ability does not give you early access to level-based powers; it only affects the powers you could 
+use without this ability). You also gain the following spell-like abilities: 1/day—dancing lights, flare, 
+prestidigitation, produce flame. The caster level for these effects is equal to your character level; the 
+DCs are Charisma-based. 
+Skill Unlock: Heal (Ex) When you treat deadly wounds, the target recovers hit points as if it had rested for a 
+full day with long-term care. 
+Sunsight (Su) You gain low-light vision and cannot be dazzled. If you already have low-light vision, you 
+instead gain a +4 bonus on saving throws against blindness effects. 
+Weapon Familiarity You treat any weapon with the word “gnome” in its name as a martial weapon. 
+ 
+ 
+ALCHEMIC REMEDIES FOR ALL KINDS OF MALADIES 
+Alchemist’s Kindness Favored by young rakes and other well-to-do inebriates, this crystalline powder 
+resembles salt. Mixed with water, it makes a fizzing cocktail that eliminates the effects of a hangover 
+within 10 minutes of drinking it. 
+Antiplague If you drink a vial of this foul-tasting, milky tonic, you gain a +5 alchemical bonus on Fortitude 
+saving throws against disease for the next hour. If already infected, you may also make two saving 
+throws (without the +5 bonus) that day and use the better result.  
+Antitoxin This substance counteracts a specific toxin. If you drink a vial of antitoxin, you gain a +5 alchemical 
+bonus on Fortitude saving throws against poison for 1 hour. 
+Bloodblock This gooey, pinkish substance helps treat wounds. Using a dose gives you a +5 alchemical bonus 
+on Heal checks for providing first aid, treating wounds made by caltrops or similar objects, or treating 
+deadly wounds. A dose of bloodblock ends a bleed effect as if you had made a DC 15 Heal check. When 
+treating deadly wounds, using a dose of bloodblock counts as one use of a healer's kit (and grants the +5 
+bonus stated above). 
+Meditation Tea Drinking this cloudy tea has a soothing effect that clarifies your thoughts. For 10 minutes after 
+drinking the tea, you gain a +2 alchemical bonus against mind-affecting effects. If you drink meditation 
+tea while suffering from a mind-affecting affect, you may immediately roll another saving throw (with 
+the +2 bonus) against the effect; you may gain this particular benefit only once per day. 
+Padzahr Drinking this crystal-clear liquid accelerates the natural process of healing Constitution damage. 
+Resting for 1 hour after drinking a vial heals you of 1 point of Constitution damage as if you had 
+benefited from a full night's rest. Taking multiple doses in an hour does not increase the rate of healing; 
+
+you must take each individually, followed by an hour of rest, for it to have any effect. Using more than 4 
+doses of padzahr in 1 day has no effect. 
+Smelling Salts These sharply scented gray crystals cause people inhaling them to regain consciousness. 
+Smelling salts grant you a new saving throw to resist any spell or effect that has already rendered you 
+unconscious or staggered. If exposed to smelling salts while dying, you immediately become conscious 
+and staggered, but must still make stabilization checks each round; if you perform any standard action 
+(or any other strenuous action), you take 1 point of damage after completing the act and fall unconscious 
+again. A container of smelling salts has dozens of uses if stoppered after each use, but depletes in a 
+matter of hours if left open. 
+Soothe Syrup This sweet and wholesome-tasting blue liquid creates a sense of warmth and comfort. Soothe 
+syrup coats your stomach and makes it much more difficult for you to succumb to queasiness. For 1 
+hour after drinking soothe syrup, you gain a +5 alchemical bonus on saving throws made to resist effects 
+that would make you nauseated or sickened. 
+Twitch Tonic This thick syrup is extracted from bitter herbs and enhanced by alchemy to ward against sleep, 
+paralysis, and the staggered condition. If you drink twitch tonic, you gain a +2 alchemical bonus on 
+saving throws made against these effects for the next hour. If you drink twitch tonic while suffering 
+from any of these effects, you may immediately roll another saving throw against the effect (with the +2 
+bonus); you may gain this particular benefit only once per day. You can administer twitch tonic to an 
+unconscious or paralyzed creature as a full-round action, similar to administering a potion. 
+Vermin Repellent This vile-smelling white paste keeps vermin at bay if spread on your skin. Normal-sized 
+(Fine) vermin avoid you. Swarms of vermin must make a successful DC 15 Fortitude saving throw in 
+order to enter your square. Vermin repellent has no adverse effect on vermin of Small size or larger, 
+though if an attacking vermin has a choice of targets that are respectively covered and not covered in 
+repellent, it usually chooses the creatures without repellent. Once applied, vermin repellent remains 
+effective for 4 hours or until you spend 1 round washing it off. Vermin repellent counts as a strong 
+scent, allowing creatures with the scent ability to detect it at a greater range (see the Universal Monster 
+Rules in the Bestiary). 
+Wismuth Salix This pink liquid has a horrible chalky taste, but is quite effective at counteracting nausea, 
+indigestion, and diarrhea. A vial of wismuth salix, taken in small doses during the day, alleviates these 
+symptoms. If you drink an entire vial of wismuth salix, for 1 hour you get a +2 alchemical bonus on 
+Fortitude saving throws against effects that inflict the nauseated or sickened condition. If you drink a 
+vial of it while suffering from the nauseated or sickened condition, you may immediately roll another 
+saving throw (with the +2 bonus) against the effect; you may gain this particular benefit only once per 
+day. Drinking a vial of wismuth salix (whether over the course of a day or all at once) usually turns your 
+tongue black for about a day, though this is a harmless side effect. 

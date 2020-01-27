@@ -1,0 +1,169 @@
+
+
+Foerth 
+“Oh I just love killin’ bandits!” 
+ 
+Lost in the wild as a child, Foerth was found and raised by fey-creatures 
+known as spriggans. The spriggans, an evil and violent lot, spent many 
+years trying to warp the boy’s mind in an attempt to make him more 
+like them. They only partially succeeded. Though his unusual 
+childhood made him quite crazy, Foerth’s human nature proved to 
+be quite enduring and he never truly fell into the depraved habits 
+and rituals common to the vile spriggans. Due to a never ending 
+series of cruel tricks and abuse by his adoptive family, Foerth became 
+incredibly tough and learned much about survival in the wild, though 
+he also became insensate. 
+ 
+One day a large group of bandits found the spriggan tribe and 
+attacked them in hopes of stealing their ill-gotten spoils. The 
+spriggans, being violent cut throats themselves, managed to 
+repel the invaders with their magic and potent martial abilities, 
+but not before the bandits discovered and captured Foerth. The 
+surviving bandits took Foerth to Issia in Northern Brevoy, 
+where he was forced to spend a number of years in academies and institutions that attempted to reform him. 
+They only partially succeeded. Foerth learned to read and write in the common language, and he gained much 
+needed experience in the ways of the civilized world, but his disquieting personality remained almost 
+completely unchanged. 
+ 
+Eventually, Foerth escaped from the institutions and returned to the wild in hopes of finding his way back to his 
+“family.” The once small world, however, proved to have grown much too large for him and he had no idea 
+where his former home now lay. After going through a terrible and uncharacteristic bout of depression, Foerth’s 
+new maelstrom of emotion turned to one of anger and rage. He turned it against those who had ruined his life: 
+the bandits and highwaymen of the River Kingdoms. 
+ 
+Foerth became a bounty hunter who specialized in finding and destroying criminals who would hide in the wild. 
+His talents as an effective tracker and manslayer grew in infamy until they nearly rivaled the dark rumors of his 
+strange and unusual past. He was last seen traveling into the Stolen Lands far to the South as part of an 
+expedition to rid the region of criminal activity and reopen long lost trade routes. 
+     
+
+Foerth 
+Male human ranger 5 
+N Medium humanoid 
+Init +5 (+7 in forests); Senses Perception +9 
+Languages Aklo, Common, Gnome, Sylvan 
+DEFENSE 
+AC 22, touch 15, flat-footed 17 (+6 armor, +5 Dex, +1 natural) 
+hp 50 (5 HD) 
+Fort +6, Ref +9, Will +2 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +1 longsword +8 (1d8+3/19-20) or 
+mwk armor spikes +8 (1d6+2) or 
+dagger +7 (1d4+2/19-20) or 
+sap +7 (1d6+2 nonlethal) 
+Ranged +1 composite longbow +11 (1d8+3/×3) or 
++1 composite longbow +9 (1d8+7/×3) with Deadly Aim, or 
++1 composite longbow +9/+9 (1d8+3/×3) with Rapid Shot, or 
++1 composite longbow +7/+7 (1d8+7/×3) with Rapid Shot and Deadly Aim, or 
+dagger +10 (1d4+2/19-20) or 
+dagger +8 (1d4+6/19-20) with Deadly Aim 
+Special Attacks favored enemy (fey +2, humans +4) 
+Ranger Spells Prepared (CL 4th; Concentration +5) 
+1st  (2/day) – gravity bowAPG, longstrider 
+STATISTICS 
+Abilities Str 14 (+2), Dex 20 (+5), Con 14 (+2), Int 13 (+1), Wis 12 (+1), Cha 7 (–2) 
+Base Atk +5; CMB +7; CMD 22 
+Feats Boon Companion, Deadly Aim (–2 attack, +4 damage), EnduranceB, Point Blank ShotB, Precise Shot, 
+Rapid ShotB 
+Skills Acrobatics +8 (+6 when jumping), Climb +13, Handle Animal +6 (+10 with animal companion), 
+Knowledge (nature) +9, Linguistics +3, Perception +9 (+11 in forests), Ride +10, Spellcraft +9, Stealth 
++11 (+13 in forests), Survival +9 (+11 in forests or to track, +13 if both), Swim +5; Armor Check 
+Penalty –2 (–0 on Climb and Jump checks) 
+SQ favored terrain (forest +2), hunter’s bond (yzobu animal companion), track +2, traits (magical 
+knack: ranger, pioneer), wild empathy +3 
+Combat Gear arrows (40), potions of cure light wounds (8), tanglefoot bags (4); Other Gear +1 composite 
+longbow (+2 strength bonus), +1 longsword, amulet of natural armor +1, dagger, grappling hook, 
+ranger’s kit, sap, signal whistle, spell component pouch, tender (64gp, 2sp), thornseed (+1 agile 
+breastplate with nimble modification and masterwork armor spikes; magically altered to look like a 
+wooden shell with thorns) 
+Encumbrance light 66 lb., medium 133 lb., heavy 200 lb.; Weight Carried 106 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Favored Enemy (Ex) You gain a +4 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival 
+checks when using these skills against humans. Likewise, you get a +4 bonus on weapon attack and 
+damage rolls against them. You may make Knowledge skill checks untrained when attempting to 
+identify these creatures. You gain similar bonuses with Fey, but only at a +2 bonus. 
+Favored Terrain (Ex) You gain a +2 bonus on initiative checks and Knowledge (geography), Perception, 
+Stealth, and Survival skill checks when in forest terrain (not included above). When traveling through 
+your favored terrain you normally leave no trail and cannot be tracked (though you may leave a trail if 
+you so choose). 
+
+Hunter’s Bond (Ex) You have formed a close bond with an animal companion. This animal is a loyal 
+companion that accompanies you on your adventures as appropriate for its kind. Your animal 
+companion shares your favored enemy and favored terrain bonuses. This ability functions like the druid 
+animal companion ability (which is part of the Nature Bond class feature), except that the ranger’s 
+effective druid level is equal to his ranger level –3. 
+Magical Knack Your caster level in the Ranger class gains a +2 trait bonus as long as this bonus doesn’t 
+increase your caster level to higher than your current Hit Dice (included above). 
+Pioneer You gain a +1 trait bonus on all checks made with the Ride skill. 
+Track (Ex) You add half your ranger levels to Survival checks made to find and follow tracks. 
+Wild Empathy (Ex) You can improve the attitude of an animal. This ability functions just like a Diplomacy 
+check made to improve the attitude of a person. You roll 1d20 and add your ranger level and your 
+Charisma modifier to determine the wild empathy check result. The typical domestic animal has a 
+starting attitude of indifferent, while wild animals are usually unfriendly. To use wild empathy, you and 
+the animal must be within 30 feet of one another under normal conditions. Generally, influencing an 
+animal in this manner takes 1 minute but, as with influencing people, it might take more or less time. 
+You can also use this ability to influence a 
+magical beast with an Intelligence score of 1 or 2, 
+but you take a –4 penalty on the check. 
+ 
+RANGER’S KIT 
+This includes a backpack, a bedroll, a belt pouch, a flint 
+and steel, iron pot, mess kit, rope, torches (10), trail 
+rations (5 days), and a waterskin. 
+ 
+Rotgut 
+Yzobu Animal Companion 
+N Large animal 
+Init +2; Senses low-light vision, scent; Perception +11 
+Aura stench (DC 15, 10 rounds) 
+DEFENSE 
+AC 18, touch 9, flat-footed 18 (+3 armor, +6 natural, –1 size) 
+hp 32 (5 HD) 
+Fort +7, Ref +4, Will +2 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee gore +10 (1d8+10) or 
+mwk armor spikes +7 (1d8+7) and gore +6 (1d8+3) 
+Special Attacks stampede, trample (1d6+10, DC 19) 
+Space 10 ft.; Reach 5 ft. 
+STATISTICS 
+Abilities Str 24 (+7), Dex 11 (+0), Con 16 (+3), Int 2 (–4), Wis 11 (+0), Cha 4 (–3) 
+Base Atk +3; CMB +9; CMD 20 (24 vs. overrun and trip) 
+Feats Skill Focus (perception), Stable Gallop, Weapon Focus (gore) 
+Skills Perception +11 
+SQ link, share spells, tricks (attack, come, defend, down, guard, heel, stay, work) 
+Gear bit and bridle, masterwork studded leather barding with masterwork armor spikes, military saddle 
+Encumbrance light 699 lb., medium 1,398 lb., heavy 2,100 lb.; Weight Carried 66 lb. 
+SPECIAL ABILITIES 
+
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding an animal companion. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your animal companion (as a spell with a 
+range of touch) instead of on yourself. You may cast spells on your animal companion even if the spells 
+normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come 
+from a class that grants an animal companion. This ability does not allow the animal to share abilities 
+that are not spells, even if they function like spells. 
+Stampede (Ex) A stampede occurs if three or more creatures with stampede make a trample attack while 
+remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or 
+smaller, and the trample’s save DC increases by +2. 
+Stench (Ex) A creature with the stench special ability secretes an oily chemical that nearly every other creature 
+finds offensive. All living creatures (except those with the stench special ability) within 30 feet must 
+succeed on a Fortitude save (DC 10 + ½ stench creature’s racial HD + stench creature’s Con modifier; 
+the exact DC is given in the creature's descriptive text) or be sickened. The duration of the sickened 
+condition is given in the creature’s descriptive text. Creatures that successfully save cannot be affected 
+by the same creature’s stench for 24 hours. A delay poison or neutralize poison spell removes the effect 
+from the sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to 
+poison receive their normal bonus on their saving throws. 
+Trample (Ex) As a full-round action, a creature with the trample ability can attempt to overrun any creature 
+that is at least one size category smaller than itself. This works just like the overrun combat maneuver, 
+but the trampling creature does not need to make a check, it merely has to move over opponents in its 
+path. Targets of a trample take an amount of damage equal to the trampling creature’s slam damage + 
+1½ times its Str modifier. Targets of a trample can make an attack of opportunity, but at a –4 penalty. If 
+targets forgo an attack of opportunity, they can attempt to avoid the trampling creature and receive a 
+Reflex save to take half damage. The save DC against a creature’s trample attack is 10 + ½ creature’s 
+HD + creature’s Str modifier (the exact DC is given in the creature’s descriptive text). A trampling 
+creature can only deal trampling damage to each target once per round, no matter how many times its 
+movement takes it over a target creature. 

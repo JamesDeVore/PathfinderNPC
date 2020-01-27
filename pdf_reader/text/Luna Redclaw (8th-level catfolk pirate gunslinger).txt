@@ -1,0 +1,114 @@
+
+
+Luna Redclaw (aka “Alley”) 
+  
+
+Female catfolk gunslinger 6/fighter 2 (pistolero) 
+CN Medium humanoid (catfolk) 
+Init +8; Senses scent; Perception +13 
+Languages Catfolk, Common, Dwarven 
+DEFENSE 
+AC 30, touch 18, flat-footed 22 (+12 armor, + Dex, +2 dodge) 
+hp 79 (7 HD) 
+Fort +11, Ref +12, Will +5; cat’s luck 
+Defensive Abilities bravery +1, gunslinger’s dodge, nimble +2 
+OFFENSE 
+Speed 30 ft. (6 squares), climb 20 ft. 
+Melee tidewater cutlass +11/+6 (1d6+3/18-20) or 
+Ranged +1 pistol +16/+11 touch (1d8+7/×4) or 
++1 pistol +13/+8 touch (1d8+13/×4) with Deadly Aim, or 
++1 pistol +14/+14/+9 touch (1d8+7/×4) with Rapid Shot, or 
+dual +1 pistols +14/+14/+9 touch (1d8+7/×4) with Two-Weapon Fighting, or 
+dual +1 pistols +11/+11/+6 touch (1d8+13/×4) with Two-Weapon Fighting and Deadly Aim 
+dual +1 pistols +10/+10/+10/+5 touch (1d8+7/×4) with Two-Weapon Fighting and Rapid Shot 
+dual +1 pistols +7/+7/+7/+2 touch (1d8+13/×4) with Two-Weapon Fighting, Deadly Aim, and Rapid 
+Shot 
+mwk composite longbow +15/+10 (1d8+1/×3) or 
+mwk composite longbow +12/+7 (1d8+7/×3) with Deadly Aim 
+Special Attacks up close and deadly, pistol training +6 
+STATISTICS 
+Abilities Str 14 (+2), Dex 22 (+6), Con 14 (+2), Int 10 (+0), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +8; CMB +10; CMD 27; Hero Points 2 
+Feats Deadly Aim (–3 attack, +6 damage), GunsmithingB, Point Blank Shot, Precise ShotB, Rapid Reload, 
+Rapid Shot, Two-Weapon FightingB, Weapon Focus (pistolB) 
+Skills Acrobatics +14, Appraise +0 (+1 to find concealed or secret objects), Climb +14, Craft (alchemy) +5, 
+Linguistics +1, Perception +13 (+14 to find concealed or secret objects; +15 with metals, jewels, and 
+gemstones; +16 with both), Profession (sailor) +4, Stealth +5, Survival +13, Swim +10; Armor Check 
+Penalty –3; Racial Bonuses +2 Perception, +2 Stealth, +2 Survival 
+SQ cat’s luck, gunsmith (pistol), gunslinger initiative, grit (2), quick clear, sprinter, traits (adopted: dwarf, eye 
+for plunder, goldsniffer) 
+Combat Gear antitoxin, arrows (20), paper cartridges (adamantine 10, alchemical silver 10, cold iron 10, 
+standard 30), poison (small centipede poison), potions (cure light wounds 5, magic weapon); Other 
+Gear +1 pistols (2), belt of physical might +2 (strength, dexterity), Besmara’s tricorne, boatswain’s 
+call, buff coat, celestial plate armor, cloak of resistance +1, deep platinum necklaces (3, worth 
+6,000gp), endless bandolier, flint and steel, fortune-teller’s deck (common), glove of storing, gunsmith’s 
+kit, inkpen, marked cards, masterwork backpack, masterwork composite longbow (+1 strength bonus), 
+necklace of fireballs (type V; one each of 9d6, 7d6 and 5d6, two each of 3d6), powder horn, ring of 
+animal friendship, tender (1,784gp, 9sp, 7cp), tidewater cutlass, weapon cords (3) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 77 lb. 13 oz. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Adopted You were adopted and raised by someone not of your actual race, and raised in a society not your own. As a result, you picked up a race 
+trait from your adoptive parents and society, and may immediately select a race trait from your adoptive parents’ race. 
+Cat’s Luck (Ex) Once per day when you make a Reflex saving throw, you can roll the saving throw twice and take the better result. You must 
+decide to use this ability before the saving throw is attempted. 
+Eye for Plunder You gain a +1 trait bonus on Appraise and Perception checks to find concealed or secret objects (including doors and traps). In 
+addition, you begin the campaign with a selection of mundane trade goods worth 50gp that you were able to scrounge together during your 
+first day on the Wormwood. 
+Goldsniffer Your keen senses lead you to hidden treasures. You gain a +2 trait bonus on Perception checks related to metals, jewels, and gemstones. 
+Grit (Ex) At the start of each day, you gain a number of grit points equal to your Wisdom modifier (minimum 1). Your grit goes up or down 
+throughout the day, but usually cannot go higher than your Wisdom modifier (minimum 1), though some feats and magic items may affect 
+this maximum. You spend grit to accomplish deeds (see below), and regain grit in the following ways. 
+  Critical Hit with a Firearm: Each time you confirm a critical hit with a firearm attack while in the heat of combat, you regain 1 grit 
+point. Confirming a critical hit on a helpless or unaware creature or on a creature that has fewer Hit Dice than half your character level does 
+not restore grit. 
+  Killing Blow with a Firearm: When you reduce a creature to 0 or fewer hit points with a firearm attack while in the heat of combat, 
+you regain 1 grit point. Destroying an unattended object, reducing a helpless or unaware creature to 0 or fewer hit points, or reducing a 
+creature that has fewer Hit Dice than half your character level to 0 or fewer hit points does not restore any grit. 
+Gunslinger’s Dodge (Ex) When a ranged attack is made against you, you can spend 1 grit point to move 5 feet as an immediate action; doing so 
+grants you a +2 bonus to AC against the triggering attack. This movement is not a 5-foot step, and provokes attacks of opportunity. 
+Alternatively, you may drop prone to gain a +4 bonus to AC against the triggering attack. You can only perform this deed while wearing 
+medium or light armor, and while carrying no more than a light load. 
+Gunslinger Initiative (Ex) As long as you have at least 1 grit point, you gain the following benefits: First, you gains a +2 bonus on initiative checks. 
+Furthermore, if you have the Quick Draw feat, your hands are free and unrestrained, and the firearm is not hidden, you can draw a single 
+firearm as part of the initiative check. 
+Nimble (Ex) You gain a +1 dodge bonus to AC while wearing light or no armor. Anything that causes you to lose your Dexterity bonus to AC also 
+causes you to lose this dodge bonus. This bonus increases by +1 for every four levels beyond 2nd-level (to a maximum of +5 at 20th-level). 
+Pistol Training (Ex) You gain a bonus on damage rolls equal to your Dexterity modifier with one-handed firearms, and when you misfire with a 
+one-handed firearm, the misfire value increases by 2 instead of 4. Every four levels of gunslinger thereafter (9th, 13
+th, and 17th), the bonus 
+on damage rolls increases by +1. At 13th level, you never misfire with a one-handed firearm. 
+Pistol-Whip (Ex) You can make a surprise melee attack with the butt or handle of your firearm as a standard action. When you do, you are 
+considered to be proficient with the firearm as a melee weapon and gain a bonus on the attack and damage rolls equal to the enhancement 
+bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. One-
+handed firearms deal 1d6 points of damage (1d4 if wielded by size Small creatures) and two-handed firearms deal 1d10 points of damage 
+(1d8 if wielded by size Small creatures). Regardless of your size, the critical multiplier of this attack is 20/×2. If the attack hits, you can 
+make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point. 
+Quick Clear (Ex) As a standard action, you can remove the broken condition from a single firearm you are currently wielding, as long as that 
+condition was gained by a firearm misfire. You must have at least 1 grit point to perform this deed. Alternatively, if you spend 1 grit point 
+to perform this deed, you can perform quick clear as a move-equivalent action instead of a standard action. 
+Up Close and Deadly (Ex) When you fire upon a target with a one-handed firearm that is not making a scatter shot, you can spend 1 grit point to 
+deal 2d6 points of extra damage on a hit. If you miss with the attack, you graze the target, dealing half the extra damage anyway. You must 
+choose to spend the grit point before you make the attack roll. This is precision damage and is not multiplied if the attack is a critical hit. 
+This precision damage stacks with sneak attack and other forms of precision damage. 
+Utility Shot (Ex) If you have at least 1 grit point, you can perform all of the following utility shots. Each utility shot can be applied to any single 
+attack with a firearm, but you must declare the utility shot you are using before firing the shot. 
+•  Blast Lock: You make an attack roll against a lock within the first range increment of your firearm. A Diminutive lock usually 
+has AC 7, and larger locks have lower ACs. The lock gains a bonus to its AC against this attack based on its quality. A simple 
+lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has 
+a +30 bonus to AC. Arcane lock grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the 
+object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered 
+locked. It can still be unlocked by successfully performing this deed, by using the Disable Device skill, or with the break DC, 
+though the DC or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer 
+works, though knock can still be employed to bypass the lock, and the creator of an arcane lock can still bypass the wards of that 
+spell. 
+•  Scoot Unattended Object: You make an attack roll against a Tiny or smaller unattended object within the first range increment of 
+your firearm. A Tiny unattended object has AC 5, a Diminutive unattended object has AC 7, and a Fine unattended object has AC 
+11. On a hit, you do not damage the object with the shot, but can move it up to 15 feet farther away from the shot’s origin. On a 
+miss, you damage the object normally. 
+•  Stop Bleeding: You make a firearm attack and then press the hot barrel against an adjacent creature to staunch a bleeding wound. 
+Instead of dealing damage, the shot ends a single bleed condition affecting the creature. You do not have to make an attack roll 
+when performing the deed in this way; you can instead shoot the firearm into the air, but that shot still uses up ammunition 
+normally. 
+ 

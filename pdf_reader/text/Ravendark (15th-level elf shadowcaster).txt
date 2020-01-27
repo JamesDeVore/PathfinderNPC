@@ -1,0 +1,151 @@
+
+
+Ravendark 
+Male elf illusionist 15 (shadowcaster, Thassilonian specialist) 
+LE Medium humanoid (elf) 
+Init +6; Senses arcane sight, darkvision 120 ft., low-light vision, see invisibility, 
+shadowsight; Perception +18 
+Languages Abyssal, Aklo, Aquan, Auran, Celestial, Common, Dark Folk, 
+Elven, Ignan, Infernal, Shadowtongue, Terran; comprehend languages, 
+tongues 
+DEFENSE 
+AC 18, touch 13, flat-footed 15 (+5 armor, +3 Dex) 
+hp 84 plus greater false life (15 HD) 
+Fort +9, Ref +13, Will +14 (+17 vs. mind-affecting effects) 
+Defensive Abilities mind blank; SR 18 
+OFFENSE 
+Speed 30 ft. (6 squares); run ×5 
+Melee by weapon +5 
+Ranged binding shadows +11 touch (entangle/concealment) 
+Spell-Like Abilities (CL 15th; Concentration +24) 
+At will – shadow step 
+12/day – binding shadows 
+1/day – dream (requires 15 charisma, such as from an eagle’s splendor potion) 
+Wizard Spells Prepared (CL 15th, CL 17th with greater shadow conjuration, or CL 19th with greater shadow 
+evocation; Concentration +24) 
+8th  (5/day) – hungry darknessISM (shadow grasp, tenebrous), lunar veilUM (shadow grasp, tenebrous; 2), 
+mass charm monster, mind blank 
+7th  (6/day) – finger of death, greater scrying, mass invisibility, project image (2), waves of exhaustion 
+6th  (7/day) – greater dispel magic, mislead, permanent image (2), shadow walk, true seeingM, veil 
+5th  (9/day) – magic jarF (2), mirage arcana (2), shadow evocation (tenebrous, 2), wall of force (3) 
+4th  (9/day) – bestow curse, enervation (3), greater false lifeUM (2)*, phantasmal killer (2), shadow 
+projectionAPG, shadow conjuration (tenebrous, 2) 
+3rd  (9/day) – displacement, fireball, heroism, lightning bolt, protection from energy, shield (umbral, 2), 
+silent image (shadow grasp, tenebrous; 2) 
+2nd (9/day) – blindness/deafness (2), depressing sorrow (as hideous laughter, but causes fits of crying 
+instead of laughter) (2), false life, invisibility (2), mirror image (2) 
+1st  (10/day) – alarm (2), charm person (2), magic missile (2), silent image (2), ventriloquism (2) 
+0  (at will) – detect magic, ghost sound, prestidigitation, read magic 
+Specialist School Thassilonian (pride) / illusion (shadow); Prohibited Schools conjuration, transmutation 
+STATISTICS 
+Abilities Str 7 (–2), Dex 18 (+4), Con 10 (+0), Int 29 (+9), Wis 12 (+1), Cha 14 (+2) 
+Base Atk +7; CMB +5; CMD 19 
+Feats Greater Spell Specialization, RunB, Scribe ScrollB, Shadow Grasp, Solid ShadowsB, Spell Focus 
+(illusionB), Spell Perfection (greater shadow evocation), Spell Specialization (greater shadow 
+conjuration, greater shadow enchantment, greater shadow evocation), Tenebrous Spell, Umbral Spell 
+Skills Bluff +17, Diplomacy +17, Disguise +17, Intimidate +17 (+19 to demoralize), Knowledge (arcana, 
+planes) +27, Perception +18, Sense Motive +16, Spellcraft +27, Stealth +19, Use Magic Device +17; 
+Racial Modifiers +2 Intimidate to demoralize 
+SQ creepy, dreamspeaker, extended illusions, fleet-footed, ongoing spells, overwhelming magic, 
+shadow step (450 ft./day) 
+Combat Gear arcane spell scrolls (enervation 5), material components (true seeing 3), potions (eagle’s 
+splendor 5), spell focus (clone, contingency, magic jar); Other Gear belt of physical might +2 
+(constitution, dexterity), blessed books (2), cloak of resistance +5, headband of vast intellect +6 
+
+(intimidate, stealth, use magic device), personal clones (5), robes of the archmagi (black), simulacrum 
+awakened raven with spare spell component pouch, simulacrum doubles (2), simulacrum troll 
+bodyguards (6), spell component pouch, tender (185gp) 
+Spellbook all non-conjuration/transmutation core wizard spells of 8th-level and lower plus darkvaultBoS, greater 
+darkvisionUM, greater false lifeUM, greater shadow enchantmentOR, hungry darknessISM, lunar veilUM, 
+major curse
+UM, shadow enchantmentOR, and shadow projectionAPG 
+Encumbrance light 23 lb., medium 46 lb., heavy 70 lb.; Weight Carried 8 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Binding Darkness (Sp) As a standard action, you cast a weave of shadows at any foe within 30 feet as a ranged 
+touch attack. The shadows entangle your foe for 1 round plus 1 additional round for every five wizard 
+levels you possess. In conditions of bright light, this duration is halved (minimum 1 round). A creature 
+entangled by your shadows has concealment from those without darkvision or the ability to see in 
+darkness, and other creatures likewise have concealment relative to it. You can use this ability a number 
+of times per day equal to 3 + your Intelligence modifier. 
+Creepy Non-elf humanoids take a –1 penalty on saving throws against spells you cast that cause confusion or 
+fear. In addition, you gain a +2 racial bonus on Intimidate checks to demoralize. 
+Dreamspeaker You add +1 to the saving throw DCs of divination spells and sleep effects that you cast. 
+Additionally, you may use dream as a spell-like ability once per day with a caster level equal to your 
+caster level, provided your Charisma score is 15 or higher. 
+Extended Illusions (Su) Any illusion spell you cast with a duration of “concentration” lasts a number of 
+additional rounds equal to ½ your wizard level after you stop maintaining concentration (minimum +1 
+round). At 20th-level, you can make one illusion spell with a duration of “concentration” become 
+permanent. You can have no more than one illusion made permanent in this way at one time. If you 
+designate another illusion as permanent, the previous permanent illusion ends. 
+Ongoing Spells You have cast the contingency spell upon yourself. Should you ever be made helpless against 
+your will (such as when knocked unconscious, paralyzed, petrified, securely bound, or forcefully put to 
+sleep), you are immediately subjected to magic jar, allowing you to possess nearby entities and continue 
+the fight. Additionally, you have used the permanency spell to make the following spell effects 
+permanent in regards to yourself: arcane sight, comprehend languages, greater darkvisionUM, see 
+invisibility, and tongues. The following spells are also regularly active upon your person: greater false 
+life
+UM and mind blank. All ongoing spell effects function at 15th-caster level (and thus require a DC 26 
+caster level check to dispel) and their effects are included in the above stats where appropriate. 
+Shadow Spells (Su) You can use your shadow to prepare additional spells. You must spend your entire period 
+of spell preparation in dim illumination to use this ability. You may prepare a number of additional spell 
+levels of spells equal to the level of the highest-level wizard spell you can cast. For example, if you can 
+cast 6th-level wizard spells, you could prepare six 1st-level spells, two 3rd-level spells, or any similar 
+combination that adds up to a total of six spell levels. These spells are stored in your shadow. You can 
+only cast these spells when you are in an area of normal light or dim light. These spells are marked with 
+asterisks above. You also gain Shadowtongue as a bonus language. 
+Shadow Step (Sp) You can use this ability to walk through the Shadow Plane and reappear as a standard action. 
+You can travel up to 30 feet per wizard level per day in this fashion, either in a single round or broken 
+up across multiple shadow steps. This movement must be used in 5-foot increments and does not 
+provoke an attack of opportunity. Travel through the Shadow Plane is imprecise; when you arrive, you 
+re-enter 1 square off target, as per the rules for thrown splash weapons. If this would place you in an 
+occupied square, you instead arrive in the nearest safe location. When you arrive, you are cloaked in 
+shadow and gain concealment as the blur spell for 1 round. You may bring other willing creatures with 
+you, but you must expend an equal amount of distance for each additional creature brought with you. 
+They likewise re-enter off target (roll location for each creature) and are cloaked in shadow for 1 round. 
+Shadowsight (Ex) You gain darkvision 60 feet. 
+Shadowy Specialization (Ex) When you cast shades, shadow conjuration, shadow evocation, and similar 
+illusion spells that have a listed fraction of the strength of real effects, you increase the percentage of 
+
+damage caused by the spell’s effect or summoned creatures by one-fifth (+20%) against creatures that 
+make their saving throw against the effect, up to a maximum of 100% of the strength. For example, 
+shadow evocation and shadow conjuration deal 40% normal damage on a successful save instead of 
+20%. 
+ 
+Simulacrum Double 
+Male elf illusionist 7 (shadowcaster, Thassilonian specialist) 
+LE Medium humanoid (elf) 
+Init +6; Senses darkvision 60 ft., low-light vision, shadowsight; Perception 
++8 
+Languages Aklo, Aquan, Auran, Common, Dark Folk, Elven, Ignan, Terran 
+DEFENSE 
+AC 13, touch 13, flat-footed 10 (+3 Dex) 
+hp 40 plus false life (7 HD) 
+Fort +2, Ref +5, Will +6 
+OFFENSE 
+Speed 30 ft. (6 squares); run ×5 
+Melee by weapon +1 
+Ranged binding shadows +6 touch (entangle/concealment) 
+Spell-Like Abilities (CL 7th; Concentration +12) 
+At will – shadow step 
+8/day – binding shadows 
+1/day – dream (requires 15 charisma, such as from an eagle’s splendor potion) 
+Wizard Spells Prepared (CL 7th, CL 9th with shadow conjuration; Concentration +12) 
+4th  (5/day) – enervation (2), greater invisibility, phantasmal killer, shadow conjuration 
+3rd  (6/day) – displacement (2), fireball, lightning bolt, major image, protection from energy 
+2nd (7/day) – blindness/deafness (2), false life (2), invisibility, mirror image (2) 
+1st  (9/day) – magic missile (5), silent image (2), ventriloquism (2) 
+0  (at will) – detect magic, ghost sound, prestidigitation, read magic 
+Specialist School Thassilonian (pride)/illusion (shadow); Prohibited Schools conjuration, transmutation 
+STATISTICS 
+Abilities Str 7 (–2), Dex 18 (+4), Con 10 (+0), Int 21 (+5), Wis 12 (+1), Cha 14 (+2) 
+Base Atk +3; CMB +1; CMD 14 
+Feats Greater Spell Focus (illusion), RunB, Scribe ScrollB, Shadow Grasp, Spell Focus (illusionB), Tenebrous 
+Spell, Umbral Spell 
+Skills Bluff +9, Diplomacy +9, Disguise +9, Knowledge (arcana, planes) +15, Perception +8, Sense Motive +8, 
+Spellcraft +15; Racial Modifiers +2 Perception, +2 Spellcraft to identify magic items 
+SQ dreamspeaker, extended illusions, keen senses, ongoing spells (false life), overwhelming magic, shadow 
+step (210 ft./day) 
+Combat Gear arcane spell scrolls (enervation 2); Other Gear non-functional facsimile gear with magic aura, 
+spell component pouches (2) 
+Spellbook as above 
+Encumbrance light 23 lb., medium 46 lb., heavy 70 lb.; Weight Carried 4 lb. 

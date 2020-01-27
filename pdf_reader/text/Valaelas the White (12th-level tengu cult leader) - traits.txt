@@ -1,0 +1,130 @@
+
+
+Valaelas the White 
+Male tengu warpriest 12 (cult leader) of Gorum 
+CG Medium humanoid (tengu) 
+Init +2; Senses low-light vision; Perception +20 
+Languages Common, Tengu 
+DEFENSE 
+AC 26, touch 14, flat-footed 26 (+8 armor, +2 deflection, +2 Dex, +2 natural, 
++2 shield) 
+hp 86 (12 HD) 
+Fort +13, Ref +10, Will +15 
+Defensive Abilities endure elements (cold) 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee bite +18 (1d10+10), gore +18 (1d10+10), and 2 claws +18 (1d10+10 
+plus 1d6 acid) 
+Ranged +1 composite shortbow +12/+7 (1d6+7/×3) 
+Special Attacks fervor 4d6 (9/day), sneak attack +5d6 
+Spell-Like Abilities (CL 12th; Concentration +15) 
+At-will – enthrall (uses 2 fervor) 
+Warpriest Spells Known (CL 12
+th; Concentration +15) 
+4th  (3/day) – divine power (3) 
+3rd  (5/day) – communal resist energy, dispel magic (2), invisibility purge, prayer 
+2
+nd (6/day) – shield other
+F (2), silence (2), spiritual weapon, status 
+1st  (6/day) – divine favor (3), stone shield
+ARG (3) 
+0  (at will) – create water, guidance, light, mending, read magic 
+Blessings strength, war 
+STATISTICS 
+Abilities Str 22 (+6), Dex 14 (+2), Con 12 (+1), Int 10 (+0), Wis 16 (+3), Cha 14 (+2) 
+Base Atk +9; CMB +13; CMD 27 
+Feats Accomplished Sneak Attacker, Weapon Focus (bite, claw, gore), Weapon Specialization (bite, claw, 
+gore) 
+Skills Diplomacy +17, Disguise +4 (+14 with hat of disguise), Fly +8, Intimidate +17, Knowledge (religion) 
++9, Perception +20, Stealth +21; Racial Bonuses +2 Perception, +2 Stealth 
+SQ aura of chaos (overwhelming), claw attack, glide, sacred armor +2 (12 minutes/day), sacred weapon 
++3 (12 rounds/day), spontaneous casting (cure spells), traits (armor expert, fate’s favored) 
+Combat Gear durable arrows (20), wand of cure light wounds (50 charges); Other Gear +1 adaptive 
+composite shortbow, +2 mithral breastplate, amulet of mighty fists +2 (doubles as an amulet of natural 
+armor +2), belt of giant strength +4, cloak of resistance +4, deliquescent gloves, helm of the mammoth 
+lord (doubles as a hat of disguise), ring of force shield, ring of protection +2, tender (30gp) 
+Encumbrance light 43 lb., medium 86 lb., heavy 130 lb.; Weight Carried 41 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Expert When you wear armor of any sort, reduce that suit’s armor check penalty by 1, to a minimum 
+check penalty of 0. 
+Battle Lust (Su) You can touch an ally and grant it a thirst for battle. All of the ally’s melee attacks are treated 
+as if they had the vicious weapon special ability, but the additional damage dealt to the ally from that 
+special ability is nonlethal. In addition, the ally receives a +4 insight bonus on attack rolls made to 
+confirm critical hits. These benefits last for 1 minute. 
+Blessings (Su) You can use any combination of your four blessing abilities (battle lust, strength of will, strength 
+surge, and war mind) a number of times per day (in any combination) equal to 3 + ½ your warpriest 
+level (to a maximum of 13 times per day at 20th-level). Each time you call upon any one of your 
+
+blessings, it counts against your daily limit. The save DC of these blessings is equal to 10 + ½ your 
+warpriest level + your Wisdom modifier. 
+Enthrall (Sp) You can cast enthrall. Using this ability consumes two uses of fervor. 
+Fate’s Favored Whenever you are under the effect of a luck bonus of any kind, that bonus increases by 1. 
+Fervor (Su) You can heal yourself for 4d6 damage as a swift action. As a standard action, you can heal a 
+touched ally for 4d6 damage or harm an undead for 4d6 damage as a touch attack. This ability can be 
+used a number of times per day equal to ½ your warpriest level + your Wisdom modifier. 
+You can also spend fervor to cast any warpriest spell as a swift action, without somatic components 
+or provoking an attack of opportunity. If you cast a spell in this way, it can only affect you, even if it 
+normally affects multiple targets. 
+Glide You can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using 
+feather fall. When falling safely, you may make an additional DC 15 Fly check to glide, moving 5 feet 
+laterally for every 20 feet you fall. 
+Hide in Plain Sight (Su) You can use the Stealth skill even while being observed. As long as you are within 10 
+feet of an area of dim light, you can hide yourself from view in the open without having anything to 
+actually hide behind. You cannot, however, hide in your own shadow. 
+Sacred Armor (Su) You may enhance your armor (but not shields) with divine power as a swift action. This 
+ability grants the armor a +2 enhancement bonus. You can use this ability for a number of minutes per 
+day equal to your warpriest level. This duration does not need to be consecutive, but it must be spent in 
+1-minute increments. 
+These bonuses stack with any existing bonuses the armor might have, to a maximum of +5. You can 
+enhance armor with any of the following special abilities: energy resistance (normal, improved, and 
+greater), fortification (heavy, light, or moderate), glamered, or spell resistance (13, 15, 17, or 19). 
+Adding any of these special abilities consumes an amount of enhancement bonus equal to the special 
+ability’s base price modifier. For this purpose, glamered counts as a +1 bonus, energy resistance counts 
+as +2, improved energy resistance counts as +4, and greater energy resistance counts as +5. Duplicate 
+special abilities do not stack. The armor must have at least a +1 enhancement bonus before any special 
+abilities can be added. 
+The enhancement bonus and armor special abilities are determined the first time the ability is used 
+each day and cannot be changed until the next day. These benefits apply only while you are wearing the 
+armor, and end immediately if the armor is removed or leaves your possession. This ability can be ended 
+as a free action at the start of your turn. 
+When you use this ability, you can also use your sacred weapon ability as a free action by expending 
+one use of fervor. 
+Sacred Weapon (Su) In addition to the favored weapon of your deity (greatsword), you can designate a 
+weapon as a sacred weapon by selecting that weapon with the Weapon Focus feat; if you have multiple 
+Weapon Focus feats, this ability applies to all of them. Whenever you hit with your sacred weapon, the 
+weapon damage is based on your warpriest level and not the weapon type. You can decide to use the 
+weapon’s base damage instead of the sacred weapon damage—this decision must be declared before the 
+attack roll is made. (If the weapon’s base damage exceeds the sacred weapon damage, its damage is 
+unchanged.) This increase in damage does not affect any other aspect of the weapon, and doesn’t apply 
+to alchemical items, bombs, or other weapons that deal only energy damage. 
+You also gain the ability to enhance one of your sacred weapons with divine power as a swift action. 
+This ability grants the weapon a +1 enhancement bonus. For every 4 warpriest levels beyond 4th, this 
+bonus increases by 1 (to a maximum of +5 at 20th-level). If you have more than one sacred weapon, you 
+can enhance another on the following round by using another swift action. You can use this ability a 
+number of rounds per day equal to your warpriest level, but these rounds don’t need to be consecutive. 
+These bonuses stack with any existing bonuses the weapon might have, to a maximum of +5. You 
+can enhance a weapon to have any of the following special abilities: anarchic, brilliant energy, 
+defending, disruption, flaming, frost, keen, mighty cleaving, shock, unholy, or vicious. Adding any of 
+these special abilities consumes an amount of enhancement bonus equal to the special ability’s base 
+
+price modifier. Duplicate special abilities don’t stack. The weapon must have at least a +1 enhancement 
+bonus before any special abilities can be added. 
+If multiple weapons are enhanced, each one consumes rounds of use individually. The enhancement 
+bonus and special abilities are determined the first time the ability is used each day, and cannot be 
+changed until the next day. These benefits do not apply if another creature is wielding the weapon, but 
+they continue to be in effect if the weapon otherwise leaves your possession (such as if the weapon is 
+thrown). This ability can be ended as a free action at the start of your turn (that round does not count 
+against the total duration, unless the ability is resumed during the same round). If you use this ability on 
+a double weapon, the effects apply to only one end of the weapon. 
+Strength of Will (Su) As a swift action you can ignore the movement penalties caused by wearing medium or 
+heavy armor or by carrying a medium or heavy load. This effect lasts for 1 minute. During this time, you 
+can add your Strength modifier on saving throws against effects that would cause you to become 
+entangled, staggered, or paralyzed. 
+Strength Surge (Su) As a swift action you can focus your own strength. You gain an enhancement bonus equal 
+to ½ your warpriest level on melee attack rolls, combat maneuver checks that rely on Strength, Strength-
+based skill checks, and Strength checks for 1 round. 
+War Mind (Su) You can touch an ally and grant it a tactical advantage for 1 minute. Each round at the start of 
+its turn, it can select one of the following bonuses: +10 feet to base land speed, a +1 dodge bonus to AC, 
+a +1 insight bonus on attack rolls, or a +1 luck bonus on saving throws. Each bonus selected lasts for 1 
+round. 
+Well-Hidden (Ex) You gain a +2 bonus on Disguise checks and Stealth checks. 

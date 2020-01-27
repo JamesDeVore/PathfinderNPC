@@ -1,0 +1,200 @@
+
+
+Naya Foreteller 
+Female elf druid 3/conjurer 3/mystic theurge 10 
+CN Medium humanoid (elf) 
+Init +5; Senses familiar’s alertness, low-light vision; 
+Perception +27 
+Languages Celestial, Common, Elven, Goblin, Orc, 
+Sylvan 
+DEFENSE 
+AC 31, touch 18, flat-footed 29 (+8 armor, +5 
+deflection, +2 Dex, +1 insight, +5 natural) 
+hp 96 (16 HD) 
+Fort +13, Ref +11, Will +17; +2 vs. enchantment 
+Immune magical sleep, starvation, thirst 
+OFFENSE 
+Speed 40 ft. (8 squares), fly 40 ft. (good); overland flight, run ×5 
+Melee +3 guided scimitar +18/+13 (1d6+10/18-20) 
+Ranged acid dart +16 touch (1d6+1 acid) 
+Special Attacks spell synthesis 
+Spell-like Abilities (CL 17
+th, or CL 19th to overcome SR; Concentration +26) 
+12/day – acid dart (1d6+1 acid) 
+Druid Spells Prepared (CL 16
+th, or CL 18th to overcome SR, casts spells as a 14
+th-level druid; Concentration 
++23) 
+7th  (3/day) – animate plants, heal (2) 
+6th  (4/day) – antilife shell, fire seeds (2), liveoak 
+5th  (4/day) – animal growth (2), call lightning storm, wall of thorns 
+4th  (5/day) – cure serious wounds, lightning bolt
+W (3), spike stones 
+3rd  (6/day) – greater magic fang, meld into stone, plant growth, protection from energy, spike growth, 
+stone shape 
+2nd (6/day) – animal messenger, barkskin, fog cloud, tree shape, warp wood, wood shape 
+1
+st  (6/day) – charm animal, entangle, endure elements, produce flame (2) 
+0  (at will) – create water, light, purify food and drink, stabilize 
+Wizard Spells Prepared (CL 17
+th, or CL 19th to overcome SR, casts spells as a 16
+th-level wizard; 
+Concentration +26) 
+8th  (4/day) – maze, summon monster VIII (2), stormbolts
+APG 
+7th  (5/day) – greater teleport (2), plant shape III, summon monster VII (2) 
+6th  (5/day) – chain lightning, greater dispel magic, greater heroism, guards and wards, planar binding 
+5th  (7/day) – hold monster, mage’s faithful hound (2), mirage arcana, overland flight (2), telekinesis 
+4th  (7/day) – charm monster, crushing vines (as black tentacles) (2), fire shield, greater invisibility (2) 
+3rd  (7/day) – deep slumber, dispel magic, haste, shrink item, sleet storm, slow, suggestion 
+2nd (7/day) – bear’s endurance, bull’s strength, cat’s grace, darkvision, knock, web (2) 
+1st  (8/day) – alarm, color spray, expeditious retreat, feather fall, protection from evil, shield, silent 
+image, unseen servant 
+0  (at will) – detect magic, ghost sound, mage hand, prestidigitation 
+Arcane School conjuration; Opposition Schools evocation, necromancy 
+STATISTICS 
+Abilities Str 8 (+0), Dex 14 (+3), Con 10 (+1), Int 28 (+10), Wis 24 (+8), Cha 8 (+0) 
+Base Atk +8; CMB +8; CMD 26 
+Feats Acrobatic, Additional Traits, Athletic, Augment Summoning, Craft Wondrous Items, Endurance
+B, RunB, 
+Scribe Scroll
+B, Spell Focus (conjuration), Superior Summoning, Toughness 
+Skills Acrobatics +22 (+31 when jumping), Climb +23, Fly +29, Handle Animal +2, Heal +27, Knowledge 
+(arcana) +29, Knowledge (geography) +17, Knowledge (nature) +34, Perception +27 (+30 in bright 
+
+light), Sense Motive +14, Spellcraft +29 (+31 to identify magic items), Stealth +22, Survival +29, Swim 
++23; Racial Bonuses +2 Spellcraft to identify magical items 
+SQ arcane bond (hawk familiar), combined spells (5
+th), esoteric training, fleet-footed, nature bond (hawk 
+companion), nature sense, senior guild member (wondrous items), spellcasting guild member (80 fame, 
+80 PP), summoner’s charm (1 round), trackless step, traits (devotee of the green: geography, magical 
+knack: druid), wild empathy +5, woodland stride 
+Combat Gear potions of cure light wounds (3), wand of cure light wounds (50 charges); Other Gear +3 
+guided scimitar, amulet of mighty fists +1 (worn by treant servant), amulet of natural armor +5, blessed 
+books (2) (701 pages left), boots of striding and springing, bracers of armor +8, cloak of resistance +5, 
+gems (2,000gp worth), gloves of swimming and climbing, headband of mental prowess +6 (intelligence, 
+wisdom; acrobatics, climb, swim), ioun stones (clear spindle, cracked dusty rose prism, dusty rose 
+prism, orange prism, pale green prism, scarlet and green cabochon), ring of protection +5, ring of 
+sacred mistletoe, spell component pouch, tender (12gp, 5sp), tome of understanding +1 (already read) 
+Spellbook all core wizard spells of 7
+th-level and lower plus create demiplane
+UM, maze, summon monster VIII, 
+and stormboltsAPG 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 8 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Combined Spells (Su) You can prepare and cast spells from one of your spellcasting classes using the available 
+slots from any of your other spellcasting classes. Spells prepared or cast in this way take up a slot one 
+level higher than they originally occupied. This ability cannot be used to cast a spell at a lower level if 
+that spell exists on both spell lists. You may only cross 5th-level or lower spells in this fashion. The 
+components of these spells do not change, but they otherwise follow the rules for the spellcasting class 
+used to cast the spell. 
+Contingencies/Ongoing Spells You have cast the contingency spell upon yourself. Should you ever die, you 
+immediately come under the effect of a breath of life spell. Additionally, you have used the permanency 
+spell to make the following spell effects permanent in regards to yourself: arcane sight, comprehend 
+languages, see invisibility, and tongues. The following spells are also regularly active upon your person: 
+endure elements and overland flight. Additionally, you have a treant servant (via the liveoak spell) and 
+rule over a small demiplane (via the create demiplane spell), a natural sanctuary that possesses earth-like 
+cycles and is filled with bountiful plant and animal life. All ongoing spell effects function at 17th-caster 
+level (and thus require a DC 28 caster level check to dispel) and their effects are included in the above 
+stats where appropriate. 
+Devotee of the Green You gain a +1 trait bonus on Knowledge (geography) and Knowledge (nature) checks, 
+and one of these skills (your choice) is always a class skill for you. 
+Esoteric Training Due to your membership in a spellcasting guild (and Fame score of 35+) you gain a +3 
+bonus to your caster level with wizard spells and a +1 bonus to your caster level with druid spells (up to 
+a maximum of your character level). These bonuses grant you additional spells known and spells per day 
+for your modified caster level. 
+Magical Knack You gain a +2 trait bonus to your caster level with wizard spells, provided it does not increase 
+your caster level higher than your character level. 
+Nature Sense (Ex) You gain a +2 bonus to knowledge: nature checks and Survival checks (included above). 
+Senior Guild Member Using guild contacts, you can earn an additional 10% profit when selling magical 
+wondrous items. 
+Spell Synthesis (Su) Once per day you can cast two spells, one from each of your spellcasting classes, using 
+one action. Both of the spells must have the same casting time. You can make any decisions concerning 
+the spells independently. Any target affected by both of the spells takes a –2 penalty on saves made 
+against each spell. You receive a +2 bonus on caster level checks made to overcome spell resistance 
+with these two spells. 
+Summoner’s Charm (Su) You increase the duration of all of your summoning spells by 1 round. 
+Trackless Step (Ex) You leave no trail in natural surroundings and cannot be tracked. You may choose to leave 
+a trail if so desired. 
+
+Wild Empathy (Ex) You can improve the attitude of an animal. This ability functions just like a Diplomacy 
+check made to improve the attitude of a person. You roll 1d20 and add your druid level and your 
+Charisma modifier to determine the wild empathy check result. The typical domestic animal has a 
+starting attitude of indifferent, while wild animals are usually unfriendly. To use wild empathy, you and 
+the animal must be within 30 feet of one another under normal conditions. Generally, influencing an 
+animal in this way takes 1 minute but, as with influencing people, it might take more or less time. You 
+can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but you take a –
+4 penalty on the check. 
+Woodland Stride (Ex) You may move through any sort of undergrowth (such as natural thorns, briars, 
+overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any 
+other impairment. Thanks to your ring of sacred mistletoe, not even thorns, briars, and overgrown areas 
+that have been magically manipulated to impede your movement. 
+ 
+Spotter 
+Hawk familiar 
+CN Tiny animal 
+Init +3; Senses low-light vision; Perception +29 
+DEFENSE 
+AC 17, touch 15, flat-footed 14 (+3 Dex, +2 natural, +2 size) 
+hp 48 (16 HD) 
+Fort +7, Ref +8, Will +13 
+Defensive Abilities improved evasion 
+OFFENSE 
+Speed 10 ft. (2 squares), fly 60 ft. (average) 
+Melee 2 talons +13 (1d4–2) 
+Space 2½ ft.; Reach 0 ft. 
+STATISTICS 
+Abilities Str 6 (–2), Dex 17 (+3), Con 11 (+0), Int 7 (–2), Wis 14 (+2), Cha 7 (–2) 
+Base Atk +8; CMB +4; CMD 17 
+Feats Weapon Finesse 
+Skills Acrobatics +22, Climb +22, Fly +22, Heal +18, Knowledge (arcana) +14, Knowledge (geography) +1, 
+Knowledge (nature) +14, Perception +29, Sense Motive +5, Spellcraft +14, Stealth +22, Survival +18, 
+Swim +22; Racial Modifiers +8 Perception 
+SQ alertness, empathic link, familiar traits, share spells 
+Encumbrance light 10 lb., medium 20 lb., heavy 30 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Deliver Touch Spells (Su) A familiar can deliver touch spells for you. If you and the familiar are in contact at 
+the time you cast a touch spell, you can designate your familiar as the “toucher.” The familiar can then 
+deliver the touch spell just as you would. As usual, if you cast another spell before the touch is 
+delivered, the touch spell dissipates. 
+Empathic Link (Su) You have an empathic link with your familiar to a 1 mile distance. You can communicate 
+emphatically with your familiar, but cannot see through its eyes. Because of the link’s limited nature, 
+only general emotions can be shared. You have the same connection to an item or place that your 
+familiar does. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, a familiar takes no damage if it makes a successful saving throw and half damage even if the 
+saving throw fails. 
+Share Spells You may cast a spell with a target of “You” on your familiar (as a touch spell) instead of on 
+yourself. You may cast spells on your familiar even if the spells do not normally affect creatures of the 
+familiar’s type (magical beast). 
+
+Carrier 
+Hawk animal companion 
+N Small animal 
+Init +3; Senses low-light vision; Perception +7 
+DEFENSE 
+AC 17, touch 14, flat-footed 14 (+3 Dex, +3 natural, +1 size) 
+hp 21 (3 HD) 
+Fort +4, Ref +6, Will +3 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 10 ft. (5 squares), fly 80 ft. (average) 
+Melee 2 talons +3 (1d4) 
+STATISTICS 
+Abilities Str 11 (+0), Dex 16 (+3), Con 12 (+1), Int 2 (–4), Wis 14 (+2), Cha 6 (–2) 
+Base Atk +2; CMB +2; CMD 14 
+Feats Alertness, Skill Focus (spot) 
+Skills Perception +11, Stealth +7 
+SQ link, share spells, tricks (come, defend, down, fetch, guard, heel, stay, work) 
+Encumbrance light 28 lb. 8 oz., medium 57 lb., heavy 86 lb. 4 oz.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Evasion (Ex) If your animal companion is subjected to an attack that normally allows a Reflex save for half 
+damage, it takes no damage if it makes a successful saving throw. 
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding your animal companion. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your animal companion (as a spell with a 
+range of touch) instead of on yourself. You may cast spells on your animal companion even if the spells 
+normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come 
+from a class that grants an animal companion. This ability does not allow the animal to share abilities 
+that are not spells, even if they function like spells. 

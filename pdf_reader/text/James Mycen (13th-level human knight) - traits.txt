@@ -1,0 +1,84 @@
+
+
+Lord James Mycen 
+Male human fighter 13 
+NG Medium humanoid 
+Init +3; Senses Perception –1 
+Aura inspiring bravery (30 ft.) 
+Languages Common, Dwarven, Goblin 
+DEFENSE 
+AC 43, touch 14, flat-footed 41 (+18 armor, +2 deflection, +2 Dex, +1 
+natural, +9 shield) 
+hp 126 (13 HD) 
+Fort +14, Ref +10, Will +7; +4 vs. mind-affecting effects 
+Defensive Abilities bravery +4; DR 6/– 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +5 bashing heavy adamantine shield +27/+22/+17 (1d8+14 plus bull 
+rush) or 
++5 bashing heavy adamantine shield +23/+18/+13 (1d8+22 plus bull rush) with Power Attack, or 
++3 keen adamantine longsword +24/+19/+14 (1d8+11/17-20) or 
++3 keen adamantine longsword +20/+15/+10 (1d8+19/17-20) with Power Attack, or  
++3 keen adamantine longsword +20/+15/+10 (1d8+11/17-20) and 
++4 bashing heavy adamantine shield +27 (1d8+12 plus bull rush) with Two-Weapon Fighting, 
+or  
++3 keen adamantine longsword +16/+11/+6 (1d8+19/17-20) and 
++4 bashing heavy steel shield +23 (1d8+16 plus bull rush) with Power Attack and Two-Weapon 
+Fighting 
++2 dagger +24/+19/+14 (1d4+11/19-20) or 
++2 dagger +20/+15/+10 (1d4+19/19-20) with Power Attack, or 
+mwk sap +23/+18/+13 (1d6+9 nonlethal) or 
+mwk sap +19/+14/+9 (1d6+17 nonlethal) with Power Attack 
+Ranged +1 adaptive longbow +17/+12/+7 (1d8+5/×3) or 
++2 dagger +23 (1d4+11/19-20) 
+Special Attacks weapon training (close +5, heavy blades +4) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 16 (+3), Con 14 (+2), Int 14 (+2), Wis 8 (–1), Cha 14 (+2) 
+Base Atk +13; CMB +17 (+27 with shield, +24 with longsword, +21 with bull rush); CMD 35 (37 vs. bull 
+rush, 48 vs. grapple/trip, 39 vs. disarm/sunder) 
+Feats Advanced Armor Training (master armorer), Armor Focus (full plateB), Craft Magic Arms and ArmorB 
+(armor only), Greater Bull RushB, Greater Shield FocusB, Improved Bravery, Improved Bull RushB, 
+Improved Shield BashB, Inspiring Bravery, Master CraftsmanB (armor only), Power Attack (–4 attack, 
++4/+8/+12 damage), Shield FocusB, Shield Master
+B, Shield SlamB, Stumbling Bash, Toppling Bash, 
+Two Weapon Fighting 
+Skills Acrobatics +17, Bluff +2 (+3 to fool someone), Craft (armor) +18, Diplomacy +19, Handle Animal +18, 
+Heal +12 (+14 with healer’s kit, +17 with bloodblock), Sense Motive +15, Stealth +16, Survival +15; 
+Armor Check Penalty –3 
+SQ advanced armor training (armor specialization: full plate, armored juggernaut, master armorer), 
+advanced weapon training (versatile training: close), armor training 1, traits (reckless, trustworthy) 
+Combat Gear antiplague (6), antitoxin (6), durable arrows (20), bloodblock (5), potions of cure light wounds 
+(10); Other Gear +5 adamantine full plate, +5 bashing heavy adamantine shield with weapon cord, +3 
+keen adamantine longsword, +2 dagger (versatile design modification: close), +1 adaptive longbow, 
+amulet of natural armor +1, armored coat (rarely worn), belt of bull’s strength +2, boots of speed, cloak 
+of resistance +3, falconry gauntlet, falcons (2, trained for guarding and hunting, respectively), gloves of 
+
+dueling, healer’s kit (10 uses), masterwork backpack, masterwork sap, ring of protection +2, sash of the 
+war champion, signal horn, silent signal whistle, tender (21gp, 7sp, 7cp) 
+Encumbrance light 116 lb., medium 233 lb., heavy 350 lb.; Weight Carried 110 lb. 10 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Specialization (Ex) While wearing full plate, you add 3 to the armor bonus. This increase to the armor 
+bonus doesn’t increase the benefit that you gain from feats, class abilities, or other effects that are 
+determined by your armor’s base armor bonus, including other advanced armor training options. 
+Armored Juggernaut (Ex) You gain DR 1/– when wearing light armor, DR 2/– when wearing medium armor, 
+and DR 3/– when wearing heavy armor. The DR from this ability stacks with that provided by 
+adamantine armor, but not with other forms of damage reduction. This damage reduction does not apply 
+if you are helpless, stunned, or unconscious. 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 1 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 1. In addition, your speed is not 
+reduced for wearing medium or heavy armor. 
+Bravery (Ex) You gain a +4 bonus on Will saves against mind-affecting effects. Additionally, this bonus 
+applies to your allies, provided they are within 30 feet of you, can see and hear you, and you are not 
+unconscious, stunned, dazed, or confused. 
+Master Armorer (Ex) You can use your base attack bonus in place of your ranks in the Craft (armor) skill. 
+You substitute your total base attack bonus (including your base attack bonus gained through levels in 
+other classes) for your ranks in this skill, but add the skill’s usual ability score modifier and any other 
+bonuses or penalties that would modify that skill. Additionally, you are treated as having the Craft 
+Magic Arms and Armor and Master Craftsman feats, but only for the purpose of making magic armor. 
+Reckless You gain a +1 bonus on Acrobatics checks, and Acrobatics is always a class skill for you. 
+Trustworthy You gain a +1 trait bonus on Bluff checks made to fool someone. You also gain a +1 trait bonus 
+on Diplomacy checks, and Diplomacy is always a class skill for you. 
+Weapon Training (Ex) You receive a +5 bonus to attack and damage rolls when using close weapons, to any 
+combat maneuver checks made with close weapons, and to your Combat Maneuver Defense when 
+defending against disarm and sunder attempts made against close weapons. You receive a similar bonus 
+with heavy blades, but only at a +4 bonus. 

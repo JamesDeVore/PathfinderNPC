@@ -1,0 +1,143 @@
+
+
+Kharzod d’Kunderak 
+  
+
+Male dwarf paladin 15 
+LG Medium humanoid (dwarf) 
+Init +2; Senses darkvision 90 ft., minesight, stonecunning; Perception 
++17 
+Aura courage (10 ft.), faith (10 ft.), justice (10 ft.), resolve (10 ft.) 
+Languages Common, Dwarven, Giant, Goblin, Orc, Undercommon 
+DEFENSE 
+AC 30, touch 11, flat-footed 29 (+14 armor, +1 Dex, +5 natural) 
+hp 205 (15 HD) 
+Fort +24, Ref +17, Will +21; +2 vs. death effects, +4 vs. spells and 
+spell-like abilities 
+Defensive Abilities defensive training (+4 dodge bonus to AC vs. 
+giants); Immune charm, disease, fear, poison; SR 20 with holy 
+avenger 
+Weaknesses vulnerability to cold iron 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee redeemer +25/+20/+15 (1d12+12/×3) or 
+redeemer +25/+20/+15 (1d12+12 plus 2d6/×3) vs. evil, or 
+redeemer +21/+16/+11 (1d12+24/×3) with Power Attack, or 
+redeemer +21/+16/+11 (1d12+24 plus 2d6/×3) with Power Attack vs. evil, or 
+life and death +25/+20/+15 (1d4+10) with divine bond, or 
+life and death +27/+22/+17 (1d4+12 plus 2d6) with divine bond against bane subject 
+Ranged +1 adaptive composite longbow +18/+13/+8 (1d8+6/×3) 
+Special Attacks +1 on attack rolls against giant humanoids, channel positive energy (DC 22, 7d6), smite evil 
+5/day (+5 attack and AC, +19 damage) 
+Paladin Spell-Like Abilities (CL 15th; Concentration +20) 
+At-will – detect evil, greater dispel magic (area target only) 
+Paladin Spells Prepared (CL 12
+th; Concentration +17) 
+4th (2/day) – divine power (2) 
+3rd (3/day) – haste (2), prayer 
+2nd (3/day) – heroism (3) 
+1st (5/day) – divine favor (2), timely inspirationAPG (3) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 14 (+2), Con 20 (+5), Int 20 (+5), Wis 14 (+2), Cha 20 (+5) 
+Base Atk +15; CMB +20; CMD 32 (36 vs. bull rush/trip) 
+Feats Combat Reflexes (3 AoO’s/round), Craft Magic Arms and Armor, Craft Wondrous Items, Dazing 
+Assault, Fey Foundling, Power Attack (–4 attack, +4/+8/+12 damage), Steel Soul, Unsanctioned 
+Knowledge (divine power, haste, heroism, timely inspiration
+APG) 
+Skills Acrobatics +17, Diplomacy +23, Heal +20, Knowledge (religion) +23, Perception +17 (+19 vs. unusual 
+stonework), Spellcraft +23, Use Magic Device +20; Armor Check Penalty –0; Racial Modifiers +2 
+Craft with metal or stone, +2 Perception vs. unusual stonework, +2 Profession with metal or stone, +2 
+Survival to track giants 
+SQ aura of good (overwhelming), code of conduct, divine bond (weapon +4, 3/day), lay on hands (7d6, 12/day), 
+mercies (cursed, diseased, fatigued, paralyzed, poisoned), weapon familiarity 
+
+Combat Gear durable arrows (20), potions of fly (5); Other Gear +1 adaptive composite longbow, +5 
+adamantine dwarven longaxe, +5 righteous full plate (enchanted to look like bone), amulet of natural 
+armor +5, belt of physical might +6 (strength, constitution), bracers of the avenging knight, cloak of 
+resistance +5, headband of mental prowess +6 (intelligence, charisma; Acrobatics, Perception, Use 
+Magic Device), lesser metamagic rod (extend), life and death (+1 undead bane and +1 evil outsider 
+bane spiked gauntlet, respectively), paladin’s kit, redeemer (as holy avenger, but adamantine dwarven 
+longaxe instead of cold iron longsword), spell component pouch, tender (104gp) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 111 lb. 5 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Aura of Courage (Su) You are immune to fear (magical or otherwise). Each ally within 10 feet of you gains a 
++4 morale bonus on saving throws against fear effects. This ability functions only while you are 
+conscious, not if you are unconscious or dead. 
+Aura of Faith (Su) Your weapons are treated as good-aligned for the purposes of overcoming damage 
+reduction. Any attack made against an enemy within 10 feet of you is treated as good-aligned for the 
+purposes of overcoming damage reduction. This ability functions only while you are conscious, not if 
+you are unconscious or dead. 
+Aura of Justice (Su) You can expend two uses of your smite evil ability to grant the ability to smite evil to all 
+allies within 10 feet, using your bonuses. Allies must use this smite evil ability by the start of your next 
+turn and the bonuses last for 1 minute. Using this ability is a free action. Evil creatures gain no benefit 
+from this ability. 
+Aura of Resolve (Su) You are immune to charm spells and spell-like abilities. Each ally within 10 feet of you 
+gains a +4 morale bonus on saving throws against charm effects. This ability functions only while you 
+are conscious, not if you are unconscious or dead. 
+Channel Positive Energy (Su) By expending two uses of your lay on hands ability, you may release a burst of 
+positive energy in a 30-ft. radius burst as a standard action. When doing so you can choose to harm 
+undead creatures in the area (7d6 damage, Will DC 22 half) or to heal the living (7d6 healing, 7d6+14 to 
+yourself). 
+Craftsman You receive a +2 racial bonus on all Craft or Profession checks related to metal or stone. 
+Defensive Training You gain a +4 dodge bonus to AC against attacks made by Giants. 
+Detect Evil (Sp) At will, you can use detect evil, as the spell. You can as a move action, concentrate on a single 
+item or individual within 60 feet and determine if it is evil, learning the strength of its aura as if having 
+studied it for 3 rounds. While focusing on one individual or object, you do not detect evil in any other 
+object or individual within range. 
+Divine Bond (Sp) Three times per day you may enhance a weapon as a standard action by calling upon the aid 
+of a celestial spirit for 1 minute per paladin level. When called, the spirit causes the weapon to shed light 
+as a torch. This spirit grants the weapon a +4 enhancement bonus. This bonus can be added to the 
+weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of 
+the following weapon properties: axiomatic, brilliant energy, defending, disruption, flaming, flaming 
+burst, holy, keen, merciful, and speed. Adding these properties consumes an amount of bonus equal to 
+the property’s cost modifier. These bonuses are added to any properties the weapon already has, but 
+duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be 
+added before any other properties can be added. The bonus and properties granted by the spirit are 
+determined when the spirit is called and cannot be changed until the spirit is called again. The celestial 
+spirit imparts no bonuses if the weapon is held by anyone other than you but resumes giving bonuses if 
+returned to you. These bonuses apply to only one end of a double weapon. If a weapon bonded with a 
+celestial spirit is destroyed, you lose the use of this ability for 30 days, or until you gain a level, 
+whichever comes first. During this 30-day period, you take a –1 penalty on attack and weapon damage 
+rolls. 
+Divine Grace (Su) You gain a bonus equal to your Charisma bonus on all saving throws (included above). 
+Divine Health (Ex) You are immune to all diseases, including supernatural and magical diseases such as 
+mummy rot. 
+
+Giant Hunter You gain a +1 bonus on attack rolls against humanoids with the giant subtype. Furthermore, you 
+gain a +2 bonus on Survival checks to find and follow tracks made by humanoids with the giant subtype. 
+Hardy You receive a +2 racial bonus on saving throws against poison, spells, and spell-like abilities. 
+Lay On Hands (Su) You can heal wounds (your own or those of others) by touch. Each day you can use this 
+ability a number of times equal to ½ your paladin level plus your Charisma modifier. With one use of 
+this ability, you can heal 1d6 hit points of damage for every two paladin levels you possess, unless you 
+target yourself, in which case you heal an additional +2 hit points of damage per die rolled. Using this 
+ability is a standard action, unless you target yourself, in which case it is a swift action. Despite the 
+name of this ability, you only need one free hand to use this ability. Alternatively, you can use this 
+healing power to deal damage to undead creatures, dealing 1d6 points of damage for every two paladin 
+levels you possess. Using lay on hands in this way requires a successful melee touch attack and doesn’t 
+provoke an attack of opportunity. Undead do not receive a saving throw against this damage. 
+Mercy (Su) Each mercy adds an effect to your lay on hands ability. Whenever you use lay on hands to heal 
+damage to one target, the target also receives the additional effects from all of the mercies possessed by 
+you. A mercy can remove a condition caused by a curse, disease, or poison without curing the affliction. 
+Such conditions return after 1 hour unless the mercy actually removes the affliction that causes the 
+condition. These abilities are cumulative (that is, you cure all listed afflictions at once). 
+Minesight The range of your darkvision is 90 feet, rather than 60 ft.; however, you are automatically dazzled in 
+bright light and take a –2 penalty on saving throws against effects with the light descriptor. 
+Smite Evil (Su) Five times per day you can call out to the powers of good to aid you in your struggle against 
+evil. As a swift action, choose one target within sight to smite. If this target is evil, you add your 
+Charisma bonus to your attack rolls and add your paladin level to all damage rolls made against the 
+target of your smite. If the target of smite evil is an outsider with the evil subtype, an evil-aligned 
+dragon, or an undead creature, the bonus to damage on the first successful attack increases to 2 points of 
+damage per paladin level you possess. Regardless of the target, smite evil attacks automatically bypass 
+any DR the creature might possess. In addition, while smite evil is in effect, you gain a deflection bonus 
+equal to your Charisma modifier (if any) to your AC against attacks made by the target of the smite. If 
+you target a creature that is not evil, the smite is wasted with no effect. The smite evil effect remains 
+until the target of the smite is dead or the next time you rest and regain your uses of this ability. 
+Stability You receive a +4 racial bonus to your Combat Maneuver Defense when resisting a bull rush or trip 
+attempt while standing on the ground. 
+Stonecunning You receive a +2 bonus on Perception checks to potentially notice unusual stonework, such as 
+traps and hidden doors located in stone walls or floors. You receive a check to notice such features 
+whenever you pass within 10 feet of them, whether or not you are actively looking. 
+Vulnerability to Cold Iron (Su) You take 1 additional point of damage when attacked by cold iron weapons. 
+Weapon Familiarity You are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon 
+with the word “dwarven” in its name as a martial weapon. 
+ 

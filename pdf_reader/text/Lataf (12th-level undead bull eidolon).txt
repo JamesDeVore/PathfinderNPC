@@ -1,0 +1,66 @@
+
+
+Lataf 
+“Buurrrn! Reennnd!” 
+ 
+This large abomination looks like some horrible undead conglomeration of man, beetle, and bull. The exposed 
+ribs of its torso glow with furnace like heat while its five eyes glow with a vile hatred of life. 
+ 
+In order to be played, Lataf requires a 12
+th-level half-elf summoner with the Extra Evolution feat twice and with 
+all favored class bonuses going into extra evolution points. A higher level summoner of another race may be 
+used, but adjustments to Lataf’s stats may be required (he requires at least 21 Evolution Points). 
+ 
+Lataf 
+  
+
+Biped Eidolon 
+CE Large outsider 
+Init +2; Senses darkvision 60 ft., Perception +12 
+Aura frightful presence (30 ft., DC 14) 
+Languages As summoner 
+DEFENSE 
+AC 25, touch 11, flat-footed 23 (+2 Dex, +14 natural, –1 size) 
+hp 104 (9 HD) 
+Fort +10, Ref +5, Will +6; +4 vs. enchantment effects 
+Defensive Abilities devotion, evasion; Immunity disease, 
+exhaustion, fatigue, fire, paralysis, poison, sleep effects, 
+stunning 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee gore +18 (1d8+10 plus 1d6 fire), 2 claws +18 (1d8+10 plus 1d6 fire), 2 hooves +16 (1d6+5 plus 1d6 fire) 
+gore +15 (1d8+16 plus 1d6 fire), 2 claws +15 (1d8+16 plus 1d6 fire), 2 hooves +13 (1d6+8 plus 1d6 
+fire) with Power Attack 
+Ranged boulder +11 (1d8+10) with Throw Anything, or 
+boulder +9 (1d8+16) with Throw Anything and Deadly Aim 
+Space 10 ft.; Reach 10 ft. 
+STATISTICS 
+Abilities Str 30 (+10), Dex 15 (+2), Con 18 (+4), Int 7 (–2), Wis 10 (+0), Cha 11 (+0) 
+Base Atk +9; CMB +20; CMD 32 
+Feats Deadly Aim, Eldritch Claws, Intimidating Prowess, MultiattackB, Power Attack, Throw Anything 
+Skills Intimidate +22, Knowledge (religion) +10, Perception +12, Stealth +10 
+SQ evolutions, link, share spells, undead appearance, unnatural aura 
+Gear sack of boulders 
+Encumbrance light 1,064 lb., medium 2,128 lb., heavy 3,200 lb.; Weight Carried 96 lb. 
+SPECIAL ABILITIES 
+Devotion (Ex) An eidolon receives a +4 morale bonus on Will saves versus enchantment spells and effects. 
+Evolutions clawsF, energy attacks (fire), frightful presence, gore, hooves, immunity (fire), large, limbs (armsF, 
+legsF), undead appearance (immunity), unnatural aura 
+Link You and your eidolon share a mental link that allows for communication across any distance (as long as 
+you are on the same plane). This communication is a free action, allowing you to give orders to your 
+eidolon at any time. What’s more, magic items interfere with this link, so that you and your eidolon 
+must share magic item slots. When both you and the eidolon are wearing a magic item in the same slot, 
+your magic item continues to function while the eidolon’s becomes dormant. An eidolon must still have 
+the appropriate magical item slot in order to be able to use of a given magic item. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your eidolon (as a spell with a range of 
+touch) instead of on yourself. You may cast spells on your eidolon even if the spells normally do not 
+affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner 
+spell list. This ability does not allow your eidolon to share abilities that are not spells, even if they 
+function like spells. 
+Undead Appearance (Ex) Lataf appears as an undead creature, and mimics some of an undead creature’s 
+abilities and weaknesses. Negative energy heals him, and positive energy (including a cleric’s channel 
+energy ability) harms him. Spells and effects that target undead or have specific effects against undead 
+(such as Command Undead, hold undead, and searing light) affect him as though he were undead. 
+Unnatural Aura (Su) Lataf is obviously of unnatural origin. Normal animals do not willingly approach him 
+unless the animal’s master makes a DC 25 Handle Animal, Ride, or wild empathy check. 
+ 

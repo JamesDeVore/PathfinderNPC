@@ -1,0 +1,143 @@
+
+
+Kujo the Butcher (aka Kujo the Cannibal)  
+“I’m going to flay you alive and use your guts as chum!” 
+ 
+There are few pirates more feared throughout the Inner Sea than 
+the one known as Kujo the Butcher. Infamous for his vicious and 
+bloody fighting style as well as his excessive cruelty, Kujo revels 
+in the violent dismemberment of his foes, never missing a chance 
+to  put  on an especially  gruesome display  for enemies and allies 
+alike.  Many  are  the  stories  in  which  he  slowly  carved  into  his 
+prisoners with his many knives or consumed their flesh in an orgy 
+of blood. 
+ 
+Though many a jest and rumor claim that Kujo has shark blood in 
+his veins, few outside of his immediate crew are aware of Kujo’s 
+heritage as one of the abominable seascarred—distant cousins to 
+true weresharks. He is loath to reveal this secret to outsiders and 
+is quick to devour anyone who might question him on the matter. 
+Kujo has always felt an almost spiritual connection with the ocean 
+and, like most seascarred, makes his living on or near the open sea 
+(as a pirate in his case, or as a butcher when the need to lay low 
+arises). The sea is his god and it constantly demands sacrifice and 
+blood-stained waters, and Kujo is all too happy to oblige. 
+ 
+Nearly as famous as Kujo himself, is the giant hooked axe he always carries with him. Called “Wavesplitter,” the 
+axe is said to have been a war trophy taken from a river giant lord with which Kujo once had a dispute. After 
+butchering its former owner, Kujo had the axe head  fitted to a heavy haft sized for him and modified to look 
+especially menacing, to better fit his frightening personality. He even went so far as to hang a stylized ribbon 
+made of its former owner’s scalp from its haft—a constant reminder to all that none are too big to be cut down to 
+size. 
+ 
+ 
+
+   
+
+Kujo the Butcher 
+Male seascarred unchained rogue 9 (scout, thug) 
+CE Medium humanoid (shapechanger, skinwalker) 
+Init +2; Senses low-light vision; Perception +15 
+Languages Common 
+DEFENSE 
+AC 22, touch 13, flat-footed 20 (+8 armor, +1 deflection, +2 Dex, +1 
+natural) 
+hp 83 (9 HD) 
+Fort +7, Ref +10, Will +6 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 debilitating butchering axe +14/+9 (3d6+9/×3) 
+Ranged mwk kitchen knife +9 (1d4+6/19-20) 
+Special Attacks debilitating injury, finesse training (dagger), frightening, scout’s charge, skirmisher, sneak 
+attack +5d6 
+Spell-Like Abilities (CL 9th; Concentration +11) 
+3/day – charm animal (aquatic animals only) 
+STATISTICS 
+Abilities Str 22 (+6), Dex 14 (+2), Con 14 (+2), Int 8 (–1), Wis 12 (+1), Cha 14 (+2) 
+Base Atk +6; CMB +12 (+16 disarm with hooked axe); CMD 25 
+Feats Dazzling Display, Disheartening Display, Exotic Weapon Proficiency (butchering axe
+B), Flensing Strike, 
+Intimidating Prowess, Violent Display, Weapon FinesseB, Weapon Focus (butchering axe
+B) 
+Skills Intimidate +19 (+15 with change shape), Perception +15, Profession (butcher) +13, Profession (sailor) 
++13, Stealth +12, Survival +13, Swim +16; Armor Check Penalty –2; Racial Bonuses +2 Perception 
+and Swim 
+SQ change shape (7/day), rogue’s edge (intimidate), rogue talents (bleeding attack, combat trick, terrain 
+mastery: aquatic, weapon training), traits (bloodthirsty, bully) 
+Combat Gear potions (enlarge person 3); Other Gear +1 debilitating butchering axe with effortless lace, +2 
+mithral four-mirror armor, amulet of natural armor +1, belt of giant strength +4, cloak of resistance 
++2, cooking kit, mark of the grinning skull, ring of protection +1, spring-loaded wrist sheathes (2), 
+tender (47gp) 
+Encumbrance light 173 lb., medium 346 lb., heavy 520 lb.; Weight Carried 68 lb. 12 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Bloodthirsty Whenever you make an attack that reduces a foe to 0 hit points or fewer or you confirm a critical 
+hit, your attack deals 1 additional point of damage. The additional damage is a trait bonus, and is 
+multiplied by your weapon’s critical hit multiplier. 
+Brutal Beating (Ex) Whenever you deal sneak attack damage, you can choose to forgo 1d6 points of sneak 
+attack damage to make the target sickened for a number of rounds equal to ½ your rogue level. This 
+ability does not stack with itself—only the most recent duration applies. 
+Bully You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. 
+Change Shape You can change shape into a bestial form as a standard action. In bestial form, you gain a +2 
+racial bonus to Constitution. While in this form, you also take on an animalistic feature that provides a 
+special effect. Each time you assume bestial form, you can choose to gain one of the following features: 
+bite attack (1d6), ferocity, swim 30 ft., or water breathing. The racial ability score bonus and additional 
+feature last as long as you remain in that form, and you can remain in bestial form for as long as you 
+want. While in bestial form, you take a –4 penalty on Charisma and Charisma-based checks when 
+interacting with humanoids that lack the shapechanger subtype. You can return to your humanoid form 
+as a swift action. To change forms and gain a different benefit, you must first return to your humanoid 
+
+form then use your shapechange ability again. You can shapechange into bestial form a number of times 
+per day equal to 3 + ½ your character level. 
+Debilitating Injury (Ex) Whenever you deal sneak attack damage to a foe, you can also debilitate the target of 
+your attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue 
+talent or other special ability). You can choose to apply any one of the following penalties when the 
+damage is dealt. 
+Bewildered: The target becomes bewildered, taking a –2 penalty to AC (or a –3 penalty with a 
+debilitating weapon). The target takes an additional –2 penalty to AC against all attacks made by you. 
+Disoriented: The target takes a –2 penalty on attack rolls (or a –3 penalty with a debilitating 
+weapon). In addition, the target takes an additional –2 penalty on all attack rolls it makes against you. 
+Hampered: All of the target’s speeds are reduced by half (to a minimum of 5 feet). In addition, the 
+target cannot take a 5-foot step. 
+These penalties do not stack with themselves, but additional attacks that deal sneak attack damage 
+extend the duration by 1 round. A creature cannot suffer from more than one penalty from this ability at 
+a time. If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a 
+target suffering from one of these penalties also removes the penalty. 
+Evasion (Ex) If you succeed at a Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or 
+no armor. You do not gain the benefit of evasion while helpless. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, you can select any one type of 
+weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it 
+cannot be changed. Whenever you make a successful melee attack with the selected weapon, you add 
+your Dexterity modifier instead of your Strength modifier to the damage roll. If any effect would 
+prevent you from adding your Strength modifier to the damage roll, you do not add your Dexterity 
+modifier. 
+Frightening (Ex) Whenever you successfully use Intimidate to demoralize a creature, the duration of the 
+shaken condition is increased by 1 round. In addition, if the target is shaken for 4 or more rounds, you 
+can instead decide to make the target frightened for 1 round. 
+Rogue’s Edge (Ex) You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. You gain the skill unlock powers for that skill as appropriate for your 
+number of ranks in that skill. 
+Intimidate: If you exceed the DC to demoralize a target by at least 10, it is frightened for 1 round 
+and shaken thereafter. The total duration cannot exceed 1 round plus 1 round for every 5 by which you 
+exceed the DC. A Will save (DC = 10 + your number of ranks in Intimidate) negates the frightened 
+condition, but the target is still shaken, even if it has the stalwart ability. 
+Scout’s Charge (Ex) Whenever you make a charge, your attack deals sneak attack damage as if the target were 
+flat-footed. Foes with uncanny dodge are immune to this ability. 
+Skirmisher (Ex) Whenever you move more than 10 feet in a round and make an attack action, the attack deals 
+sneak attack damage as if the target was flat-footed. If you make more than one attack this turn, this 
+ability only applies to the first attack. Foes with uncanny dodge are immune to this ability. 
+Sneak Attack Your attack deals an extra 5d6 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+Terrain Mastery (Ex) You gain a +2 bonus on initiative checks and Knowledge (geography), Perception, 
+Stealth, and Survival skill checks when you are in aquatic terrain (above and below the surface). While 
+
+traveling through your favored terrain you leave no trail and cannot be tracked (though you may leave a 
+trail if you so choose). 

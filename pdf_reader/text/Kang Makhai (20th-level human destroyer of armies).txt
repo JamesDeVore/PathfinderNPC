@@ -1,0 +1,216 @@
+
+
+Kang Makhai 
+Male human monk 2/magus 18 (master of many styles, staff magus) 
+LN Medium humanoid 
+Init +6; Senses Perception +23 
+Languages Common, Draconic, Dwarven, Elven, Giant, Orc, Terran, 
+Undercommon 
+DEFENSE 
+AC 46, touch 25, flat-footed 39 (+8 armor, +5 deflection, +6 Dex, +1 Dodge, 
++4 monk, +5 natural, +8 shield) 
+hp 240 (20 HD) 
+Fort +24, Ref +20, Will +22 
+Defensive Abilities evasion, reflection 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +5 quarterstaff +28/+23/+18 (1d6+14) with one hand, or 
++5 quarterstaff +28/+23/+18 (1d6+18) with two hands, or 
++5 quarterstaff +24/+19/+14 (1d6+30) with two hands and Power Attack, or 
++5 quarterstaff +26/+21/+16 (1d6+14) and 
++5 quarterstaff +26/+21/+16 (1d6+9) with Greater Two-Weapon Fighting, or 
++5 defending longspear +28/+23/+18 (1d8+18/×3) or 
++5 defending longspear +24/+19/+14 (1d8+30/×3) with Power Attack, or 
++5 defending longspear +26/+21/+16 (1d8+14/×3) and 
+unarmed strike +21/+16/+11 (1d8+4 plus stunning fist) with Greater Two-Weapon Fighting, or 
+unarmed strike +22/+17/+12 (1d8+9 plus stunning fist) 
+Ranged +5 adaptive composite longbow +25/+20/+15 (1d8+14/×3) 
+Special Attacks arcane pool (16 points, +5 bonus), greater spell combat, spellstrike, stunning fist (7/day, DC 
+20) 
+Magus Spells Prepared (CL 18
+th; Concentration +25) 
+6th  (4/day) – chain lightning, contagious flame
+APG, disintegrate, freezing sphere 
+5th  (6/day) – overland flight (2), teleport (2), wall of force (2) 
+4
+th  (12/day) – fire shield (4), intensified lightning bolt (4), monstrous physique II
+UM (4) 
+3rd  (7/day) – intensified defensive shock
+UM (2), slow (2), vampiric touch (3) 
+2nd (7/day) – acid arrow (2), intensified shocking grasp (3), mirror image (2) 
+1st  (8/day) – grease, magic missile (4), true strike, vanish (2) 
+0  (at will) – arcane mark, detect magic, light, mage hand, prestidigitation 
+STATISTICS 
+Abilities Str 28 (+9), Dex 22 (+6), Con 20 (+5), Int 24 (+7), Wis 16 (+3), Cha 8 (–1) 
+Base Atk +14; CMB +23 (+28 with personal weapons); CMD 45 
+Feats Cleave, Cleaving Finish, Combat Reflexes (7 AoO’s/round), Crane Riposte, Crane Style
+B, Crane Wing, 
+Dodge
+B, Dragon Style
+B, Great Cleave, Greater Two-Weapon Fighting
+B, Improved Cleaving Finish, 
+Improved Two-Weapon Fighting
+B, Improved Unarmed Strike
+B, Intensified Spell, Power Attack (–4 
+attack, +4/+8/+12 damage), Quarterstaff Master
+B (in light or no armor only), Quick Draw, Stunning 
+FistB, Two-Weapon Fighting
+B 
+Skills Acrobatics +29, Climb +32, Escape Artist +29, Fly +30, Intimidate +22, Knowledge (arcana) +30, 
+Knowledge (history) +12, Knowledge (religion) +12, Perception +23, Spellcraft +30, Stealth +29, Swim 
++32 
+SQ fuse style (2 styles), knowledge pool (6 spells), magus arcana (arcane accuracy +7, empowered magic, 
+maximized magic, reflection, quickened magic, wand wielder), spell recall 
+Combat Gear arrows (60), potions of cure light wounds (14); Other Gear +5 adaptive composite longbow, +5 
+defending longspear, amulet of natural armor +5, belt of physical perfection +6, blessed book, boots of 
+speed, bracers of armor +8, cloak of resistance +5, headband of mental prowess +6 (Intelligence, 
+
+Wisdom; escape artist, fly, stealth), jewelry (50gp worth), manual of gainful exercise +2 (already read), 
+monk’s robe, ring of protection +5, ring of wizardry IV, smoking pipe (worth 1gp), spell component 
+pouches (4), staff of the Makhai (10 charges, see below), tindertwigs (25), tobacco (2 lbs.), tome of clear 
+thought +2 (already read) 
+Spellbook all magus spells in the Core Rulebook, Advanced Player’s Guide, Ultimate Combat, and Ultimate 
+Magic 
+Encumbrance light 400 lb., medium 800 lb., heavy 1,200 lb.; Weight Carried 53 lb. 
+SPECIAL ABILITIES 
+Arcane Accuracy (Su) You can expend 1 point from your arcane pool as a swift action to grant yourself an 
+insight bonus equal to your Intelligence bonus on all attack rolls until the end of your turn. 
+Arcane Pool (Su) You have a reservoir of mystical arcane energy that you can draw upon to fuel your powers 
+and enhance your weapon. This arcane pool has a number of points equal to ½ your magus level 
+(minimum 1) + your Intelligence modifier. The pool refreshes once per day when you prepare your 
+spells. You can expend 1 point from your arcane pool as a swift action to grant any weapon you are 
+holding a +5 enhancement bonus for 1 minute. These bonuses can be added to the weapon, stacking with 
+existing weapon enhancement to a maximum of +5. Multiple uses of this ability do not stack with 
+themselves. These bonuses can be used to add any of the following weapon properties: dancing, flaming, 
+flaming burst, frost, icy burst, keen, shock, shocking burst, speed, or vorpal. Adding these properties 
+consumes an amount of bonus equal to the property’s base price modifier. These properties are added to 
+any the weapon already has, but duplicates do not stack. If the weapon is not magical, at least a +1 
+enhancement bonus must be added before any other properties can be added. These bonuses and 
+properties are decided when the arcane pool point is spent and cannot be changed until the next time you 
+use this ability. These bonuses do not function if the weapon is wielded by anyone other than you. You 
+can only enhance one weapon in this way at one time. If you use this ability again, the first use 
+immediately ends. 
+Counterstrike (Ex) Whenever an enemy within reach of you successfully casts a spell defensively, that enemy 
+provokes an attack of opportunity from you after the spell is complete. This attack of opportunity cannot 
+disrupt the spell. 
+Empowered Magic (Su) You can cast one spell per day as if it were modified by the Empower Spell feat. This 
+does not increase the casting time or the level of the spell. 
+Evasion (Ex) You can avoid damage from many area-effect attacks. If you make a successful Reflex saving 
+throw against an attack that normally deals half damage on a successful save, you instead take no 
+damage. Evasion can be used only if you are wearing light armor or no armor. You do not gain the 
+benefit of evasion when helpless. 
+Fuse Style (Ex) You can fuse two of the styles you know into a more perfect style. You can have two style feat 
+stances active at once. Starting a stance provided by a style feat is still a swift action, but when you 
+switch to another style feat, you can choose one style whose stance is already active to persist. You may 
+only have two style feat stances active at a time. 
+Greater Spell Combat (Ex) Whenever you use the spell combat ability, your concentration check bonus equals 
+double the amount of the attack penalty taken. 
+Improved Spell Combat (Ex) When using the spell combat ability, you receive a +2 circumstance bonus on 
+concentration checks, in addition to any bonus granted by taking an additional penalty on the attack roll. 
+Improved Spell Recall (Su) Whenever you recall a spell with spell recall, you expend a number of points from 
+your arcane pool equal to ½ the spell’s level (minimum 1). Furthermore, instead of recalling a used 
+spell, as a swift action you can prepare a spell of the same level that you have in your spellbook. You do 
+so by expending a number of points from your arcane pool equal to the spell’s level (minimum 1). You 
+cannot apply metamagic feats to a spell prepared in this way. You do not need to reference your 
+spellbook to prepare a spell in this way. 
+Knowledge Pool (Su) When you prepare your magus spells, you can decide to expend 1 or more points from 
+your arcane pool, up to your Intelligence bonus. For each point you expend, you can treat any one spell 
+from the magus spell list as if it were in your spellbook and can prepare that spell as normal that day. If 
+
+you do not cast spells prepared in this way before the next time you prepare spells, you lose those spells. 
+You can also cast spells added in this way using your spell recall ability, but only until you prepares 
+spells again. 
+Maximized Magic (Su) You can cast one spell per day as if it were modified by the Maximize Spell feat. This 
+does not increase the casting time or the level of the spell. 
+Quarterstaff Defense (Ex) While wielding a quarterstaff, you gain a shield bonus to your Armor Class equal to 
+the enhancement bonus of the quarterstaff +3, including any enhancement bonus on that staff from your 
+arcane pool class feature. 
+Quarterstaff Master (Ex) You gain the Quarterstaff Master feat as a bonus feat, even if you do not meet the 
+normal prerequisites. You only gain the benefit of this feat when wearing no armor or light armor. 
+Quickened Magic (Su) You can cast one spell per day as if it were modified by the Quicken Spell feat. This 
+does not increase the casting time or the level of the spell. 
+Reflection (Su) You can sacrifice 1 or more points from your arcane pool as an immediate action to reflect a 
+spell back at its caster. This functions as spell turning, but only if the targeted spell is of a level equal to 
+or lower than the number of points expended. If insufficient points are expended, they instead grant an 
+insight bonus on any saving throws allowed by the spell, equal to the number of points spent. 
+Spell Combat (Ex) You’ve learned to cast spells and wield weapons at the same time. This functions much like 
+two-weapon fighting, but the off-hand weapon is a spell that is being cast. To use this ability, you must 
+have one hand free (even if the spell being cast does not have somatic components), while wielding a 
+light or one-handed melee weapon in the other hand. As a full-round action, you can make all of your 
+attacks with your melee weapon at a –2 penalty and can also cast any spell from the magus spell list with 
+a casting time of 1 standard action (any attack roll made as part of this spell also takes this penalty). If 
+you cast this spell defensively, you can decide to take an additional penalty on your attack rolls, up to 
+your Intelligence bonus, and add the same amount as a circumstance bonus to your concentration check. 
+If the check fails, the spell is wasted, but the attacks still take the penalty. You can choose to cast the 
+spell first or make the weapon attacks first, but you cannot cast the spell in between weapon attacks. 
+Spell Recall (Su) With a swift action you can recall any single magus spell that you have already prepared and 
+cast that day by expending a number of points from your arcane pool equal to the spell’s level 
+(minimum 1). The spell is prepared again, just as if it had not been cast. 
+Spellstrike (Su) Whenever you cast a spell with a range of “touch” from the magus spell list, you can deliver 
+the spell through any weapon you are wielding as part of a melee attack. Instead of the free melee touch 
+attack normally allowed to deliver the spell, you can make one free melee attack with your weapon (at 
+your highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its 
+normal damage as well as the effects of the spell. If you make this attack in concert with spell combat, 
+this melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the 
+weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar 
+effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage 
+uses its own critical modifier. 
+Staff Weapon (Su) You treat any magical staff you are wielding as a magical quarterstaff with an enhancement 
+bonus to attack and damage equal to the staff’s caster level divided by 4 (minimum +1). The staff must 
+have at least 1 charge for you to use this ability. You can restore 1 charge to a staff by expending a 
+number of points from your arcane pool equal to the level of the highest-level spell cast in the staff, as 
+long as at least one spell in the staff is on the magus spell list. You cannot restore charges to more than 
+one staff per day. 
+Wand Wielder (Su) You can activate a wand or staff in place of casting a spell when using spell combat. 
+ 
+   
+
+Kang Makhai (Calikang form, as above except as follows…) 
+LN Large humanoid 
+Init +5; Senses darkvision 60 ft.; Perception +23 
+DEFENSE 
+AC 48, touch 23, flat-footed 42 (+8 armor, +5 deflection, +5 Dex, +1 
+Dodge, +4 monk, +9 natural, +8 shield, –1 size) 
+Fort +24, Ref +19, Will +22 
+Defensive Abilities evasion, reflection; Resist electricity 20 (only if 
+monstrous physique IV is used) 
+OFFENSE 
+Melee +5 quarterstaff +29/+24/+19 (1d8+21) with two hands, or 
++5 quarterstaff +25/+20/+15 (1d8+33) with two hands and Power 
+Attack, or 
++5 defending longspear +29/+24/+19 (2d6+21/×3) or 
++5 defending longspear +25/+20/+15 (2d6+33/×3) with Power 
+Attack, or 
++5 quarterstaff +27/+22/+17 (1d8+16) and 
++5 quarterstaff +27/+22/+17 (1d8+10) and 
+5 slams +19 (1d6+5) with Greater Two-Weapon Fighting, or 
++5 quarterstaff +25/+20/+15 (1d8+16) and 
++5 defending longspear +25/+20/+15 (2d6+10) and 
+3 slams +19 (1d6+5) with Greater Two-Weapon Fighting, or  
+unarmed strike +24/+19/+14 (2d6+11 plus stunning fist), or 
+6 slams +22 (1d6+8) 
+Ranged +5 adaptive composite longbow +23/+18/+13 (2d6+16/×3) 
+Space 10 feet; Reach 10 feet (20 feet with longspear) 
+Special Attacks as above, plus breath weapon (60-foot line, 14d6 energy damage, Reflex DC 23 half, usable 
+1/day; only available if monstrous physique IV is used) 
+STATISTICS 
+Abilities Str 32 (+11), Dex 20 (+5), Con 20 (+5), Int 24 (+7), Wis 16 (+3), Cha 8 (–1) 
+Base Atk +14; CMB +26 (+31 with personal weapons); CMD 47 
+Skills Acrobatics +29, Climb +34, Escape Artist +28, Fly +27, Intimidate +22, Knowledge (arcana) +30, 
+Knowledge (history) +12, Knowledge (religion) +12, Perception +23, Spellcraft +30, Stealth +24, Swim 
++34 
+Encumbrance light 1,384 lb., medium 2,768 lb., heavy 4,160 lb.; Weight Carried 78 lb. 
+ 
+STAFF OF THE MAKHAI 
+Aura Strong Transmutation; CL 20th 
+Slot –; Price 85,000 gp; Weight 5 lb. 
+DESCRIPTION 
+A powerful weapon carved from the finger bone of a titan, this staff was created by Kang’s ancestors long ago 
+to aid them in the destruction of their enemies. Thought lost with the destruction of their homeland, Kang 
+succeeded in recovering the ancient weapon from the annals of history. This magical staff possesses the 
+following spells: 
+•  enlarge person (1 charge) 
+•  monstrous physique IV (2 charges) 
+•  transformation (3 charges) 
+CONSTRUCTION 
+Requirements Craft Staff, enlarge person, monstrous physique IV, transformation; Cost 45,000 gp 

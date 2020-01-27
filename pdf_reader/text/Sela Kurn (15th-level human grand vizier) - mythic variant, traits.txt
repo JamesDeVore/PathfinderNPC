@@ -1,0 +1,250 @@
+
+
+Sela Kurn 
+Male venerable human abjurer 15 (mythic guardian/archmage 10) 
+LE Medium humanoid (human) 
+Init +19; Senses all-around vision, arcane sight, darkvision 120 ft., see 
+invisibility; Perception +18 
+Languages Aboleth, Abyssal, Aklo, Aquan, Auran, Boggard, Celestial, 
+Common, Cyclops, Dark Folk, Draconic, Dwarven, Elven, Giant, 
+Gnome, Gnoll, Halfling, Ignan, Infernal, Orc, Sphinx, Strix, Sylvan, 
+Tengu, Terran, Undercommon 
+DEFENSE 
+AC 37, touch 19, flat-footed 33 (+13 armor, +5 deflection, +4 Dex, +5 
+natural) 
+hp 194 plus greater false life (15 HD) 
+Fort +13, Ref +13, Will +16; +3 vs. mind-affecting effects 
+Defensive Abilities enduring armor +13, fast healing 15, guardian’s call 
+(absorb blow), hard to kill, immortal, mind blank, mirror dodge, 
+mythic saves, true defender, unstoppable; DR 2/piercing or slashing, or 10/magic vs. ranged weapons, or 
+15/epic; Immune divination, drowning, flanking, pain effects; Resist crushing half, energy 10 (any one) 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good), swim 30 ft.; overland flight, ride the waves 
+Melee +1 quarterstaff +8/+3 (1d6+1) or 
++3 dagger +10/+5 (1d4+3/19-20) with greater magic weapon 
+Ranged +3 dagger +14 (1d4+3/19-20) with greater magic weapon 
+Special Attacks mythic power (23/hour, surge +1d12) 
+Abjurer Spell-like Abilities (CL 17
+th; Concentration +36) 
+18/day – diviner’s fortune (+5) 
+Abjurer Spells Prepared (CL 16th, CL 22nd w/greater dispel magic; Concentration +35) 
+8
+th  (3/day) – mind blank, moment of prescience, summon monster VIII 
+7th  (4/day) – banishment, elemental body IV, sequester, spell turning, waves of exhaustion 
+6
+th  (6/day) – disintegrate, globe of invulnerability, mass suggestion, mislead
+O, repulsion
+F 
+5th  (7/day) – dominate person, feeblemind (+1 CL/DC), hold monster, overland flight, quickened shield, 
+telekinesis, teleport 
+4
+th  (7/day) – dimensional anchor, enervation (2), greater false life
+UM, greater invisibility
+O, ride the 
+wavesUM 
+3rd  (7/day) – countless eyes
+UM, gaseous form, greater magic weapon, phantom steed, protection from 
+energy, shrink item, slow, vampiric touch 
+2
+nd (8/day) – cushioning bandsUM, delay painUM, protection from arrows, shatterO (2), spectral hand 
+1st  (8/day) – charm person, endure elements, feather fall, illusion of calmUC O, protection from good, 
+shield, unseen servant 
+0  (at will) – detect magic, detect poison, mage hand, prestidigitation 
+Arcane School abjuration (counterspell); O Opposition school spell Opposition Schools evocation, illusion 
+STATISTICS 
+Abilities Str 11 (+0), Dex 18 (+4), Con 18 (+4), Int 41 (+15), Wis 17 (+3), Cha 10 (+0) 
+Base Atk +7; CMB +22 (+25 with dagger); CMD 41 
+Feats Craft Wondrous Item, Destructive Dispel, Dispel FocusB, Dispel Synergy, Dual Path
+M (archmage), Extra 
+Path Ability
+M (3), Greater Dispel Focus, Greater Spell Specialization, Improved Counterspell
+B, 
+Knowledge is Power (arcane discovery), Quicken Spell
+B, Scribe Scroll
+B, Selective Spell
+B, Spell Focus 
+(abjuration), Spell Perfection (greater dispel magic), Spell Specialization (greater dispel magic), Widen 
+SpellB 
+
+Skills Appraise +23, Bluff +15, Diplomacy +15, Disguise +25, Fly +30 (overland flight), Knowledge (arcana) 
++28, Knowledge (dungeoneering) +18, Knowledge (geography) +18, Knowledge (history) +18, 
+
+Knowledge (local) +18, Knowledge (nobility) +18, Knowledge (planes) +18, Knowledge (religion) +18, 
+Linguistics +28, Perception +18, Sense Motive +18, Spellcraft +28, Stealth +19, Swim +8 
+SQ amazing initiative, arcane bond (ring), archmage arcana (arcane surge), deep understanding, flash of 
+omniscience (100%), flexible school (divination), force of will, legendary hero, recuperation, scrying 
+adept, traits (magical lineage: greater dispel magic, outlander: lore seeker [dispel magic, feeblemind, 
+greater dispel magic]) 
+Combat Gear 5-foot patches of lava (shrunk via shrink item 5), arcane spell foci (contingency, mage’s 
+magnificent mansion, repulsion), arcane spell scrolls (darkness 2, major image, shield 3, silent image 3, 
+teleport 2, true strike 3, ventriloquism 3), clay jug of green slime, fake scrolls (each with ten explosive 
+runes spells 10—often detonated with a deliberately failed greater dispel magic check), flasks of brown 
+mold (4), flasks of phosphorescent fungus (as torch, 4), flasks of yellow mold (4), hip flask filled with 
+oil of taggit (8 doses), paper airplanes (as fake scrolls above 10) , staff of the master (abjuration; 
+protection from evil [1 charge], protection from arrows [1 charge], protection from energy [2 charges], 
+CL 8
+th; doubles as a +1/+1 quarterstaff); Other Gear amulet of the grand vizier (as amulet of natural 
+armor +5, doubles as magic jar focus), belt of physical might +4 (dexterity, constitution), caster’s tattoo 
+(lesser, on chest), dagger, feather step slippers, figurine of wondrous power (silver raven), grand vizier’s 
+turban (as hat of disguise and orange prism ioun stone), headband of vast intelligence +6 (fly, 
+perception, stealth), masterwork backpack, ring of protection +5, spell component pouches (2), tender 
+(816gp, 1sp, 1cp), vizier’s robe (as otherworldly kimono) 
+Spellbook all core wizard spells of 8
+th-level and lower plus countless eyesUM, cushioning bandsUM, delay 
+painUM, greater darkvision
+UM, greater false life
+UM, illusion of calmUC, lesser astral projectionUM, and 
+ride the waves
+UM 
+Encumbrance light 43 lb., medium 86 lb., heavy 130 lb.; Weight Carried 49 lb. 8 oz. (excluding tender), 13 
+lb. without backack 
+SPECIAL ABILITIES 
+Absorb Blow (Su) As an immediate action, whenever you take hit point damage from a single source (such as a 
+dragon’s breath, a spell, or a weapon), you can expend one use of mythic power to reduce the damage 
+you take from that source by 5 per tier (to a minimum of 0 points of damage taken). If you have another 
+ability or effect that reduces damage (such as protection from energy), reduce the damage with the 
+absorb blow ability before applying any other damage-reducing effects. For every 10 points of damage 
+that this ability prevents, for 1 minute you gain DR 1/epic and 5 points of resistance against acid, cold, 
+electricity, fire, and sonic damage. The DR and resistances stack with any other DR and resistances that 
+you have. 
+Amazing Initiative (Ex) You gain a bonus on initiative checks equal to your mythic tier (included above). In 
+addition, as a free action on your turn, you can expend one use of mythic power to take an additional 
+standard action during that turn. This additional standard action can’t be used to cast a spell. You can’t 
+gain an extra action in this way more than once per round. 
+Arcane Surge (Su) As a swift action, you can expend one use of mythic power to cast any one arcane spell 
+without expending a prepared spell or spell slot. If you prepare spells, this spell must be one you 
+prepared today (even if you have already cast it); if you’re a spontaneous caster, this spell must be one 
+of your spells known. If the spell requires a saving throw, any non-mythic creatures affected by the spell 
+roll twice and take the lower result. If you must attempt a caster level check for the spell to overcome a 
+creature’s spell resistance, you can roll your caster level check twice (adding your tier to each) and take 
+the higher result. You can’t add a metamagic feat to a spell you cast using this ability. 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Counterspell Mastery (Su) You gain Improved Counterspell as a bonus feat. You may attempt to counterspell 
+an opponent’s spell once per day as an immediate action (instead of a readied action). You must use a 
+spell at least one level higher than the spell being countered to use this ability. You can use this ability 
+once per day at 6
+th-level, plus one additional time per day for every 4 levels beyond 6th. 
+Deep Understanding (Ex) You automatically identify any arcane spell cast within 60 feet of you if it’s on your 
+class’s spell list and you’re of a high enough level to cast it. Whenever you attempt to identify a non-
+artifact magic item using detect magic, you automatically learn its properties and command words in the 
+first round of the spell (no Spellcraft roll needed), but you can’t automatically determine whether it’s 
+cursed. 
+Disruption (Su) As a melee touch attack, you can place a disruptive field around the target. While the field is in 
+place, the target must make a concentration check to cast any spell or to use a spell-like ability in 
+addition to any other required concentration checks. The DC of this check is equal to 15 + twice the 
+spell’s level. If the check is failed, the target’s spell is wasted. This field lasts for a number of rounds 
+equal to ½ your wizard level (minimum 1). You can use this ability a number of times per day equal to 3 
++ your Intelligence modifier. 
+Diviner’s Fortune (Sp) When you activate this school power, you can touch any creature as a standard action 
+to give it an insight bonus on all of its attack rolls, skill checks, ability checks, and saving throws equal 
+to half your mythic tier (minimum +1) for 1 round. You can use this ability a number of times per day 
+equal to 3 + your Intelligence modifier. 
+Eldritch Breach (Su) When attempting a caster level check to dispel an effect, overcome spell resistance, or 
+otherwise  determine whether your magic affects a target (such as with knock or neutralize poison), roll 
+twice and take the higher result. 
+Enduring Armor (Su) You are protected by armor made of force. This armor grants you an armor bonus to AC 
+equal to 3 + your tier. This ability is an abjuration effect with a spell level equal to your tier. If this 
+armor is dispelled or otherwise ended, you can reactivate it as a swift action. 
+Fast Healing (Ex) As a swift action, you can expend one use of mythic power to gain fast healing 15 for 1 
+minute. 
+Flash of Omniscience (Ex) Your ability to recall information is astounding. When you take 10 on any 
+Intelligence-based skill check, add your tier to the result. As a free action, you can expend one use of 
+mythic power to ask one question as if using divination. The base chance for a correct answer is 70% + 
+your highest arcane caster level + your tier (maximum 100%). The answer doesn’t come from a divine 
+agent, but from your own native understanding; therefore, the answer is never cryptic. If you don’t get a 
+correct answer, it’s like failing a Knowledge check, and you can’t use this ability on this question again. 
+Flexible School (Ex) Select one wizard arcane school that is not your arcane school. You gain powers from that 
+arcane school, treating your tier as your wizard level for the purposes of these powers. Once you have 
+chosen the arcane school, it cannot be changed. You cannot select an arcane school that is one of your 
+opposition schools. You must have the arcane school class feature to select this ability. You can choose 
+this ability up to three times, each time selecting another arcane school other than your own. 
+Force of Will (Ex) You can exert your will to force events to unfold as you would like. As an immediate 
+action, you can expend one use of mythic power to reroll a d20 roll you just made, or force any non-
+mythic creature to reroll a d20 roll it just made. You can use this ability after the results are revealed. 
+Whoever rerolls a roll must take the result of the second roll, even if it is lower. 
+Forewarned (Su) You can always act in the surprise round even if you fail to make a Perception roll to notice a 
+foe, but you are still considered flat-footed until you take an action. In addition, you receive a bonus on 
+initiative checks equal to half your mythic tier (minimum +1, included above). 
+Greater Dispel Magic Your dispel check modifier with greater dispel magic is +34 (+36 if you have someone 
+magically imprisoned within your robe). Furthermore, you can always roll twice to dispel an effect due 
+to Eldritch Breach (see above). 
+Hard to Kill (Ex) Whenever you’re below 0 hit points, you automatically stabilize without needing to attempt a 
+Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose 
+
+hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points 
+when below 0 hit points. In addition, you don’t die until your total number of negative hit points is equal 
+to or greater than double your Constitution score. 
+Immortal (Su) If you are killed, you return to life 24 hours later, regardless of the condition of your body or the 
+means by which you were killed. When you return to life, you aren’t treated as if you had rested, and 
+don’t regain the use of abilities that recharge with rest until you next rest. This ability doesn’t apply if 
+you’re killed by a coup de grace or critical hit made with an artifact. 
+Impervious Body (Su) You gain DR 15/epic (included above). 
+Legendary Hero (Su) You regain uses of your mythic power at the rate of one use per hour, in addition to 
+completely refreshing your uses each day. 
+Lore Seeker You gain a +1 trait bonus on Knowledge (arcana) checks, and Knowledge (arcana) is a class skill 
+for you. If you cast arcane spells, pick three spells on your spell list. You are particularly adept at casting 
+these spells, so they function at +1 caster level when you cast them, and their save DCs (if any) gain a 
++1 bonus. 
+Magical Lineage When you apply metamagic feats to the above spell, treat its actual level as 1 lower for 
+determining the spell’s final adjusted level. 
+Mirror Dodge (Su) When hit by a melee or ranged attack, you can expend one use of mythic power as an 
+immediate action to replace yourself with an illusory duplicate and teleport to any open square within 30 
+feet of your current position. You take no damage from this attack, which instead destroys your illusory 
+duplicate (similar to mirror image). Using this ability requires a line of effect to the square into which 
+you teleport. 
+Mythic Saving Throws (Ex) Whenever you succeed at a saving throw against a spell or special ability, you 
+suffer no effects as long as that ability didn’t come from a mythic source (such as a creature with a 
+mythic tier or mythic ranks). If you fail a saving throw that results from a mythic source, you take the 
+full effects as normal. 
+Ongoing Spells You have cast the contingency and lesser astral projection spells upon yourself. Your real body 
+resides sequestered (as the spell) in a secure location while your projection travels the material plane. 
+Should you ever lose consciousness against your will you are affected as though you had cast magic jar 
+upon yourself, using your bejeweled amulet as the jar. Additionally, you have used the permanency spell 
+to give yourself the benefits of arcane sight, greater darkvision, and see invisibility. The following 
+spells are also regularly active upon your projection: countless eyes, cushioning bands, delay pain, 
+endure elements, greater false life, mind blank, moment of prescience, overland flight, protection from 
+arrows, and ride the waves. What’s more, you often keep a phantom steed and an unseen servant by 
+your side, mask all of your magical gear with magic aura, and conceal all of your magical writings with 
+illusory script (with the suggestion to return the item to Sela, explain the reason for taking it, and to 
+apologize), excluding those that are already subject to explosive runes. All ongoing spell effects function 
+at 16
+th-caster level (and thus require a DC 27 caster level check to dispel). Their respective effects are 
+included in the above stats where appropriate. 
+Perfect Preparation (Ex) You have discovered the secret to preparing spells without having to refer to outside 
+sources. You no longer need to prepare spells from a spellbook. You still must spend the normal amount 
+of time preparing spells. You may keep or discard your spellbook. 
+Recuperation (Ex) You are restored to full hit points after 8 hours of rest so long as you aren’t dead. In 
+addition, by expending one use of mythic power and resting for 1 hour, you regain a number of hit 
+points equal to half your full hit points (up to a maximum of your full hit points) and regain the use of 
+any class features that are limited to a certain number of uses per day (such as barbarian rage, bardic 
+performance, spells per day, and so on). This rest is treated as 8 hours of sleep for such abilities. This 
+rest doesn’t refresh uses of mythic power or any mythic abilities that are limited to a number of times 
+per day. 
+Resistance (Ex) You gain resistance 10 to an energy type of your choice, chosen when you prepare spells. This 
+resistance can be changed each day. Unless specified otherwise, assume it applies against fire. 
+
+Scrying Adept (Su) You are always aware when you are being observed via magic, as if you had a permanent 
+detect scrying. In addition, whenever you scry on a subject, treat the subject as one step more familiar to 
+you. Very familiar subjects get a –10 penalty on their save to avoid your scrying attempts. 
+Surge (Su) You can call upon your mythic power to overcome difficult challenges. You can expend one use of 
+mythic power to increase any d20 roll you just made by rolling 1d12 and adding it to the result. Using 
+this ability is an immediate action taken after the result of the original roll is revealed. This can change 
+the outcome of the roll.  
+True Defender (Su) Whenever you take damage from a melee or ranged attack scored by a nonmythic creature, 
+the damage is halved. This reduction is applied after all other reductions in damage, such as energy 
+resistance or damage reduction. Once per round, when an enemy scores a critical hit against you, you 
+regain one use of mythic power. 
+Unstoppable (Ex) You can expend one use of mythic power as a free action to immediately end any one of the 
+following conditions currently affecting you: bleed, blind, confused, cowering, dazed, dazzled, 
+deafened, entangled, exhausted, fascinated, fatigued, frightened, nauseated, panicked, paralyzed, shaken, 
+sickened, staggered, or stunned. All other conditions and effects remain, even those resulting from the 
+same spell or effect that caused the selected condition. You can use this ability at the start of your turn 
+even if a condition would prevent you from acting. 

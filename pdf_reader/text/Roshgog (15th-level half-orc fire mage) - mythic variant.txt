@@ -1,0 +1,126 @@
+
+
+Roshgog 
+Male mystic half-orc sorcerer 15 (crossblooded, mythic 
+archmage 3) 
+CN Medium humanoid (human, orc) 
+Init +11; Senses darkvision 90 ft., light sensitivity; Perception 
++0 
+Languages Common, Giant, Ignan, Orc 
+DEFENSE 
+AC 37, touch 23, flat-footed 35 (+8 armor, +5 deflection, +4 
+Dex, +1 insight, +9 natural) 
+hp 168 (15 HD) 
+Fort +17, Ref +15, Will +13 
+Defensive Abilities dragon resistances, mirror dodge; Resist fire 
+10 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee bite +15 (1d4+8) and 
+2 claws +15 (1d6+8 plus 1d6 fire) 
+Ranged by weapon +12 
+Special Attacks claws (2, 1d6, treated as magic weapons, 11 rounds/day), mythic power (9/day, surge +1d6) 
+Sorcerer Spells Known (CL 15
+th; Concentration +23) 
+7th  (5/day) – form of the dragon II
+B, summon monster VII 
+6th  (7/day) – chains of fireARG, siroccoAPG, transformation
+B M 
+5
+th  (7/day) – cloudkillB M, fire snakeAPG M, telekinesis, teleport 
+4th  (8/day) – fearB, fire shield, scorching ash form
+ARG, wall of fire 
+3rd  (8/day) – ash storm
+UM, fireballM, fly
+B M, heroism
+M 
+2nd (8/day) – boiling blood
+UM, burning gaze
+APG, fire breathAPG, resist energy
+B, see invisibility 
+1
+st  (8/day) – burning handsB, charm person, magic missile, shieldB, silent image, touch of 
+combustion
+ARG 
+0  (at will) – arcane mark, detect magic, detect poison, light, mage hand, prestidigitation, read magic, 
+spark
+APG 
+Bloodline draconic (brass dragon), orc 
+STATISTICS 
+Abilities Str 26 (+8), Dex 19 (+4), Con 22 (+6), Int 10 (+0), Wis 10 (+0), Cha 26 (+8) 
+Base Atk +7; CMB +15; CMD 35 
+Feats Craft Wondrous Item, Dazing Spell, Elemental Focus (fire), Endurance
+B, Eschew Materials
+B, Improved 
+Initiative
+B, Intensified Spell, Maximize Spell, Mythic Spell LoreM (2), Quicken Spell
+B, Razortusk, Spell 
+Perfection (fire snake), Spontaneous Metafocus (fire snake) 
+Skills Acrobatics +9 (+13 when jumping), Fly +12, Spellcraft +18, Use Magic Device +21 
+SQ amazing initiative, archmage arcana (mage strike), bloodline arcana (damage spells deal +1 damage per die, 
+fire spells deal +2 per die instead; darkvision, light sensitivity), energy conversion, orc blood, power of 
+giants, recuperation, sacred tattoo, shaman’s apprentice, speedy summons, weapon familiarity 
+Combat Gear divine spell scrolls (heal 3), wand of cure light wounds (50 charges); Other Gear amulet of 
+natural armor +5, belt of physical perfection +6, boots of striding and springing, bracers of armor +8, 
+cloak of resistance +5, dusty rose prism ioun stone, goblin fire drum (standard), headband of alluring 
+charisma +6, page of spell knowledge (shield), ring of protection +5, robe of arcane heritage, shirt of 
+immolation, tender (1,050gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 8 lb. 1 oz. (excluding tender) 
+   
+
+SPECIAL ABILITIES 
+Amazing Initiative (Ex) You gain a bonus on initiative checks equal to your mythic tier (included above). In 
+addition, as a free action on your turn, you can expend one use of mythic power to take an additional 
+standard action during that turn. This additional standard action can’t be used to cast a spell. You can’t 
+gain an extra action in this way more than once per round. 
+Claws (Ex/Su) You can grow claws as a free action. These claws are treated as natural weapons, allowing you 
+to make two claw attacks as a full attack action using your full base attack bonus. Each of these attacks 
+deals 1d6 points of damage plus your Strength modifier plus 1d6 fire damage (the fire damage is 
+considered a supernatural ability). These claws are considered magic weapons for the purpose of 
+overcoming DR. You can use your claws for a number of rounds per day equal to 3 + your Charisma 
+modifier. 
+Energy Conversion (Su) Whenever you cast a spell with the acid, cold, electricity, or fire descriptor, you can 
+expend one use of mythic power to switch the energy type to a different one of those energy types. If the 
+spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type 
+as a descriptor. All other effects of the spell remain unchanged. 
+Hard to Kill (Ex) Whenever you’re below 0 hit points, you automatically stabilize without needing to attempt a 
+Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose 
+hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points 
+when below 0 hit points. In addition, you don’t die until your total number of negative hit points is equal 
+to or greater than double your Constitution score. 
+Mage Strike (Su) As a swift action, you can expend one use of mythic power to make one melee attack. This is 
+in addition to any other attacks you make this round. If you expend one arcane spell that you’ve 
+prepared or arcane spell slot that you have available, you gain a bonus on the attack roll equal to double 
+the spell’s or slot’s level, and the attack deals an additional 2d6 points of energy damage (your choice of 
+acid, cold, electricity, or fire) per level of the spell or slot expended. The normal damage from this attack 
+bypasses all damage reduction, but the energy damage is still affected by resistances and immunities. 
+Mirror Dodge (Su) When hit by a melee or ranged attack, you can expend one use of mythic power as an 
+immediate action to replace yourself with an illusory duplicate and teleport to any open square within 30 
+feet of your current position. You take no damage from this attack, which instead destroys your illusory 
+duplicate (similar to mirror image). Using this ability requires a line of effect to the square into which 
+you teleport. 
+Mythic Power (Su) Each day, you can expend an amount of mythic power equal to 3 plus double your mythic 
+tier (5/day at 1st tier, 7/day at 2nd, etc.). This amount is your maximum amount of mythic power. If an 
+ability allows you to regain uses of your mythic power, you can never have more than this amount. 
+Power of Giants (Sp) You may grow to Large size as a standard action. At this size you gain a +6 size bonus to 
+Strength, a –2 penalty to Dexterity, a +4 size bonus to Constitution, and a +4 natural armor bonus. You 
+may return to your normal size as a standard action. You may remain in this size for up to 1 minute per 
+character level per day; this duration does not need to be consecutive, but it must be used in 1 minute 
+increments. 
+Recuperation (Ex) You are restored to full hit points after 8 hours of rest so long as you aren’t dead. In 
+addition, by expending one use of mythic power and resting for 1 hour, you regain a number of hit 
+points equal to half your full hit points (up to a maximum of your full hit points) and regain the use of 
+any class features that are limited to a certain number of uses per day (such as barbarian rage, bardic 
+performance, spells per day, and so on). This rest is treated as 8 hours of sleep for such abilities. This 
+rest doesn’t refresh uses of mythic power or any mythic abilities that are limited to a number of times 
+per day. 
+Sacred Tattoo You gain a +1 luck bonus to all saves (included above). 
+Shaman’s Apprentice Due to your stalwart ability to survive the years of harsh treatment that an 
+apprenticeship to an orc shaman entails, you gain Endurance as a bonus feat. 
+Speedy Summons (Su) When you cast a summon monster spell, the casting time is 1 standard action instead of 
+1 round. If you expend one use of mythic power, the casting time becomes 1 swift action.  
+
+Strength of the Beast (Ex) You gain a +4 inherent bonus to your Strength (included above). 
+Weapon Familiarity You are always proficient with greataxes and falchions, and treat any weapon with the 
+word “orc” in its name as a martial weapon. 
+ 

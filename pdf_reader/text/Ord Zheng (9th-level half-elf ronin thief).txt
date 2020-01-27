@@ -1,0 +1,54 @@
+
+
+Ord Zheng 
+Male half-elf fighter 9 
+CN Medium humanoid (elf, human) 
+Init +2; Senses low-light vision; Perception +14 
+Languages Common, Dwarven, Elven 
+Immune magical sleep effects 
+DEFENSE 
+AC 24, touch 13, flat-footed 22 (+10 armor, +1 deflection, +2 Dex, +1 
+natural) 
+hp 97 (9 HD) 
+Fort +9, Ref +6, Will +4; +3 vs. mind-affecting effects; +2 vs. enchantment 
+Defensive Abilities bravery +3 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +2 nodachi +21/+16 (1d10+14/18-20) or 
++2 nodachi +18/+13 (1d10+23/18-20) with Power Attack 
+Ranged mwk composite longbow +12/+7 (1d8+5/×3) 
+Special Attacks weapon training (heavy blades +4) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 14 (+2), Con 14 (+2), Int 14 (+2), Wis 10 (+0), Cha 14 (+2) 
+Base Atk +9; CMB +14 (+18 with heavy blades); CMD 27 (31 to disarm/sunder heavy blades) 
+Feats Advanced Armor Training
+B (3), Advanced Weapon Training
+B, Cunning, Fast Learner, Improved Bravery, 
+Improved Improvisation, Improvisation, Power Attack
+B 
+Skills Acrobatics +10, Appraise +8, Bluff +14, Climb +13, Craft (all) +8, Diplomacy +8, Disable Device +4, 
+Disguise +14, Escape Artist +10, Fly +4, Handle Animal +14, Heal +6, Intimidate +14, Knowledge 
+(engineering) +14, Knowledge (others) +8, Linguistics +8, Perception +14, Perform (all) +8, Profession 
+(all) +6, Ride +10, Sense Motive +6, Sleight of Hand +10, Spellcraft +6, Stealth +10, Survival +12, 
+Swim +13, Use Magic Device +8; Armor Check Penalty –4 
+SQ advanced armor training (adaptable training ×4), advanced weapon training (versatile training: 
+crossbows and heavy blades), armor training 2, focused study, reflexive improvisation 
+Combat Gear durable arrows (20), oils/potions (cure light wounds 5, enlarge person 5, grease 5, reduce 
+person 5); Other Gear +2 nodachi, +2 stone lamellar, amulet of natural armor +1, belt of giant 
+strength +2, cloak of resistance +1, fighter’s kit, gloves of dueling, jingasa of the fortunate soldier, 
+masterwork composite longbow (+5 strength bonus), sash of the war champion, tender (5pp, 10gp, 
+10sp) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 96 lb. 5 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 2 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 2. In addition, your speed is not 
+reduced for wearing medium or heavy armor. 
+Bravery (Ex) You gain a +3 bonus on Will saves against mind-affecting effects (included above). 
+Reflexive Improvisation You gain a +2 racial bonus on untrained skill checks. 
+Weapon Training (Ex) You receive a +4 bonus to attack and damage rolls when using heavy blades, to any 
+combat maneuver checks made with heavy blades, and to your Combat Maneuver Defense when 
+defending against disarm and sunder attempts made against heavy blades. 
+ 
+FIGHTER’S KIT 
+This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, rope, soap, torches 
+(10), trail rations (5 days), and a waterskin. 

@@ -1,0 +1,99 @@
+
+
+Grunk 
+  
+
+Male Goblin rogue 5/assassin 10 
+NE Small humanoid (goblinoid) 
+Init +5; Senses darkvision 60 ft.; Perception +19 
+Languages Common, Goblin, Orc 
+DEFENSE 
+AC 26, touch 17, flat-footed 20 (+9 armor, +5 Dex, +1 dodge, +1 size) 
+hp 152 (15 HD) 
+Fort +14, Ref +19, Will +10; +2 vs. enchantment, +5 vs. poison 
+Defensive Abilities evasion, improved uncanny dodge, trap sense +1 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee +4 rapier +21/+16 (1d4+9/18-20), or 
++4 short sword +20/+15 (1d4+9/19-20), or 
++4 rapier +19/+14 (1d4+9) and 
++4 short sword +18/+13 (1d4+9) with Improved Two-Weapon 
+Fighting 
+Ranged +1 composite shortbow +17/+12 (1d4+6/×3) 
+Special Attacks angel of death 1/day, death attack (DC 24, 1d6+10 rounds), quiet death, sneak attack +8d6, 
+swift death 1/day, true death (DC 25) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 20 (+5), Con 20 (+5), Int 14 (+2), Wis 13 (+1), Cha 8 (–1) 
+Base Atk +10; CMB +14; CMD 35 
+Feats Ability Focus (death attack), Combat Reflexes (6 AoO’s/round), Defensive Combat Training, Dodge, 
+Double Slice, Improved Two-Weapon Fighting, Skill Focus (use magic device), Two-Weapon Fighting, 
+Weapon Focus (rapier
+B) 
+Skills Acrobatics +23 (+32 when jumping), Climb +13, Disable Device +20, Disguise +4 (+14 with disguise 
+self), Escape Artist +18, Knowledge (dungeoneering) +20, Perception +19, Ride +9, Sense Motive +7, 
+Sleight of Hand +13 (+23 to conceal weapons), Stealth +41, Use Magic Device +23; Racial Modifiers 
++4 Ride, +4 Stealth 
+SQ hidden weapons, hide in plain sight, poison use, rogue talents (bleeding attack +8, weapon training), still 
+mind 
+Combat Gear arrows (20), potions of cure moderate wounds (7), wand of fly (25 charges), wand of haste (25 
+charges); Other Gear +1 composite shortbow (+5 strength bonus), +4 rapier, +4 short sword, +5 
+mithral shirt, belt of physical might +6 (strength, constitution), boots of striding and springing, cloak of 
+resistance +5, masterwork thieves’ tools, ring of chameleon power, tender (44gp) 
+Encumbrance light 99 lb. 12 oz., medium 199 lb. 8 oz., heavy 300 lb.; Weight Carried 15 lb. 10 oz. 
+(excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Angel of Death (Su) Once per day, when you make a successful death attack, you can cause the target’s body to crumble 
+to dust. This prevents raise dead and resurrection (although true resurrection works as normal). You must 
+declare the use of this ability before the attack is made. If the attack misses or the target successfully saves against 
+the death attack, this ability is wasted with no effect. 
+Bleeding Attack You can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the 
+target to take 1 additional point of damage each round for each die of sneak attack you possess. Bleeding creatures 
+take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 
+15 Heal check or the application of any effect that heals hit point damage. Bleeding damage from this ability does 
+not stack with itself. Bleeding damage bypasses any damage reduction the creature might possess. 
+Death Attack (Ex) If you study your victim for 3 rounds and then make a sneak attack with a melee weapon that 
+successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or killing the 
+target (your choice). Studying the victim is a standard action. The death attack fails if the target detects you or 
+recognizes you as an enemy (although the attack might still be a sneak attack if the target is denied his Dexterity 
+bonus to his Armor Class or is flanked). If the victim of such a death attack fails a Fortitude save (DC 24) against 
+the kill effect, they die. If the saving throw fails against the paralysis effect, the victim is rendered helpless and 
+unable to act for 1d6+10 rounds. If the victim’s saving throw succeeds, the attack is just a normal sneak attack. 
+Once you have completed the 3 rounds of study, you must make the death attack within the next 3 rounds. If a 
+death attack is attempted and fails (the victim makes their save) or if you do not launch the attack within 3 rounds 
+of completing the study, 3 new rounds of study are required before you can attempt another death attack. 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or no 
+armor. If you are helpless, you do not gain the benefit of evasion. 
+Hidden Weapons (Ex) You add your assassin levels to all Sleight of Hand checks made to conceal weapons on your 
+person (included above). 
+Hide in Plain Sight (Su) You can use the Stealth skill even while being observed. As long as you are within 10 feet of 
+some sort of shadow or an area of dim light, you can hide yourself from view in the open without having anything 
+to actually hide behind. You cannot, however, hide in your own shadow. 
+Improved Uncanny Dodge (Ex) You retain your Dexterity bonus to AC even if you are caught flat-footed or struck by 
+an invisible attacker. However, you still lose your Dexterity bonus to AC if immobilized. In addition, you cannot 
+be flanked, denying rogues and similar creatures the ability to sneak attack you unless happen to be a rogue (or 
+similar character with access to sneak attack) of at least 19th-level. 
+Poison Use You are trained in the use of poison and cannot accidentally poison yourself when applying poison to a blade. 
+Quiet Death (Ex) Whenever you kill a creature using your death attack during a surprise round, you can also make a 
+Stealth check, opposed by the Perception checks of those in the vicinity to prevent them from identifying you as 
+the assailant. If successful, those nearby might not even notice that the target is dead for a few moments, allowing 
+you to avoid detection. 
+Save Bonus against Poison You gain a +5 saving throw bonus against poisons (included above). 
+Sneak Attack Your attack deals 8d6 extra damage anytime your target would be denied a Dexterity bonus to AC 
+(whether the target actually has a Dexterity bonus or not), or when you flank your target. Should you score a 
+critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as sneak attacks only 
+if the target is within 30 feet. With a weapon that deals nonlethal damage (like a sap, whip, or an unarmed strike), 
+you can make a sneak attack that deals nonlethal damage instead of lethal damage. You cannot use a weapon that 
+deals lethal damage to deal nonlethal damage in a sneak attack, not even with the usual –4 penalty. You must be 
+able to see the target well enough to pick out a vital spot and must be able to reach such a spot. You cannot sneak 
+attack while striking a creature with concealment. 
+Still Mind (Ex) You gain a +2 bonus on saving throws against enchantment spells and effects (included above). 
+Swift Death (Ex) Once per day, you can make a death attack against a foe without studying the foe beforehand. You must 
+still sneak attack your foe using a melee weapon that deals damage. 
+True Death (Su) Anyone slain by your death attack becomes more difficult to bring back from the dead. Spellcasters 
+attempting to bring a creature back from the dead using raise dead or similar magic must make a caster level 
+check (DC 25) or the spell fails and the material component is wasted. Casting remove curse the round before 
+attempting to bring the creature back from the dead negates this chance. The DC of the remove curse is 20. 
+ 

@@ -1,0 +1,77 @@
+
+
+She’er Falen 
+  
+
+Female ifrit sorcerer 20 
+CN Medium outsider (native) 
+Init +15; Senses darkvision 60 ft.; Perception –1 
+Languages Common, Elven, Halfling, Ignan 
+DEFENSE 
+AC 37, touch 28, flat-footed 30 (+8 armor, +5 deflection, + Dex, +1 dodge, +1 
+insight, +5 natural) 
+hp 192 (20 HD) 
+Fort +16, Ref +18, Will +16 
+Defensive Abilities elemental body, evasion; Immune critical hits, fire, sneak 
+attacks; SR 31 
+OFFENSE 
+Speed 70 ft. (14 squares), fly 40 ft. (good); overland flight 
+Melee by weapon +10 
+Ranged  by weapon+17, or 
+Ranged elemental ray +17 ranged touch (1d6+12 fire) 
+Bloodline Spell-Like Abilities (CL 25th except where noted; Concentration +36 or +40 with combat casting) 
+15/day – elemental ray 
+3/day –  elemental blast 
+1/day – burning hands (CL 20th; Concentration +32 or +36 with combat casting) 
+Sorcerer Spells Known (CL 21st; Concentration +33 or +37 with combat casting) 
+9th-level (7/day) – elemental swarmB, shapechangeF, summon monster IX, time stop 
+8th-level (7/day) – polar ray, polymorph any object, prismatic wall, summon monster VIIIB (elementals only) 
+7th-level (8/day) – elemental body IVB, Falen’s phoenix (as delayed blast fireball), prismatic spray, reverse 
+gravity 
+6th-level (8/day) – beast shape IV, elemental body IIIB, globe of invulnerability, greater dispel magic 
+5th-level (9/day) – baleful polymorph, cone of cold, elemental body IIB, overland flight, teleport 
+4th-level (8/day) – charm monster, elemental body IB, fire shield, greater invisibility, wall of fire 
+3rd-level (15/day) – Falen’s firebird (as fireball), fly, haste, lightning bolt, protection from energyB 
+2nd-level (9/day) – acid arrow, flaming sphere, pyrotechnics, scorching rayB, see invisibility, web 
+1st-level (10/day) – burning handsB, expeditious retreat, feather fall, mage armor, magic missile, shield 
+0-level (at will) – arcane mark, detect magic, flare, light, mage hand, mending, message, prestidigitation, read 
+magic 
+Bloodline elemental (fire) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 24 (+7), Con 20 (+5), Int 14 (+2), Wis 8 (–1), Cha 32 (+11) 
+Base Atk +10; CMB +10; CMD 33 
+Feats Burning Spell, Craft Wondrous Item, DodgeB, Elemental Focus (fire), Empower SpellB, Eschew MaterialsB, 
+Greater Elemental Focus (fire), Improved InitiativeB, Maximize Spell, Quicken Spell, Silent Spell, Spell 
+Perfection (Falen’s firebird/fireball), Still Spell, Widen Spell 
+Skills Acrobatics +12 (+33 when jumping), Bluff +24, Diplomacy +21, Disguise +21, Intimidate +24, Knowledge 
+(planes) +25, Spellcraft +25, Use Magic Device +24 
+SQ bloodline arcana, elemental body, elemental movement, wildfire heart 
+Combat Gear focus components (shapechange), wand of cure light wounds (50 charges), wand of cure moderate 
+wounds (50 charges); Other Gear bag of holding (type I), belt of physical might +6 (dexterity, constitution), 
+boots of striding and springing, bottle of air, bracers of armor +8, cloak of resistance +5, decanters of endless 
+water (3), eversmoking bottle, glove of storing, hat of disguise, headband of alluring charisma +6, ioun stones 
+(dusty rose prism, orange prism), medallion of thoughts (doubles as an amulet of natural armor +5), 
+metamagic rods (greater maximize, greater quicken), ring of evasion (doubles as ring of protection +5), ring of 
+wizardry III, robe of arcane heritage, She’er’s mantle of denial (as mantle of spell resistance, but SR 31 & CL 
+19th), tender (1,275gp), tome of leadership and influence +5 (already read) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 31 lb. (excluding tender) 
+ 
+ SPECIALABILITIES 
+Bloodline Arcana Whenever you cast a spell that deals energy damage, you can change the type of damage to fire. 
+This also changes the spell’s type to fire. 
+Elemental Affinity (Ex) You treat your Charisma score as 2 points higher for all sorcerer spells and class abilities. 
+Elemental Blast (Sp) You can unleash a blast of elemental power three times per day. This 20-foot-radius burst does 
+28d6 points of fire damage. Those caught in the area of your blast receive a Reflex save (DC 36) for half 
+damage. Creatures that fail their saves gain vulnerability to fire until the end of your next turn. This ability has 
+a maximum range of 60 feet. (You are treated as eight levels higher than normal due to your favored class 
+bonus and robe of arcane heritage.) 
+Elemental Body (Su) You gain immunity to sneak attacks, critical hits, and fire damage. 
+Elemental Movement (Su) Your base speed increases by 30 feet (included above). 
+Elemental Ray (Sp) Twelve times per day you can unleash an elemental ray as a standard action, targeting any foe 
+within 30 feet as a ranged touch attack. This ray deals 1d6+14 points of fire damage. (You are treated as eight 
+levels higher than normal due to your favored class bonus and robe of arcane heritage.) 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. If you are helpless or are not wearing your ring of evasion, you do 
+not gain the benefit of evasion. 
+Wildfire Heart You gain a +4 racial bonus on initiative checks. 
+ 

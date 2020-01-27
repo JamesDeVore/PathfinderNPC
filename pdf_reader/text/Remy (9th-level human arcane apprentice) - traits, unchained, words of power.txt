@@ -1,0 +1,96 @@
+
+
+Remy 
+Male human unchained rogue 3/sorcerer 4/arcane trickster 2 
+NE Medium humanoid 
+Init +3; Senses trapfinding; Perception +14 
+Languages Common, Draconic, Dwarven, Elven, Gnome, Halfling, Orc 
+DEFENSE 
+AC 17, touch 13, flat-footed 14 (+4 armor, +3 Dex); mage armor 
+hp 65 (9 HD) 
+Fort +8, Ref +11, Will +11 
+Defensive Abilities danger sense +1, evasion 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 rapier +9 (1d6+4/18-20) or 
+corrosive touch +8 touch (5d4 acid) 
+Ranged extended corrosive bolt +8 touch (5d4 acid each round for 4 rounds) or 
+acidic ray +8 touch (1d6+2 acid) or 
+dart +8 (1d4 plus poison) 
+Space 5 ft.; Reach 5 ft. (10 ft. with corrosive touch) 
+Special Attacks finesse training (rapier), sneak attack +4d6 
+Bloodline Spell-like Abilities (CL 6
+th; Concentration +9) 
+5/day – acidic ray (1d6+2 acid) 
+Sorcerer Spells Known (CL 8
+th; Concentration +11) 
+3rd  (4/day) – shrink item 
+2nd (6/day) – alter self, corrosive bolt (word of power), invisibility 
+1st  (8/day) – corrosive touch
+UM, enlarge personB, mage armor, magic missile, shield 
+0  (at will) – acid splash, detect magic, ghost sound, light, mage hand, open/close, prestidigitation 
+Bloodline aberrant 
+STATISTICS 
+Abilities Str 10 (+0), Dex 16 (+3), Con 14 (+2), Int 14 (+2), Wis 14 (+2), Cha 20 (+5) 
+Base Atk +5; CMB +5 (+9 with rapier); CMD 18 
+Feats Accomplished Sneak Attacker, Craft Wand, Deft Hands, Eschew Materials
+B, Experimental Spellcaster 
+(corrosive bolt), Extend Spell, Skill Focus (disable device
+B, sleight of handB), Weapon Finesse
+B 
+Skills Acrobatics +11, Bluff +12, Disable Device +24 (+25 vs. traps), Disguise +10 (+20 alter self), Escape 
+Artist +18, Knowledge (arcana) +12, Linguistics +10, Perception +14 (+15 vs. surprise or traps), Sense 
+Motive +8, Sleight of Hand +20, Spellcraft +14 
+SQ bloodline arcana (extend polymorph spells), focused study, ranged legerdemain, rogue talents (bleeding 
+attack), trapfinding +1, traits (dirty fighter, magical knack: sorcerer) 
+Combat Gear poisons (large scorpion venom 10), potions (cure light wounds 10), wand of extended corrosive 
+bolt (50 charges), wand of invisibility (50 charges); Other Gear +1 rapier, chime of opening (10 uses), 
+cloak of resistance +3, darts (10), disguise kit (10 uses), headband of alluring charisma +4, tender 
+(50gp), vest of escape 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 19 lb. 6 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Bleeding Attack Your sneak attacks cause the target to take 1 additional point of damage each round for each 
+die of your sneak attack. Bleeding creatures take that amount of damage every round at the start of each 
+of their turns. The bleeding can be stopped by a successful DC 15 Heal check or the application of any 
+effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed 
+damage bypasses any damage reduction the creature might possess. 
+Bloodline Arcana Whenever you cast a spell of the polymorph subschool increase the duration of the spell by 
+50% (minimum 1 round). This bonus does not stack with the increase granted by the Extend Spell feat. 
+
+Danger Sense (Ex) You gain a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against 
+attacks made by traps. In addition, you gain a +1 bonus on Perception checks to avoid being surprised by 
+a foe. This ability counts as trap sense for the purpose of any feat or class prerequisite, and can be 
+replaced by any archetype class feature that replaces trap sense. The bonuses gained from this ability 
+stack with those gained from trap sense (from another class). 
+Dirty Fighter When you hit a foe you are flanking, you deal 1 additional point of damage (this damage is 
+added to your base damage, and is multiplied on a critical hit). This additional damage is a trait bonus. 
+Evasion (Ex) If you succeed at a Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or 
+no armor. You do not gain the benefit of evasion while helpless. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, you can select any one type of 
+weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it 
+cannot be changed. Whenever you make a successful melee attack with the selected weapon, you add 
+your Dexterity modifier instead of your Strength modifier to the damage roll. If any effect would 
+prevent you from adding your Strength modifier to the damage roll, you do not add your Dexterity 
+modifier.  
+Long Limbs (Ex) Your reach increases by 5 feet whenever you make a melee touch attack. This ability does 
+not otherwise increase your threatened area. 
+Magical Knack Pick a class when you gain this trait—your caster level in that class gains a +2 trait bonus as 
+long as this bonus doesn’t raise your caster level above your current Hit Dice. 
+Poisons You carry several doses of large scorpion venom, which you typically coat your weapons with: 
+Large scorpion venom—injury; save Fort DC 17, frequency 1/round for 6 rounds, effect 1d2 Str, cure 1 
+save. 
+Ranged Legerdemain (Su) You can use Disable Device and Sleight of Hand at a range of 30 feet. Working at 
+a distance increases the normal skill check DC by 5, and you cannot take 10 on this check. Any object to 
+be manipulated must weigh 5 pounds or less. 
+Sneak Attack Your attack deals an extra 4d6 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+Trapfinding You add half your rogue level to Perception check to find traps and to Disable Device checks to 
+disable traps (included above). You may attempt to disarm magical traps. 

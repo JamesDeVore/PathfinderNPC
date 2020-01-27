@@ -1,0 +1,340 @@
+
+
+Sin 
+Female caligni chaokineticist 16 
+CE Medium humanoid (dark folk) 
+Init +7; Senses see in darkness; Perception +21 
+Languages Aklo, Common 
+DEFENSE 
+AC 37, touch 22, flat-footed 30 (+8 armor, +5 deflection, +7 Dex, +5 natural, 
++2 shield) 
+hp 288 (16 HD), maxed hit points via retraining 
+Fort +24, Ref +22, Will +12; +1 bonus vs. emotion effects 
+Defensive Abilities fortification (5%); Resist negative energy 2 
+Weaknesses curse of drowning, light sensitivity 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee gravity blade +20/+15/+10 (8d6+18 bludgeoning) or 
+negative blade +20/+15/+10 touch (8d6+5 negative energy) or 
+void blade +20/+15/+10 (16d6+26 half bludgeoning, half negative energy) 
+Ranged gravity blast +20 (8d6+18 bludgeoning) or 
+negative blast +20 touch (8d6+5 negative energy) or 
+void blast +20 (16d6+26 half bludgeoning, half negative energy) 
+Special Attacks death throes (DC 27), elemental overflow +5, kinetic blast, metakinesis (empower, maximize, 
+quicken) 
+Kineticist Wild Talents Known (CL 17
+th; Concentration +26) 
+Defense – emptiness (negative energy resistance 2, fortification 5%, +1 saves vs. emotion effects) 
+Infusions – darkness infusion (2 burn), grappling infusion (3 burn, +28 modifier), greater darkness 
+infusion (4 burn), kinetic blade (1 burn), kinetic whip (2 burn), pulling infusion (1 burn, +22 
+modifier), pushing infusion (1 burn, +22 modifier), singularity (3 burn, Ref DC 27 half), wall (3 
+burn, 9 rounds) 
+Kinetic Blasts – gravity blast, negative blast, void blast (2 burn) 
+Utility – animate dead, basic chaokinesis, gravity control, greater gravity control, greater skilled 
+kineticist (stealth), kinetic form, reverse shift (16 rounds), skilled kineticist, suffocate (Fort DC 
+25 partial) 
+STATISTICS 
+Abilities Str 8 (–1), Dex 24 (+7), Con 28 (+9), Int 12 (+1), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +12; CMB +11 (+19 with Weapon Finesse); CMD 33 
+Feats Blind-Fight, Combat Expertise, Combat Reflexes, Extra Wild Talent, Moonlight Stalker, Point Blank 
+Shot, Precise Shot, Weapon Finesse 
+Skills Bluff +3, Escape Artist +34, Intimidate +19, Perception +21, Stealth +31, Use Magic Device +19 
+SQ basic chaokinesis, burn (5 points/round, maximum 12), composite specialization, expanded element 
+(void, void), gather power, infusion specialization 4, internal buffer 3, supercharge 
+Gear amulet of natural armor +5, belt of physical might +6 (Dexterity, Constitution), book of night without 
+moon (see below), bracers of armor +8, cloak of resistance +5, headband of vast intelligence +2 
+(intimidate), ring of force shield, ring of protection +5, undead steed (fjord linnorm bloody skeleton; see 
+below) 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 8 lb. 
+   
+
+Sin (with elemental overflow) 
+As above, except as follows… 
+Init +10; Senses see in darkness; Perception +21 
+DEFENSE 
+AC 40, touch 25, flat-footed 30 (+8 armor, +5 
+deflection, +10 Dex, +5 natural, +2 
+shield) 
+hp 320 with 7 burn (16 HD), maxed hit points 
+via retraining 
+Fort +26, Ref +25, Will +12; +8 bonus vs. 
+emotion effects 
+Defensive Abilities fortification (75%); Resist negative energy 16 
+OFFENSE 
+Melee gravity blade +28/+23/+18 (8d6+20 bludgeoning) or 
+negative blade +28/+23/+18 touch (8d6+6 negative energy) or 
+void blade +28/+23/+18 (16d6+27 half bludgeoning, half negative energy) 
+Ranged gravity blast +28 (8d6+29 bludgeoning) or 
+negative blast +28 touch (8d6+16 negative energy) or 
+void blast +28 (16d6+37 half bludgeoning, half negative energy) 
+Special Attacks death throes (DC 28), elemental overflow +5, kinetic blast, metakinesis (empower, maximize, 
+quicken) 
+Kineticist Wild Talents Known (CL 17
+th; Concentration +28) 
+Defense – emptiness (base negative energy resistance 2, fortification 5%, +1 saves vs. emotion effects) 
+Infusions – darkness infusion (2 burn), grappling infusion (3 burn, +35 modifier), greater darkness 
+infusion (4 burn), kinetic blade (1 burn), kinetic whip (2 burn), pulling infusion (1 burn, +29 
+modifier), pushing infusion (1 burn, +29 modifier), singularity (3 burn, Ref DC 30 half), wall (3 
+burn, 11 rounds) 
+Kinetic Blasts – gravity blast, negative blast, void blast (2 burn) 
+Utility – animate dead, basic chaokinesis, gravity control, greater gravity control, greater skilled 
+kineticist (stealth), kinetic form, reverse shift (16 rounds), skilled kineticist, suffocate (Fort DC 
+27 partial) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 30 (+10), Con 32 (+11), Int 12 (+1), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +12; CMB +12 (+22 with Weapon Finesse); CMD 37 
+Skills Bluff +3, Escape Artist +37, Intimidate +19, Perception +21, Stealth +34, Use Magic Device +19 
+SQ basic chaokinesis, burn (5 points/round, maximum 14), composite specialization, expanded element 
+(void, void), gather power, infusion specialization 4, internal buffer 3, supercharge 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 8 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Burn (Ex) Some of your wild talents allow you to accept burn in exchange for a greater effect, while others 
+require you to accept a certain amount of burn to use that talent at all. For each point of burn you accept, 
+you take 1 point of nonlethal damage per character level. This damage can’t be healed by any means 
+other than getting a full night’s rest, which removes all burn and associated nonlethal damage. Nonlethal 
+damage from burn can’t be reduced or redirected, and if you are incapable of taking nonlethal damage 
+then you can’t accept burn. You can accept only 5 points of burn per round. You can’t choose to accept 
+burn if it would put your total number of points of burn higher than 3 + you Constitution modifier 
+(though you can be forced to accept more burn from a source outside your control). Whilst you possess 
+burn you can never benefit from abilities that allow you to ignore or alter the affects you receive from 
+nonlethal damage. 
+
+Composite Specialization (Su) You reduce the burn cost of all composite blasts by 1 point. This can’t reduce 
+the cost of a composite blast below 0 points. 
+Death Curse (Su) You suffer from a terrible curse for having slain a fjord linnorm. 
+Curse of Drowning: save Will DC 26; effect you can never gain the benefit of water breathing for as 
+long as you suffer from the curse. In addition, you can hold your breath only half as long as normal, and 
+whenever you hold your breath, you function as though sickened. 
+Death Throes (Su) When you are slain, your body combusts in a flash of searing light. All creatures within a 
+5-foot burst must succeed at a Fortitude save (DC = 10 + ½ your Hit Dice + your Constitution bonus) or 
+be dazzled for 1d4 rounds. The corpse left behind is a third of your size, withered and no longer 
+recognizable. Raise dead and similar spells cast upon these remains restore you as normal. 
+Elemental Defense (Su) You have the following defense wild talent. 
+Emptiness (Su): Your body becomes an empty husk, fueled by an internal void. You gain negative 
+energy resistance 2, a 5% chance to ignore critical hits and sneak attacks, and a +1 bonus on Will saves 
+against emotion effects. By accepting 1 point of burn, you can increase the resistance to negative energy 
+by 2, the chance to ignore critical hits and sneak attacks by 5%, and the bonus on Will saves against 
+emotion effects by 1 until the next time your burn is removed. The chance of ignoring critical hits and 
+sneak attacks granted by this wild talent stacks with the chance granted by elemental overflow to a 
+maximum of 100%. When you accept burn while using a void wild talent, your bonus on Will saves 
+applies against all mind-affecting effects for 1 round. You can dismiss and restore this effect as an 
+immediate action. 
+Elemental Overflow (Ex) Your body surges with energy from your element whenever you accept burn, 
+causing you to glow with a nimbus of fire, weep water from your pores, or experience some other 
+thematic effect. You receive a bonus on your attack rolls with kinetic blasts equal to the total number of 
+points of burn you currently possess, to a maximum bonus of +1 for every 3 kineticist levels you 
+possess. You also receive a bonus on damage rolls with your kinetic blast equal to double the bonus on 
+attack rolls. You can suppress the visual effects of elemental overflow by concentrating for 1 full round, 
+but doing so suppresses all of this ability’s other benefits, as well. The next time you use any wild talent, 
+the visual effects and benefits return instantly. As your body becomes more and more suffused with your 
+element, you begin to gain more powerful benefits. Whenever you possess at least 3 points of burn, you 
+gain a +2 size bonus to two physical ability scores of your choice. Whenever you have at least 5 points 
+of burn, these bonuses increase to a +4 size bonus to one physical ability score of your choice and a +2 
+size bonus to each of your other two physical ability scores. Whenever you have at least 7 points of 
+burn, these bonuses increase to a +6 size bonus to one physical ability score of your choice, a +4 size 
+bonus to a second physical ability score of your choice, and a +2 size bonus to the remaining physical 
+ability score. You also gain a chance to ignore the effects of a critical hit or sneak attack equal to 5% × 
+your current number of points of burn. 
+Gather Power (Su) If you have both hands free you can gather energy or elemental matter as a move action. 
+Gathering power creates an extremely loud, visible display in a 20-foot radius centered on you, as the 
+energy or matter swirls around you. Gathering power in this way allows you to reduce the total burn cost 
+of a blast wild talent you use in the same round by 1 point. You can instead gather power for 1 full 
+round in order to reduce the total burn cost of a blast wild talent used on your next turn by 2 points (to a 
+minimum of 0 points). If you do so, you can also gather power as a move action during your next turn to 
+reduce the burn cost by a total of 3 points. If you take damage during or after gathering power and 
+before using the kinetic blast that releases it, you must succeed at a concentration check (DC = 10 + 
+damage taken + effective spell level of your kinetic blast) or lose the energy in a wild surge that forces 
+you to accept a number of points of burn equal to the number of points by which your gathered power 
+would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 
+points. 
+Infusion Specialization (Ex) Whenever you use one or more infusions with a blast, you reduce the combined 
+burn cost of the infusions by 4. This can’t reduce the total cost of the infusions used below 0. 
+Infusions (Su) The following infusions alter your blasts. You can apply at most one form infusion and one 
+substance infusion to your blasts. 
+
+Darkness Infusion (substance): Your kinetic blast creates darkness. Treat each square of the path of 
+your ranged attack kinetic blast, the target square of your melee attack kinetic blast, or the area of your 
+area of effect kinetic blast as the center of a darkness effect that lasts until the end of your next turn. 
+This effect counts as a 3
+rd-level darkness spell. 
+Darkness Infusion, Greater (substance): Your blast creates supernatural darkness, as per the 
+darkness infusion, except it acts as deeper darkness and counts as a 6th-level darkness spell. 
+ Grappling Infusion (substance): Your cloud, deadly earth, or wall blast grows tendrils that hold 
+your enemies in place. Whenever a creature takes damage from the infused blast, you can attempt a 
+combat maneuver check to have the blast grapple that opponent. Your bonus on this check is equal to 2 
++ your kineticist level + your Constitution modifier (treat the blast as a Huge creature). The blast only 
+grapples opponents; it can’t perform other functions of grapple maneuvers such as pinning or moving 
+the opponent. If the blast is already grappling an opponent, it receives a +5 bonus on its combat 
+maneuver check to maintain the grapple, as normal. You can use this infusion only if you also use the 
+cloud, deadly earth, or wall form infusion. 
+Kinetic Blade (form): By accepting 1 point of burn you form a weapon using your kinetic abilities. 
+You create a non-reach, light or one-handed weapon in your hand formed of pure energy or elemental 
+matter. The kinetic blade’s shape is purely cosmetic and doesn’t affect the damage dice, critical threat 
+range, or critical multiplier of the kinetic blade, nor does it grant the kinetic blade any weapon special 
+features. You can use this form infusion once as part of an attack action, a charge action, or a full-attack 
+action in order to make melee attacks with your kinetic blade. Since it’s part of another action (and isn’t 
+an action itself), using this wild talent doesn’t provoke any additional attacks of opportunity. The kinetic 
+blade deals your kinetic blast damage on each hit (applying any modifiers to your kinetic blast’s damage 
+as normal, but not your Strength modifier). The blade disappears at the end of your turn. The weapon 
+deals the same damage type that your kinetic blast deals, and it interacts with Armor Class and spell 
+resistance as normal for a blast of its type. The kinetic blade doesn’t add the damage bonus from 
+elemental overflow. 
+Kinetic Whip (form): By accepting 2 points of burn, you form a long tendril of energy or elemental 
+matter. This functions as kinetic blade but counts as a reach weapon appropriate for your size. Unlike 
+most reach weapons, the kinetic whip can also attack nearby creatures. The kinetic whip disappears at 
+the beginning of your next turn, but in the intervening time, it threatens all squares within its reach, 
+allowing you to make attacks of opportunity that deal the whip’s usual damage. 
+Pulling Infusion (substance): Your kinetic blast pulls foes toward you. Attempt a dragAPG combat 
+maneuver check against each target damaged by your infused blast (the blast always drags the foe closer 
+to you), using your Constitution modifier instead of your Strength modifier to determine your CMB. 
+This infusion can pull a foe a maximum of 5 feet. You can increase the maximum distance pulled by 5 
+feet per additional point of burn accepted. 
+Pushing (substance): The momentum of your kinetic blast knocks foes back. Attempt a bull rush 
+combat maneuver check against each target damaged by your infused blast, using your Constitution 
+modifier instead of your Strength modifier to determine your bonus. This infusion can push a foe back 
+by a maximum of 5 feet. You can increase the burn cost of this infusion to increase the maximum 
+distance pushed by 5 feet per additional point of burn accepted. You can’t use this infusion with a form 
+infusion such as cloud that causes your kinetic blast to lack a clear direction to push. 
+Singularity (form): You create a growing singularity. Choose a grid intersection within 30 feet. All 
+creatures and objects in a 5-foot-radius burst centered on the intersection take ¼ your blast’s normal 
+amount of damage (or half damage for a negative blast). On your next turn, the singularity deals damage 
+in a 10-foot-radius burst, and on your turn after that, it deals damage in a 15-foot-radius burst. The DC is 
+Dexterity-based. 
+Wall (form): You create a wall of churning elements, flensing debris, or roiling energy. The wall 
+appears within 30 feet and can be either up to 10 feet high and up to 120 feet long or up to 20 feet high 
+and up to 60 feet long. All creatures and objects in one of the wall’s squares when you create it take ¼ 
+the normal damage from your blast with no saving throw (or half the normal damage for an energy 
+blast). Anytime a creature crosses the wall, it takes half the normal damage from your blast (or full 
+
+damage for an energy blast). The wall is not completely solid, but it does provide cover against attacks 
+from the other side of the wall. The wall lasts for a number of rounds equal to your Constitution 
+modifier or until you use a wall infusion again. 
+Internal Buffer (Su) You possess an internal buffer with which to store extra energy. The buffer starts empty 
+and doesn’t replenish each day, but you can accept 1 point of burn to add 1 point to the buffer as a 
+full-round action, to a maximum of 3 points total. Once you add points to your buffer, they remain 
+indefinitely until you spend them. When you would otherwise accept burn, you can spend 1 point from 
+your buffer to avoid accepting 1 point of burn. You cannot spend more than 1 point from your buffer in 
+this way for a single wild talent. Points spent from the internal buffer don’t activate elemental overflow 
+or add to its effects. Similarly, this buffer can be used to exceed the limit on the number of points of 
+burn you can accept in a single turn. 
+Kinetic Blast (Sp) As a standard action, you can unleash a kinetic blast at a single target up to a range of 30 
+feet. You must have at least one hand free to aim the blast. All damage from a kinetic blast is treated as 
+magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the 
+purpose of feats such as Weapon Focus. You are never considered to be wielding or gripping the kinetic 
+blast (regardless of effects from form infusions), and you can’t use Vital Strike feats with kinetic blasts. 
+Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts 
+always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms). A 
+readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its 
+descriptor. A kinetic blast that deals energy damage of any type (including force) has the corresponding 
+descriptor. 
+Light Sensitivity You are dazzled in areas of bright light. 
+Metakinesis (Su) You gain the ability to alter your kinetic blasts as if with metamagic feats by accepting burn. 
+By accepting 1 point of burn, you can empower your kinetic blast (as if using Empower Spell); by 
+accepting 2 points of burn, you can maximize your kinetic blast as if using Maximize Spell; or by 
+accepting 3 points of burn, you can quicken your kinetic blast as if using Quicken Spell. 
+See in Darkness (Su) You can see perfectly in darkness of any kind, including that created by deeper darkness. 
+Shadow Blending (Su) Attacks against you in dim light have a 50% miss chance instead of the normal 20% 
+miss chance. This ability does not grant total concealment; it just increases the miss chance. 
+Supercharge (Su) When using gather power as a move action, you can reduce the total burn cost of a single 
+wild talent by 2 points instead of 1. When using gather power for 1 full round, you can reduce the burn 
+cost of a single wild talent by 3 points instead of 2. 
+Utility You have the following utility wild talents. 
+Animate Dead (Sp): For 1 burn, you may cast animate dead as a psychic spell. You must provide 
+emotion and thought components, as well as material components where appropriate. 
+Basic Chaokinesis (Sp): You can create a shadow that protects a target from bright light. You can 
+also change gravity to increase a creature’s carrying capacity by half or grant a creature a +4 bonus on 
+Acrobatics checks to jump. Each benefit lasts 1 hour or until you use basic chaokinesis again. 
+Gravity Control (Sp): You manipulate gravity as a standard action, propelling you up to 60 feet in a 
+straight line, including into the air; any movement upward costs double. If you end your turn mid-air, 
+you fall on your next turn unless you use gravity control again. 
+Greater Gravity Control (Sp): You can use gravity control as a move action and can hover in place 
+without spending an action. 
+Kinetic Form (Sp): You are able to suspend your body in a large mass of elemental matter. Until the 
+next time your burn is removed, you can change your size to Large or shift back to your original size as 
+a standard action. This doesn’t change your ability scores in any way. You can accept 1 additional point 
+of burn to instead change your size to Huge. You cannot use kinetic form to decrease your size. 
+Reverser Shift (Sp): You reverse the flow of your connection to the planes, sending your body into 
+the Ethereal Plane as ethereal jaunt. As long as you concentrate on reverse shift, you remain on the 
+Ethereal Plane; after a number of consecutive rounds spent on the Ethereal Plane equal to your kineticist 
+level (and every such interval thereafter), you must accept 1 point of burn. Once you return to the 
+
+Material Plane, you cannot use reverse shift again for a number of rounds equal to the number of rounds 
+you spent on the Ethereal Plane. 
+Skilled Kineticist (Su): You gain a bonus equal to ½ your kineticist level on skill checks with the 
+skills your primary element added to your class skill list, and you can use the Knowledge skill associated 
+with your primary element to identify elementals of your primary element’s subtype. 
+Skilled Kineticist, Greater (Su): By delving into study of the Ethereal and Elemental Planes, you are 
+able to use your primary element to assist with your skills in an unusual way. Add Knowledge (planes) 
+to your list of class skills. Choose one of your kineticist class skills that wasn’t granted by your primary 
+element to also receive the bonus from skilled kineticist. 
+Spark of Life (Sp): You breathe a semblance of life into elemental matter, which takes the form of a 
+Greater or lesser elemental of any of your elements as if summoned by summon monster VII with a 
+caster level equal to your kineticist level, except the elemental gains the mindless trait. Each round on 
+your turn, you must take a move action to guide the elemental or it collapses back into its component 
+element. By accepting 1 point of burn, you can pour a bit of your own sentience into the elemental, 
+removing the mindless quality and allowing it to persist for 1 round per kineticist level without requiring 
+any further actions. 
+Suffocate (Sp): You choke a creature within 120 feet. If your target needs to breathe, it must hold its 
+breath for as long as you concentrate. On each of its turns, it can attempt a Fortitude save in order to 
+speak, but it can breathe only if your concentration breaks, you leave the 120-foot range, or you break 
+line of effect. You can accept 1 point of burn when activating this wild talent in order to expel the air 
+from your target’s lungs. If you do so and the target fails its first Fortitude save, it becomes disabled and 
+is reduced to 0 hit points, and on its second failed Fortitude save, it falls unconscious and is reduced to 
+–1 hit points. 
+ 
+BOOK OF NIGHT WITHOUT MOON 
+Aura moderate illusion; CL 8th 
+
+Slot none; Price 15,000gp; Weight 4 lbs. 
+DESCRIPTION 
+This black grimoire’s pages are mostly blank, but a few contain rough watercolor silhouettes. The Book of Night 
+without Moon is a repository for trapped shadows. To sever a shadow from its owner and add it to the book, the 
+user must speak a command word and snap the book shut on the shadow. The shadow must be very still when it 
+is severed, so the victim must be either willing or helpless. The book has 40 pages; a shadow takes up a number 
+of pages equal to the Hit Dice of the creature that cast it.  
+ 
+A creature whose shadow is stolen must succeed at a DC 18 Will save or be sickened by a nameless melancholy 
+until its shadow is returned (in the meantime, the creature casts no shadow). Losing its shadow has no adverse 
+effect on a creature that cannot be sickened. A remove curse spell cast on the creature ends the effect and 
+retrieves the shadow from the book.  
+ 
+As a standard action, the book’s bearer may release a shadow from the book, conjuring an illusory duplicate of 
+the shadow’s owner as if with the spell shadow conjuration (DC 18 Will save to recognize that the conjuration 
+is an illusion). The shadow is intelligent and can follow complex commands, but cannot speak and lacks the 
+memories or personality of the creature that cast it. The shadow serves the character who released it for 1 hour 
+or until destroyed, whichever comes first. The shadow then returns instantly and permanently to its original 
+owner, wherever he or she may be. It cannot be commanded to return to the book and cannot be stolen again. 
+The book’s magic can sustain up to five active shadows at a time.  
+ 
+Sin’s Book of Night without Moon currently contains a dire bat, a dire shark, a hill giant, and a titan centipede—
+what she claims to be her “nightshade servants.” 
+CONSTRUCTION 
+Requirements Craft Wondrous Item, shadow conjuration; Cost 7,500gp 
+
+Fjord Linnorm Bloody Skeleton 
+NE Gargantuan undead (aquatic) 
+Init +11; Senses darkvision 60 ft., low-light vision, scent, true 
+seeing; Perception +0 
+DEFENSE 
+AC 19, touch 13, flat-footed 12 (+7 Dex, +6 natural, –4 size) 
+hp 120 (16 HD); fast healing 8 
+Fort +7, Ref +12, Will +10 
+Defensive Abilities channel resistance +4; DR 5/bludgeoning; 
+Immune cold, undead traits 
+OFFENSE 
+Speed 30 ft., fly 100 ft. (average), swim 60 ft. 
+Melee bite +21 (2d8+13), 2 claws +21 (2d6+13), tail +16 (2d6+6) 
+Space 20 ft.; Reach 20 ft. 
+STATISTICS 
+Abilities Str 36 (+13), Dex 25 (+7), Con –, Int –, Wis 10 (+0), Cha 
+14 (+2) 
+Base Atk +12; CMB +29; CMD 46 (can’t be tripped) 
+Feats Improved Initiative
+B 
+Skills Fly +1, Stealth –5, Swim +21 
+SQ deathless 
+SPECIAL ABILITIES 
+Deathless (Su) A bloody skeleton is destroyed when reduced to 0 hit points, but it returns to unlife 1 hour later 
+at 1 hit point, allowing its fast healing thereafter to resume healing it. A bloody skeleton can be 
+permanently destroyed if it is destroyed by positive energy, if it is reduced to 0 hit points in the area of a 
+bless or hallow spell, or if its remains are sprinkled with a vial of holy water. 

@@ -1,0 +1,148 @@
+
+
+Hu Manum Pullum 
+Male human fighter 10 (eldritch guardian, martial master, 
+mutation warrior) 
+CN Medium humanoid 
+Init +2; Senses familiar’s alertness; Perception +13 (+17 with 
+familiar) 
+Languages Common (rarely speaks) 
+DEFENSE 
+AC 20, touch 12, flat-footed 18 (+8 armor, +2 Dex) 
+hp 180 (10 HD) 
+Fort +14, Ref +6, Will +5; +3 vs. fear and mind-affecting effects 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. when unarmored 
+Melee +1 impact greatclub +15/+7 (2d8+17) with Power Attack, or 
++1 impact greatclub +15 (4d8+23) with Power Attack and Vital Strike 
+Ranged mwk sling +13 (1d4+4) 
+Special Attacks martial flexibility (2 feats, 8/day), mutagen (100 minutes), spontaneous healing 
+STATISTICS 
+Abilities Str 18 (+4), Dex 14 (+2), Con 22 (+6), Int 7 (–2), Wis 12 (+1), Cha 10 (+0) 
+Base Atk +10; CMB +14; CMD 26 
+Feats AlertnessB (with familiar only), Devastating StrikeB, Furious FocusB, Mauler’s Endurance, Outflank, 
+Power Attack
+B, Precise Strike, Spirit’s Gift, Toughness, Vital Strike
+B 
+Skills Perception +13 (+17 with familiar), Sense Motive +3 (+5 with familiar), Survival +10; Armor Check 
+Penalty –5; Racial Bonuses +2 Sense Motive, +5 Survival 
+SQ eye for talent, familiar (chicken), heart of the wilderness +5 
+Combat Gear potions (cure light wounds 7, enlarge person 10), sling bullets (100); Other Gear +1 impact 
+greatclub, +1 O-yoroi (stylized chicken suit), belt of giant strength +4, belt pouch, chicken feed, cloak 
+of resistance +1, monster mask (chicken-like tengu), tender (8gp) 
+Encumbrance light 116 lb., medium 233 lb., heavy 350 lb.; Weight Carried 57 lb. 1 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Eye for Talent You gain a +2 racial bonus on Sense Motive checks (included above). In addition, when you 
+acquire an animal companion, bonded mount, cohort, or familiar, that creature gains a +2 bonus to one 
+ability score of your choice. 
+Heart of the Wilderness You gain a racial bonus equal to half your character level on Survival checks 
+(included above. You also gain a +5 racial bonus on Constitution checks to stabilize when dying and add 
+half your character level to your Constitution score when determining the negative hit point total 
+necessary to kill you. 
+Martial Flexibility (Ex) You can use a swift action to gain the benefit of a combat feat you don’t possess, or a 
+move action to gain two such feats. This effect lasts for 1 minute. You must otherwise meet all the feat’s 
+prerequisites. You can use this ability a number of times per day equal to 3 + ½ your fighter level. You 
+can use this ability again before the duration expires in order to replace the previous combat feat with 
+another choice. If a combat feat has a daily use limitation (such as Stunning Fist), any uses of that 
+combat feat while using this ability count toward that feat’s daily limit. When gaining multiple feats 
+through this ability, you can use those feats to meet the prerequisites of other feats you gain with this 
+ability. Doing so means you cannot replace a feat currently fulfilling another’s prerequisite without also 
+replacing those feats that require it. Each individual feat selected counts toward your daily uses of this 
+ability. 
+Mutagen (Su) It takes 1 hour to brew a dose of mutagen, and once brewed, it remains potent until used. You 
+can only maintain one dose of mutagen at a time—if you brew a second dose, any existing mutagen 
+becomes inert. A mutagen that is not in an alchemist’s possession becomes inert until an alchemist picks 
+
+it up again. When you brew a mutagen, you select one physical ability score—either Strength, Dexterity, 
+or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen causes you 
+to grow bulkier and more bestial, granting you a +2 natural armor bonus and a +4 alchemical bonus to 
+the selected ability score for 10 minutes per fighter level. In addition, while the mutagen is in effect, you 
+take a –2 penalty to one of your mental ability scores. If the mutagen enhances your Strength, it applies 
+a penalty to your Intelligence. If it enhances your Dexterity, it applies a penalty to your Wisdom. If it 
+enhances your Constitution, it applies a penalty to your Charisma. A character lacking this ability who 
+drinks a mutagen must make a Fortitude save (DC 10 + ½ your fighter level + your Intelligence 
+modifier) or become nauseated for 1 hour—someone without this ability can never gain the benefit of a 
+mutagen, but someone with this ability can gain the effects of another person’s mutagen if he drinks it. 
+(Although if the other person creates a different mutagen, the effects of the “stolen” mutagen 
+immediately cease.) The effects of a mutagen do not stack. Whenever you drink a mutagen, the effects 
+of any previous mutagen immediately end. 
+Share Training (Ex) When your familiar can see and hear you, it can use any combat feat you possess. Your 
+familiar doesn’t have to meet the feats’ prerequisites, but at the GM’s discretion may be precluded from 
+using certain combat feats due to its physical form. 
+Spontaneous Healing (Ex) You gain the ability to heal from wounds rapidly. As a free action once per round, 
+you can heal 5 hit points as if you had the fast healing ability. You can heal 5 hit points per day in this 
+manner for every 2 fighter levels you possess. If you fall unconscious because of hit point damage and 
+you still have healing available from this ability, the ability activates automatically each round until you 
+are conscious again or the ability is depleted for the day. 
+Steel Will (Ex) You gain a +3 bonus on Will saves against fear and mind-affecting effects. 
+ 
+Embassy 
+Chicken familiar (mauler) 
+CN Tiny magical beast (augmented animal) 
+Init +0; Senses low-light vision; Perception +14 
+Languages empathic link 
+DEFENSE 
+AC 20, touch 12, flat-footed 20 (+3 armor, +5 natural, +2 size) 
+hp 110 (10 HD) 
+Fort +8, Ref +3, Will +4 
+Defensive Abilities improved evasion; DR 5/adamantine 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 20 ft. (clumsy); drift 
+Melee bite +14 (2d3+12) with Power Attack and Vital Strike 
+Space 2½ ft.; Reach 0 ft. 
+Special Attacks battle form 
+STATISTICS 
+Abilities Str 13 (+1), Dex 10 (+0), Con 12 (+1), Int 6 (–2), Wis 13 (+1), Cha 2 (–4) 
+Base Atk +10; CMB +9; CMD 19 
+Feats Devastating Strike, Furious Focus, Outflank, Power Attack, Precise Strike, Vital Strike, Weapon Focus 
+(bite) 
+Skills Fly +0, Perception +14, Stealth +8 
+SQ alertness, empathic link, familiar traits, spirit animal (typically life or stone) 
+Gear belt of giant strength +4, parade armor 
+Encumbrance light 25 lb., medium 50 lb., heavy 75 lb.; Weight Carried 3 lb. 
+SPECIAL ABILITIES 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+
+Battle Form (Su) Your familiar can transform into a larger, more ferocious form and back at will. In battle 
+form, your familiar’s size becomes Medium and it gains a +2 bonus to Strength (this stacks with the 
+normal Strength adjustments for increasing in size). 
+Bond Forged in Blood (Su) Whenever you drop a foe whose Hit Dice are at least ½ your level to below 0 hit 
+points, your familiar’s empathic link surges with power, granting both your familiar and you a +2 
+morale bonus to attack and damage rolls for 1 round. 
+Drift (Ex) A chicken flies in short bursts, and can’t use its fly speed to hover. When it flies, a chicken must end 
+its move action by landing or perching on a solid surface. 
+Empathic Link (Su) Your familiar has an empathic link with you out to one mile. You cannot see through your 
+familiar’s eyes, but the two of you can communicate empathically. Only general emotional content can 
+be communicated. You have the same connection to an item or place that your familiar does. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, your familiar takes no damage if he makes a successful saving throw and half damage even if 
+the saving throw fails. 
+Increased Strength (Ex) Your familiar’s Strength score increases by 4 (included above). 
+Spirit Animal (Ex) At the start of the day, you can choose to commune with a single shaman spirit. (Although 
+a shaman would need an hour of preparation, this takes you no time.) For the next 24 hours, that shaman 
+spirit augments your animal companion or familiar, as its spirit animal ability. The above stats reflect the 
+spirit of stone, though other choices are possible from day to day. 
+ 
+Embassy (Battle Form) 
+Chicken familiar (mauler) 
+CN Medium magical beast (augmented animal) 
+Init –2; Senses low-light vision; Perception +14 
+Languages empathic link 
+DEFENSE 
+AC 16, touch 8, flat-footed 16 (+3 armor, –2 Dex, +5 natural) 
+hp 110 (10 HD) 
+Fort +9, Ref +3, Will +4 
+Defensive Abilities improved evasion 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 20 ft. (clumsy); drift 
+Melee bite +17 (2d4+20) with Power Attack and Vital Strike 
+Special Attacks battle form 
+STATISTICS 
+Abilities Str 23 (+6), Dex 6 (–2), Con 14 (+2), Int 6 (–2), Wis 13 (+1), Cha 2 (–4) 
+Base Atk +10; CMB +16; CMD 26 
+Feats Devastating Strike, Furious Focus, Outflank, Power Attack, Precise Strike, Vital Strike, Weapon Focus 
+(bite) 
+Skills Fly –6, Perception +14 
+SQ alertness, empathic link, familiar traits, spirit animal (typically life or stone) 
+Gear belt of giant strength +4, parade armor 
+Encumbrance light 200 lb., medium 400 lb., heavy 600 lb.; Weight Carried 21 lb. 

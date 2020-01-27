@@ -1,0 +1,136 @@
+
+
+She’er Falen 
+Female ifrit arcanist 15 (elemental master) 
+CN Medium outsider (native) 
+Init +11; Senses darkvision 60 ft.; Perception +14 
+Languages Aquan, Auran, Common, Dwarven, Elven, Gnome, Halfling, Ignan, 
+Terran 
+DEFENSE 
+AC 21, touch 21, flat-footed 14 (+4 armor, +7 Dex); mage armor 
+hp 84 (15 HD) 
+Fort +11, Ref +17, Will +13 
+Defensive Abilities evasion; SR 26 
+OFFENSE 
+Speed 70 ft. (14 squares), fly 40 ft. (good); overland flight 
+Melee by weapon +7 
+Ranged by weapon+14 
+Special Attacks arcane reservoir (10/day, 18 max), burning flame (8d8+3), elemental attack 
+Bloodline Spell-Like Abilities (CL 15
+th; Concentration +23) 
+1/day – enlarge person or reduce person 
+Arcanist Spells Prepared (CL 15
+th; Concentration +23) 
+7th  (4/day) – elemental body IV, plane shiftF, summon monster VII 
+6th  (5/day) – beast shape IV, chain lightning, Falen’s phoenix (see below), greater dispel magic 
+5th  (5/day) – baleful polymorph, cone of cold, overland flight, scorching ray (maximized), teleport 
+4
+th  (5/day) – fire shield, greater invisibility, lesser globe of invulnerability, scorching ash form
+ARG, wall 
+of fire 
+3rd  (6/day) – Falen’s firebird (see below), firestreamARG, haste, lightning bolt, protection from energy 
+2nd (6/day) – acid arrow, burning hands (intensified), flaming sphere, gust of wind, pyrotechnics, see 
+invisibility 
+1st  (6/day) – charm person, feather fall, mage armor, magic missile, shield, touch of combustionARG 
+0  (at will) – arcane mark, detect magic, flare, light, mage hand, mending, message, prestidigitation, 
+read magic, sparkAPG, 
+Elemental Focus fire; Opposed Element water 
+STATISTICS 
+Abilities Str 10 (+0), Dex 24 (+7), Con 13 (+1), Int 24 (+7), Wis 8 (–1), Cha 16 (+3) 
+Base Atk +7; CMB +7; CMD 24 
+Feats Craft Wondrous Item, Eldritch Researcher (completed), Elemental Focus (fire), Empower SpellB, Greater 
+Elemental Focus (fire), Intensify Spell, Maximize Spell, Quicken Spell, Spell Perfection (Falen’s 
+firebird) 
+Skills Acrobatics +7 (+19 when jumping), Escape Artist +22, Fly +25, Intimidate +18, Knowledge (arcana) 
++25, Knowledge (nature) +25, Knowledge (planes) +25, Perception +14, Spellcraft +25, Stealth +22, 
+Use Magic Device +21 
+SQ arcanist exploits (burning flame, flame arc, metamagic knowledge, metamixing, potent magic), consume 
+spells (3/day), efreeti magic, elemental movement, fire-starter, wildfire heart 
+Combat Gear wand of cure light wounds (30 charges); Other Gear bag of holding (type I), belt of incredible 
+dexterity +6, blessed books (2, 698 pages remaining), boots of striding and springing, cloak of 
+resistance +5, headband of vast intellect +6 (escape artist, fly, stealth), medallion of thoughts, She’er’s 
+mantle of denial (as mantle of spell resistance, but grants SR 26 and has CL 14
+th), spell component 
+pouch, tender (70gp) 
+Spellbook all core sorcerer/wizard spells of 7
+th-level and lower plus chains of fire
+ARG, Falen’s firebird, Falen’s 
+phoenix, firestreamARG, scorching ash formARG, touch of combustionARG 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 23 lb. 1 oz. (excluding tender) 
+
+SPECIALABILITIES 
+Arcane Reservoir (Su) You have an innate pool of magical energy that you can draw upon to fuel your arcanist 
+exploits and enhance your spells. Your arcane reservoir can hold a maximum amount of magical energy 
+equal to 3 + your arcanist level. Each day, when preparing spells, your arcane reservoir fills with raw 
+magical energy, gaining a number of points equal to 3 + ½ your arcanist level. Any points you had from 
+the previous day are lost. You can also regain these points through the consume spells class feature and 
+some arcanist exploits. The arcane reservoir can never hold more points than the maximum amount 
+noted above; points gained in excess of this total are lost. Points from the arcanist reservoir are used to 
+fuel many of your powers. In addition, you can expend 1 point from your arcane reservoir as a free 
+action whenever you cast an arcanist spell. If you do, you can choose to increase the caster level by 1 or 
+increase the spell’s DC by 1. You can expend no more than 1 point from your reservoir on a given spell 
+in this way. 
+Burning Flame (Su) Whenever you use the flame arc exploit, you can expend 2 points from your arcane 
+reservoir instead of one. If you do, each target catches on fire if it fails its saving throw. Until the fire is 
+extinguished, the target takes 3d6 points of fire damage at the start of each of its turns. The target can 
+attempt a Reflex saving throw as a full-round action to extinguish the flames. Applying at least 1 gallon 
+of water to the target automatically extinguishes the flames. 
+Consume Spells (Su) You can expend an available arcanist spell slot as a move action, making it unavailable 
+for the rest of the day, just as if you had used it to cast a spell. You can use this ability a number of times 
+per day equal to your Charisma modifier (minimum 1). Doing this adds a number of points to your 
+arcane reservoir equal to the level of the spell slot consumed. You cannot consume cantrips (0 level 
+spells) in this way. Points gained in excess of the reservoir’s maximum are lost. 
+Elemental Movement (Su) Your base speed increases by 30 feet (included above). 
+Fire-Starter Anytime you cause a creature to catch fire, you gain a +1 morale bonus on the next single attack 
+roll, saving throw, skill check, or ability check that you make in the next round. You only gain this 
+bonus the first time you cause a particular creature to catch fire; subsequent times the creature catches 
+fire provide no bonus. 
+Flame Arc (Su) You can unleash an arc of flame by expending 1 point from your arcane reservoir. This creates 
+a 30-foot line of flame that deals 1d6 points of fire damage + the your Charisma modifier, plus an 
+additional 1d6 points of fire damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th-level) 
+to each target in the line. Creatures in the area of effect may attempt a Reflex saving throw to halve the 
+damage. 
+Potent Magic (Su) Whenever you expend 1 point from your arcane reservoir to increase the caster level of a 
+spell, the caster level increases by 2 instead of 1. Whenever you expend 1 point from your arcane 
+reservoir to increase the spell’s DC, it increases by 2 instead of 1. 
+Powerful Exploit (Su) The damage dice for your flame arc exploit increase to d8s, and the range increases to a 
+60-foot line. 
+Wildfire Heart You gain a +4 racial bonus on initiative checks. 
+ 
+
+Falen’s Firbird 
+School conjuration (creation) [fire]; Level sorcerer/wizard 3 
+Casting Time 1 standard action 
+Components V, S 
+Range medium (100 ft. + 10 ft./level) 
+Target One creature, object, or point in space 
+Effect One flaming bird the size of a sparrow 
+Area one 5-ft. square or the target’s space, whichever is larger (see text) 
+Duration Instantaneous  
+Saving Throw Reflex half (see text); Spell Resistance Yes 
+ 
+You create a bright, flaming bird which streaks from  your outstretched 
+hand to attack a target  of  your choice  within range of the  spell. The 
+firebird flies to your target, dodging obstacles as it does so, and envelops 
+the victim in a hellish inferno, dealing 1d6 fire damage per caster level 
+(maximum 10d6) to anything in its space. When you cast this spell, make 
+a ranged touch attack, ignoring bonuses for cover (if you know which square the target is in and there is an open 
+path to it, you can even ignore total cover as the firebird flies around corners, through small windows, etc.). You 
+must roll for concealment as normal. If you hit, the target takes a –4 penalty on its Reflex save against the spell. 
+If you miss, the target makes its save as normal. Anything else sharing the target’s space is considered to have 
+been missed by the spell, taking damage and making saves as normal for an area of effect spell. 
+ 
+Falen’s Phoenix 
+Level sorcerer/wizard 6 
+Range medium (100 ft. + 10 ft./level) 
+Targets one primary target, plus one secondary target per four levels (each of which must be within 30 ft. of the 
+primary target) 
+Effect One flaming bird the size of a hawk 
+ 
+As Falen’s firebird, but the damage cap is raised to 20d6 and your firebird can accost multiple targets as shown 
+above (to a maximum of five secondary targets at 20
+th level). Furthermore, targets who fail their saves catch on 
+fire, taking 2d6 fire damage each round until the fire can be extinguished (using the DC of this spell). Only the 
+primary target risks suffering a penalty on their saving throw unless you miss, in which case you may choose to 
+roll against a secondary target until you successfully hit one, or until you miss all of the available targets. You 
+may not roll against a given target more than once with a single casting of this spell. 

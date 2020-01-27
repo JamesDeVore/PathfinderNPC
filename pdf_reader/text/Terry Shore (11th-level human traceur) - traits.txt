@@ -1,0 +1,115 @@
+
+
+Terry Shore 
+Male human unchained rogue 11 (roof runner, scout) 
+N Medium humanoid 
+Init +6; Senses Perception +15 
+Languages Dtang, Dwarven, Elven, Erutaki, Gnome, Halfling, Hallit, Hon-
+La, Hwan, Iobarian, Kellish, Minatan, Minkaian, Osiriani, Polyglot, 
+Shoanti, Skald, Taldane, Tien, Undercommon, Varisian, Varki, 
+Vudrani 
+DEFENSE 
+AC 29, touch 19, flat-footed 23 (+7 armor, +3 deflection, +6 Dex, +3 
+natural) 
+hp 99 (11 HD) 
+Fort +9, Ref +16, Will +7 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 40 ft. (8 squares), climb 10 ft. 
+Melee +1 menacing cestus +16/+11 (1d4+7/19-20) or 
++1 menacing cestus +14/+9 (1d4+7/19-20) and 
++1 cestus +14 (1d4+4/19-20) with Two-Weapon Fighting 
+Ranged mwk sling +14 (1d4) 
+Special Attacks debilitating injury, finesse training (cestus, dagger), scout’s charge, skirmisher, sneak attack 
++6d6 
+STATISTICS 
+Abilities Str 10 (+0), Dex 22 (+6), Con 16 (+3), Int 14 (+2), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +8; CMB +8 (+14 with Weapon Finesse); CMD 27 
+Feats Combat Expertise, Lunge, Outslug Style (cestus), Outslug Sprint, Outslug Weave, Skill Focus 
+(acrobaticsB, climbB), Stealthy, Two-Weapon Fighting, Weapon Finesse
+B, Weapon Focus (cestusB)  
+Skills Acrobatics +31 (+35 to jump), Climb +20, Escape Artist +24, Knowledge (geography) +19, Knowledge 
+(local) +18, Knowledge (nature) +8, Linguistics +16, Perception +15, Sleight of Hand +20, Stealth +24, 
+Survival +16 (+18 to avoid becoming lost) 
+SQ compression, focused study, rogue’s edge (acrobatics, climb), rogue talents (combat trick, expert 
+leaper, ledge walker, light walker, slow reactions, weapon training), traits (nomadic) wayfarer 
+Combat Gear sling bullets (10); Other Gear +1 cestus, +1 debilitating cestus, +3 mithral shirt, amulet of 
+natural armor +3, belt of the weasel, boots of striding and springing, cloak of resistance +3, 
+masterwork sling, ring of protection +3, tender (48pp, 9gp, 9sp) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 20 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Compression (Ex) You can move through an area as small as one-quarter your space without squeezing or one-
+eighth your space when squeezing. 
+Debilitating Injury (Ex) Whenever you deal sneak attack damage to a foe, you can also debilitate the target of 
+your attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue 
+talent or other special ability). You can choose to apply any one of the following penalties when the 
+damage is dealt. 
+Bewildered: The target becomes bewildered, taking a –4 penalty to AC. The target takes an 
+additional –2 penalty to AC against all attacks made by you. 
+Disoriented: The target takes a –4 penalty on attack rolls. In addition, the target takes an additional 
+–2 penalty on all attack rolls it makes against you. 
+Hampered: All of the target’s speeds are reduced by half (to a minimum of 5 feet). In addition, the 
+target cannot take a 5-foot step. 
+
+These penalties do not stack with themselves, but additional attacks that deal sneak attack damage 
+extend the duration by 1 round. A creature cannot suffer from more than one penalty from this ability at 
+a time. If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a 
+target suffering from one of these penalties also removes the penalty. 
+Evasion (Ex) If you succeed at a Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or 
+no armor. You do not gain the benefit of evasion while helpless. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, you can select any one type of 
+weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it 
+cannot be changed. Whenever you make a successful melee attack with the selected weapon, you add 
+your Dexterity modifier instead of your Strength modifier to the damage roll. If any effect would 
+prevent you from adding your Strength modifier to the damage roll, you do not add your Dexterity 
+modifier. 
+Know the Land You gain a +1 trait bonus on Knowledge (nature) and Survival checks, and Survival is a class 
+skill for you. 
+Ledge Walker (Ex) You can move along narrow, uneven, or slippery surfaces (such as ice) at full speed using 
+the Acrobatics skill without penalty. In addition, you are not flat-footed when using Acrobatics to move 
+along such surfaces, and retain your Dexterity bonus to AC. 
+Light Walker (Ex) You can move at full speed through difficult terrain and can take 5-foot steps into difficult 
+terrain. 
+Nomadic You gain a +1 trait bonus on Knowledge (geography) and Knowledge (geography) is always a class 
+skill for you. 
+Rogue’s Edge (Ex) You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. 
+Acrobatics: You can move at normal speed through a threatened square without provoking an attack 
+of opportunity by increasing the DC of the check by 5 (instead of by 10). You aren’t denied your 
+Dexterity bonus when attempting Acrobatics checks with DCs of 20 or lower. You can attempt an 
+Acrobatics check at a –10 penalty and use the result as your CMD against trip maneuvers. You can also 
+attempt an Acrobatics check at a –10 penalty in place of a Reflex save to avoid falling. You must choose 
+to use this ability before the trip attempt or Reflex save is rolled. With a successful DC 20 Acrobatics 
+check, you treat an unintentional fall as 10 feet shorter plus 10 feet for every 10 by which you exceed 
+the DC, and treat an intentional fall as 10 feet shorter for every 10 by which you exceed the DC. 
+Climb: You are no longer denied your Dexterity bonus when climbing. You gain a natural climb 
+speed (but not the +8 racial bonus on Climb checks) of 10 feet, but only on surfaces with a Climb DC of 
+20 or lower. 
+Roof Running (Ex) Provided you are wearing light or no armor, you can move at full speed while traveling 
+across the tops of buildings or similar structures, and take no penalties on any Dexterity-based Skill 
+checks or Reflex saves that might be incurred from moving about on a roof. 
+Scout’s Charge (Ex) Whenever you make a charge, your attack deals sneak attack damage as if the target were 
+flat-footed. Foes with uncanny dodge are immune to this ability. 
+Skirmisher (Ex) Whenever you move more than 10 feet in a round and make an attack action, the attack deals 
+sneak attack damage as if the target was flat-footed. If you make more than one attack this turn, this 
+ability only applies to the first attack. Foes with uncanny dodge are immune to this ability. 
+Sneak Attack Your attack deals an extra 5d6 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+
+Tumbling Descent (Ex) You can use your acrobatics skill to attempt a rapid descent from a rooftop or another 
+surface, ricocheting against another surface and then diving through an opening (such as a balcony or 
+window) directly below. So long as you have at least two surfaces no farther than 10 feet apart to bounce 
+against, you can ricochet your body back from one to the next, descending great distances with a single 
+check. The DC is 10 + 5 for every additional 10-foot increment descended beyond the initial 10 feet 
+dropped. If you fail, you fall the full distance. 
+Wayfarer You gain a +2 racial bonus on Survival checks to avoid becoming lost, Knowledge (geography) 
+checks, and Knowledge (local) checks. Whenever you gain a rank in Linguistics, you learn two 
+languages rather than one. 

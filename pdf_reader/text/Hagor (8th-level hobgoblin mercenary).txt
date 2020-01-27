@@ -1,0 +1,239 @@
+
+
+Hagor 
+“Better they rise up in smoke than in rebellion!” 
+ 
+A dedicated taskmaster and mercenary commander, Hagor is a ruthless 
+soldier who was born and raised among the militaristic hobgoblins, his 
+forebears. Like his kin, he possesses a true love of warfare, and possesses a 
+shrewd intellect steeped in cruely efficient battle strategy. 
+ 
+It is well known that hobgoblins mistrust and even despise magic, 
+particularly arcane magic. Their shamans are treated with a mix of fear and 
+respect, and are usually forced to live alone on the fringes of the tribe’s lair. 
+It is all but unheard of to find a hobgoblin practicing arcane magic, or as 
+hobgoblins call it, “elf magic.” This is the root of their hatred of magic—
+the hobgoblins’ hatred of elves. Had Hagor not developed strange powers 
+over fire at a young age, he might have risen to great heights within the 
+hobgoblin warmachine. Accused of being a willing practitioner of “Elf 
+magic” Hagor was forced to live on the outskirts of hobgoblin society and was abused and tortured for many 
+years by those who feared his growing power. Eventually, Hagor was forced to flee for his life after he 
+accidentally detonated a pile of alchemical ordinance, killing his military commander’s son. Though he suffered 
+mightily at the hands of his kin over the years and holds no love of goblinkind, as he sees it, the experience only 
+served to toughen him up, ultimately molding him into a better hobgoblin warrior. 
+ 
+Since his exile from his tribe, Hagor has taken to integrating himself into those cosmopolitan cities where he 
+can find acceptance, almost always taking on violent jobs or assuming roles that allow him to sate his hunger 
+for bloodshed. He might serve as an intimidating enforcer for an underground crime syndicate, as an inspiring 
+combatant in the bloodstained sands of the arena pit, or as a hired mercenary in a military organization. 
+Ocassionally, he even serves as a military strategist for a general or ruler who recognizes his innate ruthlessness 
+and the harsh training he’s received since childhood and how it might present a unique advantage on the 
+battlefield. In such instances, Hagor inveitably attempts to lead his liege ever toward war rather than away from 
+it, even if he must lie or deceive in order to achieve the desired result. 
+ 
+Ever the intelligent skirmisher, Hagor prefers ambush tactics, setting up smokescreens before closing in with his 
+foes to cause as much pain and confusion as possible before clearing out. If they are a superior force, the targets 
+of such ambushes might face several such assaults, as Hagor and his men wear down their forces, causing them 
+to lose a commander here or a few guards there. It is only when his enemies prove capable of warding 
+themselves against his fire magic that he relents for an extended period, biding his time as he finds other 
+methods of hurting them via more conventional means (such as despoiling their food supplies, leading 
+dangerous creatures to their camp, digging deadly spiked pit traps in their path, or causing other various 
+“accidents” to befall them). 
+ 
+
+Hagor 
+Male hobgoblin pyrokineticist 8 
+LN Medium humanoid (goblinoid) 
+Init +5; Senses darkvision 60-ft.; Perception +13 
+Languages Common, Dwarven, Goblin 
+DEFENSE 
+AC 23, touch 16, flat-footed 18 (+7 armor, +1 deflection, +5 Dex) 
+hp 112 (8 HD); maxed hit points via retraining 
+Fort +12, Ref +12, Will +5 
+Immune harmful vapors and gases, suffocation 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee fire blade +11/+6 touch (4d6+4 fire) or 
+blue fire blade +11/+6 touch (8d6+4 fire) or 
+light mace +11/+6 (1d6) 
+Ranged fire blast +11 touch (4d6+4 fire) or 
+blue fire blast +11 touch (8d6+4 fire) or 
+light crossbow +11 (1d8/19-20) 
+Special Attacks elemental overflow +2, kinetic blast, metakinesis (empower, piercing) 
+Kineticist Wild Talents Known (CL 8
+th; Concentration +13) 
+Defense – searing flesh (2 damage) 
+Infusions – burning infusion (1 burn, Ref DC 19 negates), fan of flames (1 burn, Ref DC 19 half), 
+kinetic blade (1 burn), kinetic whip (2 burn) 
+Kinetic Blasts – blue flame blast (2 burn), fire blast 
+Utility – basic pyrokinesis, fire’s fury, firesight, heat wave (1 burn), searing flame, smoke storm (Fort 
+DC 19 negates) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 20 (+5), Con 20 (+5), Int 14 (+2), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +6; CMB +6 (+11 with Weapon Finesse); CMD 22 
+Feats Armor Proficiency (medium), Expanded Metakinesis (piercing), Extra Wild Talent, Weapon Finesse 
+Skills Acrobatics +15, Escape Artist +15, Heal +8, Intimidate +11, Perception +13, Profession (soldier) +10, 
+Stealth +19; Armor Check Penalty –1; Racial Bonus +4 Stealth 
+SQ basic pyrokinesis, burn (2 points/round, maximum 8), expanded element (fire), gather power, 
+infusion specialization 2, internal buffer 1 
+Combat Gear crossbow bolts (10), potions of cure light wounds (3); Other Gear +1 mithral breastplate, belt 
+of physical might +2 (Dexterity, Constitution), cloak of resistance +1, eye patch, fighter’s kit, light 
+crossbow (only used when sneaking or when longer range is required), light mace (only used when 
+sneaking), mask of breathing (magical bandanna, functions as a necklace of adaption when placed over 
+the nose and mouth; uses head slot), ring of protection +1 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 57 lb. 3 oz. (28 lb. 3 oz. without 
+backpack) 
+ 
+
+Hagor (with elemental overflow) 
+As above, except as follows… 
+Init +6; Senses darkvision 60-ft.; Perception +13 
+DEFENSE 
+AC 23, touch 16, flat-footed 18 (+7 armor, +1 deflection, +5 Dex) 
+hp 120 plus 3 burn (8 HD); maxed hit points via retraining 
+Fort +13, Ref +13, Will +5 
+Defensive Abilities fortification (15%), searing flesh (8 damage) 
+Immune harmful vapors and gases, suffocation 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee fire blade +14/+9 touch (4d6+5 fire) or 
+blue fire blade +14/+9 touch (8d6+5 fire) or 
+light mace +14/+9 (1d6) 
+Ranged fire blast +14 touch (4d6+9 fire) or 
+blue fire blast +14 touch (8d6+9 fire) or 
+light crossbow +12 (1d8/19-20) 
+Kineticist Wild Talents Known (CL 8
+th; Concentration +14) 
+Defense – searing flesh (base 2 damage) 
+Infusions – burning infusion (1 burn, Ref DC 20 negates), fan of flames (1 burn, Ref DC 20 half), 
+kinetic blade (1 burn), kinetic whip (2 burn) 
+Kinetic Blasts – blue flame blast (2 burn), fire blast 
+Utility – basic pyrokinesis, fire’s fury, firesight, heat wave (1 burn), searing flame, smoke storm (Fort 
+DC 20 negates) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 22 (+6), Con 22 (+6), Int 14 (+2), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +6; CMB +6 (+12 with Weapon Finesse); CMD 23 
+Skills Acrobatics +16, Escape Artist +16, Heal +8, Intimidate +11, Perception +13, Profession (soldier) +10, 
+Stealth +20; Armor Check Penalty –1; Racial Bonus +4 Stealth 
+SQ basic pyrokinesis, burn (2 points/round, maximum 9), expanded element (fire), gather power, 
+infusion specialization 2, internal buffer 1 
+SPECIAL ABILITIES 
+Burn (Ex) Some of your wild talents allow you to accept burn in exchange for a greater effect, while others 
+require you to accept a certain amount of burn to use that talent at all. For each point of burn you accept, 
+you take 1 point of nonlethal damage per character level. This damage can’t be healed by any means 
+other than getting a full night’s rest, which removes all burn and associated nonlethal damage. Nonlethal 
+damage from burn can’t be reduced or redirected, and if you are incapable of taking nonlethal damage 
+then you can’t accept burn. You can accept only 2 points of burn per round. You can’t choose to accept 
+burn if it would put your total number of points of burn higher than 3 + you Constitution modifier 
+(though you can be forced to accept more burn from a source outside your control). Whilst you possess 
+burn you can never benefit from abilities that allow you to ignore or alter the affects you receive from 
+nonlethal damage. 
+Elemental Defense (Su) You have the following defense wild talent. 
+Searing Flesh: Your body becomes painfully hot. Whenever a creature hits you with a natural attack 
+or an unarmed strike, that creature takes 1 point of fire damage per 4 kineticist levels you possess 
+(minimum 1 point of fire damage). A creature in a grapple with you takes double this amount of damage 
+at the end of each of its turns. Weapons that strike you also take this damage, though the damage is 
+unlikely to penetrate the weapon’s hardness. By accepting 1 point of burn, you can increase this damage 
+by 1 point per 4 kineticist levels you possess until the next time your burn is removed. You can increase 
+the damage in this way up to seven times. Whenever you accept burn while using a fire wild talent, the 
+
+surging flame causes your searing flesh to deal double its current amount of damage for 1 round (a 
+creature in a grapple with you takes a total of four times as much damage as normal). You can dismiss 
+or restore this effect as an immediate action. 
+Elemental Overflow (Ex) Your body surges with energy from your element whenever you accept burn, 
+causing you to glow with a nimbus of fire, weep water from your pores, or experience some other 
+thematic effect. You receive a bonus on your attack rolls with kinetic blasts equal to the total number of 
+points of burn you currently possess, to a maximum bonus of +1 for every 3 kineticist levels you 
+possess. You also receive a bonus on damage rolls with your kinetic blast equal to double the bonus on 
+attack rolls. You can suppress the visual effects of elemental overflow by concentrating for 1 full round, 
+but doing so suppresses all of this ability’s other benefits, as well. The next time you use any wild talent, 
+the visual effects and benefits return instantly. As your body becomes more and more suffused with your 
+element, you begin to gain more powerful benefits. Whenever you possess at least 3 points of burn, you 
+gain a +2 size bonus to two physical ability scores of your choice. You also gain a chance to ignore the 
+effects of a critical hit or sneak attack equal to 5% × your current number of points of burn. 
+Gather Power (Su) If you have both hands free you can gather energy or elemental matter as a move action. 
+Gathering power creates an extremely loud, visible display in a 20-foot radius centered on you, as the 
+energy or matter swirls around you. Gathering power in this way allows you to reduce the total burn cost 
+of a blast wild talent you use in the same round by 1 point. You can instead gather power for 1 full 
+round in order to reduce the total burn cost of a blast wild talent used on your next turn by 2 points (to a 
+minimum of 0 points). If you do so, you can also gather power as a move action during your next turn to 
+reduce the burn cost by a total of 3 points. If you take damage during or after gathering power and 
+before using the kinetic blast that releases it, you must succeed at a concentration check (DC = 10 + 
+damage taken + effective spell level of your kinetic blast) or lose the energy in a wild surge that forces 
+you to accept a number of points of burn equal to the number of points by which your gathered power 
+would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 
+points. 
+Infusion Specialization (Ex) Whenever you use one or more infusions with a blast, you reduce the combined 
+burn cost of the infusions by 2. This can’t reduce the total cost of the infusions used below 0. 
+Infusions (Su) The following infusions alter your blasts. You can apply at most one form infusion and one 
+substance infusion to your blasts. 
+Burning Infusion (substance): Your kinetic blast ignites your foes. Whenever an infused blast hits a 
+foe and penetrates its spell resistance, that foe catches on fire, regardless of whether it takes damage. A 
+foe that catches fire takes 1d6 points of fire damage each round until the fire is extinguished. Against a 
+creature on fire from this infusion, any fire kinetic blasts gain a +2 bonus on attack rolls, to DCs, and on 
+caster level checks to overcome spell resistance. 
+Fan of Flames (form): Your kinetic blast extends in a fan of flames, damaging all creatures and 
+objects in a 15-foot cone. The saving throw DC is Dexterity-based. 
+Kinetic Blade (form): You form a weapon using your kinetic abilities. You create a non-reach, light 
+or one-handed weapon in your hand formed of pure energy or elemental matter. The kinetic blade’s 
+shape is purely cosmetic and doesn’t affect the damage dice, critical threat range, or critical multiplier of 
+the kinetic blade, nor does it grant the kinetic blade any weapon special features. 
+You can use this form infusion once as part of an attack action, a charge action, or a full-attack 
+action in order to make melee attacks with your kinetic blade. Since it’s part of another action (and isn’t 
+an action itself), using this wild talent doesn’t provoke any additional attacks of opportunity. The kinetic 
+blade deals your kinetic blast damage on each hit (applying any modifiers to your kinetic blast’s damage 
+as normal, but not your Strength modifier). The blade disappears at the end of your turn. The weapon 
+deals the same damage type that your kinetic blast deals, and it interacts with Armor Class and spell 
+resistance as normal for a blast of its type. The kinetic blade doesn’t add the damage bonus from 
+elemental overflow. 
+Kinetic Whip (form): You form a long tendril of energy or elemental matter. This functions as 
+kinetic blade but counts as a reach weapon appropriate for your size. Unlike most reach weapons, the 
+kinetic whip can also attack nearby creatures. The kinetic whip disappears at the beginning of your next 
+
+turn, but in the intervening time, it threatens all squares within its reach, allowing you to make attacks of 
+opportunity that deal the whip’s usual damage. 
+Internal Buffer (Su) You possess an internal buffer with which to store extra energy. The buffer starts empty 
+and doesn’t replenish each day, but you can accept 1 point of burn to add 1 point to the buffer as a 
+full-round action, to a maximum of 1 point total. Once you add points to your buffer, they remain 
+indefinitely until you spend them. When you would otherwise accept burn, you can spend 1 point from 
+your buffer to avoid accepting 1 point of burn. You cannot spend more than 1 point from your buffer in 
+this way for a single wild talent. Points spent from the internal buffer don’t activate elemental overflow 
+or add to its effects. Similarly, this buffer can be used to exceed the limit on the number of points of 
+burn you can accept in a single turn. 
+Kinetic Blast (Sp) As a standard action, you can unleash a kinetic blast at a single target up to a range of 30 
+feet. You must have at least one hand free to aim the blast. All damage from a kinetic blast is treated as 
+magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the 
+purpose of feats such as Weapon Focus. You are never considered to be wielding or gripping the kinetic 
+blast (regardless of effects from form infusions), and you can’t use Vital Strike feats with kinetic blasts. 
+Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts 
+always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms). A 
+readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its 
+descriptor. A kinetic blast that deals energy damage of any type (including force) has the corresponding 
+descriptor. 
+Metakinesis (Su) You gain the ability to alter your kinetic blasts as if with metamagic feats by accepting burn. 
+By accepting 1 point of burn, you can empower your kinetic blast (as if using Empower Spell). 
+Utility You have the following utility wild talents. 
+Basic Pyrokinesis (Sp): You can use your inner flame to reproduce the effects of a flare, light, or 
+spark
+APG cantrip, except that the light you create with light produces heat like a normal flame; using any 
+of the three abilities ends any previous light effect from this wild talent. 
+Fire’s Fury (Su): When using fire blasts or composite blasts that include fire, add your elemental 
+overflow bonus to the damage dealt. If the kinetic blast normally adds double your elemental overflow 
+bonus to damage, these effects stack. 
+Firesight (Su): You can see through flames and smoke as if they were transparent. Creatures that are 
+on fire or have the fire subtype never benefit from concealment or total concealment against you. 
+Heat Wave (Sp): You create an aura of shimmering heat that distorts the area around you. Until the 
+next time your burn is removed, you can begin or end the heat aura as a swift action. The temperature in 
+the area 30 feet around you rises by 5° F per kineticist level you possess, to a maximum modified 
+temperature of 120° F. If this brings the temperature to at least 90° F, all attacks made by creatures 
+within 5 feet of you suffer a 20% miss chance due to concealment. You are immune to these effects, as 
+are those immune to fire or benefiting from endure elements. 
+Searing Flame (Su): Over time, your burning infusion sears away your foe’s fire resistance. When 
+you roll burn damage from burning infusion against a foe, decrease the foe’s fire resistance by an 
+amount equal to the unmodified burn damage; don’t apply fire resistance to this roll for the purpose of 
+determining the reduction. This decrease lasts for a number of rounds equal to ½ your kineticist level. 
+These decreases stack, to a minimum resistance of 0. 
+Smoke Storm (Sp): You transform a source of open flame within 120 feet into a cloud of choking 
+smoke, filling a 20-foot-radius spread and affecting vision like a smokestick. All creatures that begin 
+their turns inside the area become sickened as long as they remain in the smoke and for 1d4+1 rounds 
+thereafter (Fortitude negates). 

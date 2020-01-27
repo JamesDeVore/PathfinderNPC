@@ -1,0 +1,56 @@
+
+
+Neelon Zelbag 
+Male elf slayer 4 
+CN Medium humanoid (elf) 
+Init +5; Senses darkvision 60 ft.; Perception +7 
+Languages Common, Elven, Gnoll, Goblin, Orc 
+DEFENSE 
+AC 21, touch 14, flat-footed 17 (+7 armor, +3 Dex, +1 dodge) 
+hp 41 (4 HD) 
+Fort +5, Ref +7, Will +1; +2 vs. enchantments 
+Immune magic sleep effects 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 rapier +7 (1d6+3/18-20) or 
++1 kukri +7 (1d4+3/×3) or 
++1 rapier +5 (1d6+3/18-20) and +1 kukri +5 (1d4+3/×3) 
+Ranged pilum +7 (1d8+2) 
+Special Attacks sneak attack +1d6, studied target +1 
+STATISTICS 
+Abilities Str 15 (+2), Dex 16 (+3), Con 12 (+1), Int 16 (+3), Wis 10 (+0), Cha 14 (+2) 
+Base Atk +4; CMB +6; CMD 20 
+Feats Dodge, Double Slice, Quick Draw
+B, RunB, Two-Weapon Fighting
+B 
+
+Skills Acrobatics +7, Bluff +9, Climb +6, Craft (alchemy) +10, Intimidate +9, Perception +7, Sense Motive +7, 
+Stealth +7, Survival +7 (+9 tracking); Armor Check Penalty –3 
+SQ light sensitivity, silent hunter, slayer talents (combat trick: quick draw, ranger combat style: two-
+weapon combat), track +2 
+Combat Gear pilum (4); Other Gear +1 breastplate, +1 dagger, +1 rapier, tender (20sp) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 48 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Fleet-Footed You receive Run as a bonus feat and a +2 racial bonus on initiative checks. 
+Light Sensitivity (Ex) You are dazzled in areas of bright sunlight or within the radius of a daylight spell. 
+Silent Hunter You reduce the penalty for using Stealth while moving by 5 and can make Stealth checks while 
+running at a –20 penalty (this number includes the penalty reduction from this racial trait). 
+Sneak Attack Your attack deals extra damage anytime your target would be denied a Dexterity bonus to AC 
+(whether the target actually has a Dexterity bonus or not), or when you flanks your target. This extra 
+damage is 1d6 at 1
+st-level, and increases by 1d6 every two rogue levels thereafter. Should you score a 
+critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as sneak 
+attacks only if the target is within 30 feet. With a weapon that deals nonlethal damage (like a sap, whip, 
+or an unarmed strike), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, 
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with 
+concealment. 
+Studied Target (Ex) You can study an opponent you can see as a move action. You then gain a +1 bonus on 
+Bluff, Knowledge, Perception, Sense Motive, and Survival checks attempted against that opponent, and 
+a +1 bonus on weapon attack and damage rolls against it. The DCs of slayer class abilities against that 
+opponent increase by 1. You can only maintain these bonuses against one opponent at a time; these 
+bonuses remain in effect until either the opponent is dead or you study a new target. If you deal sneak 
+attack damage to a target, you can study that target as an immediate action, allowing you to apply your 
+studied target bonuses against that target (including to the normal weapon damage roll). 
+Track (Ex) You add half your slayer level (minimum 1) to Survival skill checks made to follow tracks. 

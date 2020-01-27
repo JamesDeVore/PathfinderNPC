@@ -1,0 +1,201 @@
+
+
+Rina Lhorn 
+Female merfolk hydrokineticist 7 
+NG Medium humanoid (aquatic) 
+Init +6; Senses darkvision 60 ft., light sensitivity; 
+Perception +12 
+Languages Aquan, Common 
+DEFENSE 
+AC 23, touch 16, flat-footed 17 (+4 armor, +6 Dex, +3 
+shield) 
+hp 79 (7 HD) 
+Fort +9, Ref +11, Will +4 
+OFFENSE 
+Speed 15 ft. (3 squares), swim 30 ft.; or just 30 ft. with 
+fins to feet 
+Melee water blade +5 (4d6+8) or 
+cold blade +5 touch (4d6+2 cold) or 
+ice blade +5 (8d6+12 bludgeoning and cold) 
+Ranged water blast +11 (4d6+8) or 
+cold blast +11 touch (4d6+2 cold) or 
+ice blast +11 (8d6+12 bludgeoning and cold) 
+Special Attacks elemental overflow +2, kinetic blast, metakinesis (empower) 
+Spell-like Abilities (CL 7th; Concentration +9) 
+At will – speak with animals (aquatic animals only) 
+1/day – fins to feetARG (self only), hydraulic pushAPG 
+Kineticist Wild Talents Known (CL 7th; Concentration +11) 
+Defense – shroud of water (+5 armor, +3 shield) 
+Infusions – entangling infusion (2 burn, DC 17), extended range (1 burn), kinetic blade (1 burn), snake 
+(2 burn) 
+Kinetic Blasts – cold blast, ice blast (2 burn), water blast 
+Utility – basic hydrokinesis, kinetic healer (1 burn, cures 4d6+8), silent image (DC 16), slick (DC 17), 
+water manipulator 
+STATISTICS 
+Abilities Str 10 (+0), Dex 22 (+6), Con 18 (+4), Int 10 (+0), Wis 14 (+2), Cha 14 (+2) 
+Base Atk +5; CMB +5; CMD 21 
+Feats Extra Wild Talent, Kinetic Invocation, Point Blank Shot, Precise Shot 
+Skills Heal +12, Perception +12, Stealth +16, Swim +18 (may take 10; +10 in humanoid form) 
+SQ amphibious, basic hydrokinesis, burn (2 points/round, maximum 7), expanded element (water), 
+gather power, infusion specialization, internal buffer 1, secret magic, strongtail 
+Gear belt of incredible dexterity +4, jewelry (pearls and seashells worth 400gp), mithral shirt, seafoam shawl 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 12 lb. (excluding tender) 
+   
+
+Rina Lhorn (with elemental overflow) 
+As above, except as follows… 
+Init +7; Senses darkvision 60 ft., light sensitivity; Perception 
++12 
+DEFENSE 
+AC 24, touch 16, flat-footed 18 (+4 armor, +6 Dex, +4 shield) 
+hp 87 plus 3 burn (7 HD) 
+Fort +10, Ref +12, Will +4 
+Defensive Abilities fortification (15%) 
+OFFENSE 
+Melee water blade +8 (4d6+9) or 
+cold blade +8 touch (4d6+2 cold) or 
+ice blade +8 (8d6+13 bludgeoning and cold) 
+Ranged water blast +15 (4d6+13) or 
+cold blast +15 touch (4d6+6 cold) or 
+ice blast +15 (8d6+17 bludgeoning and cold) 
+Kineticist Wild Talents Known (CL 7th; Concentration +12) 
+Defense – shroud of water (base +5 armor or +3 shield) 
+Infusions – entangling infusion (2 burn, DC 18), extended range (1 burn), kinetic blade (1 burn), snake 
+(2 burn) 
+Kinetic Blasts – cold blast, ice blast (2 burn), water blast 
+Utility – basic hydrokinesis, kinetic cover (14 hp, limit 7 at a time), kinetic healer (1 burn, cures 4d6+9), 
+slick (DC 18), water manipulator 
+STATISTICS 
+Abilities Str 10 (+0), Dex 24 (+7), Con 20 (+5), Int 10 (+0), Wis 14 (+2), Cha 14 (+2) 
+Base Atk +5; CMB +5; CMD 22 
+Skills Heal +12, Perception +12, Stealth +17, Swim +18 (may take 10; +10 in humanoid form) 
+SQ amphibious, basic hydrokinesis, burn (2 points/round, maximum 8), expanded element (water), 
+gather power, infusion specialization, internal buffer 1, secret magic 
+SPECIAL ABILITIES 
+Burn (Ex) Some of your wild talents allow you to accept burn in exchange for a greater effect, while others 
+require you to accept a certain amount of burn to use that talent at all. For each point of burn you accept, 
+you take 1 point of nonlethal damage per character level. This damage can’t be healed by any means 
+other than getting a full night’s rest, which removes all burn and associated nonlethal damage. Nonlethal 
+damage from burn can’t be reduced or redirected, and if you are incapable of taking nonlethal damage 
+then you can’t accept burn. You can accept only 2 points of burn per round. You can’t choose to accept 
+burn if it would put your total number of points of burn higher than 3 + you Constitution modifier 
+(though you can be forced to accept more burn from a source outside your control). Whilst you possess 
+burn you can never benefit from abilities that allow you to ignore or alter the effects you receive from 
+nonlethal damage. 
+Elemental Defense (Su) You have the following defense wild talent. 
+Shroud of Water: You surround yourself with a shroud of water, ice, or both that protects you from 
+harm. The shroud can either cover your body, functioning as armor, or float around you and block 
+attacks, functioning as a shield. It grants either a +5 armor bonus to AC or a +3 shield bonus to AC, and 
+you can change the type of bonus as a standard action. By accepting 1 point of burn, you can increase 
+the bonus by 1 until the next time your burn is removed. You can increase the bonus multiple times in 
+this way, but it can’t be increased by more than 50% of its starting value. When you change the shroud 
+to grant a shield bonus, any bonus in excess of this limit doesn’t apply, but it remains if you change the 
+shroud’s bonus type again. Whenever you accept burn while using a water wild talent, the water 
+
+coalescing around you allows your shroud to grant both the armor bonus and the shield bonus for 1 
+round. You can dismiss or restore this effect as an immediate action. 
+Elemental Overflow (Ex) Your body surges with energy from your element whenever you accept burn, 
+causing you to glow with a nimbus of fire, weep water from your pores, or experience some other 
+thematic effect. You receive a bonus on your attack rolls with kinetic blasts equal to the total number of 
+points of burn you currently possess, to a maximum bonus of +1 for every 3 kineticist levels you 
+possess. You also receive a bonus on damage rolls with your kinetic blast equal to double the bonus on 
+attack rolls. You can suppress the visual effects of elemental overflow by concentrating for 1 full round, 
+but doing so suppresses all of this ability’s other benefits, as well. The next time you use any wild talent, 
+the visual effects and benefits return instantly. As your body becomes more and more suffused with your 
+element, you begin to gain more powerful benefits. Whenever you possess at least 3 points of burn, you 
+gain a +2 size bonus to two physical ability scores of your choice. You also gain a chance to ignore the 
+effects of a critical hit or sneak attack equal to 5% × your current number of points of burn. 
+Gather Power (Su) If you have both hands free you can gather energy or elemental matter as a move action. 
+Gathering power creates an extremely loud, visible display in a 20-foot radius centered on you, as the 
+energy or matter swirls around you. Gathering power in this way allows you to reduce the total burn cost 
+of a blast wild talent you use in the same round by 1 point. You can instead gather power for 1 full 
+round in order to reduce the total burn cost of a blast wild talent used on your next turn by 2 points (to a 
+minimum of 0 points). If you do so, you can also gather power as a move action during your next turn to 
+reduce the burn cost by a total of 3 points. If you take damage during or after gathering power and 
+before using the kinetic blast that releases it, you must succeed at a concentration check (DC = 10 + 
+damage taken + effective spell level of your kinetic blast) or lose the energy in a wild surge that forces 
+you to accept a number of points of burn equal to the number of points by which your gathered power 
+would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 
+points. 
+Infusion Specialization (Ex) Whenever you use one or more infusions with a blast, you reduce the combined 
+burn cost of the infusions by 1. This can’t reduce the total cost of the infusions used below 0. 
+Infusions (Su) The following infusions alter your blasts. You can apply at most one form infusion and one 
+substance infusion to your blasts. 
+Entangling Infusion (substance): Whenever a blast with this infusion deals damage to a foe, that foe 
+becomes entangled for 1 minute. The foe can remove this condition as a standard action with a 
+successful Escape Artist or Strength check (with the same DC as for saves against your kinetic blast) or 
+by dealing an amount of damage to the entangling matter equal to double your kineticist level (the 
+matter has hardness 0). If the foe was already entangled by this infusion and fails its save against a 
+second instance of this infusion, the increased amount of elemental matter fuses to the ground, causing 
+the foe to be rooted in place as though anchored to an immobile object. 
+Extended Range (form): Your kinetic blast can strike any target within 120 feet. 
+Kinetic Blade (form): You create a non-reach, light or one-handed weapon in your hand formed of 
+pure energy or elemental matter. (If you’re a telekineticist, you instead transfer the power of your kinetic 
+blast to any object held in one hand.) The kinetic blade’s shape is purely cosmetic and doesn’t affect the 
+damage dice, critical threat range, or critical multiplier of the kinetic blade, nor does it grant the kinetic 
+blade any weapon special features. The object held by a telekineticist for this form infusion doesn’t 
+prevent her from using gather power. 
+You can use this form infusion once as part of an attack action, a charge action, or a full-attack 
+action in order to make melee attacks with your kinetic blade. Since it’s part of another action (and isn’t 
+an action itself), using this wild talent doesn’t provoke any additional attacks of opportunity. The kinetic 
+blade deals your kinetic blast damage on each hit (applying any modifiers to your kinetic blast’s damage 
+as normal, but not your Strength modifier). The blade disappears at the end of your turn. The weapon 
+deals the same damage type that your kinetic blast deals, and it interacts with Armor Class and spell 
+resistance as normal for a blast of its type. Even if a telekineticist uses this power on a magic weapon or 
+another unusual object, the attack doesn’t use any of the magic weapon’s bonuses or effects and simply 
+
+deals the telekineticist’s blast damage. The kinetic blade doesn’t add the damage bonus from elemental 
+overflow. 
+Snake (form): You have fine control over your kinetic blast, allowing you to alter its path to avoid 
+obstacles. You can trace out any path no more than 120 feet long for your blast, potentially allowing you 
+to avoid cover (even total cover). You can choose a path that leads into squares you cannot see. 
+Internal Buffer (Su) You possess an internal buffer with which to store extra energy. The buffer starts empty 
+and doesn’t replenish each day, but you can accept 1 point of burn to add 1 point to the buffer as a 
+full-round action, to a maximum of 1 point total. Once you add points to your buffer, they remain 
+indefinitely until you spend them. When you would otherwise accept burn, you can spend 1 point from 
+your buffer to avoid accepting 1 point of burn. You cannot spend more than 1 point from your buffer in 
+this way for a single wild talent. Points spent from the internal buffer don’t activate elemental overflow 
+or add to its effects. Similarly, this buffer can be used to exceed the limit on the number of points of 
+burn you can accept in a single turn. 
+Kinetic Blast (Sp) As a standard action, you can unleash a kinetic blast at a single target up to a range of 30 
+feet. You must have at least one hand free to aim the blast. All damage from a kinetic blast is treated as 
+magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the 
+purpose of feats such as Weapon Focus. You are never considered to be wielding or gripping the kinetic 
+blast (regardless of effects from form infusions), and you can’t use Vital Strike feats with kinetic blasts. 
+Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts 
+always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms). A 
+readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its 
+descriptor. A kinetic blast that deals energy damage of any type (including force) has the corresponding 
+descriptor. 
+Metakinesis (Su) You gain the ability to alter your kinetic blasts as if with metamagic feats by accepting burn. 
+By accepting 1 point of burn, you can empower your kinetic blast (as if using Empower Spell). 
+Utility (Sp) You have the following utility wild talents. 
+Basic Hydrokinesis: You can create water as the cantrip create water, purify water as if using purify 
+food and drink, and dry wet creatures and objects as if using prestidigitation. While you cannot lift 
+water into the air using this ability, you can create mild currents in a body of water by concentrating. 
+These currents are strong enough to run a water mill as if the mill were being turned manually by a 
+creature with a Strength score equal to your Constitution score. 
+Kinetic Cover: You call up elemental matter to defend yourself and your allies from attacks. As a 
+standard action, you can select one face of a square within 30 feet of you and move elemental matter to 
+block that face, providing total cover from that direction. The face you select must be supported by the 
+ground, and the kinetic cover cannot support more than 5 pounds of weight. Water, ice, and telekinetic 
+force are translucent, but earth, metal, mud, and the like are opaque and block line of sight. A creature 
+who strikes the cover can easily destroy it. Regardless of its composition, the cover has hardness 0, AC 
+5, and 2 hit points per kineticist level you possess. You can have a number of kinetic covers in existence 
+equal to your Constitution modifier + ½ your kineticist level. 
+Kinetic Healer: With a touch, you can heal a willing living creature of an amount of damage equal to 
+your kinetic blast’s damage. Instead of paying the burn cost yourself, you can cause the recipient to take 
+1 point of burn. If you do so, the recipient takes 1 point of nonlethal damage per Hit Die he possesses, as 
+usual for burn; this damage can’t be healed by any means until the recipient takes a full night’s rest. 
+Slick: As a standard action, you call forth slippery water or ice, creating any of the effects of the 
+grease spell for 1 round. You can accept 1 point of burn at the start of your next turn to extend the 
+duration to 1 minute per kineticist level you possess. 
+Water Manipulator: You can manipulate massive quantities of water. As a standard action, you can 
+raise or lower the level of water as if using control water, or move an amount of water equal to 1/1,000th 
+the amount controlled by that spell to a different location in range. The water remains where you placed 
+it for as long as you remain motionless and take a standard action each round to concentrate on this 
+effect. This wild talent causes a slow effect on creatures made of water, just like control water (Will 
+negates). When you cease concentrating, the water flows normally unless you accept 1 point of burn to 
+
+extend the duration and hold the water in its current position for 10 minutes per kineticist level you 
+possess. 

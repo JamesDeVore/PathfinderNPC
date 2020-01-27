@@ -1,0 +1,181 @@
+
+
+Lweoh Estalc 
+Make human conjurer 11 
+N Medium humanoid 
+Init +2; Senses familiar’s alertness; Perception +11 
+Languages Aquan, Auran, Common, Ignan, Terran 
+DEFENSE 
+AC 16, touch 12, flat-footed 14 (+4 armor, +2 Dex); mage armor 
+hp 72 (11 HD) 
+Fort +6, Ref +6, Will +8 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good); overland flight 
+Melee mwk cold iron dagger +8 (1d4+2/19-20) 
+Ranged acid dart +7 touch (1d6+5 acid) 
+Spell-like Abilities (CL 11th; Concentration +15) 
+7/day – acid dart 
+Spells Prepared (CL 11
+th; Concentration +15) 
+6th  (3/day) – guards and wards, summon monster VI (2) 
+5th  (4/day) – overland flight, summon monster V (2), teleport 
+4th  (5/day) – black tentacles, summon monster IV (2), wall of fire, wall of ice 
+3
+rd  (7/day) – fly, haste (2), shrink item, slow (2), stinking cloud 
+2nd (7/day) – invisibility (2), resist energy (2), rope trick, web (2) 
+1st  (7/day) – color spray, feather fall, grease, mage armor (3), shield 
+0  (at will) – light, mage hand, message, prestidigitation 
+Arcane School conjuration; Opposition Schools divination, necromancy 
+STATISTICS 
+Abilities Str 14 (+2), Dex 14 (+2), Con 14 (+2), Int 24 (+7), Wis 10 (+0), Cha 14 (+2) 
+Base Atk +5; CMB +7; CMD 19 
+Feats Augment Summoning, Craft Construct
+B, Craft Magic Arms and Armor
+B, Craft Wondrous Item, Improved 
+Familiar, Racial Heritage (tengu
+B), Scribe Scroll
+B, Spell Focus (conjuration), Tengu Raven Form, Tengu 
+Wings 
+
+Skills Craft (alchemy) +18, Craft (stonemasonry) +18, Fly +16 (+21 w/overland flight), Knowledge (arcana) 
++18, Knowledge (engineering) +18, Knowledge (planes) +18, Perception +11 (+15 with familiar), 
+Profession (engineer) +14, Sense Motive +11 (+15 with familiar), Spellcraft +18 
+Favored Class (wizard)SQ arcane bond (fire elemental familiar), dimensional steps (330 ft./day), summoner’s 
+charm 
+Gear blessed book (hidden away in a secret chest), chest with arcane locked superior lock (DC 50, kept on 
+ethereal plane), cloak of resistance +1, headband of vast intelligence +6 (craft: stonemasonry, 
+knowledge: engineering, profession: engineer), masterwork cold iron dagger, moving castle (colossal 
+animated object, see below), secret chest focus, tender (46gp, 1,000gp in secret chest) 
+Spellbook all core wizard spells of 5
+th-level and lower plus guards and wards and summon monster VI 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 2 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Acid Dart (Sp) As a standard action you can unleash an acid dart targeting any foe within 30 feet as a ranged 
+touch attack. The acid dart deals 1d6 points of acid damage + 1 for every two wizard levels you possess. 
+You can use this ability a number of times per day equal to 3 + your Intelligence modifier. This attack 
+ignores spell resistance. 
+Dimensional Steps (Sp) You can use this ability to teleport up to 30 feet per wizard level per day as a standard 
+action. This teleportation must be used in 5-foot increments and such movement does not provoke an 
+attack of opportunity. You can bring other willing creatures with you, but you must expend an equal 
+amount of distance for each additional creature brought with you. 
+
+Summoner’s Charm (Su) Whenever you cast a conjuration (summoning) spell, increase the duration by a 
+number of rounds equal to ½ your wizard level (minimum 1). 
+ 
+Ember 
+Fire elemental familiar (valet) 
+N Small outsider (elemental, extraplanar, fire) 
+Init +5; Senses darkvision 60 ft.; Perception +4 
+Languages Ignan; empathic link, speak with master 
+DEFENSE 
+AC 26, touch 13, flat-footed 24 (+4 armor, +1 Dex, +1 dodge, +9 natural, +1 
+size); mage armor 
+hp 36 (11 HD) 
+Fort +3, Ref +5, Will +4 
+Defensive Abilities improved evasion; Immune elemental traits, fire; SR 16 
+Weaknesses vulnerability to cold 
+OFFENSE 
+Speed fly 50 ft. 
+Melee slam +4 (1d4 plus burn) 
+Ranged by weapon +4 
+Valet Spell-like Abilities (CL 11
+th; Concentration +11) 
+1/hour – prestidigitation 
+Special Attacks burn (1d4, DC 11), deliver touch spells 
+STATISTICS 
+Abilities Str 10 (+0), Dex 13 (+1), Con 10 (+0), Int 11 (+0), Wis 11 (+0), Cha 11 (+0) 
+Base Atk +5; CMB +4 (or +5 with Weapon Finesse); CMD 16 
+Feats Cooperative Crafting
+B (only with master), Craft Construct
+B, Craft Magic Arms and Armor
+B, Craft 
+Wondrous ItemB (only with master), Dodge, Improved Initiative
+B, Weapon Finesse
+B 
+Skills Acrobatics +5, Climb +4, Craft (alchemy) +14, Escape Artist +5, Fly +10, Intimidate +4, Knowledge 
+(arcana) +11, Knowledge (engineering) +11, Knowledge (planes) +14, Perception +4, Profession 
+(engineer) +14, Spellcraft +11 
+SQ able assistant, empathic link, familiar traits, share spells, teammate 
+Encumbrance light 24 lb. 12 oz., medium 49 lb. 8 oz., heavy 75 lb.; Weight Carried 0 lb.  
+SPECIAL ABILITIES 
+Able Assistant (Ex) A valet’s master treats the valet as if it possessed the Cooperative Crafting feat and shared 
+all Craft skills and item creation feats he possesses. 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+Deliver Touch Spells (Su) If you and your familiar are in contact at the time you cast a touch spell, you can 
+designate your familiar as the toucher. Your familiar can then deliver the touch spell personally. As 
+usual, if you cast another spell before the touch is delivered, the touch spell dissipates. When delivering 
+a harmless touch spell to a willing creature, a valet can also move before and after delivering the spell, 
+as long as its total movement does not exceed its speed. 
+Empathic Link (Su) Your familiar has an empathic link with you out to one mile. You cannot see through your 
+familiar’s eyes, but the two of you can communicate empathically. Only general emotional content can 
+be communicated. You have the same connection to an item or place that your familiar does. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, your familiar takes no damage if he makes a successful saving throw and half damage even if 
+the saving throw fails. 
+Share Spells You may cast a spell with a target of “You” on your familiar (as a touch spell) instead of on 
+yourself. You may cast spells on your familiar even if the spells do not normally affect creatures of the 
+familiar’s type. 
+
+Teammate (Ex) A valet is considered to have all the teamwork feats its master has. 
+ 
+Lweoh’s Keep 
+ 
+Lweoh’s keep is a magically animated construct creature capable of flying from 
+one town to another.  In  all other ways, it remains an elaborate fortified  keep 
+complete with the following features: two armories, three bedrooms, two bunks, 
+one cell, one courtyard,  one  crypt,  four  defensive  walls,  one drawbridge,  one 
+escape route, one garden, one gatehouse, one gauntlet, one kitchen, one lavatory, 
+one office, one sitting room, one stall, and two storage spaces. Lweoh protects 
+his home from intruders with a constant guards and wards effect. 
+ 
+Moving Castle 
+Colossal Animated Object (castle) 
+N Colossal construct 
+Init –2; Senses darkvision 60 ft., low-light vision; Perception –5 
+Languages understands and obeys creator and lawful inhabitants 
+DEFENSE 
+AC 23, touch 0, flat-footed 23 (–2 Dex, +4 armor, +19 natural, –8 size); mage armor 
+hp 151 (13 HD) 
+Fort +4, Ref +2, Will –1 
+Defensive Abilities guards and wards, hardness 10; Immune construct traits, critical hits, precision damage 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 30 ft. (clumsy), swim 30 ft. 
+Melee slam +24 (4d6+28) 
+Space 30 ft.; Reach 30 ft. 
+Special Attacks trample (4d6+28, DC 35) 
+STATISTICS 
+Abilities Str 49, Dex 6, Con –, Int –, Wis 1, Cha 1 
+Base Atk +13; CMB +40; CMD 48 
+Skills Fly –18, Stealth –18 
+SQ construction points (6 points: fly, metal construction, swim, trample), very large 
+SPECIAL ABILITIES 
+Trample (Ex) As a full-round action, a moving castle can attempt to overrun any creature that is at least one 
+size category smaller than itself. This works just like the overrun combat maneuver, but the moving 
+castle does not need to make a check, it merely has to move over opponents in its path. Targets of a 
+trample take an amount of damage equal to the moving castle’s slam damage + 1½ times its Str 
+modifier. Targets of a trample can make an attack of opportunity, but at a –4 penalty. If targets forgo an 
+attack of opportunity, they can attempt to avoid the trampling castle and receive a Reflex save to take 
+half damage. The save DC against a moving castle’s trample attack is 10 + ½ moving castle’s HD + 
+moving castle’s Str modifier (the exact DC is given above). A moving castle can only deal trampling 
+damage to each target once per round, no matter how many times its movement takes it over a target 
+creature. 
+Very Large A moving castle is essentially an extremely large mobile object. As such it is immune to critical 
+hits, has a hardness rating, takes reduced damage from energy attacks (or no damage from ineffectual 
+attacks), and has different hit point totals for different sections. For example, a door may be broken 
+down, a window smashed, or even an entire wall collapsed without any harm to the moving castle. For 
+damage to be dealt directly to the moving castle’s hit point total, the moving castle as a whole must be 
+deliberately targeted, rather than its individual components. Once the moving castle reaches 0 hit points, 
+it is effectively destroyed: it is no longer animated and reverts to a mundane castle (albeit a damaged 
+
+one) resting in its current position. If swimming it may begin to sink, if flying it may crash to the 
+ground, either of which may be hazardous to castle occupants. For the purposes of completely 
+obliterating the castle itself (not just de-animating it), treat the moving castle as having 10,800 hit points. 
+Attacking an object within the moving castle is treated just like targeting any normal unattended object 
+(see the smashing an object rules). Attacking an object on the castle’s exterior (such as to collapse a 
+balcony), however, requires a successful sunder attempt against the moving castle itself (see the sunder 
+combat maneuver). Additionally, a moving castle is so large, that a great number of beings may live 
+comfortably inside of it, even while it is moving or fighting. Such inhabitants may prove dangerous in 
+their own right, granting the moving castle additional forms of attack or defense. 
+CONSTRUCTION 
+Price 67,390gp; CL 11th; Requirements Craft Construct, animate objects, permanency; Skill Spellcraft or 
+Craft (stonemasonry); Cost 37,390gp 

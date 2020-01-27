@@ -1,0 +1,76 @@
+
+
+Siinsa Tosscobble 
+Female human rogue 9 (scout, thug) 
+N Medium humanoid 
+Init +2; Senses Perception +12 
+Languages Common 
+DEFENSE 
+AC 20, touch 12, flat-footed 18 (+5 armor, +2 Dex, +3 shield) 
+hp 74 (9 HD) 
+Fort +7, Ref +10, Will +5 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee sword of subtlety +12/+7 (1d6+6/19-20) or 
+sword of subtlety +16/+11 (1d6+10 plus 5d6 plus 5 bleed or befuddling 
+strike/19-20) with a sneak attack, or 
++1 sap +13/+8 (1d6+6 nonlethal plus enforcer) or 
++1 sap +13/+8 (1d6+11 plus 5d6 nonlethal plus enforcer plus 5 bleed or befuddling strike) with sneak 
+attack, or 
++1 sap +13/+8 (1d6+16 plus 10d6 nonlethal plus enforcer plus 10 bleed or befuddling strike) with sneak 
+attack against a flat-footed foe 
+Ranged mwk sling +9 (1d4+5) or 
+javelin +8 (1d6+5) 
+Special Attacks brutal beating (5 rounds), scout’s charge, skirmisher, sneak attack +5d6 
+STATISTICS 
+Abilities Str 20 (+5), Dex 14 (+2), Con 14 (+2), Int 10 (+0), Wis 10 (+0), Cha 14 (+5) 
+Base Atk +6; CMB +11; CMD 23 
+Feats Dazzling Display, Enforcer, Extra Rogue Talent (offensive defense), Intimidating ProwessB, Shatter 
+DefensesB, Sap Adept, Sap Master, Skill Focus (intimidate
+B), Weapon Focus (sapB) 
+Skills Acrobatics +14, Climb +17, Diplomacy +11, Escape Artist +14, Intimidate +23, Perception +12, Sense 
+Motive +12, Sleight of Hand +14, Stealth +14, Swim +17 
+SQ rogue talents (befuddling strikeB, bleeding attack +5, combat trick, offensive defense, strong 
+impression, weapon training) 
+Combat Gear potions of cure light wounds (6), sling bullets (20); Other Gear +1 sap, +2 buckler, +2 studded 
+leather, backpack, belt of giant strength +2, circlet of persuasion, cloak of resistance +2, javelins (5), 
+masterwork sling, sword of subtlety, tender (42gp, 8sp) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 51 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Befuddling Strike (Ex) When you deal sneak attack damage against an opponent, that opponent takes a –2 
+penalty on attack rolls against you for 1d4 rounds. This ability cannot be used in conjunction with 
+bleeding attack. 
+Bleeding Attack (Ex) You can cause living opponents to bleed by hitting them with a sneak attack. This attack 
+causes the target to take 1 additional point of damage each round for each die of your sneak attack. 
+Bleeding creatures take that amount of damage every round at the start of each of their turns. The 
+bleeding can be stopped by a DC 15 Heal check or the application of any effect that heals hit point 
+damage. Bleeding damage from this ability does not stack with itself. Bleeding damage bypasses any 
+damage reduction the creature might possess. This ability cannot be used in conjunction with befuddling 
+strike. 
+Brutal Beating (Ex) Whenever you deal sneak attack damage, you can choose to forgo 1d6 points of sneak 
+attack damage to make the target sickened for a number of rounds equal to ½ your rogue level. This 
+ability does not stack with itself—only the most recent duration applies. 
+
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. Evasion can be used only if you are wearing light 
+armor or no armor. If you are helpless, you do not gain the benefit of evasion. 
+Frightening (Ex) Whenever you successfully use Intimidate to demoralize a creature, the duration of the 
+shaken condition is increased by 1 round. In addition, if the target is shaken for 4 or more rounds, you 
+can instead decide to make the target frightened for 1 round. 
+Offensive Defense (Ex) When you hit a creature with a melee attack that deals sneak attack damage, you gain a 
++1 dodge bonus to AC for each sneak attack die rolled for 1 round. 
+Scout’s Charge (Ex) Whenever you make a charge, your attack deals sneak attack damage as if the target were 
+flat-footed. Foes with uncanny dodge are immune to this ability. 
+Skirmisher (Ex) Whenever you move more than 10 feet in a round and make an attack action, the attack deals 
+sneak attack damage as if the target was flat-footed. If you make more than one attack this turn, this 
+ability only applies to the first attack. Foes with uncanny dodge are immune to this ability. 
+Sneak Attack Your attack deals 5d6 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Should you 
+score a critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as 
+sneak attacks only if the target is within 30 feet. With a weapon that deals nonlethal damage (like a sap, 
+whip, or an unarmed strike), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, 
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with 
+concealment. 

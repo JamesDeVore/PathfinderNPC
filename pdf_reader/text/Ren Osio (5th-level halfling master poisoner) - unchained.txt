@@ -1,0 +1,102 @@
+
+
+Ren Osio (aka Huna Kune the adolescent) 
+Male halfling unchained rogue 5 (poisoner) 
+CN Small humanoid (halfling) 
+Init +3; Senses Perception +12 
+Languages Common, Dwarven, Gnome, Halfling 
+DEFENSE 
+AC 16, touch 14, flat-footed 14 (+2 armor, +3 Dex, +1 size) 
+hp 32 (5 HD) 
+Fort +2, Ref +8, Will +4; +2 vs. illusions 
+Defensive Abilities evasion, uncanny dodge; DR 3/– vs. small 
+ranged piercing weapons 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee mwk dagger +8 (1d3+3 plus poison/19-20) 
+Ranged mwk dagger +8 (1d3+1 plus poison/19-20) or 
+mwk blowgun +8 (1 plus poison) 
+Special Attacks debilitating injury, finesse training (dagger), poison use, sneak attack +3d6 
+STATISTICS 
+Abilities Str 13 (+1), Dex 16 (+3), Con 10 (+0), Int 14 (+2), Wis 14 (+2), Cha 16 (+3) 
+Base Atk +3; CMB +3; CMD 16 
+Feats Childlike, Master Alchemist, Pass for Human, Weapon Finesse
+B 
+Skills Acrobatics +11 (+7 when jumping), Bluff +11 (may take 10 when bluffing to appear innocent), Climb 
++9, Craft (alchemy) +16 (+18 with poison), Diplomacy +11, Disguise +11 (+23 to appear as a human 
+child, may take 10 to appear as a child in human settlements, +2 bonus with disguise kit), Escape Artist 
++11, Knowledge (local) +10, Perception +12, Sense Motive +12, Sleight of Hand +11, Stealth +15; 
+Racial Modifiers +2 Craft (alchemy), +2 Sense Motive 
+SQ master poisoner, practicality (craft: alchemy), rogue’s edge (craft: alchemy), rogue talents (lasting poison, 
+swift poison) 
+Combat Gear antitoxin (6), bloodblocks (3), blowgun darts (100), poisons (deathblade [contact 4], king’s sleep 
+[inhaled 1], large scorpion venom [injury 15], oil of taggit [contact 5, ingested 20, inhaled 5, injury 10]), 
+potions of delay poison (2), potion of neutralize poison, sling bullets (10); Other Gear +1 quilted cloth, 
+barbed vest (laced with poison), disguise kit (10 uses), loaded dice (average), masterwork backpack, 
+masterwork blowgun, masterwork daggers (2), masterwork sling, masterwork thieves’ tools, portable 
+alchemist’s lab, tender (2gp, 2sp, 3cp) 
+Encumbrance light 43 lb. 8 oz., medium 87 lb., heavy 131 lb. 4 oz.; Weight Carried 38 lb. 8 oz. (excluding 
+tender) 
+SPECIAL ABILITIES 
+Debilitating Injury (Ex) Whenever you deal sneak attack damage to a foe, you can also debilitate the target of 
+your attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue 
+talent or other special ability). You can choose to apply any one of the following penalties when the 
+damage is dealt. 
+Bewildered: The target becomes bewildered, taking a –2 penalty to AC. The target takes an 
+additional –2 penalty to AC against all attacks made by you. 
+Disoriented: The target takes a –2 penalty on attack rolls. In addition, the target takes an additional 
+–2 penalty on all attack rolls it makes against you. 
+Hampered: All of the target’s speeds are reduced by half (to a minimum of 5 feet). In addition, the 
+target cannot take a 5-foot step. 
+These penalties do not stack with themselves, but additional attacks that deal sneak attack damage 
+extend the duration by 1 round. A creature cannot suffer from more than one penalty from this ability at 
+
+a time. If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a 
+target suffering from one of these penalties also removes the penalty. 
+Evasion (Ex) If you succeed at a Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or 
+no armor. You do not gain the benefit of evasion while helpless. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, you can select any one type of 
+weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it 
+cannot be changed. Whenever you make a successful melee attack with the selected weapon, you add 
+your Dexterity modifier instead of your Strength modifier to the damage roll. If any effect would 
+prevent you from adding your Strength modifier to the damage roll, you do not add your Dexterity 
+modifier. 
+Lasting Poison (Ex) You can apply poison to a weapon in such a way that it is effective for a number of 
+successful attacks equal to your Dexterity modifier (minimum two) instead of one. This poison has a 
+reduced effect, however, and saves made against the poison gain a +2 circumstance bonus. Applying 
+poison in this way is a full-round action, or a standard action if you have the swift poison rogue talent. 
+Master Poisoner (Ex) You can use Craft (alchemy) to change a poison’s type. This requires 1 hour of work 
+with an alchemist’s lab and a Craft (alchemy) skill check with a DC equal to the poison’s DC. If 
+successful, the poison’s type changes to contact, ingested, inhaled, or injury. If the check fails, the 
+poison is ruined. You also receive a bonus on Craft (alchemy) skill checks when working with poison 
+equal to ½ your rogue level. 
+Poison Use (Ex) You are trained in the use of poison and cannot accidentally poison yourself when applying 
+poison to a weapon. 
+Poisons You carry of variety of modified poisons, which you typically coat your weapons with: 
+Deathblade—contact; save Fort DC 20, frequency 1/round for 6 rounds, effect 1d3 Con, cure 2 
+consecutive saves. 
+King’s sleep—inhaled; save Fort DC 19, onset 1 day, frequency 1/day, effect 1 Con drain, cure 2 
+consecutive saves. 
+Large scorpion venom—injury; save Fort DC 17, frequency 1/round for 6 rounds, effect 1d2 Str, cure 1 
+save. 
+Oil of taggit—varies; save Fort DC 15, onset 1 minute, effect unconsciousness 1d3 hours, cure 1 save. 
+Rogue’s Edge (Ex) You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. You gain the skill unlock powers for that skill as appropriate for your 
+number of ranks in that skill. 
+Craft: When determining your weekly progress, double the result of your Craft check before 
+multiplying the result by the item’s DC. 
+Sneak Attack Your attack deals an extra 3d6 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+Swift Poison (Ex) You can apply poison to a weapon as a move action, instead of a standard action. 
+Uncanny Dodge (Ex) You cannot be caught flat-footed, nor do you lose your Dexterity bonus to AC if the 
+attacker is invisible. You still lose your Dexterity bonus to AC if immobilized. You can still lose your 
+Dexterity bonus to AC if an opponent successfully uses the feint action against you. If you already have 
+uncanny dodge from a different class, you automatically gain improved uncanny dodge instead. 

@@ -1,0 +1,183 @@
+
+
+Robilar Smithe 
+Male human alchemist 7/master chymist 6 
+NG (Robilar) or CN (Duneharrow) Medium humanoid 
+Init +6; Senses darkvision 60 ft., scent; Perception +18 
+Languages Common, Dwarven, Elven, Gnome, Halfling 
+DEFENSE 
+AC 22, touch 18, flat-footed 16 (+4 armor, +2 deflection, +6 Dex) 
+hp 128 plus false life (13 HD) 
+Fort +15, Ref +19, Will +11; +4 vs. poisons, –4 vs. odor related effects 
+Defensive Abilities poison resistance +4; DR 10/magic and 3/– vs. ranged attacks; 
+Immune extreme hot/cold environments 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee masterwork bayonet +12/+7/+2 (1d6+2 plus poison) 
+Ranged +1 revolvers +14/+14/+14/+9/+4 (1d8+1/×4) with Rapid Shot and Two-
+Weapon Fighting, or 
++1 double-barreled shotgun +15 (6d8+7/×4) with Deadly Aim and Improved 
+Vital Strike, or 
++1 double-barreled shotgun +11/+11 (6d8+7/×4) with both barrels, Deadly Aim, 
+and Improved Vital Strike, or 
+explosive bomb +18 touch (9d6+7 fire, 16 splash) with Improved Vital Strike, or 
+throwing knife +18 (1d4 plus poison) or 
+throwing knives +16/+16 (1d4 plus poison) with Two-Weapon Fighting 
+Special Attacks bomb (7d6+7, 14/day), bomb thrower, brutality +2, mutate (3/day), poison use, swift 
+poisoning, throw anything +7 
+Alchemist Extracts Prepared (CL 11
+th; Concentration +18) 
+4th  (3/day) – cure critical wounds, freedom of movement, greater invisibility 
+3rd  (6/day) – bloodhoundAPG, cure serious wounds, heroism (2); [open slots] (2) 
+2nd (6/day) – barkskin (2), darkvision, false life, protection from arrows, see invisibility 
+1st  (7/day) – ant haulAPG, endure elements, expeditious retreat, jump, keen senses
+APG, shield (2) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 22 (+6), Con 14 (+2), Int 25 (+7), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +11; CMB +11; CMD 29 
+Feats Brew Potion
+B, Deadly Aim, Exotic Weapon Proficiency (firearms), Improved Vital Strike, Point Blank 
+Shot
+B, Precise Shot, Rapid Shot, Throw Anything
+B, Two-Weapon Fighting, Vital Strike 
+Skills Appraise +23, Bluff +13, Craft (alchemy) +18 (+23 to create alchemical items), Craft (firearms) +17, 
+Diplomacy +13, Disable Device +22, Escape Artist +22, Intimidate +16, Perception +18, Sleight of 
+Hand +22, Stealth +22, Survival +18 (+22 scent tracking) 
+SQ advanced mutagens (evasion, greater mutagen, nimble), alchemy, discoveries (explosive bomb, infuse 
+mutagen, precise bombs), mutagen (130 minutes), mutagenic form, nimble +3, swift alchemy 
+Combat Gear antitoxin (3), bloodblock (3), metal cartridge bullets (30), mutagen (+6 Dex, +4 Con), poisons 
+(dragon bile 3, nightmare vapor 2, oil of taggit 10), smokesticks (3), sunrods (3), tindertwigs (3); Other 
+Gear +1 revolvers (2), +1 double-barreled shotgun, +3 quilted cloth, alchemist’s kit, bear trap, belt of 
+incredible dexterity +6, cloak of resistance +5 (doubles as muleback cords), footprint book, formula 
+books (3, 84 pages left), gunsmith’s kit, headband of vast intellect +6 (bluff, diplomacy, intimidate), 
+masterwork backpack, masterwork bayonet, portable alchemist’s lab, ring of protection +2, tender (6gp, 
+3sp, 3cp), throwing knives (as masterwork darts) (4) 
+Formula Book All extracts of 4th-level and lower 
+Encumbrance light 348 lb., medium 699 lb., heavy 1,050 lb.; Weight Carried 100 lb. (excluding tender) 
+     
+
+Duneharrow 
+Male human alchemist 7/master chymist 6 
+CN Medium humanoid 
+Init +12*; Senses darkvision 60 ft., scent; Perception +17 
+Languages Common, Dwarven, Elven, Gnome, Halfling 
+DEFENSE 
+AC 31, touch 20, flat-footed 23 (+4 armor, +2 deflection, +8 Dex, +7 
+natural*) 
+hp 154 plus false life (13 HD) 
+Fort +17, Ref +22, Will +10; +4 vs. poisons, –4 vs. odor related effects 
+Defensive Abilities evasion, poison resistance +4; DR 10/magic and 3/– vs. 
+ranged attacks; Immune extreme hot/cold environments 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee masterwork bayonet +12/+7/+2 (1d6+2 plus poison) 
+Ranged* +1 revolvers +17/+17/+17/+12/+7 touch (1d8+1/×4) with Rapid 
+Shot and Two-Weapon Fighting, or 
++1 double-barreled shotgun +18 (6d8+7/×4) with Deadly Aim and 
+Improved Vital Strike, or 
++1 double-barreled shotgun +14/+14 (6d8+7/×4) with both barrels, 
+Deadly Aim, and Improved Vital Strike, or 
+explosive bomb +21 touch (9d6+7 fire, 16 splash) with Improved Vital Strike, or 
+throwing knife +21 (1d4 plus poison) or 
+throwing knives +19/+19 (1d4 plus poison) with Two-Weapon Fighting 
+Special Attacks as above 
+Alchemist Extracts Prepared as above 
+STATISTICS 
+Abilities* Str 10 (+0), Dex 28 (+12), Con 18 (+4), Int 25 (+7), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +11; CMB +11; CMD 35* 
+Feats as above 
+Skills Appraise +23, Bluff +12, Craft (alchemy) +18 (+23 to create alchemical items), Craft (firearms) +17, 
+Diplomacy +12, Disable Device +28*, Escape Artist +28*, Intimidate +15, Perception +17 (darkvision, 
+scent), Sleight of Hand +28*, Stealth +28*, Survival +17 (+21 scent tracking) 
+SQ as above 
+Combat Gear as above 
+Formula Book as above 
+Encumbrance light 114 lb., medium 228 lb., heavy 345 lb.; Weight Carried 108 lb. 8 oz. (excluding tender) 
+* Includes adjustments for greater mutagen. 
+SPECIAL ABILITIES 
+Alchemy (Su) When using Craft (alchemy) to create an alchemical item, you gain a competence bonus equal to 
+your alchemist class level on the Craft (alchemy) check (included above). In addition, you can use Craft 
+(alchemy) to identify potions as if using detect magic. You must hold the potion for 1 round to make 
+such a check. You are also capable of creating bombs, extracts, and mutagens (see below). 
+Bomb (Su) You can use a number of bombs each day equal to your alchemist class level + your Intelligence 
+modifier. Bombs are unstable, and if not used in the round they are created, they degrade and become 
+inert—their method of creation prevents large volumes of explosive material from being created and 
+stored. Creating and throwing a bomb requires a standard action that provokes an attack of opportunity. 
+Thrown bombs have a range of 20 feet and use the Throw Splash Weapon special attack. Bombs are 
+considered weapons and can be selected using feats such as Point-Blank Shot and Weapon Focus. On a 
+direct hit, your bomb inflicts 1d6 points of fire damage plus additional damage equal to your 
+
+Intelligence modifier (due to the throw anything class ability). The damage of your bomb increases by 
+1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit 
+or by using feats such as Vital Strike). Splash damage from an alchemist bomb is always equal to the 
+bomb’s minimum damage. Those caught in the splash damage can attempt a Reflex save DC 20 for half 
+damage. 
+Brutality (Ex) You gain a +2 bonus to damage rolls when attacking with natural attacks or simple weapons 
+(included above). 
+Evasion (Ex) You can avoid even magical and unusual attacks with great agility. If you make a successful 
+Reflex saving throw against an attack that normally deals half damage on a successful save, you instead 
+takes no damage. Evasion can be used only if you are wearing light armor or no armor and are in your 
+mutagenic form. If you are helpless, you do not gain the benefit of evasion. 
+Explosive Bomb Your bombs now have a splash radius of 10 feet rather than 5 feet. Creatures that take a direct 
+hit from an explosive bomb catch fire, taking 1d6 points of fire damage each round until the fire is 
+extinguished. Extinguishing the f lames is a full round action that requires a Reflex save (DC 20). 
+Rolling on the ground provides the target with a +2 to the save. Dousing the target with at least 2 gallons 
+of water automatically extinguishes the flames. 
+Extracts (Su) You may create and use extracts, essentially spells in the form a drinkable liquid. For the most 
+part, extracts follow the rules of both potions and spells. 
+Greater Mutagen (Su) You may brew a dose of mutagen in 1 hour, and once brewed, it remains potent until 
+used. You can only maintain one dose of mutagen at a time—if you brew a second dose, any existing 
+mutagen becomes inert. As with an extract or bomb, a mutagen that is not in your possession becomes 
+inert until you pick it up again. When you brew a mutagen, you select two physical ability scores—
+Strength, Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the 
+mutagen causes you to grow bulkier and more bestial, granting you a +4 natural armor bonus and a +6 
+alchemical bonus to one selected ability score and a +4 alchemical bonus to the second ability score for 
+10 minutes per alchemist level. In addition, while the mutagen is in effect, you take a –2 penalty to two 
+of your mental ability scores. If the mutagen enhances your Strength, it applies a penalty to your 
+Intelligence. If it enhances your Dexterity, it applies a penalty to your Wisdom. If it enhances your 
+Constitution, it applies a penalty to your Charisma. A non-alchemist who drinks a mutagen must make a 
+DC 20 Fortitude save or become nauseated for 1 hour—a non-alchemist can never gain the benefit of a 
+mutagen, but an alchemist can gain the effects of another alchemist’s mutagen if he drinks it. (Although 
+if the other alchemist creates a different mutagen, the effects of the “stolen” mutagen immediately 
+cease.) The effects of a mutagen do not stack. Whenever you drink a mutagen, the effects of any 
+previous mutagen immediately end. 
+Infuse Mutagen When you create a mutagen, you can infuse it with an extra bit of your own magical power. 
+This inflicts 2 points of Intelligence damage to you and costs 1,000gp in rare reagents, but the mutagen 
+created persists on its own and is not rendered inert if you create another mutagen. This allows you to 
+create different types of mutagens and keep them handy for emergencies. This does not allow you to 
+gain the effects of multiple mutagens—only the most recently imbibed mutagen has any effect. 
+Mutagenic Form (Ex) You have two identities, that of your normal form, and that of your mutagenic form. 
+Though statistically the same, each identity has a differing alignments and differing ways of 
+accomplishing their goals. Alignment effects effect you based on whatever alignment/personality you 
+have at that time. 
+Mutate (Su) Three times per day as, you may change form (as per your mutagen class ability) without imbibing 
+a mutagen. Using a mutagen also forces you into this form. Taking a mutagen or using the mutate ability 
+again while in your mutagenic form works normally (with the new mutagen’s modifiers replacing the 
+current modifiers, and the longer duration taking precedent). You remain in your mutagenic form until 
+its duration expires, your magic is interrupted (as with an antimagic field), or you expend another use of 
+your mutate ability. You may be forced to take your mutagenic form against your will by stress or 
+damage. Anytime you are in your normal form and have daily uses of the mutate ability available, you 
+may be forced to switch after suffering a critical hit or failing a Fortitude save. In these situations you 
+
+must make a DC 25 Will save; if you fail, on your next turn you use a standard action to change to your 
+mutagenic form (which counts as a use of the mutate ability). 
+Nimble (Ex) In addition to the above effects, you mutagenic form grants you an alchemical bonus on all 
+Dexterity checks, Dexterity skill checks, and CMD, and a natural armor bonus to your Armor Class. The 
+bonus is equal to half your master chymist class levels. 
+Poison Use (Ex) You are trained in the use of poison and cannot accidentally poison yourself when applying 
+poison to a weapon. 
+Poisons You carry of variety of poisons, which you typically coat your bladed weapons with: 
+Dragon bile—contact; save Fort DC 26, frequency 1/round for 6 rounds, effect 1d3 Str, cure none. 
+Nightmare vapor—inhaled; save Fort DC 20, frequency 1/round for 6 rounds, effect 1 Wis and confused 
+for 1 round, cure 2 consecutive saves. 
+Oil of taggit—ingested; save Fort DC 15, onset 1 minute, effect unconsciousness for 1d3 hours, cure 1 
+save. 
+Precise Bombs Whenever you throw a bomb, you can select a number of squares equal to your Intelligence 
+modifier that are not affected by the splash damage from your bombs. If the bomb misses, this discovery 
+has no effect. 
+Swift Alchemy (Ex) You can create alchemical items with astounding speed. It takes you half the normal 
+amount of time to create alchemical items. 
+Swift Poisoning (Ex) You can apply a dose of poison to a weapon as a swift action. 
+Throw Anything (Ex) You gain the Throw Anything feat as a bonus feat and you add your Intelligence 
+modifier to damage done with splash weapons, including the splash damage if any. This bonus damage 
+is already included in the bomb class feature (and in the above stats). 

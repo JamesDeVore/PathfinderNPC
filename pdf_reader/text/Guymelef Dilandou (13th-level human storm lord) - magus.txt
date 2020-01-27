@@ -1,0 +1,136 @@
+
+
+Guymelef Dilandou 
+  
+
+Male human magus 13 
+N Medium humanoid 
+Init +4; Senses Perception +13 
+Languages Common, Draconic, Giant, Sylvan 
+DEFENSE 
+AC 30, touch 13, flat-footed 27 (+14 armor, +3 Dex, +3 natural) 
+hp 108 (13 HD) 
+Fort +15, Ref +13, Will +13 
+Resist electricity 20 
+OFFENSE 
+Speed 20 ft. (4 squares), fly 40 ft. (average); overland flight 
+Melee +3 adamantine longsword +18/+13 (1d8+9/19-20) with greater magic weapon, or 
++3 adamantine longsword +15/+10 (1d8+15/19-20) with greater magic weapon and Power Attack 
+Ranged +3 composite longbow +16/+11 (1d8+9/×3) with normal arrows/whistling arrows, or 
++3 composite longbow +12/+7 (1d8+9 nonlethal/×3) with blunt arrows, or 
++3 composite longbow +16/+11 (1d6+9/×3) with flight arrows, or 
++3 composite longbow +16/+11 (1d8+9 plus 1 bleed for 1d6 rounds/×3) with thistle arrows, or 
+electricity ray +13 touch (1d6+5 electricity) 
+Special Attacks arcane pool (11 points, +4 bonus), spell combat, spellstrike, whirlwind (1/day for 11 rounds, 10 ft. high, 1d4+6 
+damage, DC 21) 
+Spell-like Abilities (CL 11
+th; Concentration +13) 
+5/day – electricity ray 
+Magus Spells Prepared (CL 13
+th; Concentration +18) 
+5th (2/day) – elemental body II, overland flight 
+4th (4/day) – dimension door, fire shield, greater invisibility, wall of sound 
+3rd (5/day) – greater magic weapon (2), heroism (2), sleet storm 
+2nd (6/day) – defensive shock
+UM (2), fog cloud, frigid touch
+UM (2), shatter 
+1st (7/day) – intensified shocking grasp (4), shield, true strike, unseen servant 
+0 (at will) – daze, detect magic, light, mage hand, prestidigitation 
+STATISTICS 
+Abilities Str 22 (+6), Dex 18 (+4), Con 14 (+2), Int 20 (+5), Wis 10 (+0), Cha 15 (+2) 
+Base Atk +9; CMB +15; CMD 29 
+Feats Additional Traits (magical lineage: shocking grasp, Wayang spellhunter: lightning bolt), Craft Magic Arms and ArmorB, Craft 
+Wand, Craft Wondrous ItemB, Eldritch Heritage (djinni), Improved Eldritch Heritage (2), Intensified Spell, Power Attack, 
+Skill Focus (fly
+B, knowledge: planes
+B) 
+Skills Fly +26 (+32 with fly spell), Knowledge (arcana) +15, Knowledge (local) +11, Knowledge (nature) +18, Knowledge (planes) 
++27, Perception +13, Spellcraft +21, Stealth +17, Use Magic Device +18; Armor Check Penalty –3 
+SQ fighter training (6th), focused study, improved spell combat, improved spell recall, knowledge pool (5 max), magus arcana (arcane 
+accuracy +5, spell blending: communal resist energy and heroism, wand master, wand wielder), medium armor, pool spell 
+Combat Gear arrows (20), blunt arrows (20), flight arrows (20), gauntlet of lightning bolt (as wand of lightning bolt, CL 10
+th, 50 
+charges), gauntlet of shocking grasp (as wand of intensified shocking grasp, CL 10th, 50 charges), smoke arrows (5), thistle 
+arrows (10), wand of cure light wounds (25 charges), wand of cure serious wounds (25 charges), wand of magic missile (CL 
+9th, 50 charges), whistling arrows (20); Other Gear +5 mithral full plate, adamantine longsword, amulet of natural armor 
++3, backpack, belt of physical might +4 (strength, dexterity), boots of speed, cloak of resistance +5, flint and steel, headband 
+of mental prowess +4 (intelligence, charisma; perception, stealth), masterwork composite longbow (+6 strength bonus), 
+pearls of power (1st) (9), spellbooks (2, 36 pages left), spell component pouches (2, one concealed, DC 10 to find), spring-
+loaded wrist sheathes (2, contain cure serious wounds and magic missile wands), sunrods (5), tender (51gp, 4sp, 9cp), tent, 
+trail rations (10), waterskin, whetstone 
+Spellbook 5th—elemental body II, overland flight; 4th—ball lightningAPG, dimension door, elemental body I, greater invisibility, ice 
+storm, mass enlarge person, river of wind
+APG, shout, solid fog, wall of ice, wall of sound; 3rd—aqueous orbAPG, cloak of 
+windsAPG, communal resist energyUC B, elemental auraAPG, fly, gaseous form, greater magic weapon, haste, heroismB, 
+hydraulic torrentAPG, lightning bolt, phantom steed, sleet storm, vampiric touch, water breathing, wind wall; 2nd—acid 
+arrow, defensive shockUM, elemental touchAPG, fog cloud, frigid touchUM, gust of wind, levitate, shatter; 1st—burning hands, 
+chill touch, enlarge person, expeditious retreat, feather fall, flare burstAPG, floating disk, frostbiteUM, grease, hydraulic 
+pushAPG, jump, magic missile, magic weapon, mount, obscuring mist, reduce person, shield, shocking grasp, silent image, 
+stone fistAPG, true strike, unseen servant; 0—acid splash, arcane mark, dancing lights, daze, detect magic, flare, ghost sound, 
+light, mage hand, open/close, prestidigitation, ray of frost, read magic, sparkAPG 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 104 lb. 4 oz. (excluding tender) 
+ 
+
+SPECIAL ABILITIES 
+Arcane Accuracy (Su) You can expend 1 point from your arcane pool as a swift action to grant yourself an insight bonus equal to your Intelligence bonus on all attack 
+rolls until the end of your turn. 
+Arcane Pool (Su) You have a reservoir of mystical arcane energy that you can draw upon to fuel you powers and enhance your weapon. This arcane pool has a number 
+of points equal to ½ your magus level (minimum 1) + your Intelligence modifier. The pool refreshes once each day when you pre pare your spells. You can 
+expend 1 point from your arcane pool as a swift action to grant any weapon you are holding a +4 enhancement bonus for 1 minute. These bonuses can be 
+added to the weapon, stacking with existing weapon enhancement to a maximum of +5. This ability counts as the Arcane Strike f eat for meeting any 
+prerequisites. Multiple uses of this ability do not stack with themselves. These bonuses can be used to add any of the follow ing weapon properties: dancing, 
+flaming, flaming burst, frost, icy burst, keen, shock, shocking burst, speed, or vorpal. Adding these properties consumes an amount of bonus equal to the 
+property’s cost. These properties are added to any the weapon already has, but duplicates do not stack. If the weapon is not magical, at least a +1 
+enhancement bonus must be added before any other properties can be added. These bonuses and properties are decided when the arcane pool point is spent 
+and cannot be changed until the next time you use this ability. These bonuses do not function if the weapon is wielded by any one other than you. You can 
+only enhance one weapon in this way at one time. If you use this ability again, the first use immediately ends.  
+Fighter Training (Ex) You count ½ your total magus level as your fighter level for the purpose of qualifying for feats. If you have levels in fighter, these levels stack. 
+Improved Spell Combat (Ex) When using the spell combat ability, you receive a +2 circumstance bonus on concen tration checks, in addition to any bonus granted by 
+taking an additional penalty on the attack roll. 
+Improved Spell Recall (Su) With a swift action you can recall any single magus spell that you have already prepared and cast that day by expending a num ber of 
+points from your arcane pool equal to ½ the spell’s level (minimum 1). Furthermore, instead of recalling a used spell, you can prepare a spell of the same 
+level that you have in your spellbook. You do so by expending a number of points from your arcan e pool equal to the spell’s level (minimum 1). You cannot 
+apply metamagic feats to a spell prepared in this way. You do not need to reference your spellbook to prepare a spell in this  way. 
+Knowledge Pool (Su) When you prepare your magus spells, you can decide to expend 1 or more points from your arcane pool, up to your Intelligence bonus. For each 
+point you expend, you can treat any one spell from the magus spell list as if it were in your spellbook and can prepare that spell as normal that day. If you do 
+not cast spells prepared in this way before the next time you prepares spells, you loses those spells. You can also cast spel ls added in this way using you pool 
+spell ability, but only until you prepare spells again. 
+Magical Lineage When you apply metamagic to the shocking grasp spell, you treat that spell’s modified level as one lower. 
+Medium/Heavy Armor (Ex) You are proficient in medium and heavy armor. Additionally, you can cast magus spells while wearing armor without incurring the 
+normal arcane spell failure chance. Like any other arcane spellcaster, using a shield incurs a chance of arcane spell failure if the spell in question has a 
+somatic component. 
+Spell Blending (Ex) You treat one or more wizard spells (shown above) as magus spells. You know them for free. 
+Spell Combat (Ex) You can cast spells and wield your weapons at the same time. This functions much like two-weapon fighting, but the off-hand weapon is a spell that 
+is being cast. To use this ability, you must have one hand free (even if the spell being cast does not have somatic components), while wielding a light or one-
+handed melee weapon in the other hand. As a full-round action, you can make all of your attacks with your melee weapon at a –2 penalty and can also cast 
+any spell from the magus spell list with a casting time of 1 standard action (any attack roll made as part of this spell also takes this penalty). If you cast this 
+spell defensively, you can decide to take an additional penalty on your attack rolls, up to your Intelligence bonus, and add the same amount as a 
+circumstance bonus on your concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. You can choose to cast the spell 
+first or make the weapon attacks first, but if you have more than one attack, you cannot cast the spell between weapon attacks. 
+Spellstrike (Su) Whenever you cast a spell with a range of “touch” from the magus spell list, you can deliver the  spell through any weapon you are wielding as part of a 
+melee attack. Instead of the free melee touch attack normally allowed to deliver the spell, you can make one free melee attack with your weapon (at your 
+highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its normal damage as well as the effects of the spell. If you make 
+this attack in concert with spell combat, this melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the weapon’s critical 
+range (20, 19–20, or 18–20 and modified by the keen weapon property or similar effects), but the spell effect only deals ×2 damage on a successful critical 
+hit, while the weapon damage uses its own critical modifier. 
+Wand Mastery (Su) Whenever you use a wand, you calculates the DC for any spell it contains using your Intelligence modifier, instead of the min imum modifier 
+needed to cast a spell of that level. 
+Wand Wielder (Su) You can activate a wand or staff in place of casting a spell when using spell combat. 
+Wayang Spellhunter When you apply metamagic to the lightning bolt spell, you treat that spell’s modified level as one lower. 
+Whirlwind (Su) You can transform yourself into a whirlwind and remain in that form for up to 11 rounds each day. If you have a fly speed, yo u can continue to fly at 
+that same speed while in whirlwind form, otherwise you gain a fly speed equal to your base land speed (ave rage maneuverability) while in whirlwind form. 
+The whirlwind is 5 feet wide at its base, but its height and width are 10 feet. The whirlwind form does not provoke attacks o f opportunity, even if you enter 
+the space another creature occupies. Another creature might be caught in the whirlwind if it touches or enters the whirlwind, or if the whirlwind moves into 
+or through a creature’s space. While in whirlwind form you cannot make your normal attacks and you do not threaten the area around you. Creatures one or 
+more size categories smaller than you might take 1d4 + your Strength modifier in damage when caught in the whirlwind and may be lifted into the air. An 
+affected creature must succeed on a Reflex save (DC 10 + half your HD + your Strength modifier) when it comes into contact with the whirlwind or take 
+damage as if it were hit by a slam attack for a creature of your size. It must also succeed on a second Reflex save or be picked up bodily and held suspended 
+in the powerful winds, automatically taking the indicated damage each round. A creature that can fly is allowed a Reflex save each round to escape the 
+whirlwind. The creature still takes damage but can leave if the save is successful. Creatures trapped in the whirlwind cannot move except to go where you 
+carry them or to escape the whirlwind. Trapped creatures can otherwise act normally, but must succeed on a concentration check (DC 15 + spell level) to 
+cast a spell. Creatures caught in the whirlwind take a –4 penalty to Dexterity and a –2 penalty on attack rolls. You may have only as many creatures trapped 
+inside at one time as will fit inside the whirlwind’s volume. You may eject any carried creatures whenever you wish as a free action, depositing them in your 
+space. If the whirlwind’s base touches the ground, it creates a swirling cloud of debris. This cloud is centered on you and has a diameter of 5 feet. The cloud 
+obscures all vision, including darkvision, beyond 5 feet. Creatures 5 feet away have concealment, while those farther away ha ve total concealment. Those 
+caught in the cloud of debris must succeed on a concentration check (DC 15 + spell level) to cast a spell.  
+ 

@@ -1,0 +1,59 @@
+
+
+Vallisa 
+Female human sorcerer 6 
+CN Medium humanoid (human, orc) 
+Init +3; Senses darkvision 60 ft., light sensitivity; Perception +10 
+Languages Common, Orc 
+DEFENSE 
+AC 20, touch 14, flat-footed 17 (+4 armor, +3 Dex, +1 deflection, +2 natural); 
+mage armor 
+hp 47 plus false life (6 HD) 
+Fort +6, Ref +6, Will +6; +4 vs. fear effects 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee mwk dagger +2 (1d4–2/19-20) 
+Ranged mwk dagger +7 (1d4–2/19-20) 
+Spell-like Abilities (CL 7
+th; Concentration +12) 
+3/day – dancing lights 
+Sorcerer Spells Known (CL 6
+th, CL 7
+th with evocation spells, or CL 10th with fireball; Concentration +11, +12 
+with evocation spells, or +15 with fireball) 
+3
+rd  (4/day) – fireball (CL 10
+th) 
+2nd (6/day) – bull’s strength
+B, false life, invisibility, resist energy 
+1st  (8/day) – ant haul
+APG, burning handsB, charm person, comprehend languages, mage armor, magic 
+missile, shield 
+0  (at will) – acid splash, detect magic, detect poison, light, mage hand, message, prestidigitation, ray 
+of frost, read magic, sparkAPG 
+Bloodline Orc 
+STATISTICS 
+Abilities Str 7 (–2), Dex 16 (+3), Con 16 (+3), Int 14 (+2), Wis 10 (+0), Cha 20 (+5) 
+Base Atk +3; CMB +1; CMD 15 
+Feats Eschew Materials
+B, Greater Spell Focus (evocationB), Spell Focus (evocation), Spell Specialization 
+(fireball), Varisian Tattoo (evocation) 
+Skills Intimidate +14, Perception +10, Spellcraft +11, Survival +10, Use Magic Device +14 
+SQ bloodline arcana (damage spells deal +1 damage per die), traits (seeker, gifted adept: fireball) 
+Combat Gear wand of cure light wounds (40 charges); Other Gear amulet of natural armor +1, belt of 
+incredible dexterity +2, cloak of resistance +1, goblin fire drum, headband of alluring charisma +2, 
+masterwork backpack, masterwork dagger, ring of protection +1, sorcerer’s kit, tender (48gp) 
+Encumbrance light 78 lb., medium 118 lb., heavy 240 lb.; Weight Carried 28 lb. 1 oz. (excluding tender); ant 
+haul 
+SPECIAL ABILITIES 
+Bloodline Arcana You gain the orc subtype, including darkvision 60 feet and light sensitivity. If you already 
+have darkvision, its range increases to 90 feet. Whenever you cast a spell that deals damage, that spell 
+deals +1 point of damage per die rolled. 
+Fearless (Ex) You gain a +4 bonus on saving throws made against fear and a +1 natural armor bonus. 
+Gifted Adept Whenever you cast fireball, its effects manifest at +1 caster level. 
+Ongoing Spells You generally start the day with the following spells cast upon yourself: ant haul, false life, and 
+mage armor. Their effects are included in the statistics above where appropriate. 
+Seeker You gain a +1 trait bonus on Perception checks, and Perception is always a class skill for you. 
+Touch of Rage (Sp) You can touch a creature as a standard action, giving it a morale bonus on attack rolls, 
+damage rolls, and Will saving throws equal to ½ your sorcerer level (minimum 1) for 1 round. You can 
+use this ability a number of times per day equal to 3 + your Charisma modifier. 

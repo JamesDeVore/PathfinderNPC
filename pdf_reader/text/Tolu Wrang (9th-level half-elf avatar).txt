@@ -1,0 +1,155 @@
+
+
+Tolu Wrang 
+Male half-elf monk 2/summoner 7 (master of many styles, synthesist) 
+LN Medium humanoid (elf, human) 
+Init +3; Senses low-light vision; Perception +17 
+Languages Common, Elven 
+DEFENSE 
+AC 21, touch 17, flat-footed 18 (+4 armor, +3 Dex, +1 monk, +3 Wis); mage 
+armor 
+hp 120 (9 HD); maxed hit points via retraining 
+Fort +13, Ref +11, Will +14; +2 vs. enchantment 
+Defensive Abilities evasion, shielded meld; Immune magical sleep 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee unarmed strike +11/+6 (1d8+5) 
+Ranged sling +9 (1d4+3) 
+Summoner Spell-like Abilities (CL 7
+th; Concentration +10) 
+6/day – summon monster IV (one casting at a time, usable only without eidolon, 15 minute duration) 
+1/day – maker’s jump 
+Summoner Spells Known (CL 7
+th; Concentration +10) 
+3rd (2/day) – fire shield, heroism 
+2nd (4/day) – barkskin, haste, invisibility, summon eidolonAPG 
+1st (5/day) – enlarge person, lesser rejuvenate eidolon
+APG, mage armor, shield, stone shieldARG 
+0-level (at-will) – detect magic, guidance, light, mending, mage hand, message 
+Special Attacks stunning fist (4/day, DC 19) 
+STATISTICS 
+Abilities Str 16 (+3), Dex 16 (+3), Con 20 (+5), Int 12 (+1), Wis 16 (+3), Cha 16 (+3) 
+Base Atk +6; CMB +9; CMD 26 
+Feats Ability Focus (stunning fist), Craft Wondrous Item, Crane Style
+B, Deflect Arrows, Extra Evolution (2), 
+Improved Unarmed Strike
+B, Mantis Style
+B, Skill Focus (stealthB), Stunning Fist
+B 
+Skills Acrobatics +13, Perception +17, Spellcraft +11, Stealth +18, Use Magic Device +15; Racial Modifiers 
++2 Perception 
+SQ adaptability, elf-blood, fuse style (2 styles), multi-talented (fighter/summoner) 
+Combat Gear sling bullets (20); Gear amulet of mighty fists +2, belt of physical perfection +2, cloak of 
+resistance +2, decanter of endless water, hat of disguise, headband of mental superiority +2 (use magic 
+device), monk’s robe, sling, spell component pouch, tender (79gp, 8sp) 
+Encumbrance light 76 lb., medium 153 lb., heavy 230 lb.; Weight Carried 19 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Evasion (Ex) You can avoid damage from many area-effect attacks. If you make a successful Reflex saving 
+throw against an attack that normally deals half damage on a successful save, you instead take no 
+damage. Evasion can be used only if you are wearing light armor or no armor. You do not gain the 
+benefit of evasion when helpless. 
+Fused Eidolon You can wear your eidolon like translucent, living armor. The eidolon mimics all of your 
+movements, and you perceive through the eidolon’s senses and speak through its voice, as the two of 
+you are now one creature. While fused with your eidolon, you use the eidolon’s Strength, Dexterity, and 
+Constitution scores, but retain your own Intelligence, Wisdom, and Charisma scores. You gain the 
+eidolon’s hit points as temporary hit points. When these hit points reach 0, the eidolon is killed and sent 
+back to its home plane. You use the eidolon’s base attack bonus, and gain the eidolon’s armor and 
+natural armor bonuses and modifiers to ability scores. You also gain access to the eidolon’s special 
+abilities and the eidolon’s evolutions. You are still limited to the eidolon’s maximum number of natural 
+attacks. The eidolon has no skills or feats of its own. The eidolon must be at least the same size as you. 
+
+The eidolon must have limbs for you to cast spells with somatic components. The eidolon’s temporary 
+hit points can be restored with the rejuvenate eidolon spell. While fused, you lose the benefits of your 
+armor. You count both as your original type and as an outsider for any effect related to type, whichever 
+is worse for you. Spells such as banishment or dismissal work normally on the eidolon, but you are 
+unaffected. Neither you nor your eidolon can be targeted separately, as you are fused into one creature. 
+You and your eidolon cannot take separate actions. While fused with your eidolon, you can use all of 
+your own abilities and gear, except for your armor. In all other cases, this ability functions as the 
+summoner’s normal eidolon ability (for example, you cannot use your summon monster ability while the 
+eidolon is present). 
+Fused Link (Su) Whenever the temporary hit points from your eidolon would be reduced to 0, you can, as a 
+free action, sacrifice any number of your own hit points. Each hit point sacrificed this way prevents 1 
+point of damage done to your eidolon (thus preventing the loss of your temporary hit points), preventing 
+your eidolon from being sent back to its home plane. 
+Fuse Style (Ex) You can fuse two of the styles you know into a more perfect style. You can have two style feat 
+stances active at once. Starting a stance provided by a style feat is still a swift action, but when you 
+switch to another style feat, you can choose one style whose stance is already active to persist. You may 
+only have two style feat stances active at a time. 
+Maker’s Jump (Sp) Whenever you are fused with your eidolon, you can cast dimension door as a spell-like 
+ability using your caster level. This ability only affects you and your eidolon. You can use this ability 
+only once per day. 
+Shielded Meld (Ex) Whenever you are fused with your eidolon, you gain a +2 shield bonus to your Armor 
+Class and a +2 circumstance bonus on your saving throws. 
+ 
+Carver 
+Biped Eidolon 
+LN Medium outsider 
+Init +2; Senses darkvision 60 ft.; Perception +0 
+Languages as summoner 
+DEFENSE 
+AC 19, touch 13, flat-footed 16 (+3 Dex, +6 natural) 
+hp 72 (6 HD); maxed hit points via retraining 
+Fort +9, Ref +6, Will +7; +4 vs. enchantment 
+Immune acid, cold, electricity, fire 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee 4 claws +11 (1d4+5) 
+Ranged by weapon +8 
+STATISTICS 
+Abilities Str 20 (+5), Dex 15 (+2), Con 15 (+2), Int 7 (–2), Wis 10 (+0), Cha 11 (+0) 
+Base Atk +6; CMB +11; CMD 23 
+Feats Great Fortitude, Iron Will, Lightning Reflexes 
+Skills Bluff +9, Diplomacy +9, Knowledge (planes) +7, Sense Motive +9 
+SQ evolutions, link, share spells 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Devotion (Ex) Your eidolon receives a +4 morale bonus on Will saves versus enchantment spells and effects. 
+Evolutions ability increase (constitution), clawsF (2), immunity (acid, cold, electricity, fire), improved natural 
+armor (2), limbs (arms
+F, legsF) 
+Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half damage, your 
+eidolon takes no damage if she makes a successful saving throw. 
+
+Link You and your eidolon share a mental link that allows for communication across any distance (as long as 
+you are on the same plane). This communication is a free action, allowing you to give orders to your 
+eidolon at any time. What’s more, magic items interfere with this link, so that you and your eidolon 
+must share magic item slots. When both you and the eidolon are wearing a magic item in the same slot, 
+your magic item continues to function while the eidolon’s becomes dormant. An eidolon must still have 
+the appropriate magical item slot in order to be able to use of a given magic item. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your eidolon (as a spell with a range of 
+touch) instead of on yourself. You may cast spells on your eidolon even if the spells normally do not 
+affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner 
+spell list. This ability does not allow your eidolon to share abilities that are not spells, even if they 
+function like spells. 
+ 
+Craven 
+Carver/Tolu Wrang synthesis 
+LN Medium humanoid (elf, human) or outsider 
+Init +3; Senses darkvision 60-ft., low-light vision; Perception +17 
+Languages as Tolu above 
+DEFENSE 
+AC 29, touch 17, flat-footed 26 (+4 armor, +3 Dex, +1 monk, +6 natural, +2 
+shield, +3 Wis); mage armor 
+hp 102 plus 78 temporary hit points (9 HD); maxed hit points via retraining 
+Fort +13, Ref +13, Will +16; +6 vs. enchantment 
+Defensive Abilities devotion, evasion, shielded meld; Immune acid, cold, 
+electricity, fire, magical sleep 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee unarmed strike +15/+10 (1d8+8) or 
+4 claws +15 (1d4+8) or 
+unarmed strike +15/+10 (1d8+8) and 4 claws +10 (1d4+5) or 
+Ranged sling +10 (1d4+6) 
+Spells and Spell-like Abilities as Tolu above 
+Special Attacks stunning fist (4/day, DC 19), summon monster IV 
+STATISTICS 
+Abilities Str 22 (+6), Dex 17 (+3), Con 17 (+3), Int 12 (+1), Wis 16 (+3), Cha 16 (+3) 
+Base Atk +7; CMB +13; CMD 30 
+Feats as Tolu above 
+Skills Acrobatics +13, Perception +17, Spellcraft +11, Stealth +18, Use Magic Device +15; Racial Modifiers 
++2 Perception 
+SQ as Carver and Tolu above 
+Gear as Tolu above 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 19 lb. (excluding tender) 
+SPECIAL ABILITIES 
+As Carver and Tolu above 

@@ -1,0 +1,76 @@
+
+
+She’er Falen 
+Female ifrit sorcerer 15 
+CN Medium outsider (native) 
+Init +15; Senses darkvision 60 ft.; Perception –1 
+Languages Common, Elven, Halfling, Ignan 
+DEFENSE 
+AC 21, touch 21, flat-footed 14 (+4 armor, +7 Dex); mage armor 
+hp 99 (15 HD) 
+Fort +11, Ref +17, Will +13 
+Defensive Abilities evasion; Resist fire 20; SR 26 
+OFFENSE 
+Speed 70 ft. (14 squares), fly 40 ft. (good); overland flight 
+Melee by weapon +7 
+Ranged by weapon+14 
+Bloodline Spell-Like Abilities (CL 15
+th; Concentration +23) 
+1/day – burning hands, elemental blast (23d6 fire, DC 30) 
+Sorcerer Spells Known (CL 15
+th; Concentration +24) 
+7th  (5/day) – delayed blast fireball, elemental body IVB, summon monster VII 
+6th  (7/day) – beast shape IV, chain lightning, elemental body III
+B, greater dispel magic 
+5th  (8/day) – baleful polymorph, cone of cold, elemental body II
+B, overland flight, teleport 
+4th  (8/day) – elemental body I
+B, fire shield, greater invisibility, lesser globe of invulnerability, wall of 
+fire 
+3
+rd  (8/day) – fireball, fly, haste, lightning bolt, protection from energy
+B 
+2nd (8/day) – acid arrow, flaming sphere, pyrotechnics, scorching ray
+B, see invisibility, web 
+1st  (9/day) – burning handsB, charm person, feather fall, mage armor, magic missile, shield 
+0  (at will) – arcane mark, detect magic, flare, light, mage hand, mending, message, prestidigitation, 
+read magic 
+Bloodline elemental (fire) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 24 (+7), Con 13 (+1), Int 14 (+2), Wis 8 (–1), Cha 26 (+8) 
+Base Atk +7; CMB +7; CMD 24 
+Feats Craft Wondrous Item, Elemental Focus (fire), Empower SpellB, Eschew Materials
+B, Greater Elemental 
+Focus (fire), Improved Initiative
+B, Intensify Spell, Maximize Spell, Quicken Spell, Spell Focus 
+(evocation), Spell Perfection (fireball) 
+Skills Acrobatics +7 (+28 when jumping), Diplomacy +21, Intimidate +21, Knowledge (planes) +20, Spellcraft 
++20, Use Magic Device +21 
+SQ bloodline arcana (change energy damage spells to fire), bloodline mutation (blood havoc), wildfire heart 
+Combat Gear wand of cure light wounds (50 charges); Other Gear bag of holding (type I), belt of incredible 
+dexterity +6, boots of striding and springing, cloak of resistance +5, eversmoking bottle, glove of 
+storing, headband of alluring charisma +6, medallion of thoughts, ring of evasion, robe of arcane 
+heritage, She’er’s mantle of denial (as mantle of spell resistance, but grants SR 26 and has CL 14
+th), 
+tender (50gp) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 22 lb. 1 oz. (excluding tender) 
+SPECIALABILITIES 
+Bloodline Arcana Whenever you cast a spell that deals energy damage, you can change the type of damage to 
+fire. This also changes the spell’s type to fire. 
+Blood Havoc Whenever you cast a sorcerer spell that deals damage, add 1 point of damage per die rolled. This 
+benefit applies only to damaging spells that belong to schools you have selected with Spell Focus or that 
+are bloodline spells for your bloodline. 
+
+Elemental Affinity (Ex) You treat your Charisma score as 2 points higher for all sorcerer spells and class 
+abilities. 
+Elemental Blast (Sp) You can unleash a blast of elemental power once per day. This 20-foot-radius burst does 
+23d6 points of fire damage. Those caught in the area of your blast receive a Reflex save (DC 30) for half 
+damage. Creatures that fail their saves gain vulnerability to fire until the end of your next turn. This 
+ability has a maximum range of 60 feet. (You are treated as eight levels higher than normal due to your 
+favored class bonus and robe of arcane heritage.) 
+Elemental Movement (Su) Your base speed increases by 30 feet (included above). 
+Elemental Resistance (Ex) You gain fire resistance 20 due to your elemental heritage. 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. If you are helpless or are not wearing your ring of 
+evasion, you do not gain the benefit of evasion. 
+Wildfire Heart You gain a +4 racial bonus on initiative checks. 

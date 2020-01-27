@@ -1,0 +1,87 @@
+
+
+Taur Thelyn 
+Male human fighter 10/horizon walker 3 (lore warden) 
+N Medium humanoid (elf, human) 
+Init +3 (+5 jungle, +7 forests); Senses Perception +14 (+16 
+jungle, +18 forests) 
+Languages Common, Elven, Sylvan 
+DEFENSE 
+AC 27, touch 15, flat-footed 24 (+6 armor, +2 deflection, +3 
+Dex, +2 natural, +4 shield); +2 dodge bonus in forests 
+hp 139 (13 HD) 
+Fort +13, Ref +8, Will +6; +2 vs. fear, +4 vs. poison or sleep 
+OFFENSE 
+Speed 30 ft. (6 squares), woodland stride (even through magically altered terrain) 
+Melee +1 dueling club +23/+18/+13 (1d6+10) or 
+shillelagh +23/+18/+13 (2d6+10) 
+Ranged +1 composite longbow +20/+15/+10 (1d8+9/×3) or 
++1 dueling club +21/+16/+11 (1d6+10) 
+Special Attacks sword secrets (exploit weakness +3, maneuver training [disarm +2, steal +1]), tanglevine, 
+weapon training (hammers +4, bows +3) 
+Spell-Like Abilities (CL 11th except where noted; Concentration +13) 
+At-will – diminish plants (full-round action), plant growth (full-round action) 
+5/day – tanglevine 
+4/day – hallucinatory terrain (forests only, CL 13th) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 16 (+3), Con 16 (+3), Int 14 (+2), Wis 12 (+1), Cha 15 (+2) 
+Base Atk +13; CMB +18 (+31 disarm/trip with club, +23 steal, +22 disarm/trip); CMD 33 (37 vs. disarm, 36 
+vs. steal, 35 vs. trip, +4 bonus to defend wielded weapons, +2 dodge bonus in forests) 
+Feats Attuned to the Wild (forest), Combat ExpertiseB, Eldritch Heritage (verdant), Endurance, Greater StealB, 
+Greater Trip
+B, Guardian of the Wild, Improved DisarmB, Improved Eldritch Heritage 
+(massmorph/photosynthesis), Improved StealB, Improved TripB, Racial Heritage (elf), Skill Focus 
+(knowledge: nature
+B, stealthB) 
+Skills Climb +21, Handle Animal +4, Heal +14, Knowledge (geography) +18 (+22 in forests, +20 in jungles), 
+Knowledge (nature) +26, Perception +14 (+18 in forests, +16 in jungles), Stealth +26 (+30 in forests, 
++28 in jungles), Survival +17 (+21 in forests, +19 in jungles), Swim +21 
+SQ camouflage, favored terrain (forest +4, jungle +2), massmorph, photosynthesis, scholastic, skill over 
+strength, terrain dominance (forest), terrain mastery (forest) 
+Combat Gear durable arrows (20), feather tokens (tree 3), potions (cure light wounds 2, enlarge person 5); 
+Other Gear +1 composite longbow (+5 strength bonus), +1 dueling club* (brutally weighted 
+modification), +2 darkleaf cloth hide, +2 heavy wooden shield, amulet of natural armor +2, belt of 
+physical might +4 (strength, dexterity), cloak of resistance +1, club (for use with shillelagh), dryad 
+sandals, fangwood clasp, fighter’s kit (see below), gloves of dueling, ring of protection +2, ring of 
+sacred mistletoe, tender (49gp) 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 68 lb. 15 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Brutally Weighted Club A creature hit with a brutally weighted weapon takes a –2 penalty to its CMD against 
+bull rush, reposition, and trip combat maneuvers until the end of its next turn or until after it is subject to 
+such a maneuver (whichever comes first). 
+Camouflage (Ex) You can use the Stealth skill to hide in forest terrain, even if the terrain doesn’t grant cover or 
+concealment. 
+Exploit Weakness (Ex) You add one-third of your fighter class level on attack rolls to confirm critical hits. 
+
+Favored Terrain (Ex) You gain a +4 bonus on initiative checks and Knowledge (geography), Perception, 
+Stealth, and Survival skill checks when you are in forest terrain. When traveling through forests, you 
+normally leave no trail and cannot be tracked (though you may leave a trail if you so desire). You gain 
+similar bonuses and benefits in jungle terrain, but only at a +2 bonus. If a specific terrain falls into more 
+than one category of favored terrain, these bonuses do not stack; you simply use whichever bonus is 
+higher. 
+Massmorph (Sp) As a full-round action, you can alter the size and health of plant life, as if using plant growth 
+or diminish plants. 
+Photosynthesis (Ex) You feed upon nature’s raw essence. Your need to eat and sleep is reduced as if wearing a 
+ring of sustenance, and you gain a +4 racial bonus on saving throws made against poison and sleep 
+effects. 
+Scholastic (Ex) You gain 2 additional skill ranks each level. These ranks must be spent on Intelligence-based 
+skills. All Craft and Knowledge skills are class skills for you, as are Linguistics and Spellcraft. 
+Skill Over Strength (Ex) You gain Combat Expertise as a bonus feat, even if you would not normally qualify 
+for the feat. You treat your base attack bonus as though it were 2 higher for the purposes of calculating 
+the effects of Combat Expertise. 
+Tanglevine (Sp) As a standard action, you can create a 15-foot-long, animated vine that springs from your 
+hand. This vine lasts for 1 round and can be used to make a single disarm, steal, or trip combat 
+maneuver, using your effective sorcerer level plus your Charisma modifier in place of your normal 
+CMB. You can use this power a number of times per day equal to 3 + your Charisma modifier. 
+Weapon Training (Ex) You receive a +4 bonus to attack and damage rolls when using hammers, to any 
+combat maneuver checks made with hammers, and to your Combat Maneuver Defense when defending 
+against disarm and sunder attempts made against hammers. You gain a similar bonus with bows, but 
+only at a +3 bonus. 
+ 
+* The dueling property listed here is from the Pathfinder Society Field Guide, not to be confused with a similar 
+ability of the same name from the Advanced Player’s Guide and Ultimate Equipment. 
+ 
+FIGHTER’S KIT 
+This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, rope, soap, torches 
+(10), trail rations (5 days), and a waterskin. Together these items cost 9gp and weighs 29 pounds (these figures 
+are reduced from the typical sum of said items due to bulk sale and efficient packing). 

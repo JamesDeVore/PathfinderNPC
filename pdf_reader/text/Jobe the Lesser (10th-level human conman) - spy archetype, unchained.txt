@@ -1,0 +1,205 @@
+
+
+Jobe the Lesser 
+“Have you heard what is being said about me? Apparently, ‘when 
+Jobe speaks, gold falls from his mouth to fill his pockets!’ 
+Ridiculous I say! My words make diamonds, not mere gold.” 
+ 
+Jobe could have been a great noble, but felt it required too much 
+work and was tediously boring. Instead, he uses his natural talents 
+for trickery  and altering his appearance to  acquire money  and 
+shelter—and  get company for his bed. He isn’t inherently 
+malicious, but feels no remorse for conning the rich and gullible. 
+Ultimately  a self-serving  coward whose  greed drives him to 
+adventure, Jobe  is  a master  scoundrel and jack-of-all-trades 
+specializing in elaborate cons—which typically  end up with him 
+owning large portions of land and other forms of wealth.  He 
+disdains physical violence and often manipulates others into doing 
+his dirty work for him  when violence becomes necessary. His 
+serpent’s tongue never slips from behind his teeth unless there is 
+something to gain for his words. 
+ 
+Hoping to get out from under the shadow of his father, a Chelaxian 
+noble by the name of Jobe the Greater, Jobe the Lesser ran away 
+from home at an early age and largely grew up on the streets surrounded by other criminals and scoundrels. It 
+was there that he learned how to survive as a conman. While young, Jobe would play the part of a pitiable youth 
+with potential, often playing it up for and ingratiating himself with noble families, often convincing them to adopt 
+him or to accept him as an apprentice or servant. Regardless of how he got into their good graces, it almost always 
+ended the same: with broken hearts and heavy pockets. 
+ 
+Now that he is an adult, Jobe travels the world; keeping on the move, both to keep safe from those who would 
+seek retaliation for his deceptions, and also to seek out his next gullible mark or big score. No longer the “innocent 
+child” he used to be, he is now forced to rely on true charm and forged documentation to make a living. His many 
+schemes in various cities have given him valuable information on high and low society, including the means to 
+infiltrate exclusive parties or find the secret ins and outs of castles and mansions. Now a valuable and dangerous 
+member of royal courts and secret societies as a result, Jobe has become quite skilled at using subtle lies and 
+disguises to turn enemies against each other. Using his talents—and a little help from his quickchange cloak—he 
+can infiltrate and spy upon any guild, government, or noble household. 
+ 
+Though Jobe is well known in the criminal underworld, he is rarely spoken of in anything louder than a hushed 
+whisper. Most authorities, on the other hand, remain totally ignorant of his activities or identity. The last detective 
+who came close to exposing Jobe as the fraud that he was, now rots away in a debtors’ prison, having been forced 
+to surrender  all of his assets to  one  “honorable Judge Jobe”  after  finding himself  suddenly unable to pay off 
+outstanding debts he didn’t know he had. Of those few who remain aware of Jobe’s true trade, there are fewer 
+still who wish to repeat the former detective’s mistake and likewise be made an example of. 
+ 
+As a traveling conman, Jobe falls in with all sorts of people and so it is no surprise that he sometimes finds his 
+way into an adventuring party looking to score big. Though he is loath to put his life at risk on the front lines, 
+Jobe might attempt anything at all if there is enough end-game wealth to tempt him. 
+   
+
+Jobe the Lesser 
+Male human unchained rogue 10 (spy) 
+N Medium humanoid 
+Init +4; Senses Perception +15 
+Languages Aklo, Dwarven, Elven, Giant, Gnoll, Gnome, Halfling, Hallit, 
+Kelish, Orc, Osiriani, Skald, Taldane (Common), Tien, 
+Undercommon, Varisian, Vudrani 
+DEFENSE 
+AC 20, touch 14, flat-footed 16 (+6 armor, +4 Dex) 
+hp 86 (10 HD) 
+Fort +5, Ref +11, Will +5; +2 vs. compulsions to tell the truth 
+Defensive Abilities evasion, improved uncanny dodge; Immune magical 
+effects that detect lies 
+OFFENSE 
+Speed 30 ft. (6 squares), 20 ft. with backpack 
+Melee sword of subtlety +12/+7 (1d6+5 plus poison/19-20) or 
+sword of subtlety +16/+11 (6d6+9 plus poison/19-20) with Sneak Attack 
+Ranged +1 shortbow +12/+7 (1d6+1 plus poison/×3) 
+Special Attacks debilitating injury, finesse training (short sword), poison use, sneak attack +5d6 
+STATISTICS 
+Abilities Str 10 (+0), Dex 18 (+4), Con 14 (+2), Int 14 (+2), Wis 14 (+2), Cha 18 (+4) 
+Base Atk +7; CMB +7 (+12 with sword of subtlety); CMD 21 
+Feats Deceitful, Extra Rogue Talent (2), Persuasive, Skill Focus (bluff
+B, linguisticsB), Voice of the Sibyl, 
+Weapon Finesse
+B 
+Skills Bluff +34 (+42 to lie), Diplomacy +28 (+30 vs. city officials), Disguise +23, Escape Artist +17, 
+Intimidate +23, Linguistics +21 (+23 to create forgeries, +26 to detect forgeries), Perception +15 (+19 to 
+eavesdrop or find hidden things, +20 to notice invisibility), Perform (oratory) +7, Sense Motive +15, 
+Sleight of Hand +17 (+21 to conceal weapons), Stealth +22; Check Penalty –3 (not included); Racial 
+Bonuses +2 Bluff and Diplomacy 
+SQ focused study, rogue’s edge (bluff, diplomacy, disguise, perception), rogue talents (black market 
+connections, canny observer, certainty, coax information, cutting edge, rumormonger, skill mastery, 
+underhanded), silver tongued, skilled liar 
+Combat Gear arrows (20), giant wasp poison (3); Other Gear +1 shortbow, +2 shadow mithral shirt, 
+beguiling bangles, belt of agile dexterity +2, blue book, book of letters, chronicler’s kit, forged 
+documents (see below), headband of alluring charisma +2, infiltration kit, masterwork backpack, 
+quickchange cloak, ring of eloquence, sleeves of many garments, spectacles of understanding, sword of 
+subtlety (concealed, DC 43), tender (99gp), traveler’s any-tool 
+Encumbrance light 38 lb., medium 76 lb., heavy 115 lb.; Weight Carried 50 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Black Market Connections (Ex) You treat every settlement as one size greater for the purpose of determining 
+the gp limit of the base value of items for sale, as well as the number of minor, medium, and major 
+magic items for sale in the settlement. If the settlement is already a metropolis, all minor and medium 
+magic items are for sale, as well as 3d8 major magic items. With a successful Diplomacy check, you can 
+treat the settlement as two sizes larger. If the settlement is already a metropolis and you succeed at the 
+check, all magic items are for sale. If the settlement is already a large city and you succeed at the check, 
+all minor and medium magic items are for sale, as well as 3d8 major magic items. With a successful 
+check, you can also sell stolen items on the black market. If the check fails by 5 or more, you do 
+something to spook the market, and treat the city as normal for 1 week. Furthermore, those in control of 
+the black market may alert the authorities to your presence in an act of reprisal for spooking the market 
+or to divert attention away from their illicit activities. The DCs of the checks are by settlement size and 
+
+are as follows: thorp 10, hamlet 12, village 15, small town 18, large town 20, small city 25, large city 30 
+and metropolis 35. 
+Canny Observer (Ex) When you make a Perception check to hear the details of a conversation or to find 
+concealed or secret objects (including doors and traps), you gain a +4 bonus. 
+Certainty (Ex) Twice per day, you can reroll a Diplomacy check you just made and take the better result. 
+Coax Information (Ex) You can use Bluff or Diplomacy in place of Intimidate to force an opponent to act 
+friendly toward you. When the duration of the attitude shift ends, that opponents’ attitude toward you 
+returns to its previous level, rather than dropping one level. 
+Debilitating Injury (Ex) Whenever you deal sneak attack damage to a foe, you can also debilitate the target of 
+your attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue 
+talent or other special ability). You can choose to apply any one of the following penalties when the 
+damage is dealt. 
+Bewildered: The target becomes bewildered, taking a –2 penalty to AC. The target takes an 
+additional –2 penalty to AC against all attacks made by you. 
+Disoriented: The target takes a –2 penalty on attack rolls. In addition, the target takes an additional 
+–2 penalty on all attack rolls it makes against you. 
+Hampered: All of the target’s speeds are reduced by half (to a minimum of 5 feet). In addition, the 
+target cannot take a 5-foot step. 
+These penalties do not stack with themselves, but additional attacks that deal sneak attack damage 
+extend the duration by 1 round. A creature cannot suffer from more than one penalty from this ability at 
+a time. If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a 
+target suffering from one of these penalties also removes the penalty. 
+Evasion (Ex) If you succeed at a Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or 
+no armor. You do not gain the benefit of evasion while helpless. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, whenever you make a successful 
+melee attack with a dagger, you add your Dexterity modifier instead of your Strength modifier to the 
+damage roll. If any effect would prevent you from adding your Strength modifier to the damage roll, you 
+do not add your Dexterity modifier. 
+Improved Uncanny Dodge (Ex) You cannot be caught flat-footed, nor do you lose your Dexterity bonus to AC 
+if the attacker is invisible. You still lose your Dexterity bonus to AC if immobilized. You can still lose 
+your Dexterity bonus to AC if an opponent successfully uses the feint action against you. Additionally, 
+you can no longer be flanked. This defense denies another rogue the ability to sneak attack you by 
+flanking you, unless the attacker has at least four more rogue levels than you do. 
+Poison Use (Ex) You cannot accidentally poison yourself when applying poison to a blade. 
+Rogue’s Edge (Ex) You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. You gain the skill unlock powers for that skill as appropriate for your 
+number of ranks in that skill. 
+Bluff: You take no penalty to Bluff a creature after a failed check unless you failed by 5 or more. 
+Diplomacy: The time required to influence a creature’s attitude or gather information is halved. 
+Additionally, you can attempt to adjust a creature’s attitude in 1 round by taking a –10 penalty. If you 
+take 1 minute to adjust a creature’s attitude, add your Charisma bonus to the number of hours that 
+attitude change persists. 
+Disguise: You can create a disguise in 1d3 rounds. If you take the full normal amount of time to 
+create your disguise, you take no penalty for disguising your gender, race, or age category. 
+Perception: You remain alert to sounds even in your sleep, and the normal DC increase to 
+Perception checks when you are sleeping is halved. The distance modifier on the DC of Perception 
+checks you attempt is reduced to +1 per 30 feet. In addition, you gain a +5 bonus on Perception checks 
+to notice or locate an invisible creature or object. 
+Rumormonger (Ex) You can attempt to spread a rumor though a small town or larger settlement by making a 
+Bluff check. You can do so a number of times per week equal to your Charisma modifier (minimum 0). 
+The DC is based on the size of the settlement, and it takes a week for the rumor to propagate through the 
+
+settlement. If the check succeeds, the rumor is practically accepted as fact within the community; 
+succeeding by 5 or more over the DC decreases the time it takes the rumor to propagate by 1d4 days. A 
+failed check means the rumor failed to gain traction, while failing by 5 or more causes the opposite of 
+the rumor or some other competing theory involving the rumor’s subject to take hold. The DCs are as 
+follows: Small town 18, large town 20, small city 25, large city 30 and metropolis 35. 
+Silver Tongued You gain a +2 bonus on Diplomacy and Bluff checks. In addition, when you use Diplomacy to 
+shift a creature’s attitude, you can shift up to three steps up rather than just two. 
+Skill Mastery When making a skill check with Escape Artist, Sleight of Hand, Stealth, or any of the skills 
+selected through the rogue’s edge class feature, you can take 10 even if stress and distractions would 
+normally prevent you from doing so. 
+Skilled Liar (Ex) Whenever you use Bluff to attempt to deceive someone, you gain a bonus on the opposed roll 
+equal to ½ your rogue level (minimum +1). This bonus does not apply to feint attempts or attempts to 
+pass secret messages. 
+Sneak Attack Your attack deals an extra 5d6 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+Underhanded (Ex) You gain a +4 circumstance bonus on all Sleight of Hand checks made to conceal a 
+weapon. Furthermore, if you make a sneak attack during the surprise round using a concealed weapon 
+that your opponent didn’t know about, you do not have to roll sneak attack damage, and the sneak attack 
+deals maximum damage. You can only use the underhanded talent a number of times per day equal to 
+your Charisma modifier (minimum 0). 
+ 
+FORGED DOCUMENTS 
+Jobe often carries a large number of forged documents upon his person at any given time. The ones shown 
+below are simply the ones that he always carries on his person. He will change the names, organizations, and 
+other minor details of the documents to better fit whatever region he happens to be traveling through. All 
+documents require a DC 43 Linguistics check to spot as forgeries. 
+False Identification Papers: These identification papers are made from relatively cheap, but durable 
+parchment. They appear as though they were created through some kind of printing press. Jobe very rarely 
+reveals his real name or identity to anyone. Thus he has no less than three sets of identification papers 
+identifying him as a bounty hunter currently working for local law enforcement, a simple merchant traveling 
+through town to sell his wares, or a noble in service to the king. All of these identification papers have 
+supporting documents (such as business ledgers, military orders, or royal letters). 
+Letter of Marque: A letter from the mayor (or other leader of the town), this paper letter presumably grants 
+Jobe the Lesser (or one of his personas) the lawful right to loot any local abandoned dungeon, graveyard, ship, 
+temple, tomb, or other dwelling place not otherwise currently occupied by living, sentient creatures. It also 
+grants him the exclusive right to sell any such ill–gotten gains once procured. 
+Personal Letter from the King: This finely made handwritten paper letter (complete with royal seal) is 
+carried in an extremely fancy envelope and is presumably written by the king (or other local ruler) himself. It 
+authorizes Jobe the Lesser (or one of his personas) to break the law if such an action would be in service to the 
+royal family and would not severely disrupt the order of the nation. It also entails harsh punishments to any who 
+would delay or otherwise hinder Jobe during his royal duties (such “impediments” include but are not limited to 
+arrest and/or lawful detainment). 

@@ -1,0 +1,68 @@
+
+
+Macellano “Marcy” Alamander 
+Male human fighter 8 (lore warden) 
+N Medium humanoid 
+Init +4; Senses Perception +13 
+Languages Common, Skald, Varisian 
+DEFENSE 
+AC 21, touch 15, flat-footed 16 (+6 armor, +4 Dex, +1 dodge); Mobility 
+hp 79 (8 HD) 
+Fort +8, Ref +6, Will +3 
+OFFENSE 
+Speed 30 ft. (6 squares); 20 ft. when encumbered 
+Melee +1 dueling heavy flail +14/+9 (1d10+8) or 
++1 flail +14/+9 (1d8+6) with one hand, or 
+mwk sap +13/+8 (1d6+4 nonlethal) 
+Ranged +1 composite longbow +13/+8 (1d8+5/×3) or 
+bolas +8 (1d4+4 nonlethal) 
+Special Attacks sword secrets (know thy enemy, maneuver training [trip +2, disarm +1]), weapon training 
+(flails +1) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 18 (+4), Con 14 (+2), Int 14 (+2), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +8; CMB +12 (+14 to trip with bolas, +16 to sunder with heavy flail, +22 to trip with heavy flail, +23 
+to disarm with heavy flail); CMD 27 (33 vs. disarm of heavy flail, 30 vs. sunder of heavy flail, 30 vs. 
+trip while wielding heavy flail, 29 vs. dirty trick/reposition while wielding heavy flail) 
+Feats Combat ExpertiseB (–2 attack/+2 AC), Combat ReflexesB (4 AoO’s/round), Dodge
+B, Greater Disarm, 
+Greater Trip
+B, Mobility
+B, Improved Disarm, Improved Trip, Spring AttackB, Whirlwind Attack 
+Skills Acrobatics +12, Climb +15 (+17 with climber’s kit), Knowledge (arcana, local, nature) +13, Perception 
++13, Stealth +16, Survival +12 (+14 to avoid getting lost with compass); Check Penalty –3 (not 
+included) 
+SQ scholastic, skill over strength, traits (eyes and ears of the city, slippery) 
+Combat Gear durable arrows (20), potions (cure light wounds 5, enlarge person 5); Other Gear +1 composite 
+longbow (+4 strength bonus), +1 dueling heavy flail* (with hollowed pommel), +1 flail (with hollowed 
+pommel), +2 darkleaf cloth hide, bells (5), amulet of natural armor +1, belt of giant strength +2, bolas 
+(4), boots of the cat, climber’s kit, cloak of the hedge wizard (transmutation), compass, fighter’s kit (see 
+below), heavy wooden shield (rarely used), ioun torch, large tent, masterwork backpack, mirror, oil 
+(gallon, clay jug), pitons (8), ring of protection +1, robe of infinite twine, sap, signal horn, spring loaded 
+wrist sheathes (2), tender (162gp, 3sp, 5cp), tindertwigs (10), traveler’s any-tool, whetstone 
+Encumbrance light 116 lb., medium 233 lb., heavy 350 lb.; Weight Carried 156 lb. 10 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Eyes and Ears of the City You gain a +1 trait bonus on Perception checks and Perception is a class skill for 
+you. 
+Know Thy Enemy (Ex) When you succeed at a Knowledge check to identify a creature’s abilities and 
+weaknesses, you can also use a standard action to grant yourself a +2 insight bonus on all attack and 
+weapon damage rolls made against that enemy. This bonus lasts for a number of rounds equal to half 
+you fighter levels, or until you use this ability against a different creature. 
+Maneuver Training (Ex) You gain a +2 bonus on combat maneuver checks when performing trip maneuvers 
+and a +2 bonus to your CMD when defending against tip maneuvers. You also gain this bonus with and 
+against disarm maneuvers, but only at a +1 bonus. 
+Scholastic (Ex) You gain 2 additional skill ranks each level. These ranks must be spent on Intelligence-based 
+skills. All Craft and Knowledge skills are class skills for you, as are Linguistics and Spellcraft. 
+
+Skill Over Strength (Ex) You gain Combat Expertise as a bonus feat, even if you would not normally qualify 
+for the feat. 
+Slippery You gain a +1 trait bonus on Stealth checks and Stealth is a class skill for you. 
+Weapon Training (Ex) You receive a +1 bonus to attack and damage rolls when using flails, to any combat 
+maneuver checks made with flails, and to your Combat Maneuver Defense when defending against 
+disarm and sunder attempts made against flails. 
+ 
+* The dueling property listed here is from the Pathfinder Society Field Guide, not to be confused with a similar 
+ability of the same name from the Advanced Player’s Guide and Ultimate Equipment. 
+ 
+FIGHTER’S KIT 
+This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, rope, soap, torches 
+(10), trail rations (5 days), and a waterskin. 

@@ -1,0 +1,35 @@
+
+
+Mad Meenus Sniiv 
+Male human juju zombie fighter 3 (two-handed fighter) 
+NE Medium undead (augmented humanoid) 
+Init +3; Senses darkvision 60 ft.; Perception +0 
+Languages Common, Undercommon 
+DEFENSE 
+AC 22, touch 13, flat-footed 19 (+6 armor, +3 Dex, +3 natural) 
+hp 37 (3 HD) 
+Fort +5, Ref +4, Will +1 
+Defensive Abilities channel resistance +4; DR 5/magic and slashing; 
+Immune cold, electricity, magic missile, undead traits; Resist 
+fire 10 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +1 greatsword +12 (2d6+18/19-20) with Power Attack, or 
+slam +10 (1d6+10) 
+Ranged javelin +6 (1d6+7) 
+Special Attacks overhead chop, shattering strike +1 
+STATISTICS 
+Abilities Str 24 (+7), Dex 16 (+3), Con –, Int 13 (+1), Wis 10 (+0), Cha 14 (+2) 
+Base Atk +3; CMB +10 (+11 with sunder, +12 with overrun); CMD 23 (24 vs. sunder, 25 vs. overrun) 
+Feats Charge Through, Furious FocusB, Improved Initiative
+B, Improved Overrun, Intimidating Prowess, Power 
+AttackB, ToughnessB, Weapon Focus (greatsword
+B) 
+Skills Climb +18, Intimidate +15, Swim +10; Armor Check Penalty –3; Racial Bonuses +8 Climb 
+Gear +1 greatsword, javelins (10), masterwork breastplate, tender (290gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 58 lb. 
+SPECIAL ABILITIES 
+Shattering Strike (Ex) You gain a +1 bonus to CMB and CMD on sunder attempts and on damage rolls made 
+against objects. 
+Overhand Chop (Ex) When you make a single attack (with the attack action or a charge) with a two-handed 
+weapon, you add double your Strength bonus on damage rolls. 

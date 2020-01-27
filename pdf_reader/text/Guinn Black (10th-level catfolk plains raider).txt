@@ -1,0 +1,98 @@
+
+
+Guinn Black 
+Male catfolk barbarian 10 (invulnerable rager) 
+CE Medium humanoid (catfolk) 
+Init +3; Senses low-light vision; Perception +15 
+Languages Catfolk, Common 
+DEFENSE 
+AC 24, touch 15, flat-footed 21 (+8 armor, +1 deflection, +3 Dex, +1 
+insight, +1 natural) 
+hp 133 (10 HD) 
+Fort +12, Ref +8, Will +5 
+Defensive Abilities cat’s luck, extreme endurance; DR 5/–; DR 10/lethal; 
+Resist cold 2 
+OFFENSE 
+Speed 40 ft. (8 squares); 60 ft. while charging, running, or withdrawing 
+Melee +1 furious greatsword +16/+11 (2d6+8/19-20) 
++1 furious greatsword +13/+8 (2d6+17/19-20) with Power Attack 
+Ranged +1 adaptive composite longbow +14/+9 (1d8+6 plus poison/×3) 
+Special Attacks rage (25 rounds/day), rage powers (beast totem, greater beast totem, lesser beast totem, sprint, 
+swift foot [+10 ft.]) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 16 (+3), Con 16 (+3), Int 10 (+0), Wis 10 (+0), Cha 10 (+0) 
+Base Atk +10; CMB +15; CMD 30 
+Feats Catfolk Exemplar (fast sprinter), Extra Rage Power, Power Attack, Raging Vitality, Run 
+Skills Acrobatics +15 (+20 to jump, +24 with a running start), Disguise +0 (+10 with stalker’s mask), 
+Perception +15, Stealth +19, Survival +15; Armor Check Penalty –1 (excluding climb and jump); 
+Racial Bonuses +2 Perception, +2 Stealth, +2 Survival 
+Combat Gear durable arrows (20), feather tokens (bird 3, tree 3), poison (blood root 10), potions of cure 
+serious wounds (6); Other Gear +1 adaptive composite longbow, +1 furious greatsword, +2 
+expeditious mithral agile breastplate, amulet of natural armor +1, barbarian’s kit, belt of physical might 
++2 (strength, constitution), cloak of resistance +2, false left eye (as implanted dusty rose prism ioun 
+stone), feather step slippers, medium tent, quick runner’s shirt, stalker’s mask, survival kit, tender 
+(71pp) 
+SQ fast movement 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 93 lb. 14 oz. (excluding tender) 
+ 
+While Raging… 
+DEFENSE 
+AC 25, touch 13, flat-footed 22 (+8 armor, +1 deflection, +3 Dex, +1 insight, +4 natural, –2 rage) 
+hp 163 (10 HD) 
+Fort +15, Ref +8, Will +7 
+OFFENSE 
+Speed 50 ft. (10 squares); 70 ft. while charging, running, or withdrawing 
+Melee +1 furious greatsword +20/+15 (2d6+13/19-20) or 
++1 furious greatsword +17/+13 (2d6+22/19-20) with Power Attack, or 
+2 claws +17 (1d8+7/×3) or 
+2 claws +14 (1d8+13/×3) with Power Attack 
+Ranged +1 adaptive composite longbow +14/+9 (1d8+8 plus poison/×3) 
+Special Attacks as above plus pounce 
+STATISTICS 
+Abilities Str 24 (+7), Dex 16 (+3), Con 22 (+6), Int 10 (+0), Wis 10 (+0), Cha 10 (+0) 
+
+Base Atk +10; CMB +17; CMD 32 
+Skills Acrobatics +19 (+24 to jump, +28 with a running start), Perception +15, Stealth not possible, Survival 
++15; Armor Check Penalty –1 (excluding climb and jump); Racial Bonuses +2 Perception, +2 Stealth, 
++2 Survival 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried as above 
+SPECIAL ABILITIES 
+Beast Totem (Su) While raging, you gain a +1 natural armor bonus. This bonus increases by +1 for every four 
+barbarian levels you have obtained. 
+Cat’s Luck (Ex) Once per day when you make a Reflex saving throw, you can roll the saving throw twice and 
+take the better result. You must decide to use this ability before the saving throw is attempted. 
+Extreme Endurance (Ex) You are inured to hot climate effects as if using endure elements. In addition, you 
+gain 1 point of fire or cold resistance for every three barbarian levels beyond 3rd. 
+Fast Sprinter (Ex) You gain a 10-foot racial bonus to your speed when using the charge, run, or withdraw 
+actions. If you have the sprinter racial trait, your racial bonus to speed when using the charge, run, or 
+withdraw action increases to a 20-foot bonus. 
+Greater Beast Totem (Su) While raging, you gain the pounce special ability, allowing you to make a full 
+attack at the end of a charge. In addition, the damage from your claws increases to 1d8 and the claws 
+deal ×3 damage on a critical hit. 
+Lesser Beast Totem (Su) While raging, you gain two claw attacks. These attacks are considered primary 
+attacks and are made at your full base attack bonus. The claws deal 1d6 points of slashing damage (1d4 
+if Small) plus your Strength modifier (but see Greater Beast Totem). 
+Poison Bloodroot—injury; save Fort DC 12, onset 1 round, frequency 1/round for 4 rounds, effect 1 Con and 1 
+Wis and confusion for 1 round, cure 1 save. 
+Rage (Ex) You can enter a rage as a free action for 24 rounds each day. The total number of rounds of rage per 
+day is renewed after resting for 8 hours, although these hours do not need to be consecutive. While in 
+rage, you gain a +4 morale bonus to your Strength, a +6 morale bonus to Constitution, and a +2 morale 
+bonus on Will saves. In addition, you take a –2 penalty to Armor Class. The increase to Constitution 
+grants you 3 hit points per Hit Dice, but these disappear when the rage ends and are not lost first like 
+temporary hit points. While in rage, you cannot use any Charisma-, Dexterity-, or Intelligence-based 
+skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or 
+concentration. You can end your rage as a free action and you become fatigued afterwards for a number 
+of rounds equal to 2 times the number of rounds spent in the rage. You cannot enter a new rage while 
+fatigued or exhausted but can otherwise enter rage multiple times during a single encounter or combat. 
+Your rage does not end, even if you fall unconscious, provided you still have rounds of rage remaining. 
+Sprint (Ex) Once per rage, you can use a single full-round run action to move up to 6 times your speed or a 
+single full-round charge action to move up to 3 times your speed. 
+Sprinter You gain a 10-foot racial bonus to your speed when using the charge, run, or withdraw actions (but 
+see Fast Sprinter). 
+Swift Foot (Ex) You gain a 10-foot enhancement bonus to your speed while raging. 
+ 
+KIT BREAKDOWN 
+In addition to your adventuring gear listed above, your kits also contain the following items: backpack, basic 
+maps showing major landmarks, belt pouch, blanket, flint and steel (2), iron pot, mess kit, rope, small utility 
+knife, soap, torches (10), trail rations (5), and waterskins (3). 
+ 

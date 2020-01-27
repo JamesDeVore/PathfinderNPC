@@ -1,0 +1,69 @@
+
+
+Mighty Elmon 
+Male halfling fighter 10 
+NG Small humanoid (halfling) 
+Init +5; Senses Perception +13 
+Languages Common, Gnome, Halfling 
+DEFENSE 
+AC 30, touch 18, flat-footed 25 (+7 armor, +2 deflection, +5 Dex, +2 natural, +3 
+shield, +1 size) 
+hp 98 (10 HD) 
+Fort +12, Ref +11, Will +7; +5 vs. fear 
+Defensive Abilities bravery +3, fearless, halfling luck 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +1 seeking halfling sling staff +22/+17 (1d8+12) one-handed, or 
++1 seeking halfling sling staff +19/+14 (1d8+18) with one-handed Power 
+Attack, or 
++1 seeking halfling sling staff +21/+16 (1d8+14) two-handed, or 
++1 seeking halfling sling staff +18/+13 (1d8+21) with two-handed Power Attack 
+Ranged +1 seeking halfling sling staff +25/+20 (1d8+17/×3) with Point Blank Shot 
++1 seeking halfling sling staff +23/+23/+18 (1d8+17/×3) with Point Blank Shot and Rapid Shot 
+Special Attacks advanced weapon training (close; focused weapon, trained throw), weapon training (thrown 
++4) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 20 (+5), Con 14 (+2), Int 12 (+1), Wis 12 (+1), Cha 9 (–1) 
+Base Atk +10; CMB +13; CMD 30 
+Feats Advanced Weapon Training
+B, Arc Slinger, Craft Magic Arms and Armor
+B (armor only), Greater Weapon 
+Focus (sling), Halfling Slinger, Master Craftsman, Point Blank Shot
+B, Power Attack, Precise Shot
+B, 
+Rapid Shot
+B, Weapon Focus (halfling sling staff
+B), Slipslinger Style, Weapon Specialization (sling
+B) 
+Skills Craft (armor) +16, Perception +13, Ride +13, Sleight of Hand +15, Stealth +19, Survival +9; Racial 
+Bonus +2 Perception 
+SQ advanced armor training (master armorer), armor training 2, keen senses, traits (armor expert, 
+helpful), warslinger, weapon familiarity 
+Combat Gear groaning bullets (10), halfling little starstones (10), halfling softstones (20), halfling 
+spongestones (10), oils/potions (align weapon 3, darkvision 3), sling bullets (adamantine 20, alchemical 
+silver 40, cold iron 40, standard 50); Other Gear +1 seeking halfling sling staff, +2 buckler, +2 
+glamered kikko, amulet of natural armor +2, belt of physical might +2 (strength, dexterity), cloak of 
+resistance +2, gloves of dueling, ring of protection +2, tender (10pp, 5gp, 8cp) 
+Encumbrance light 75 lb., medium 150 lb., heavy 225 lb.; Weight Carried 73 lb. 6 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Expert When you wear armor of any sort, reduce that suit's armor check penalty by 1, to a minimum 
+check penalty of 0. 
+Armor Training (Ex) Whenever you wear armor, you reduce the armor check penalty by 1 (to a minimum of 
+0) and increases the maximum Dexterity bonus allowed by your armor by 1. Additionally, you can also 
+move at your normal speed while wearing medium or heavy armor. 
+Bravery (Ex) You gain a +3 bonus on Will saves against fear (included above). 
+Fearless You receive a +2 racial bonus on all saving throws against fear (included above). 
+Focused Weapon (Ex) Your damage with the halfling sling staff is based on the damage of the warpriest’s 
+sacred weapon class feature, treating your fighter level as your warpriest level. 
+Halfling Luck You receive a +1 racial bonus on all saving throws (included above). 
+
+Helpful Whenever you successfully perform an aid another action, you grant your ally a +4 bonus instead of the 
+normal +2. 
+Trained Throw (Ex) When you make a ranged attack with a thrown weapon and apply your Dexterity modifier 
+on attack rolls and your Strength modifier on damage rolls, you double your weapon training bonus on 
+damage rolls. 
+Warslinger You can reload a sling as a free action. Reloading a sling still requires two hands and provokes 
+attacks of opportunity. 
+Weapon Training (Ex) You receive a +4 bonus to attack and damage rolls when using thrown weapons, to any 
+combat maneuver checks made with thrown weapons, and to your Combat Maneuver Defense when 
+defending against disarm and sunder attempts made against thrown weapons. 

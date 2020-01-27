@@ -1,0 +1,97 @@
+
+
+Morgana Adams 
+  
+
+Female half-elf rogue 3/fighter 2/red mantis assassin 3 (lore warden, rake) 
+LE Medium humanoid (elf, human) 
+Init +4; Senses low-light vision; Perception +13 
+Languages Aquan, Common, Elven 
+DEFENSE 
+AC 25, touch 14, flat-footed 21 (+8 armor, +4 Dex, +2 natural, +1 shield) 
+hp 94 (8 HD) 
+Fort +8, Ref +9, Will +3 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee Zul (as saw-toothed sabre) +11/+6 (1d8+6/19-20) 
+Zul (as saw-toothed sabre) +13/+8 (1d8+8 plus 2d6/19-20) vs. humans, 
+or 
+Zul (as saw-toothed sabre) +9/+4 (1d8+6/19-20) and 
++1 human bane saw-toothed sabre +9 (1d8+4/19-20) with Two-Weapon Fighting, or 
+Zul (as saw-toothed sabre) +11/+6 (1d8+8 plus 2d6/19-20) and 
++1 human bane saw-toothed sabre +11 (1d8+6 plus 2d6/19-20) with Two-Weapon Fighting vs. 
+humans, or 
+mwk short sword +11/+6 (1d6+4/19-20) or 
+mwk short sword +9 (1d6+3/19-20) and 
+mwk short sword +9 (1d6+1/19-20) with Two-Weapon Fighting, or 
+mwk dagger +10/+5 (1d4+3 plus poison/19-20) or 
+mwk dagger +8 (1d4+3 plus poison/19-20) and 
+mwk dagger +8 (1d4+1 plus poison/19-20) with Two-Weapon Fighting 
+Ranged mwk composite longbow +12/+7 (1d8+2/×3) or 
+mwk dagger +11 (1d4+3 plus poison/19-20) or 
+mwk dagger +9 (1d4+3 plus poison/19-20) and 
+mwk dagger +9 (1d4+1 plus poison/19-20) with Two-Weapon Fighting 
+Special Attacks bravado’s blade, prayer attack (DC 17 or 19), sneak attack +3d6 
+Red Mantis Assassin Spells Known (CL 3rd; Concentration +6) 
+1st (4/day) – disguise self, feather fall, shadow weaponsUM, true strike 
+STATISTICS 
+Abilities Str 16 (+3), Dex 18 (+4), Con 16 (+3), Int 14 (+2), Wis 10 (+0), Cha 18 (+7) 
+Base Atk +6; CMB +9; CMD 23; Hero Points 2 
+SQ elf blood, scholastic, red shroud, traits (buccaneer’s blood, rich parents), rogue talents (weapon training) 
+Feats Alertness, Combat ExpertiseB, Dazzling DisplayB, Exotic Weapon Proficiency (saw-toothed sabreB), 
+Leadership (base 13, cohort 13, followers 14) Two-Weapon Defense, Two-Weapon FeintB, Two-
+Weapon Fighting, Weapon Focus (saw-toothed sabreB), Weapon Specialization (saw-tooth sabreB) 
+Skills Acrobatics +11, Bluff +18, Climb +8, Diplomacy +15, Disable Device +12, Disguise +14, Intimidate 
++19, Knowledge (geography) +9, Knowledge (local) +12, Perception +13, Profession (brewer) +4, 
+Profession (cook) +6, Profession (farmer) +4, Profession (fisherman) +4, Profession (sailor) +7, Sense 
+Motive +2, Stealth +13, Swim +13, Use Magic Device +15; Racial Modifiers +2 Perception 
+
+Combat Gear acid flasks (3), arcane spell scroll (see invisibility), divine spell scroll (warp wood), poisons 
+(black adder venom, bloodroot 4, dark reaver powder), potions (cure light wounds 8, cure moderate 
+wounds), wand of cure light wounds (16 charges), wand of mirror image (16 charges), wand of nature’s 
+ally II (2 charges); Other Gear +1 human bane saw-toothed sabre, +2 agile mithral breastplate, amulet 
+of natural armor +2, belt of physical perfection +2, bicorne, cloak of the manta ray, circlet of 
+persuasion, headband of alluring charisma +2, heavy coat with many hidden pockets, lesser bracers of 
+archery, masterwork composite longbow (+2 strength modifier), masterwork daggers (2), masterwork 
+thieves’ tools, ring of swimming, scroll case, soap (½ lb.), slippers of spider climbing, tender (159gp, 
+2sp), Zul (+1 human bane transformative trident that turns victims into coral; often use in the form of a 
+saw-toothed sabre) 
+Encumbrance light 76 lb., medium 153 lb., heavy 230 lb.; Weight Carried 58 lb. 9 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Bravado’s Blade (Ex) When you hit an opponent and deal sneak attack damage, you can forgo 1d6 points of 
+that damage and make a free Intimidate check to demoralize the foe. For every additional 1d6 points of 
+sneak attack damage you forgo, you receive a +5 circumstance bonus on this check. 
+Buccaneer’s Blood You gain a +1 trait bonus on Intimidate and Profession (sailor) checks. In addition, you 
+gain a one-time +1 trait bonus to your Disrepute and Infamy scores. 
+Prayer Attack (Su) You can initiate a prayer attack by holding your sawtooth sabre (or sabres) out, point 
+down, and weaving them in the air. You must be within 30 feet of and visible to your victim. Beginning 
+a prayer attack is a standard action, and causes your victim to be fascinated by you unless he makes a 
+Will save (DC 10 + the Red Mantis assassin class level + your Charisma modifier—if you are wielding 
+two sawtooth sabres, this DC gains a +2 bonus). You can maintain the fascination effect by 
+concentrating. The victim may attempt a new save to escape fascination each time a threat (other than 
+the fascinating assassin) appears. At any point after 3 rounds, she may make a coup de grace attack 
+against the target, provided the target is still fascinated. Activating or concentrating on maintaining a 
+prayer attack does not provoke an attack of opportunity. 
+Rake’s Smile (Ex) You gain a +1 morale bonus on Bluff and Diplomacy checks. This bonus increases by +1 
+for every 3 rogue levels beyond 3rd. 
+Red Shroud (Su) You can create a veil of red mist a number of times per day equal to your Constitution bonus 
+(minimum once per day) as a move-equivalent action. The red shroud persists for 1 round per Red 
+Mantis Assassin level. It grants a +1 dodge bonus to AC and fast healing equal to your Constitution 
+bonus (minimum of fast healing 1). This mist cannot be dissipated by wind. If you are slain while this 
+ability is active, you can choose whether to remain corporeal or to disintegrate into a cloud of red mist 
+that leaves behind only your gear in order to deprive your enemies of access to your remains. 
+Rich Parents You begin play with an additional 900gp to your starting funds. 
+Scholastic (Ex) You gain 2 additional skill ranks per fighter level. These ranks must be spent on Intelligence-
+based skills. All Intelligence-based skills are class skills for you. You are not proficient in medium 
+armor, heavy armor, or shields. 
+Sneak Attack Your attack deals 3d6 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Should you 
+score a critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as 
+sneak attacks only if the target is within 30 feet. With a weapon that deals nonlethal damage (like a sap, 
+whip, or an unarmed strike), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, 
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with 
+concealment. 
+ 

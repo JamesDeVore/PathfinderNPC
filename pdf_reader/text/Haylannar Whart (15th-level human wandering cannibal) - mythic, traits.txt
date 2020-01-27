@@ -1,0 +1,484 @@
+
+
+Haylannar Whart 
+“There is nothing unnatural about a predator devouring his prey.” 
+ 
+Haylannar Whart has been  gifted with arcane talent since he  was  a 
+young boy.  He was particularly  fond of transmutation spells  for the 
+chaotic magic  inherit to  their  nature.  While still  young  he was 
+discovered by a powerful master specialist, a transmuter and archmage 
+who was intrigued at the boy’s uncanny knack  for the arcane  arts. 
+Haylannar trained under his mistress’  cruel tutelage for many hard 
+years before her frail form finally succumbed to old age  and death, 
+leaving him alone and financially desititute. 
+ 
+Due to the abrupt end of his apprenticeship, Haylannar was forced out 
+onto the streets to  fend for  himself.  Soon after, a  gang of bandits 
+ambushed the wayward Haylannar on the road. After Haylannar nearly 
+succumbed to the bandit leader’s attacks, a traveling merchant and his 
+guards chanced upon the scene. Before anyone could come to his 
+rescue, however, Haylannar spontaneously transformed himself into a 
+horrific monster and tore his would be attackers apart in a gory display 
+of carnage and canibalism.  The  merchant  was  wildly amused at the 
+gruesome  spectacle  and  offered to  take  the  young Haylannar in and 
+give him a life of oppulance in return for acting as a member of his elite caravan guard. 
+ 
+Life was good for a time, but Haylannar’s new master soon passed on as well, his heart having given out after 
+years of over-indulgements. With no heir apparent to take over the man’s trade empire, Haylannar Whart took the 
+opportunity to sieze the assets for himself. For decades he wondered the world free from all masters, trading rare, 
+powerful magical items to wealthy clientel. It was the exposure to one such item, a powerful and chaotic artifact, 
+that would permanently alter Haylannar’s destiny forever. Not knowing the true power of what he possessed, 
+Haylannar acted as he always did when he was once again beset by those who would steal his wares. During the 
+battle, the artifact briefly became part of Haylannar’s body when he transformed—and in so doing forever left a 
+fragment of its power within him. 
+ 
+After the transformation into a mythic being, his behavior became more erratic, causing his business to fall apart 
+and leaving him with nothing, but the personal possessions he could carry. He has long since developed a nasty 
+reputation as a half mad wizard and violent cannibal—as well as one of the most powerful transmuters to have 
+ever lived. There are some who even say he is, and always was, actually a demon in disguise. He now wonders 
+the world as an adventurer looking for powerful magic to possess, and for ever greater foes to devour. 
+ 
+
+Haylannar Whart 
+Male old human transmuter 15 (mythic archmage 2) 
+CN Medium humanoid (human) 
+Init +7; Senses arcane sight, darkvision, see invisibility; Perception +17 
+Languages Aquan, Auran, Common, Draconic, Ignan, Terran 
+DEFENSE 
+AC 33, touch 19, flat-footed 28 (+4 armor, +3 deflection, +5 Dex, +1 insight, 
++6 natural, +4 shield); mage armor, shield 
+hp 165 plus false life (15 HD) 
+Fort +14, Ref +14, Will +15 
+Defensive Abilities hard to kill 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good), swim 30 ft.; overland flight, ride the 
+waves 
+Melee +4 club +21/+16 (1d6+19) with greater magic weapon 
+Ranged +4 club +16 (1d6+14) with greater magic weapon 
+Special Attacks battleshaping 9/day, mage strike, mythic power (7/day, surge +1d6), mythic spells 
+Spell-Like Abilities (CL 17th; Concentration +23) 
+3/day – mage hand 
+At-will – change shape (15 rounds/day) 
+Transmuter Spells Prepared (CL 16th, CL 17th w/transmutation spells, CL 18
+th w/polymorph spells, CL 19
+th 
+w/elemental body IV and form of the dragon III, CL 26
+th w/beast shape IV; Concentration +22) 
+8
+th  (2/day) – form of the dragon III (mythic), frightful aspectUC 
+7th  (3/day) – elemental body IV, plane shift, quickened haste 
+6
+th  (5/day) – age resistance
+UM, extended overland flight, greater dispel magic, greater heroism
+O 
+5th  (6/day) – extended ride the waves
+UM, quickened shield (2), telekinesis, teleport, wall of force 
+4th  (6/day) – fire shield, extended heroism
+O, greater magic weapon, wall of fire, wall of ice 
+3rd  (6/day) – extended darkvision, gaseous form, haste, protection from energy, shrink item, wind wall 
+2nd (7/day) – alter self, blood transcription
+UM, extended shield (2), false life
+O, mirror image 
+1st  (7/day) – feather fall, mage armor (2), magic missile (3), true strike 
+0  (at will) – mending, message, open/close, prestidigitation 
+Arcane School transmutation (shapechange); O Opposition school spell Opposition Schools enchantment, 
+necromancy 
+STATISTICS 
+Abilities Str 30 (+10), Dex 20 (+5), Con 20 (+5), Int 22 (+6), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +7; CMB +17; CMD 36 
+Feats Craft Wondrous Item, Echoing SpellB, Extend SpellB, Greater Spell Specialization, Multimorph (arcane 
+discovery), Quicken SpellB, Power Attack
+M, Scale and Skin, Scribe Scroll
+B, Spell Focus 
+(transmutationB), Spell Perfection (beast shape IV), Spell Specialization (beast shape IV), Varisian 
+Tattoo (transmutation) 
+
+Skills Climb +25, Fly +27 (+35 w/overland flight), Knowledge (arcana) +25, Knowledge (dungeoneering) +16, 
+Knowledge (nature) +24, Knowledge (planes) +17, Perception +17, Spellcraft +24, Stealth +20, Swim 
++25 (+33 w/ride the waves) 
+SQ amazing initiative, arcane bond (ring of protection), archmage arcana (mage strike), physical 
+enhancement +4 (Constitution), shapeshifting mastery, traits (magical lineage: beast shape IV, 
+outlander: lore seeker [beast shape IV, dragon shape III, elemental body IV]) 
+Combat Gear personal clone (per the clone spell, hidden on personal demiplane), spell foci (clone, 
+contingency, create demiplane
+UM, mage’s magnificent mansion); Other Gear amulet of mighty fists +4 
+(doubles as an amulet of natural armor +3), belt of perfection +6, blessed book (kept on personal 
+demiplane), cloak of resistance +4, grappler’s mask, headband of vast intelligence +6 (climb, fly, 
+
+swim), ioun stones (dusty rose prism, orange prism), manual of gainful exercise +1 (already read), ring 
+of protection +3, spell component pouches (2, one concealed, DC 25 to find), tender (390gp) 
+Spellbook all core wizard spells of 5
+th-level and lower plus the following: 8
+th—clone
+MF, create demiplane
+UM F, 
+form of the dragon III (mythic), frightful aspectUC, giant form II, maze; 7th—banishment, elemental body 
+IV, form of the dragon II, giant form I, greater scrying, lesser create demiplane
+UM F, mage’s magnificent 
+mansion
+F, plane shift, plant shape III; 6th—age resistance
+UM, beast shape IV (mythic), contingencyF, 
+elemental body III, form of the dragon I, greater heroism, plant shape II; 4th—ride the waves
+UM; 2nd—
+blood transcription
+UM 
+Encumbrance light 532 lb., medium 1,064 lb., heavy 1,600 lb.; Weight Carried 13 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Amazing Initiative (Ex) You gain a bonus on initiative checks equal to your mythic tier (included above). In 
+addition, as a free action on your turn, you can expend one use of mythic power to take an additional 
+standard action during that turn. This additional standard action can’t be used to cast a spell. You can’t 
+gain an extra action in this way more than once per round. 
+Battleshaping (Su) As a swift action, you grow two natural weapons. These natural weapons last for 1 round 
+and have a +1 enhancement bonus on attack and damage rolls for every four wizard levels you possess. 
+You can grow a claw, a bite, or a gore attack. These attacks deal the normal damage for a creature of 
+your size. You may not grow additional limbs or a tail with this ability. You can use this ability a 
+number of times per day equal to 3 + your Intelligence modifier. 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Change Shape (Sp) You can change your shape for a number of rounds per day equal to your wizard level. 
+These rounds do not need to be consecutive. This ability otherwise functions like beast shape III or 
+elemental body II. 
+Hard to Kill (Ex) Whenever you’re below 0 hit points, you automatically stabilize without needing to attempt a 
+Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose 
+hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points 
+when below 0 hit points. In addition, you don’t die until your total number of negative hit points is equal 
+to or greater than double your Constitution score. 
+Mage Strike (Su) As a swift action, you can expend one use of mythic power to make one melee attack. This is 
+in addition to any other attacks you make this round. If you expend one arcane spell that you’ve 
+prepared or arcane spell slot that you have available, you gain a bonus on the attack roll equal to double 
+the spell’s or slot’s level, and the attack deals an additional 2d6 points of energy damage (your choice of 
+acid, cold, electricity, or fire) per level of the spell or slot expended. The normal damage from this attack 
+bypasses all damage reduction, but the energy damage is still affected by resistances and immunities. 
+Magical Lineage When you apply metamagic feats to the above spell, treat its actual level as 1 lower for 
+determining the spell’s final adjusted level. 
+Ongoing Spells You have cast extended contingency upon yourself. Should you ever be made helpless against 
+your will (such as when knocked unconscious, paralyzed, petrified, securely bound, or forcefully put to 
+sleep), you are immediately teleported (as per the teleport spell) to the nearest known temple dedicated 
+to your deity. Your person carries upon it a note with detailed instructions for the temple’s priests should 
+you not be in a position to direct them to your aid personally. Additionally, you have used the 
+permanency spell to give yourself the benefits of arcane sight and see invisibility. The following spells 
+are also regularly active upon your person: age resistance
+UM, darkvision, overland flight and ride the 
+wavesUM. Your club has been subject to greater magic weapon. All ongoing spell effects function at 
+
+16th-caster level (and thus require a DC 27 caster level check to dispel), with the exception of 
+transmutation spells whose effects function at 17
+th-caster level (DC 28) and polymorph spells whose 
+effects function at 18th-caster level (DC 29). Their respective effects are included in the above stats 
+where appropriate. 
+Physical Enhancement (Su) You gain a +1 enhancement bonus to one physical ability score (Strength, 
+Dexterity, or Constitution). This bonus increases by +1 for every five wizard levels you possess to a 
+maximum of +5 at 20
+th level. You can change this bonus to a new ability score when you prepare spells. 
+Unless otherwise stated, assume it applies to Constitution. 
+Shapeshifting Mastery (Ex) You add half your tier to the caster level of spells or extracts from the polymorph 
+subschool. While under the effects of a spell or extract of the polymorph subschool, you can use your 
+caster level instead of your base attack bonus when making natural attacks that rely on your new form. 
+Surge (Su) You can call upon your mythic power to overcome difficult challenges. You can expend one use of 
+mythic power to increase any d20 roll you just made by rolling 1d6 and adding it to the result. Using this 
+ability is an immediate action taken after the result of the original roll is revealed. This can change the 
+outcome of the roll. 
+ 
+Allosaurus form, augmented mythic 
+As human form above except… 
+CN Huge humanoid (human) 
+Init +6; Senses arcane sight, darkvision 60 ft., low-light vision, scent, 
+see invisibility; Perception +17 
+DEFENSE 
+AC 37, touch 16, flat-footed 33 (+4 armor, +3 deflection, +4 Dex, +1 
+insight, +13 natural, +4 shield, –2 size); mage armor, shield 
+hp 165 plus false life (15 HD) 
+Fort +14, Ref +13, Will +15 
+OFFENSE 
+Speed 50 ft. (10 squares), fly 40 ft. (good), swim 30 ft.; overland flight, ride the waves 
+Melee bite +43 (2d6+19), 2 claws +43 (1d8+19/×3), gore +43 (2d6+19) and sting +43 (1d8+19) with 
+battleshaping, or 
+bite +36 (2d6+40), 2 claws +36 (1d6+40/×3), gore +36 (2d6+40) and sting +36 (1d8+40) with 
+battleshaping and Mythic Power Attack 
+Space 15 ft.; Reach 15 ft. 
+Special Attacks pounce, rake (2 talons +43, 1d8+19) 
+STATISTICS 
+Abilities Str 40 (+15), Dex 18 (+4), Con 20 (+5), Int 22 (+6), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +26; CMB +43; CMD 61 
+Skills Climb +30, Fly +22 (+30 w/overland flight), Knowledge (arcana) +24, Knowledge (dungeoneering) +16, 
+Knowledge (nature) +24, Knowledge (planes) +17, Perception +17, Spellcraft +25, Stealth +11, Swim 
++30 (+38 w/ride the waves) 
+Encumbrance light 8,512 lb., medium 17,024 lb., heavy 25,600 lb.; Weight Carried 0 lb. 
+   
+
+Catoblepas form, augmented mythic 
+As human form above except… 
+CN Large humanoid (human) 
+Init +7; Senses arcane sight, darkvision 60 ft., see invisibility; 
+Perception +17 
+DEFENSE 
+AC 39, touch 18, flat-footed 34 (+4 armor, +3 deflection, +5 
+Dex, +1 insight, +13 natural, +4 shield, –1 size); mage 
+armor, shield 
+hp 210 plus false life (15 HD) 
+Fort +17, Ref +14, Will +15 
+OFFENSE 
+Speed 40 ft. (8 squares), fly 40 ft. (good), swim 30 ft.; overland flight, ride the waves 
+Melee bite +44 (3d6+19/×3), gore +44 (2d8+19), 2 claws +44 (1d6+19), and 2 hooves +39 (1d8+11) with 
+battleshaping, or 
+bite +37 (3d6+40/×3), gore +37 (2d8+40), 2 claws +37 (1d6+40), and 2 hooves +32 (1d8+21) with 
+battleshaping and Power Attack 
+Space 10 ft.; Reach 15 ft. 
+Special Attacks breath weapon (60-ft. cone, poison, Fortitude DC 28, usable every 1d4 rounds), trample 
+(4d6+22, DC 28) 
+STATISTICS 
+Abilities Str 40 (+15), Dex 20 (+5), Con 26 (+8), Int 22 (+6), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +26; CMB +42; CMD 61 (65 vs. overrun/trip) 
+Skills Climb +30, Fly +25 (+33 w/overland flight), Knowledge (arcana) +24, Knowledge (dungeoneering) +16, 
+Knowledge (nature) +24, Knowledge (planes) +17, Perception +17, Spellcraft +25, Stealth +16, Swim 
++29 (+37 w/ride the waves) 
+Encumbrance light 6,384 lb., medium 12,768 lb., heavy 19,200 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Poison Breath (Ex) A catoblepas’ horrid, stinking breath is 60-foot cone of poison gas. Breath—contact; save 
+Fort DC 28; frequency 1/round for 6 rounds; effect 1d6 Con damage; cure 3 consecutive saves. 
+  
+Flail snail form, augmented mythic 
+As catoblepas form above except… 
+Init +7; Senses arcane sight, blindsense 30 ft., darkvision 60 ft., low-light 
+vision, scent, see invisibility, tremorsense 60 ft.; Perception +17 
+DEFENSE 
+Resist fire 20 
+OFFENSE 
+Speed 10 ft. (2 squares), climb 10 ft., fly 40 ft. (good), swim 30 ft.; 
+overland flight, ride the waves 
+Melee bite +44 (1d8+19), 4 slams +44 (1d4+19/×3), and sting +44 (1d6+19) with battleshaping, or 
+bite +37 (1d8+40), 4 slams +37 (1d4+40/×3), and sting +37 (1d6+40) with battleshaping and Power 
+Attack 
+Space 10 ft.; Reach 10 ft. 
+STATISTICS 
+Base Atk +26; CMB +42; CMD 61 (can’t be tripped) 
+Skills Climb +38 (may take 10), Fly +25 (+33 w/overland flight), Knowledge (arcana) +24, Knowledge (nature) 
++24, Knowledge (planes) +24, Perception +17, Spellcraft +25, Stealth +16, Swim +29 (+37 w/ride the 
+waves) 
+
+ 
+Frightful Aspect form 
+As human form above except… 
+CN Large humanoid (human) 
+Init +7; Senses arcane sight, darkvision, see invisibility; Perception +17 
+Aura frightful aspect (30 ft.) 
+DEFENSE 
+AC 38, touch 18, flat-footed 33 (+4 armor, +3 deflection, +5 Dex, +1 insight, 
++12 natural, +4 shield, –1 size); mage armor, shield 
+hp 195 plus false life (15 HD) 
+Fort +16, Ref +14, Will +15 
+Defensive Abilities hard to kill; DR 10/magic; SR 19 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good), swim 30 ft.; overland flight, ride the 
+waves 
+Melee +4 club +34/+29/+24/+19 (1d8+23), bite +30 (1d8+13/×3), gore +30 
+(1d8+13) with battleshaping and greater magic weapon, or 
++4 club +29/+24/+19/+14 (1d8+45), bite +25 (1d6+20) and  
+gore +25 (1d6+20) with battleshaping, greater magic weapon, and Power Attack 
+Ranged +4 club +34 (1d8+23) 
+Space 10 ft.; Reach 10 ft. 
+STATISTICS 
+Abilities Str 36 (+13), Dex 20 (+5), Con 24 (+7), Int 22 (+6), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +18; CMB +32; CMD 51 
+Skills Climb +28, Fly +27 (+35 w/overland flight), Knowledge (arcana) +25, Knowledge (dungeoneering) +16, 
+Knowledge (nature) +24, Knowledge (planes) +17, Perception +17, Spellcraft +24, Stealth +20, Swim 
++28 (+36 w/ride the waves) 
+SQ amazing initiative, arcane bond (ring of protection), archmage arcana (mage strike), traits (magical 
+lineage: beast shape IV, outlander: lore seeker [beast shape IV, dragon shape III, elemental body IV]) 
+Encumbrance light 532 lb., medium 1,064 lb., heavy 1,600 lb.; Weight Carried 13 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Frightful Aspect Enemy creatures within the aura are shaken. Each time a creature shaken by this aura hits you 
+with a melee attack, that creature becomes frightened for 1d4 rounds, though at the end of that duration 
+it is no longer affected by this aura. The aura’s effect is a fear and mind-affecting effect.    
+
+Giant octopus form, augmented mythic 
+As human form above except… 
+CN Large humanoid (human) 
+Init +7; Senses arcane sight, darkvision 60 ft., low-light 
+vision, see invisibility; Perception +17 
+DEFENSE 
+AC 35, touch 18, flat-footed 29 (+4 armor, +3 deflection, +5 
+Dex, +1 insight, +9 natural, +4 shield, –1 size); mage 
+armor, shield 
+hp 165 plus false life (15 HD) 
+Fort +14, Ref +14, Will +15 
+OFFENSE 
+Speed 20 ft. (4 squares), fly 40 ft. (good), swim 30 ft., jet 200 ft.; overland flight, ride the waves 
+Melee bite +43 (1d8+18 plus poison), gore +43 (1d8+18), sting +43 (1d6+18), and 8 tentacles +38 (1d4+11 
+plus grab/×3) with battleshaping, or 
+bite +36 (1d8+39 plus poison), gore +36 (1d8+39), sting +36 (1d6+39), and 8 tentacles +31 
+(1d4+21/×3) with battleshaping and Power Attack 
+Space 10 ft.; Reach 10 ft. (20 ft. with tentacles) 
+Special Attacks constrict (tentacle 1d6+7) 
+STATISTICS 
+Abilities Str 38 (+14), Dex 20 (+5), Con 20 (+5), Int 22 (+6), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +26; CMB +41 (+45 grapple); CMD 60 (can’t be tripped) 
+Skills Climb +29, Fly +25 (+33 w/overland flight), Knowledge (arcana) +24, Knowledge (dungeoneering) +16, 
+Knowledge (nature) +24, Knowledge (planes) +17, Perception +17, Spellcraft +25, Stealth +16, Swim 
++29 (+37 w/ride the waves) 
+Encumbrance light 4,800 lb., medium 9,600 lb., heavy 14,400 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Jet (Ex) A giant octopus can swim backward as a full-round action at the listed speed. It must move in a 
+straight line while jetting, and it cannot provoke attacks of opportunity when it does so. 
+Poison (Ex) Bite—injury; save Fort DC 26; frequency 1/round for 6 rounds; effect 1d3 Str; cure 2 saves. 
+ 
+Girallon form, augmented mythic 
+As catoblepas form above except… 
+Init +7; Senses arcane sight, darkvision 60 ft., low-light vision, scent, see 
+invisibility; Perception +17 
+OFFENSE 
+Speed 40 ft. (8 squares), climb 40 ft., fly 40 ft. (good), swim 30 ft.; overland 
+flight, ride the waves 
+Melee bite +44 (1d6+19), 4 claws +44 (1d4+19/×3 plus rend), and 2 talons +44 
+(1d6+19) with battleshaping, or 
+bite +37 (1d6+40), 4 claws +37 (1d4+40/×3 plus rend), and 2 talons 
++37 (1d6+40) with battleshaping and Power Attack 
+Space 10 ft.; Reach 10 ft. 
+Special Attacks rend (4 claws, 1d4+14) 
+STATISTICS 
+Base Atk +26; CMB +42; CMD 61 
+Skills Climb +38 (may take 10), Fly +25 (+33 w/overland flight), Knowledge (arcana) +24, Knowledge 
+(dungeoneering) +16, Knowledge (nature) +24, Knowledge (planes) +17, Perception +17, Spellcraft 
++25, Stealth +16, Swim +29 (+37 w/ride the waves) 
+
+Gorgon form, augmented mythic 
+As catoblepas form above except… 
+Init +7; Senses arcane sight, darkvision 60 ft., low-light vision, 
+scent, see invisibility; Perception +17 
+OFFENSE 
+Melee bite +44 (1d8+19), gore +44 (2d8+19/×3), sting +44 
+(1d6+19), and 2 hooves +39 (1d6+11) with battleshaping, or 
+bite +37 (1d8+40), gore +37 (1d3+40/×3), sting +37 
+(1d6+40), and 2 hooves +32 (1d6+21) with 
+battleshaping and Power Attack 
+Space 10 ft.; Reach 5 ft. 
+Special Attacks breath weapon (60-foot cone, turn to stone, Fortitude DC 28 negates), trample (2d8+22, DC 
+28) 
+SPECIAL ABILITIES 
+Breath Weapon (Su) A gorgon can use its breath weapon once every 1d4+1 rounds to create a 60-foot cone of 
+green gas. Those caught in the area of the gas can attempt a DC 28 Fortitude save to resist the effects, 
+but those who fail the save are immediately petrified. This petrification is temporary—each round, a 
+petrified creature can attempt a new DC 28 Fortitude save to recover from the petrification as long as it 
+is not caught within the area of effect of the gorgon’s breath weapon a second time while petrified. A 
+creature exposed to the gorgon’s breath a second time while already petrified becomes permanently 
+petrified, and can no longer attempt to make additional Fortitude saves to recover naturally. 
+ 
+Kamadan form, augmented mythic 
+As flail snail form above except… 
+Init +7; Senses arcane sight, darkvision 60 ft., low-light vision, 
+scent, see invisibility; Perception +17 
+OFFENSE 
+Speed 40 ft. (8 squares), fly 40 ft. (good), swim 30 ft.; overland 
+flight, ride the waves 
+Melee bite +44 (1d6+19), 2 claws +44 (1d3+19/×3), 2 talons +44 
+(1d6+19), and snakes +39 (1d4+11) with battleshaping, 
+or 
+bite +37 (1d6+40), 2 claws +37 (1d3+40/×3), 2 talons 
++37 (1d6+40), and snakes +32 (1d4+21) with 
+battleshaping and Power Attack 
+Space 10 ft.; Reach 5 ft. (10 ft. with snakes) 
+Special Attacks breath weapon (30-ft. cone, sleep, Fortitude DC 28 negates, usable every 1d4 rounds), pounce 
+STATISTICS 
+Base Atk +26; CMB +42; CMD 62 (66 vs. overrun/trip) 
+Skills Climb +30, Fly +25 (+33 w/overland flight), Knowledge (arcana) +24, Knowledge (dungeoneering) +16, 
+Knowledge (nature) +24, Knowledge (planes) +17, Perception +17, Spellcraft +25, Stealth +16, Swim 
++30 (+38 w/ride the waves) 
+SPECIAL ABILITIES 
+Breath Weapon (Su) A kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes 
+(Fortitude DC 28 negates). Slapping or wounding awakens a creature put to sleep by this attack, but 
+normal noise does not. This is a sleep effect. The save DC is Constitution-based.   
+
+Kirin form, augmented mythic 
+As catoblepas form above except… 
+Init +7; Senses arcane sight, darkvision 60 ft., low-light vision, scent, 
+see invisibility; Perception +17 
+DEFENSE 
+Resist cold 20, electricity 20, fire 20 
+OFFENSE 
+Speed 60 ft. (12 squares), fly 120 ft. (good), swim 30 ft.; overland flight, 
+ride the waves 
+Melee gore +44 (1d8+19), 2 claws +44 (1d6+19), and 2 hooves +39 
+(1d6+11) with battleshaping, or 
+gore +37 (1d8+40), 2 claws +37 (1d6+40), and 2 hooves +32 
+(1d6+21) with battleshaping and Power Attack 
+Space 10 ft.; Reach 5 ft. 
+STATISTICS 
+Base Atk +26; CMB +42; CMD 61 (65 vs. overrun/trip) 
+Special Attacks breath weapon (15-ft. cone, 5d6 fire damage, Reflex DC 28 for half, usable every 1d4 rounds) 
+ 
+Red dragon form, mythic 
+As human form above except… 
+CN Huge humanoid (human) 
+Init +7; Senses arcane sight, blindsense 60 ft., darkvision 120 ft., 
+low-light vision, scent, see invisibility; Perception +17 
+Aura frightful presence (30 ft., DC 27) 
+DEFENSE 
+AC 37, touch 17, flat-footed 32 (+4 armor, +3 deflection, +5 Dex, 
++1 insight, +12 natural, +4 shield, –2 size); mage armor, 
+shield 
+hp 240 plus false life (15 HD) 
+Fort +19, Ref +14, Will +15 
+DR 10/magic; Immune fire 
+Weaknesses vulnerability to cold 
+OFFENSE 
+Speed 40 ft. (8 squares), fly 120 ft. (good), swim 30 ft.; overland flight, ride the waves 
+Melee bite +36 (3d8+20), 2 claws +36 (3d6+20), gore +36 (3d6+20), sting +36 (2d6+20), 2 wings +31 
+(2d6+12), and tail slap +31 (3d6+12) with battleshaping, or 
+bite +31 (3d8+35), 2 claws +31 (3d6+35), gore +31 (3d6+35), sting +31 (2d6+35), 2 wings +26 
+(2d6+19), and tail slap +26 (3d6+19) with battleshaping and Mythic Power Attack 
+Space 15 ft.; Reach 10 ft. (15 ft. with bite) 
+Special Attacks breath weapon (50-ft. cone, DC 27, 12d8 fire) 
+STATISTICS 
+Abilities Str 42 (+16), Dex 20 (+5), Con 30 (+10), Int 22 (+6), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +19; CMB +37; CMD 56 (60 vs. overrun/trip) 
+Skills Climb +31, Fly +23 (+31 w/overland flight), Knowledge (arcana) +25, Knowledge (dungeoneering) +16, 
+Knowledge (nature) +24, Knowledge (planes) +17, Perception +17, Spellcraft +24, Stealth +12, Swim 
++31 (+39 w/ride the waves) 
+Encumbrance light 16,608 lb., medium 33,216 lb., heavy 49,920 lb.; Weight Carried 0 lb. 
+ 
+
+Rukh form, augmented mythic 
+As human form above except… 
+CN Large humanoid (human) 
+Init +7; Senses arcane sight, darkvision 60 ft., low-light 
+vision, see invisibility; Perception +17 
+DEFENSE 
+AC 39, touch 18, flat-footed 34 (+4 armor, +3 deflection, +5 
+Dex, +1 insight, +13 natural, +4 shield, –1 size); 
+mage armor, shield 
+hp 210 plus false life (15 HD) 
+Fort +17, Ref +14, Will +15 
+OFFENSE 
+Speed 20 ft. (10 squares), fly 40 ft. (good), swim 30 ft.; 
+overland flight, ride the waves 
+Melee 2 bites +44 (1d8+19/×3), 2 gores +44 (1d8+19), and 2 talons +44 (1d6+19) with battleshaping, or 
+2 bites +37 (1d8+40/×3), 2 gores +37 (1d8+40), and 2 talons +37 (1d6+40) with battleshaping and 
+Power Attack 
+Space 10 ft.; Reach 5 ft. 
+STATISTICS 
+Abilities Str 40 (+15), Dex 20 (+5), Con 26 (+8), Int 22 (+6), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +26; CMB +42; CMD 61 
+Skills Climb +30, Fly +25 (+33 w/overland flight), Knowledge (arcana) +24, Knowledge (dungeoneering) +16, 
+Knowledge (nature) +24, Knowledge (planes) +17, Perception +17, Spellcraft +25, Stealth +16, Swim 
++30 (+38 w/ride the waves) 
+Encumbrance light 4,256 lb., medium 8,512 lb., heavy 12,800 lb.; Weight Carried 0 lb. 
+ 
+Stymphalidies form, augmented mythic 
+As Rukh form above except… 
+DEFENSE 
+Resist fire 20 
+Weaknesses vulnerability to sonic 
+OFFENSE 
+Speed 20 ft. (10 squares), fly 120 ft. (good), swim 30 ft.; overland flight, ride 
+the waves 
+Melee bite +44 (1d8+19/×3), gore +44 (1d8+19), sting +44 (1d6+19), 2 talons 
++44 (1d6+19), and 2 wings +39 (1d6+11) with battleshaping, or 
+bite +37 (1d8+40/×3), gore +37 (1d8+40), sting +37 (1d6+40), 2 talons 
++37 (1d6+40), and 2 wings +32 (1d6+21) with battleshaping 
+and Power Attack 

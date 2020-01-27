@@ -1,0 +1,193 @@
+
+
+Sandalphon the Fiend Killer 
+“We stand between the immortal and the mortal, the divine and the 
+earthly, the material and the sublime. Our duty is dear: bring the 
+light, purge the darkness, and shield the faithful from the grasping 
+claws of evil!” 
+ 
+Sandalphon the Fiend Killer (formerly known as the Rainbow Wizard 
+due to his brightly colored magic and frequent alliances with couatls) 
+is a powerful arcanist preoccupied with ridding the world of evil in 
+general, fiends in particular, and demons specifically. He lost his wife 
+and two children long ago to a powerful, rampaging demon who had 
+been inadvertently called forth by a dangerous nearby cult oblivious 
+to the destruction their activities would bring upon themselves and 
+others. Sandalphon himself was captured by the demon and forced to 
+watch the torture and subsequent murder of his family as he himself 
+was tortured mercilessly. Though he was saved and the demon driven 
+off by the intervention of a family friend (a traveling paladin/sorcerer named Shioji), it was nevertheless too late 
+to do anything for his beloved kin, whose very souls had been absconded with by the fell creature. This tragedy 
+has fueled his quest against the force of evil for a great many years. 
+ 
+Since that fateful day, Sandalphon has blamed himself for not being able to better protect his family. He began 
+traveling the world to find two things: the demon who slew his family—and the personal power with which to 
+make the monster suffer. To that end, he often works with the Pathfinder Society and other adventuring guilds in 
+search of powerful artifacts and magic. Though generally honorable and kind, Sandalphon’s quest for vengeance 
+long ago became an obsession which twists his goodly nature.   
+
+Sandalphon the Rainbow Wizard 
+Male human arcanist 5/evangelist 9 of Iomedae (occultist) 
+LG Medium humanoid 
+Init +4; Senses Perception +18 
+Languages Abyssal, Aquan, Auran, Celestial, Common, Ignan, 
+Terran 
+DEFENSE 
+AC 29, touch 21, flat-footed 23 (+4 armor, +4 deflection, +4 Dex, 
++2 dodge, +1 insight, +4 natural); mage armor 
+hp 134 (14 HD) 
+Fort +13, Ref +15, Will +13; +2 vs. spells and effects from demons 
+and demon worshippers 
+Defensive Abilities vengeful banisher 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good); overland flight 
+Melee cold iron dagger +7/+2 (1d4-1/19-20) 
+Ranged cold iron dagger +12 (1d4-1/19-20) 
+Special Attacks arcane reservoir (11/day, 18 max), conjurer’s focus, unstoppable magic, wrath of the inheritor 
+3/day 
+Evangelist Spell-Like Abilities (CL 14th; Concentration +21; choose one of the following each day) 
+3/day – remove fear 
+2/day – blessing of courage and life
+APG 
+1/day – heroism 
+Occultist Spell-Like Abilities (CL 14th; Concentration +21) 
+At will – summon monster I–VII (one casting at a time, 1 min./level, costs 1–7 arcane reservoir points, 
+respectively) 
+1/day – augury 
+1/week – contact other plane 
+Arcanist Spells Prepared (CL 14
+th, or CL 20
+th to overcome SR; Concentration +21) 
+7
+th  (3/day) – prismatic spray 
+6th  (5/day) – chain lightning, cold ice strike
+UM 
+5
+th  (5/day) – overland flight, telekinesis, teleport 
+4
+th  (5/day) – black tentacles, enervation, greater invisibility, rainbow pattern 
+3rd  (6/day) – dispel magic, fireball, heroism, lightning bolt 
+2nd (6/day) – acid arrow, blindness/deafness, mirror image, resist energy, scorching ray 
+1
+st  (6/day) – color spray, feather fall, mage armor, magic missile, shield 
+0  (at will) – arcane mark, dancing lights, detect magic, ghost sound, light, mage hand, mending, 
+prestidigitation, read magic 
+STATISTICS 
+Abilities Str 8 (–1), Dex 18 (+4), Con 18 (+4), Int 24 (+7), Wis 13 (+1), Cha 16 (+3) 
+Base Atk +8; CMB +7; CMD 27 
+Feats Craft Rod, Craft Wondrous Item, Deific Obedience, Empower Spell
+B, Favored Enemy Spellcasting (evil 
+outsiders), Greater Spell Penetration, Intensify SpellB, Quicken SpellB (variable), Spell Penetration, 
+Vengeful Banisher (completed) 
+Skills Acrobatics +8, Appraise +11, Bluff +7, Climb +3, Craft (all) +11, Diplomacy +24, Disguise +17 (+27 
+with hat of disguise), Escape Artist +8, Fly +21 (+28 with overland flight), Heal +18, Intimidate +7, 
+Knowledge (arcana) +24, Knowledge (planes) +29, Knowledge (religion) +19, Perception +18, Perform 
+(all) +7, Ride +8, Sense Motive +18, Spellcraft +24, Stealth +21, Survival +5 (+7 to avoid getting lost), 
+Swim +3, Use Magic Device +20; Obedience Bonuses +4 Diplomacy, +4 Knowledge (nobility) 
+SQ aligned class (arcanist), arcanist exploits (dimensional slide 130 ft., greater metamagic knowledge, 
+metamagic knowledge, metamixing, potent magic), cognizant sleep, consume spells (3/day), eclectic 
+
+training, gift of tongues (abyssal, celestial), multitude of talents, obedience, planar contact, planar spells, 
+skilled (Sense Motive, Stealth) 
+Combat Gear couatl feathers (4), wand of cure light wounds (50 charges); Other Gear amulet of natural 
+armor +4, belt of physical might +4 (dexterity, constitution), blessed book with bookplate of recall (98 
+pages remaining, rarely carried), cold iron dagger, lesser metamagic rods (dazing, maximize, merciful, 
+piercing), handy haversack, headband of mental prowess +4 (intelligence, charisma; fly, heal), ioun 
+stones (dark blue rhomboid, dusty rose prism, mossy disk [knowledge: planes]), lucky cloak 
+(functionally a cloak of resistance +5 and shawl of life-keeping), lucky hat (functionally a hat of disguise 
+and a jingasa of the fortunate soldier that grants a +4 deflection bonus), metamagic rod (maximize), 
+robe of infinite twine, spellbook (no pages remaining), tender (1,626gp), traveler’s any-tool, wayfinder 
+(contains dark blue rhomboid) 
+Spellbook all core sorcerer/wizard spells of 6
+th-level and lower plus banishment, chains of fire
+ARG, cold ice 
+strike
+UM, lesser planar ally, planar ally, plane shift (treated as a 5
+th-level spell), and prismatic spray 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 23 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Aligned Class (Ex) You gain all the class features for one chosen class, essentially adding every evangelist 
+level beyond 1
+st to your aligned class to determine what class features you gain. You still retain the Hit 
+Dice, base attack bonus, saving throw bonuses, and skill ranks of the evangelist prestige class, but gain 
+all other class features of your aligned class as well as those of the evangelist prestige class. 
+Arcane Reservoir (Su) You have an innate pool of magical energy that you can draw upon to fuel your arcanist 
+exploits and enhance your spells. Your arcane reservoir can hold a maximum amount of magical energy 
+equal to 3 + your arcanist level. Each day, when preparing spells, your arcane reservoir fills with raw 
+magical energy, gaining a number of points equal to 3 + ½ your arcanist level. Any points you had from 
+the previous day are lost. You can also regain these points through the consume spells class feature and 
+some arcanist exploits. The arcane reservoir can never hold more points than the maximum amount 
+noted above; points gained in excess of this total are lost. Points from the arcanist reservoir are used to 
+fuel many of your powers. In addition, you can expend 1 point from your arcane reservoir as a free 
+action whenever you cast an arcanist spell. If you do, you can choose to increase the caster level by 1 or 
+increase the spell’s DC by 1. You can expend no more than 1 point from your reservoir on a given spell 
+in this way. 
+Cognizant Sleep Due to your dark blue rhomboid ioun stone’s resonant power, you no longer suffer penalties 
+on Perception checks for being distracted or asleep 
+while you possess your wayfinder; during sleep 
+you may remain open-eyed and fully aware of 
+your environment, though you are still helpless 
+against undetected threats until you actually wake 
+up. 
+Conjurer’s Focus (Sp) You can spend 1 point from your 
+arcane reservoir to cast summon monster I. You 
+can cast this spell as a standard action and the 
+summoned creatures remain for 1 minute per level 
+(instead of 1 round per level). You may cast more 
+powerful summon monster spells instead (as 
+shown above), at the cost of an additional point 
+from your arcane spell reserve per spell level. You 
+cannot have more than one summon monster spell 
+active in this way at one time. If this ability is used 
+again, any existing summon monster immediately 
+ends. 
+Consume Spells (Su) You can expend an available 
+arcanist spell slot as a move action, making it 
+
+unavailable for the rest of the day, just as if you had used it to cast a spell. You can use this ability a 
+number of times per day equal to your Charisma modifier (minimum 1). Doing this adds a number of 
+points to your arcane reservoir equal to the level of the spell slot consumed. You cannot consume 
+cantrips (0 level spells) in this way. Points gained in excess of the reservoir’s maximum are lost. 
+Demon-Feared Caster (Ex) You gain a sacred bonus equal to 1 + 1 for every 4 Hit Dice you possess 
+(maximum +6) on caster level checks to overcome the spell resistance of outsiders with the chaotic or 
+evil subtypes. These bonuses stack against outsiders who are both chaotic and evil (maximum +12). 
+Dimensional Slide (Su) You can expend 1 point from your arcane reservoir to create a dimensional crack that 
+you can step through to reach another location. This ability is used as part of a move action or withdraw 
+action, allowing you to move up to 10 feet per arcanist level to any location you can see. This counts as 
+5 feet of movement. You can only use this ability once per round. You do not provoke attacks of 
+opportunity when moving in this way, but any other movement you attempt as part of your move action 
+provokes as normal. 
+Eclectic Training Due to your membership in a spellcasting guild (and Fame score of 5) you gain a +1 bonus to 
+your caster level with arcanist spells (up to a maximum of your character level). This bonus grants you 
+additional spells known and spells per day for your modified caster level. 
+Gift of Tongues You know an additional two languages, which you can speak and write fluently. 
+Metamixing (Su) You can expend 1 point from your arcane reservoir to add a metamagic feat that you know to 
+a spell as you cast it without affecting the casting time (though using a higher-level spell slot as normal). 
+You can use this ability to add a metamagic feat to a spell that you prepared using a metamagic feat, 
+although you cannot add the same metamagic feat to a given spell more than once. 
+Multitude of Talents (Ex) You gain a +4 sacred bonus on any skill check attempted with a skill in which you 
+have no ranks. This bonus applies only to skill checks that can be made untrained. 
+Obedience (Ex) In order to maintain the abilities granted by the evangelist prestige class, including all abilities 
+gained from aligned class, you must perform a daily obedience to your chosen deity. 
+Planar Contact (Sp) You can cast augury once per day and contact other plane once per week, using your 
+arcanist level as your caster level. 
+Planar Spells You add all planar ally spells to your spell list (using your arcanist level as the cleric level), and 
+treat plane shift as a 5
+th-level arcanist spell. 
+Potent Magic (Su) Whenever you expend 1 point from your arcane reservoir to increase the caster level of a 
+spell, the caster level increases by 2 instead of 1. Whenever you expend 1 point from your arcane 
+reservoir to increase the spell’s DC, it increases by 2 instead of 1. 
+Protective Grace (Su) You gain a +2 dodge bonus to your armor class (included above). 
+Skilled Sense Motive and Stealth are always considered class skills for you. 
+Unstoppable Magic You gain a +2 racial bonus on caster level checks against spell resistance.  
+Vengeful Banisher When a demon damages you with an attack, spell, spell-like ability, or special ability and 
+reduces you to fewer than 0 hit points, you may allow righteous energy to pour through you and into the 
+demon, instantly sending it to another plane of existence (as dismissal) if it fails a Will save (DC = 10 + 
+½ your Hit Dice + your Charisma modifier). This dismissal takes place after you are damaged but before 
+you fall unconscious, so you can use this ability even if the demon kills you. You can use this ability 
+once per day. Once you have used this ability, you must be healed to your maximum number of hit 
+points before you can use the ability again. 
+Wrath of the Inheritor (Su) Three times per day, you can call upon Iomedae during the casting of a spell to 
+increase its potency. When you use this ability, you can cast any spell that deals hit point damage and 
+has a casting time of 1 standard action as a full-round action instead. Doing so changes half the damage 
+dealt to divine power, similar to a flame strike spell. 

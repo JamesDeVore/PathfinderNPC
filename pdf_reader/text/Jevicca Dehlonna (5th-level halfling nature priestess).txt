@@ -1,0 +1,106 @@
+
+
+Jevicca Dehlonna 
+Female halfling cleric 5 (ecclesitheurge) of Gozreh 
+NG Small humanoid (halfling) 
+Init +1; Senses Perception +5 
+Languages Common, Dwarven, Gnome, Halfling 
+DEFENSE 
+AC 12, touch 12, flat-footed 11 (+1 Dex, +1 size) 
+hp 32 (5 HD) 
+Fort +5, Ref +3, Will +8 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee mwk quarterstaff +4 (1d4–1 plus poison) 
+Ranged mwk heavy crossbow +6 (1d8 plus entangle and poison) 
+Special Attacks channel positive energy 7/day (DC 16, 3d6), storm burst 
+7/day (1d6+2 nonlethal damage) 
+Cleric Spells Prepared (CL 5
+th; Concentration +8) 
+3
+rd  (3/day) – call lightningD (2), create food and water 
+2nd (4/day) – augury, fog cloud
+D (2), resist energy 
+1st  (5/day) – command, deathwatch, endure elements, entangle
+D 
+0  (4/day) – create water, guidance, light, stabilize 
+D Domain spell; Domains Animal (secondary), Plant (spells), Weather (primary) 
+STATISTICS 
+Abilities Str 8 (–1), Dex 13 (+1), Con 10 (+0), Int 14 (+2), Wis 16 (+3), Cha 18 (+4) 
+Base Atk +3; CMB +1; CMD 12 
+Feats Boon Companion, Divine Protection, Spontaneous Nature’s Ally 
+Skills Craft (alchemy) +6, Handle Animal +9 (+13 with animal companion), Heal +9, Knowledge (nature) +10, 
+Knowledge (religion) +10, Perception +5, Ride +6, Spellcraft +6, Stealth +5; Racial Modifiers +2 
+Perception 
+SQ animal companion (roc), aura of good (strong), fleet of foot, spontaneous casting (cure or summon 
+nature’s ally spells), weapon familiarity 
+Combat Gear poison (sassone leaf residue 10), potions (cure light wounds 3), tangle bolts (10), wand of cure 
+light wounds (10 charges); Other Gear cloak of resistance +1, malleable symbol (bonded holy symbol), 
+masterwork heavy crossbow, masterwork quarterstaff, tender (40gp) 
+Encumbrance light 19 lb. 8 oz., medium 39 lb. 12 oz., heavy 60 lb.; Weight Carried 9 lb. 6 oz. (excluding 
+tender) 
+SPECIAL ABILITIES 
+Blessing of the Faithful (Su) As a standard action, you can bless one ally within close range (25 ft. + 5 ft./2 
+levels). A blessed ally gains a +2 sacred bonus on attack rolls, skill checks, ability checks, or saving 
+throws or to AC until your next turn. You can expend 1 use of channel energy when activating this 
+ability to increase the duration to a number of rounds equal to the number of dice of your channel 
+energy. 
+Bonded Holy Symbol (Su) Your holy symbol functions identically to a wizard’s bonded object except it can be 
+used to cast cleric and domain spells (instead of wizard spells) and you can grant your bonded holy 
+symbol only magic abilities appropriate for a holy symbol or a neck slot item. As with a wizard’s 
+bonded item, you can add additional magic abilities to your bonded holy symbol as if you had the 
+required item creation feat (typically Craft Wondrous Item), provided you meet the feat’s level 
+prerequisites. The magic properties of a bonded holy symbol, including any magic abilities you added to 
+the object, function for only you. If you die or the item is replaced, the object loses all enhancements 
+you added using this ability. 
+
+Channel Energy (Su) Seven times per day you may release a burst of positive energy in a 30-ft. radius burst as 
+a standard action. When doing so you can choose to harm undead creatures in the area (3d6 damage, 
+Will DC 16 half) or to heal the living (3d6 healing). You may exclude up to 3 targets in the area from 
+this effect. 
+Domain Mastery When you choose your cleric domains, you designate one as your primary domain and the 
+other as your secondary domain. You can use your non-domain spell slots to prepare spells from your 
+primary domain’s spell list. Each day when you prepare spells, you can select a different domain granted 
+by your deity to gain access to that domain’s spell list instead of your secondary domain spell list. You 
+do not lose access to your actual secondary domain’s granted powers or gain access to the other 
+domain’s granted powers. 
+Ecclesitheurge’s Vow You’ve made a vow to your deity to be protected solely by your faith, not by armor or 
+shields. An ecclesitheurge who wears prohibited armor or uses a prohibited shield is unable to use his 
+cleric domain powers or cast cleric spells. 
+Poison Sassone leaf residue —contact; save Fort DC 16, onset 1 minute, frequency 1/minute for 6 minutes, 
+effect 2d12 hp/1 Con, cure 1 save. 
+Storm Burst (Sp) As a standard action, you can create a storm burst targeting any foe within 30 feet as a 
+ranged touch attack. The storm burst deals 1d6 points of nonlethal damage + 1 point for every two cleric 
+levels you possess. In addition, the target is buffeted by winds and rain, causing it to take a –2 penalty 
+on attack rolls for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom 
+modifier. 
+ 
+Arundel 
+Roc Animal Companion 
+N Medium animal 
+Init +5; Senses low-light vision; Perception +5 
+DEFENSE 
+AC 24, touch 16, flat-footed 17 (+5 Dex, +1 dodge, +7 natural); Mobility 
+hp 22 (5 HD) 
+Fort +4, Ref +9, Will +2 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 20 ft. (4 squares), fly 80 ft. (average) 
+Melee 2 talons +4 (1d4+1) and 
+bite +4 (1d6+1) 
+STATISTICS 
+Abilities Str 13 (+1), Dex 20 (+5), Con 10 (+0), Int 2 (–4), Wis 13 (+1), Cha 11 (+0) 
+Base Atk +3; CMB +4; CMD 20 
+Feats Dodge, Flyby Attack, Mobility 
+Skills Fly +12, Perception +5 
+SQ link, share spells, tricks (attack [anything], come, defend, down, fetch, guard, heel) 
+Encumbrance light 50 lb., medium 100 lb., heavy 150 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding an animal companion. 
+Share Spells (Ex) You may cast a spell with a target of “You” on your animal companion (as a spell with a 
+range of touch) instead of on yourself. You may cast spells on your animal companion even if the spells 
+normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come 
+from a class that grants an animal companion. This ability does not allow the animal to share abilities 
+that are not spells, even if they function like spells. 

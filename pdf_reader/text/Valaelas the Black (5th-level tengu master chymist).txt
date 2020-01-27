@@ -1,0 +1,144 @@
+
+
+Valaelas the Black 
+Male tengu barbarian 1/alchemist 4 (preservationist, vivisectionist) 
+CN Medium humanoid (tengu) 
+Init +3; Senses carrion sense, low-light vision; Perception +9 
+Languages Common, Dwarven, Elven, Gnome, Tengu 
+DEFENSE 
+AC 26, touch 14, flat-footed 22 (+8 armor, +3 Dex, +1 dodge, +4 natural); 
+barkskin, mutagen 
+hp 48 (5 HD) 
+Fort +9, Ref +7, Will +0 
+OFFENSE 
+Speed 30 ft. (6 squares); 40 ft. when unencumbered 
+Melee bite +10 (1d3+6) and 
+2 claws +10 (1d3+6) or 
+tongue +5 (1d4+3 plus grab) or 
+bite +12 (1d3+8) and 
+2 claws +12 (1d3+8) when raging 
+tongue +7 (1d4+4 plus grab) when raging 
+Ranged splash weapon +8 touch (1d6+3 energy, 4 splash) 
+Special Attacks bleeding attack, claw attack, rage (6 rounds/day), sneak attack +2d6 plus 2 
+bleed, throw anything +3 
+Alchemist Extracts Prepared (CL 4th) 
+2nd (2/day) – sickening strikesARG (DC 15), vomit swarm 
+1st  (4/day) – enlarge person, shield, true strike, [open slot] 
+STATISTICS 
+Abilities Str 22* (+6), Dex 16 (+3), Con 14 (+2), Int 16 (+3), Wis 9 (–1), Cha 7 (–2); feral mutagen 
+Base Atk +4; CMB +10 (includes mutagen bonus); CMD 24 (mutagen bonus included) 
+Feats Brew PotionB, Deflect Arrows, Dodge, Snatch Arrows, Throw Anything
+B 
+Skills Acrobatics +8 (+10 to jump), Craft (alchemy) +15, Disable Device +8, Heal +14 (+17 with medical 
+tools), Knowledge (nature) +11, Perception +9, Sleight of Hand +8, Stealth +7; Armor Check Penalty 
+–3 (–1 with climb and jump checks); Racial Bonuses +2 Perception, +2 Stealth 
+SQ alchemy +4, mutagen (40 minutes, DC 15), swift alchemy 
+Combat Gear acid (12), alchemical grease (6), alchemical solvent (6), alchemist’s fire (12), antiplague (6), 
+antitoxin (6), liquid ice (12), oil (20 pints), potions (barkskin 2, enlarge person 2, in wrist sheathes), 
+smokesticks (12), soothe syrup (6), sunrods (12), tanglefoot bags (6), thunderstones (12), tindertwigs 
+(12); Other Gear +2 agile breastplate, alchemist’s kit, bandoliers (2), belt of giant strength +2, belt 
+pouches (2), doctor’s mask, doctor’s outfit, formula book (86 pages left), healer’s kit (10 uses 
+remaining), masterwork backpack, pickpocket’s outfit, pocketed scarf, poisoned sand tube (concealed in 
+wrist sheathe, DC 39 to find; loaded with oil of taggit poison), poison pill ring (worth 30gp), spring-
+loaded wrist sheathes (3), stretcher, surgeon’s tools, tender (21gp), thieves’ tools 
+Formula Book 2nd-level—barkskin, sickening strikesARG, vomit swarmAPG; 1st-level—cure light wounds, death 
+watch
+B, enlarge person, expeditious retreat, jump, shield, summon nature’s ally I
+B, touch of the seaAPG, 
+true strike 
+Encumbrance light 116 lb., medium 233 lb., heavy 350 lb.; Weight Carried 203 lb. 8 oz. (excluding tender) 
+* Includes +4 alchemical bonus for Strength-increasing mutagen. 
+SPECIAL ABILITIES 
+Alchemy (Su) When using Craft (alchemy) to create an alchemical item, you gain a competence bonus equal to 
+your alchemist class level on the Craft (alchemy) check (included above). In addition, you can use Craft 
+(alchemy) to identify potions as if using detect magic. You must hold the potion for 1 round to make 
+such a check. You are also capable of creating bombs, extracts, and mutagens (see below). 
+
+Bleeding Attack (Ex) You can cause living opponents to bleed by hitting them with a sneak attack. This attack 
+causes the target to take 1 additional point of damage each round for each die of your sneak attack (e.g., 
+4d6 equals 4 points of bleed). Bleeding creatures take that amount of damage every round at the start of 
+each of their turns. The bleeding can be stopped by a DC 15 Heal check or the application of any effect 
+that heals hit point damage. Bleeding damage from this ability does not stack with itself. Bleeding 
+damage bypasses any damage reduction the creature might possess. 
+Bottled Ally I You add Handle Animal to your list of class skills. You also add summon nature’s ally I to your 
+formula book as a 1st-level extract. When you prepare this extract, you actually prepare a tiny, preserved 
+specimen in a bottle (as with a caster casting the spell, you don’t have to choose the creature until you 
+use the extract). When you open the bottle, the specimen animates and grows to normal size, serving you 
+as per the spell and otherwise being treated as a summoned creature. When the duration expires, the 
+preserved creature decays into powder. If you have the infusion discovery, another character can use the 
+infused specimen. The Augment Summoning feat can be applied to these specimens. 
+Carrion Sense You can detect approaching enemies, sniff out hidden foes, and track by sense of smell. You 
+can identify familiar odors just as humans do familiar sights. You can detect opponents within 30 feet by 
+sense of smell. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. 
+Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. 
+Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple normal range. 
+When you detect a scent, the exact location of the source is not revealed—only its presence somewhere 
+within range. You can take a move action to note the direction of the scent. When you are within 5 feet 
+of the source, you pinpoint the source’s location. You can follow tracks by smell, making a Wisdom (or 
+Survival) check to find or follow a track. The typical DC for a fresh trail is 10 (no matter what kind of 
+surface holds the scent). This DC increases or decreases depending on how strong the quarry’s odor is, 
+the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC increases by 
+2. The ability otherwise follows the rules for the Survival skill. You ignore the effects of surface 
+conditions and poor visibility when tracking by scent. However, your scent ability is limited and only 
+functions for corpses and badly wounded creatures with 50% or fewer hit points. 
+Cruel Anatomist You may use your Knowledge (nature) skill bonus in place of your Heal skill bonus. 
+Extracts (Su) You may create and use extracts, essentially spells in the form a drinkable liquid. For the most 
+part, extracts follow the rules of both potions and spells. 
+Fast Movement (Ex) Your land speed is faster than the norm for your race by +10 feet. This benefit applies 
+only when you are wearing no armor, light armor, or medium armor, and not carrying a heavy load. 
+Apply this bonus before modifying your speed because of any load carried or armor worn. This bonus 
+stacks with any other bonuses to your land speed. 
+Mutagen (Su) You can create a mutagen that you can imbibe in order to heighten your physical prowess at the 
+cost of your personality. It takes 1 hour to brew a dose of mutagen, and once brewed, it remains potent 
+until used. You can only maintain one dose of mutagen at a time—if you brew a second dose, any 
+existing mutagen becomes inert. As with an extract or bomb, a mutagen that is not in an alchemist’s 
+possession becomes inert until an alchemist picks it up again. When you brew a mutagen, you select one 
+physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action to drink a 
+mutagen. Upon being imbibed, the mutagen causes you to grow bulkier and more bestial, granting you a 
++2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per 
+alchemist level. In addition, while the mutagen is in effect, you take a –2 penalty to one of your mental 
+ability scores. If the mutagen enhances your Strength, it applies a penalty to your Intelligence. If it 
+enhances your Dexterity, it applies a penalty to your Wisdom. If it enhances your Constitution, it applies 
+a penalty to your Charisma. A non-alchemist who drinks a mutagen must make a Fortitude save (DC 10 
++ ½ your alchemist level + your Intelligence modifier) or become nauseated for 1 hour—a non-
+alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another 
+alchemist’s mutagen if he drinks it. (Although if the other alchemist creates a different mutagen, the 
+effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever 
+you drink a mutagen, the effects of any previous mutagen immediately end. 
+
+Rage (Ex) You can rage for 6 rounds per day. Temporary increases to Constitution, such as those gained from 
+rage and spells like bear’s endurance, do not increase the total number of rounds that you can rage per 
+day. Entering a rage is a free action. The total number of rounds of rage per day is renewed after resting 
+for 8 hours, although these hours do not need to be consecutive. While in rage, you gain a +4 morale 
+bonus to your Strength and Constitution, as well as a +2 morale bonus on Will saves. In addition, you 
+take a –2 penalty to Armor Class. The increase to Constitution grants you 2 hit points per Hit Dice, but 
+these disappear when the rage ends and are not lost first like temporary hit points. While in rage, you 
+cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, 
+and Ride) or any ability that requires patience or concentration. You can end your rage as a free action 
+and are fatigued after rage for a number of rounds equal to 2 times the number of rounds spent in the 
+rage. You cannot enter a new rage while fatigued or exhausted but can otherwise enter rage multiple 
+times during a single encounter or combat. If you fall unconscious, your rage immediately ends, placing 
+you in peril of death. 
+Sneak Attack If you can catch an opponent when he is unable to defend himself effectively from your attack, 
+you can strike a vital spot for extra damage. Your attack deals extra damage (as shown above) any time 
+your target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus 
+or not), or when you flank your target. Should you score a critical hit with a sneak attack, this extra 
+damage is not multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet. 
+With a weapon that deals nonlethal damage (like a sap, whip, or an unarmed strike), you can make a 
+sneak attack that deals nonlethal damage instead of lethal damage. You cannot use a weapon that deals 
+lethal damage to deal nonlethal damage in a sneak attack, not even with the usual –4 penalty. You must 
+be able to see the target well enough to pick out a vital spot and must be able to reach such a spot. You 
+cannot sneak attack while striking a creature with concealment. 
+Swift Alchemy (Ex) You can create alchemical items with astounding speed. It takes you half the normal 
+amount of time to create alchemical items. 
+Throw Anything (Ex) You gain the Throw Anything feat as a bonus feat and you add your Intelligence 
+modifier to damage done with splash weapons, including the splash damage if any. 
+Tongue (Ex) You have a prehensile, arm-length tongue. The tongue is fully under your control and cannot be 
+easily concealed. Your tongue does not give you any extra attacks or actions per round, though you can 
+use it to make a tentacle attack (1d4 damage for a Medium size) with the grab ability. The tentacle can 
+manipulate or hold items as well as your original arms can (for example, allowing you to use one hand 
+to wield a weapon, the tentacle to hold a potion, and the third hand to throw a bomb). Unlike an arm, 
+your tongue has no magic item slots. This ability is identical in every way to the tentacle alchemist 
+discovery but in name and description. 
+Torturer’s Eye You add deathwatch to your formula book as a 1st-level extract. 
+ 

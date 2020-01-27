@@ -1,0 +1,100 @@
+
+
+Grimm Shark 
+Male half-orc barbarian 9 (sea reaver) 
+NE Medium humanoid (human, orc) 
+Init +1; Senses darkvision 120 ft.; Perception +14 
+Languages Common, Giant, Orc 
+DEFENSE 
+AC 18, touch 11, flat-footed 18 (+7 armor, +1 Dex) 
+hp 111 (9 HD) 
+Fort +10, Ref +5, Will +6; +1 bonus vs. inhaled poisons and other 
+airborne attacks that require you to breathe them 
+DR 1/– 
+OFFENSE 
+Speed 25 ft. (5 squares) 
+Melee +1 lance +17/+12 (1d8+11/×3) or 
++1 flaming armor spikes +17/+12 (1d6+8 plus 1d6 fire) or 
++1 flaming armor spikes +27 grapple (1d8+10 plus 1d6 fire) while 
+grappling, or 
++1 spiked gauntlet +17/+12 (1d4+8) or 
++1 spiked gauntlet +17/+12 (1d4+8) or 
+Ranged +1 adaptive orc hornbow +11/+6 (2d6+8/×3) 
+Space 5 ft.; Reach 5 ft. (10 ft. with lance) 
+Special Attacks rage (23 rounds/day), rage powers (animal fury, breathtaker, savage jaw, strength surge +9) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 12 (+1), Con 16 (+3), Int 12 (+1), Wis 14 (+2), Cha 7 (–2) 
+Base Atk +9; CMB +16 (+21 to grapple, +28 to maintain grapples); CMD 27 (30 vs. grapple) 
+Feats Deadly Grappler, Dirty Fighting, Greater Grapple, Improved Grapple, Kraken Style 
+Skills Acrobatics +0 (+3 in aquatic terrain), Climb +18 (+21 in aquatic terrain), Intimidate –2, Perception +14, 
+Profession (sailor) +14 (+17 in aquatic terrain), Stealth +13, Survival +14 (+17 in aquatic terrain), Swim 
++18 (+20 with flippers, +21 in aquatic terrain, or +23 with both); Armor Check Penalty –1 
+Combat Gear dead air vials (8), durable arrows (40), origami swarms (3), potions (enlarge person 10); 
+Other Gear +1 adaptive orc hornbow, +1 flaming armor spikes, +1 mithral agile breastplate (razored 
+modification), +1 spiked gauntlet (serrated edge modification), +1 lance (resembles a long-hafted 
+trident), belt of giant strength +4, boots of the cat, cloak of resistance +1, filter hood, garrote, 
+masterwork flippers, pressurized air tanks (2), tender (39gp), underwater goggles, wet suit 
+SQ dragon sight, eyes of the storm, intimidating, marine terror, orc blood, savage sailor +3, sure-footed, traits 
+(bandit, serpentine squeeze), weapon familiarity 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 130 lb. 2oz. (excluding tender) 
+SPECIAL ABILITIES 
+Animal Fury (Ex) While raging, you gain a bite attack. If used as part of a full attack action, the bite attack is 
+made at your full base attack bonus –5. If the bite hits, it deals 1d4 points of damage plus half of your 
+Strength modifier. You can make a bite attack as part of the action to maintain or break free from a 
+grapple. This attack is resolved before the grapple check is made. If the bite attack hits, any grapple 
+checks you make against the target this round are at a +2 bonus. 
+Bandit You gain a +1 trait bonus on Stealth checks, and Stealth is always a class skill for you. 
+Breathtaker (Ex) While raging, whenever you make a successful melee attack against an opponent that is 
+holding its breath, in addition to any other effects caused by that attack, the opponent loses a number of 
+rounds of breath equal to your Strength modifier. 
+Eyes of the Storm (Ex) You ignore any concealment provided by fog, rain, sleet, mist, wind, or other weather 
+effects that are less than total concealment, and any penalties weather applies on Perception checks are 
+halved. 
+
+Marine Terror (Ex) You can hold your breath for a number of rounds equal to four times your Constitution 
+score. In addition, you can move normally though squares of standing water or bog that is 1 foot deep. It 
+does not cost you extra movement to traverse these terrains. Lastly, you ignore the normal cover bonus 
+to AC when attacking creatures that are partially immersed in water. 
+Rage (Ex) You can enter a rage as a free action for 23 rounds each day. The total number of rounds of rage per 
+day is renewed after resting for 8 hours, although these hours do not need to be consecutive. While in 
+rage, you gain a +4 morale bonus to your Strength and Constitution, as well as a +2 morale bonus on 
+Will saves. In addition, you take a –2 penalty to Armor Class. The increase to Constitution grants you 2 
+hit points per Hit Dice, but these disappear when the rage ends and are not lost first like temporary hit 
+points. While in rage, you cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except 
+Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration. You can end 
+your rage as a free action and you become fatigued afterwards for a number of rounds equal to 2 times 
+the number of rounds spent in the rage. You cannot enter a new rage while fatigued or exhausted but can 
+otherwise enter rage multiple times during a single encounter or combat. If you fall unconscious, your 
+rage immediately ends, placing you in peril of death. 
+Savage Jaw (Ex) While using the animal fury rage power, you can activate this power as a free action and gain 
+the grab ability with your bite attack until the start of your next turn. This power can be used only once 
+per rage. 
+Savage Sailor (Ex) You gain a +3 bonus on Acrobatics, Climb, Profession (sailor), Survival, and Swim checks 
+made in aquatic terrain, including aboard a ship or along shorelines. 
+Serpentine Squeeze You gain a +1 trait bonus on combat maneuver checks to grapple a foe, as well as a +1 
+trait bonus to your CMD whenever an opponent tries to grapple you. 
+Strength Surge (Ex) Once per rage, you may add your barbarian level on one Strength check or combat 
+maneuver check, or to your Combat Maneuver Defense when an opponent attempts a maneuver against 
+you. This power is used as an immediate action. 
+Sure-Footed (Ex) You take no penalties when moving across slick surfaces, whether natural or magical (e.g., 
+grease, ice storm, and sleet storm). You are not at risk of falling, are not denied your Dexterity bonus 
+when moving across such areas, and do not treat them as difficult terrain. 
+ 
+Grimm Shark (while raging) 
+As above, except as follows… 
+DEFENSE 
+AC 16, touch 9, flat-footed 16 (+7 armor, +1 Dex, –2 rage) 
+hp 129 (9 HD) 
+Fort +12, Ref +5, Will +8; +1 bonus vs. inhaled poisons/airborne attacks 
+OFFENSE 
+Melee +1 lance +19/+14 (1d8+14/×3) and bite +13 (1d4+4 plus grab) or 
++1 flaming armor spikes +19/+14 (1d6+10 plus 1d6 fire) and bite +13 (1d4+4 plus grab) or 
++1 flaming armor spikes +33 grapple (1d8+12 plus 1d6 fire) while grappling, or 
++1 spiked gauntlet +19/+14 (1d4+10) and bite +13 (1d4+4 plus grab) 
+Ranged +1 adaptive orc hornbow +11/+6 (2d6+10/×3) 
+STATISTICS 
+Abilities Str 28 (+9), Dex 12 (+1), Con 20 (+5), Int 12 (+1), Wis 14 (+2), Cha 7 (–2) 
+Base Atk +9; CMB +18 (+27 to grapple, +34 to maintain grapples); CMD 29 (32 vs. grapple) 
+Skills Acrobatics +0 (+3 in aquatic terrain), Climb +20 (+23 in aquatic terrain), Intimidate +0, Perception +14, 
+Profession (sailor) +14 (+17 in aquatic terrain), Stealth +9, Survival +14 (+17 in aquatic terrain), Swim 
++20 (+22 with flippers, +23 in aquatic terrain, or +25 with both); Armor Check Penalty –1 

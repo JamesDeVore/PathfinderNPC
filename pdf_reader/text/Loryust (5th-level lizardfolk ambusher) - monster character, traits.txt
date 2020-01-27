@@ -1,0 +1,80 @@
+
+
+Loryust 
+Female lizardfolk ranger 5 (guide, trapper) 
+N Medium humanoid (reptilian) 
+Init +5 (+7 in swamps); Senses Perception +11 
+Languages Aklo, Common, Draconic 
+DEFENSE 
+AC 17, touch 12, flat-footed 17 (+2 Dex, +5 natural) 
+hp 73 (7 HD) 
+Fort +10, Ref +6, Will +5 
+OFFENSE 
+Speed 20 ft. (6 squares), swim 10 ft.; 30 ft. and 15 ft. when 
+unencumbered 
+Melee +1 spear +10/+5 (1d8+5/×3) and bite +4 (1d4+1) or 
+mwk sap +10/+5 (1d6+3 nonlethal) or 
+bite +9 (1d4+3) and 2 claws +9 (1d4+3) 
+Ranged +1 composite shortbow +9/+4 (1d6+3/×3) or 
++1 composite shortbow +7/+7/+2 (1d6+3/×3) with Rapid Shot, 
+or 
+mwk bolas +9 (1d4+2) or 
++1 spear +9 (1d8+4/×3) 
+Special Attacks poison trap (DC 15 or by poison), ranger’s focus +4 
+(2/day), snare trap (DC 15), trap (5/day),  
+STATISTICS 
+Abilities Str 16 (+3), Dex 15 (+2), Con 16 (+3), Int 8 (–1), Wis 16 (+3), Cha 10 (+0) 
+Base Atk +6; CMB +9 (+10 with bolas or longsword); CMD 21 
+Feats Endurance
+B, Exotic Weapon Proficiency (bolas), Master Alchemist, Point Blank Shot, Precise Shot, 
+Rapid ShotB 
+Skills Acrobatics +6, Craft (alchemy) +10, Disable Device +12, Linguistics +1, Perception +11 (+13 to find 
+traps or in swamps, +15 with both), Stealth +10 (+13 in bog, marsh, or swamp terrain), Survival +11 
+(+13 to find and follow tracks or in swamps, +15 with both), Swim +11; Check Penalty –3 (not 
+included); Racial Modifiers +4 Acrobatics 
+SQ favored terrain (swamp +2), hold breath (64 rounds), track +2, traits (indomitable faith, swamp skulker), 
+trapfinding +2, wild empathy +5 
+Combat Gear antitoxin (6), durable arrows (20), poisons (belladonna 6, blue whinnis 20, burnt othur fumes 3, 
+oil of taggit 6, terinav root 9), potions (cure light wounds 2), tanglefoot bags (6); Other Gear +1 
+composite shortbow (+3 strength bonus), +1 spear, masterwork bolas, masterwork sap, portable 
+alchemist’s lab, ranger’s kit, tender (33gp) 
+Encumbrance light 76 lb., medium 153 lb., heavy 230 lb.; Weight Carried 87 lb. 2 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Favored Terrain (Ex) You gain a +2 bonus on initiative checks and Knowledge (geography), Perception, 
+Stealth, and Survival skill checks when in forest terrain (not included above). When traveling through 
+your favored terrain you normally leave no trail and cannot be tracked (though you may leave a trail if 
+you so choose). 
+Indomitable Faith You gain a +1 trait bonus on Will saves (included above). 
+Poison Trap (Ex or Su) This trap poisons the creature that triggers it. If it is a supernatural trap, the poison 
+deals 1d2 Con damage per round for 6 rounds. If it is an extraordinary trap, you must provide 1 dose of 
+contact, inhaled, or injury poison when setting the trap, and the trap uses that poison’s effects and DC. 
+Ranger’s Focus (Ex) Twice per day you can focus on a single enemy within line of sight as a swift action. That 
+creature remains your focus until it is reduced to 0 or fewer hit points or surrenders, or until you a new 
+
+focus, whichever occurs first. You gain a +4 bonus on attack and damage rolls against the target of your 
+focus. 
+Snare Trap (Ex or Su) This trap constricts around a limb or other part of the triggering creature’s body (Reflex 
+avoids). The creature cannot move from the location of the trap, unless you include a “leash” when 
+setting the trap, in which case the creature is limited to the length of the leash. The trapped creature can 
+escape with an Escape Artist check (DC equal to the trap’s DC) as a full-round action. The trap or its 
+leash has a number of hit points equal to ½ your ranger level, or can be burst as a full-round action with 
+a DC 25 Strength check. The trap can hold up to a Medium creature; each extra daily use of your trap 
+ability spent when the trap is set increases the maximum size of creature the trap can hold. At your 
+option, if there is a tall object or structure nearby, you can have the trap lift the creature. 
+Swamp Skulker You gain a +1 trait bonus on Stealth checks when you are in bog, marsh, or swamp terrain, 
+and you treat shallow bogs and swamp undergrowth as normal terrain for the purposes of movement. 
+Terrain Bond (Ex) When in your favored terrain, you grant all allies within line of sight and that can hear you 
+a +2 bonus on initiative checks and Perception, Stealth, and Survival skill checks. Also, as long as they 
+travel with you, your allies leave no trail and can’t be tracked. You can choose for the group to leave a 
+trail, or even specific members of the group to leave a trail if you so desire. 
+Track (Ex) You add half your ranger levels to Survival checks made to find and follow tracks. 
+Trapfinding You add ½ your ranger level on Perception skill checks made to locate traps and on Disable 
+Device skill checks (minimum +1). You can use Disable Device to disarm magic traps. 
+Wild Empathy (Ex) You can improve the attitude of an animal. This ability functions just like a Diplomacy 
+check made to improve the attitude of a person. You roll 1d20 and add your ranger level and your 
+Charisma modifier to determine the wild empathy check result. The typical domestic animal has a 
+starting attitude of indifferent, while wild animals are usually unfriendly. To use wild empathy, you and 
+the animal must be within 30 feet of one another under normal conditions. Generally, influencing an 
+animal in this manner takes 1 minute but, as with influencing people, it might take more or less time. 
+You can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but you 
+take a –4 penalty on the check. 

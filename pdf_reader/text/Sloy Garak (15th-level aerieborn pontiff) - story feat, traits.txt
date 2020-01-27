@@ -1,0 +1,108 @@
+
+
+Sloy Garak 
+Male aerieborn sorcerer 15 (seeker, wildblooded) 
+LN Medium humanoid (shapechanger, skinwalker) 
+Init +3; Senses low-light vision; Perception +51 
+Languages Celestial, Common, Tengu 
+DEFENSE 
+AC 31, touch 18, flat-footed 28 (+8 armor, +5 deflection, +3 Dex, +5 
+natural) 
+hp 129 (15 HD) 
+Fort +14, Ref +13, Will +24; +4 vs. positive or negative energy effects 
+Defensive Abilities freedom of movement 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. when unencumbered 
+Melee mwk dagger +9/+4 (1d4+1/19-20) 
+Ranged heavenly fire +10 touch (1d4+9 divine energy) 
+Special Attacks channel energy 3/day (DC 25, 10d6) 
+Spell-Like Abilities (CL 15th or 19
+th vs. SR; Concentration +27) 
+1/day – feather fall 
+11/day – heavenly fire (1d4+9 divine energy) 
+Sorcerer Spells Known (CL 15th or 19
+th vs. SR; Concentration +27) 
+7th  (5/day) – banishmentB, caustic eruptionUM 
+6th  (7/day) – acid fog, conjure black puddingUM, greater dispel magic
+B, siroccoAPG, tar poolUC 
+5th  (8/day) – acidic sprayUM M, corrosive consumptionUM, flame strike
+B, teleport, wall of soundUM 
+4th  (8/day) – acid pitAPG, greater invisibility, remove curseB, shocking image
+UC, vitriolic mistUM 
+3rd  (8/day) – cure serious woundsB, dispel magic, eruptive postulesUM, magic circle against evilB, major 
+image, sleet storm, slow 
+2nd (8/day) – acid arrow, acute sensesUM, continual flame
+M, invisibility, resist energy
+B, see invisibility, 
+shatter 
+1st  (9/day) – bless
+B, feather fall, magic missile, shield, ventriloquism, unseen servant 
+0  (at will) – acid splash, detect magic, detect poison, disrupt undead, guidance
+B, mage hand, mending, 
+message, prestidigitation, ray of frost 
+Bloodline celestial (empyreal) 
+STATISTICS 
+Abilities Str 12 (+1), Dex 16 (+3), Con 18 (+4), Int 14 (+2), Wis 26 (+8), Cha 10 (+0) 
+Base Atk +7; CMB +8; CMD 26 
+Feats Alertness, Cosmopolitan (knowledge: religion, perception), Craft Wondrous Item, Extend SpellB, Extra 
+Channel, Forge Ring, Forgotten Past (incomplete), Iron WillB, Signature Skill (Perception), Skill Focus 
+(perception) 
+Skills Disable Device +30, Heal +28, Knowledge (religion) +17, Perception +51 (+58 vs. traps, +56 vs. 
+invisible creature or objects), Sense Motive +12, Spellcraft +15 (+19 vs. bonus spells), Stealth +22 (+23 
+in hilly or rocky areas); Check Penalty –3 (not included); Racial Bonuses +6 Perception, +2 Sense 
+Motive 
+SQ bloodline arcana (sorcerer abilities are Wisdom-based), sacred cistern, seeker magic, tinkering +7, 
+traits (highlander, two-world magic: guidance) 
+Combat Gear feather tokens (bird, fan, swan boat, tree); Other Gear authoritative vestments, belt of mighty 
+constitution +6 (doubles as a meridian belt), belt pouches (2; one with coin, one with pebbles), bracers 
+of armor +8, cloak of resistance +5, eyes of the eagle, healer’s gloves, holy text (25gp, 2 lb.), jewelry 
+(100gp worth), malleable symbol, masterwork dagger, masterwork thieves’ tools, periscope, pontiff’s 
+badge of office (as amulet of natural armor +5 and hand of glory), pontiff’s hood (as headband of 
+inspired wisdom +6 and phylactery of positive channeling), ring of freedom of movement, ring of 
+protection +5, rings of spell knowledge (II, III; acute sensesUM, cure serious wounds), robes of arcane 
+
+heritage, rod of splendor, silver holy symbol (worth 25gp), spell component pouches (2), spiritualist 
+rings, spy glass, tender (10sp), walking staff enchanted with continual flame 
+Encumbrance light 43 lb., medium 86 lb., heavy 130 lb.; Weight Carried 44 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bloodline Arcana Unlike most sorcerers whose innate magic is powered by force of personality, you use pure 
+willpower to master and fuel your magic. You use your Wisdom, rather than your Charisma, to 
+determine all class features and effects relating to your sorcerer class, such as bonus spells per day, 
+maximum spell level you can cast, and the save DCs of your spells. You gain a +2 bonus on all Heal and 
+Knowledge (religion) checks. 
+Change Shape (Su) You can change shape to a bestial form as a standard action. In bestial form, you gain a +2 
+racial bonus to Dexterity. While in this form, you also take on an animalistic feature that provides a 
+special effect. Each time you assume bestial form, you can choose to gain a bite attack that deals 1d6 
+points of damage, 2 talon attacks that each deal 1d4 points of damage, a +4 racial bonus on Perception 
+checks, or increase your fly speed gained from other sources by 10 feet. The skinwalker presented here 
+is currently in bestial form, and has bonuses to Perception. 
+Heavenly Fire (Sp) You can unleash a ray of heavenly fire as a standard action, targeting any foe within 30 feet 
+as a ranged touch attack. Against evil creatures, this ray deals 1d4 points of damage + 1 for every two 
+sorcerer levels you possess. This damage is divine and not subject to energy resistance or immunity. 
+This ray heals good creatures of 1d4 points of damage + 1 for every two sorcerer levels you possess. A 
+good creature cannot benefit from your heavenly fire more than once per day. Neutral creatures are 
+neither harmed nor healed by this effect. You can use this ability a number of times per day equal to 3 + 
+your Charisma modifier. 
+Highlander (mountains) You were born and raised in rugged badlands and you’ve become something of an 
+expert at evading the predators, monsters, and worse that haunt the highlands. You gain a +1 trait bonus 
+on Stealth checks, and Stealth is always a class skill for you. This trait bonus increases to +2 in hilly or 
+rocky areas. 
+Sacred Cistern (Su) Your bloodline makes you a natural receptacle of divine energy. You can channel energy 
+once per day as a cleric of your sorcerer level –4. 
+Seeker Lore (Ex) You gain a +4 bonus on all concentration checks, on caster level checks made to overcome 
+spell resistance, and on all Knowledge (arcana) and Spellcraft checks made on topics associated with 
+your bonus spells. 
+Seeker Magic (Ex) When you apply a metamagic feat to any bonus spell granted by your bloodline, you reduce 
+the metamagic feat’s spell level adjustment by 1. This reduction to the spell level adjustment for 
+metamagic feats does not stack with similar reductions from other abilities. 
+Signature Skill You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. You gain the skill unlock powers for that skill as appropriate for your 
+number of ranks in that skill. 
+Perception: The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 
+40 feet. In addition, you gain a +5 bonus on Perception checks to notice or locate an invisible creature or 
+objects. You remain alert to sounds even in your sleep, and the normal DC increase to Perception checks 
+when you are sleeping doesn’t apply to you. 
+Tinkering (Ex) You gain Disable Device as a class skill. In addition, you add half your sorcerer level on 
+Perception checks made to locate traps and on all Disable Device skill checks (minimum +1). You can 
+use Disable Device to disarm magical traps. 
+Two-World Magic You know one extra 0-level spell, taken from a different class spell list. 

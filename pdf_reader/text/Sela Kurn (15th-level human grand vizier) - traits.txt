@@ -1,0 +1,133 @@
+
+
+Sela Kurn 
+Male venerable human abjurer 15 
+LE Medium humanoid (human) 
+Init +4; Senses all-around vision, arcane sight, darkvision 120 ft.; Perception 
++18 
+Languages Aboleth, Abyssal, Aklo, Aquan, Auran, Boggard, Celestial, 
+Common, Cyclops, Dark Folk, Draconic, Dwarven, Elven, Giant, 
+Gnome, Gnoll, Halfling, Ignan, Infernal, Orc, Sphinx, Strix, Sylvan, 
+Tengu, Terran, Undercommon 
+DEFENSE 
+AC 27, touch 17, flat-footed 23 (+7 armor, +3 deflection, +4 Dex, +3 natural) 
+hp 144 plus greater false life (15 HD) 
+Fort +13, Ref +13, Will +16; +3 vs. mind-affecting effects 
+Defensive Abilities mind blank; DR 2/piercing or slashing; DR 10/magic vs. 
+ranged weapons; Immune divination, drowning, flanking, pain effects; 
+Resist crushing half, energy 10 (any one) 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good), swim 30 ft.; overland flight, ride the waves 
+Melee +1 quarterstaff +11/+6 (1d6+1) or 
++3 dagger +10/+5 (1d4+3/19-20) with greater magic weapon 
+Ranged +3 dagger +14 (1d4+3/19-20) with greater magic weapon 
+Abjurer Spells Prepared (CL 16th, CL 22nd w/greater dispel magic; Concentration +30) 
+8
+th  (3/day) – mind blank, moment of prescience, summon monster VIII 
+7th  (4/day) – elemental body IV, greater age resistance
+UM, spell turning, waves of exhaustion 
+6th  (6/day) – disintegrate, globe of invulnerability, mass suggestion, mislead
+O, repulsion
+F 
+5th  (7/day) – dominate person, feeblemind (+1 CL/DC), hold monster, overland flight, quickened shield, 
+teleport 
+4th  (7/day) – dimensional anchor, enervation (2), greater false life
+UM, greater invisibility
+O, ride the 
+wavesUM 
+3rd  (7/day) – countless eyes
+UM, gaseous form, greater magic weapon, phantom steed, protection from 
+energy, shrink item, vampiric touch 
+2
+nd  (8/day) – cushioning bandsUM, delay painUM, protection from arrows, shatterO (2), spectral hand 
+1st  (8/day) – charm person, endure elements, feather fall, illusion of calmUC O, protection from good, 
+shield, unseen servant 
+0  (at will) – detect magic, detect poison, mage hand, prestidigitation 
+Arcane School abjuration (counterspell); O Opposition school spell Opposition Schools evocation, illusion 
+STATISTICS 
+Abilities Str 11 (+0), Dex 18 (+4), Con 18 (+4), Int 31 (+10), Wis 17 (+3), Cha 10 (+0) 
+Base Atk +7; CMB +7 (+10 with dagger); CMD 24 
+Feats Craft Wondrous Item, Destructive Dispel, Dispel FocusB, Dispel Synergy, Greater Dispel Focus, Greater 
+Spell Specialization, Improved CounterspellB, Quicken SpellB, Scribe Scroll
+B, Selective Spell
+B, Spell 
+Focus (abjuration), Spell Perfection (greater dispel magic), Spell Specialization (greater dispel magic), 
+Widen Spell
+B 
+
+Skills Appraise +23, Bluff +15, Diplomacy +15, Disguise +25, Fly +30 (overland flight), Knowledge (arcana) 
++28, Knowledge (dungeoneering) +18, Knowledge (geography) +18, Knowledge (history) +18, 
+Knowledge (local) +18, Knowledge (nobility) +18, Knowledge (planes) +18, Knowledge (religion) +18, 
+Linguistics +28, Perception +18, Sense Motive +18, Spellcraft +28, Stealth +19, Swim +8 
+SQ arcane bond (ring), traits (magical lineage: greater dispel magic, outlander: lore seeker [dispel 
+magic, feeblemind, greater dispel magic]) 
+Combat Gear 5-foot patches of lava (shrunk via shrink item 5), arcane spell foci (contingency, mage’s 
+magnificent mansion, repulsion), arcane spell scrolls (darkness 2, major image, shield 3, silent image 3, 
+
+teleport 2, true strike 3, ventriloquism 3), clay jug of green slime, fake scrolls (each with ten explosive 
+runes spells 10—often detonated with a deliberately failed greater dispel magic check), flasks of brown 
+mold (4), flasks of phosphorescent fungus (as torch, 4), flasks of yellow mold (4), hip flask filled with 
+oil of taggit (6 doses), paper airplanes (as fake scrolls above 10) , staff of the master (abjuration; 
+protection from evil [1 charge], protection from arrows [1 charge], protection from energy [2 charges], 
+CL 8
+th; doubles as a +1/+1 quarterstaff); Other Gear amulet of the grand vizier (as amulet of natural 
+armor +3, doubles as magic jar focus), belt of physical might +4 (dexterity, constitution), blessed books 
+(2, 405 pages remaining), bookplates of recall (2, in blessed books), bracers of armor +7, caster’s tattoo 
+(lesser, on chest), dagger, feather step slippers, figurine of wondrous power (silver raven), grand vizier’s 
+turban (as hat of disguise and orange prism ioun stone), headband of vast intelligence +6 (fly, 
+perception, stealth), masterwork backpack, ring of protection +3, spell component pouches (2), tender 
+(263gp, 6sp, 1cp), vizier’s robe (as otherworldly kimono) 
+Spellbook all core wizard spells of 8
+th-level and lower plus countless eyesUM, cushioning bandsUM, delay 
+painUM, greater age resistance
+UM, greater darkvisionUM, greater false life
+UM, illusion of calmUC, lesser 
+astral projection
+UM, and ride the waves
+UM 
+Encumbrance light 43 lb., medium 86 lb., heavy 130 lb.; Weight Carried 49 lb. 8 oz. (excluding tender), 13 
+lb. without backack 
+SPECIAL ABILITIES 
+Bonded Object (Sp) If you attempt to cast a spell without your bonded object worn or in hand, you must make 
+a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. A 
+bonded object can be used once per day to cast any one spell that you have in your spellbook and are 
+capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by you, 
+including casting time, duration, and other effects dependent on your caster level. This spell cannot be 
+modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from 
+your opposition schools. The magic properties of your bonded object, including any magic abilities 
+added to the object, only function for you. 
+Counterspell Mastery (Su) You gain Improved Counterspell as a bonus feat. You may attempt to counterspell 
+an opponent’s spell once per day as an immediate action (instead of a readied action). You must use a 
+spell at least one level higher than the spell being countered to use this ability. You can use this ability 
+once per day at 6
+th-level, plus one additional time per day for every 4 levels beyond 6th. 
+Disruption (Su) As a melee touch attack, you can place a disruptive field around the target. While the field is in 
+place, the target must make a concentration check to cast any spell or to use a spell-like ability in 
+addition to any other required concentration checks. The DC of this check is equal to 15 + twice the 
+spell’s level. If the check is failed, the target’s spell is wasted. This field lasts for a number of rounds 
+equal to ½ your wizard level (minimum 1). You can use this ability a number of times per day equal to 3 
++ your Intelligence modifier. 
+Greater Dispel Magic Your dispel check modifier with greater dispel magic is +34 (+36 if you have someone 
+magically imprisoned within your robe). 
+Lore Seeker You gain a +1 trait bonus on Knowledge (arcana) checks, and Knowledge (arcana) is a class skill 
+for you. If you cast arcane spells, pick three spells on your spell list. You are particularly adept at casting 
+these spells, so they function at +1 caster level when you cast them, and their save DCs (if any) gain a 
++1 bonus. 
+Magical Lineage When you apply metamagic feats to the above spell, treat its actual level as 1 lower for 
+determining the spell’s final adjusted level. 
+Ongoing Spells You have cast the contingency and lesser astral projection spells upon yourself. Your real body 
+resides in a secure location while your projection travels the material plane. Should you ever lose 
+consciousness against your will you are affected as though you had cast magic jar upon yourself, using 
+your bejeweled amulet as the jar. Additionally, you have used the permanency spell to give yourself the 
+benefits of arcane sight and greater darkvision. The following spells are also regularly active upon your 
+projection: countless eyes, cushioning bands, delay pain, endure elements, greater false life, mind blank, 
+moment of prescience, overland flight, protection from arrows, and ride the waves. What’s more, you 
+
+often keep a phantom steed and an unseen servant by your side, mask all of your magical gear with 
+magic aura, and conceal all of your magical writings with illusory script (with the suggestion to return 
+the item to Sela, explain the reason for taking it, and to apologize), excluding those that are already 
+subject to explosive runes. All ongoing spell effects function at 16th-caster level (and thus require a DC 
+27 caster level check to dispel). Their respective effects are included in the above stats where 
+appropriate. 
+Resistance (Ex) You gain resistance 10 to an energy type of your choice, chosen when you prepare spells. This 
+resistance can be changed each day. Unless specified otherwise, assume it applies against fire. 

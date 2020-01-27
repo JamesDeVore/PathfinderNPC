@@ -1,0 +1,204 @@
+
+
+Shioji Petilom 
+“The desire of gold is not for gold. It is for the means of 
+freedom and benefit.” 
+ 
+Like many halflings, Shioji has always been  driven by  an 
+unlikely pairing of curiosity and luck. His parents, both slaves to 
+Chelish nobles, were forced to aid in the conjuring of horrible 
+monsters. They fostered in their only son a hunger for justice that 
+was rivaled only by his optimism and determination. Perhaps the 
+result of his parents’  magical abilities, Shioji has  always 
+possessed a natural understanding of the mystical inner workings 
+of magic—something he and his parents  concealed from their 
+Chelish overseers.  Combining this with his  devotion to Abadar,  Shioji  quickly  developed  great powers both 
+arcane and divine. 
+ 
+Fearing his magical abilities would soon be discovered and that he too would be forced to partake in the dark 
+rituals, Shioji’s parents introduced him to an agent of the Bellflower Network that had implanted himself within 
+their noble family. After a month of planning, the agent spirited him away in the dead of night after faking the 
+boy’s death. 
+ 
+By the time he became an adult, Shioji himself had become a proud member of the secret organization, and had 
+even been able to rescue his mother from enslavement. Freed from having to hide his natural abilities, Shioji 
+found the perfect fit for his curiosity, drive, and magical acumen in his new role. Unfortunately, it was too late 
+for his father, who had been thrown into the maw of a ravenous fiend in order to buy a reckless Chelish summoner 
+time to escape. Even after nearly a decade of searching for  and rescuing fellow halfling slaves, the failure to 
+rescue his father continued to haunt him. Ultimately, his father’s demise would arouse in him an uncontrollable 
+sense that he could’ve done more, that he could still do more—feelings that he now believes were guided by the 
+hand of Abadar himself. 
+ 
+To combat his growing frustration, Shioji ultimately left the Bellflower Network, intending to travel the world in 
+search of ever greater evils and injustices to fight as a paladin and evangelist of Abadar, whose orderly teachings 
+brought him a sense of solace during his darkest times. During his travels, Shioji encountered numerous threats 
+to various civilizations of the world. Over the course of the next fifty years, he thwarted the plots of powerful 
+fiends and bandit kings, stopped the rampages of an ancient dragon, and even stalled an interplanar invasion of 
+darkfolk led by an immortal being calling himself the Raven King. Shioji is also singlehandedly responsible for 
+bringing order and law to many of the darker places of the world, orchestrating the beginnings of several new 
+cities throughout the Inner Sea region, particularly throughout the Stolen Lands of the River Kingdoms. 
+ 
+Though  Shioji rarely seeks out  halfling slaves to rescue  anymore,  he still abhors the injustice of  slavery, and 
+continues to support the Bellflower network in his old age by sending them a steady stream of gold, supplies, and 
+young apprentices trained in the arcane arts, healing, and spy craft. 
+ 
+Well into his retirement now, Shioji is most disquieted. Despite all of his great deeds, and his advanced age, Shioji 
+can’t shake the feeling that his job isn’t done yet, that everything leading up to this point was merely to prepare 
+him for an even greater destiny. He is certain that something even bigger and more horrible than anything he has 
+ever faced is lurking just over the next horizon, waiting for the right time to reveal itself to the world—a living 
+nightmare so terrible that even Shioji fears he will be unable to stop it. 
+   
+
+Shioji Petilom 
+Male venerable halfling paladin 2/sorcerer 3/evangelist 10/oracle 1 
+LG Small humanoid (halfling) 
+Init +15; Senses Perception +22 
+Languages Common, Dwarven, Elven, Gnome, Goblin, Halfling 
+DEFENSE 
+AC 40, touch 27, flat-footed 25 (+8 armor, +13 Cha, +2 dodge, +1 
+insight, +5 natural, +1 size) 
+hp 154 (16 HD) 
+Fort +31, Ref +38, Will +32; +4 vs. effects from chaotic creatures, 
++2 vs. fear 
+Defensive Abilities divine grace +13, evasion, fated +3, protective grace +2; Immune fatigue 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee flail +11/+6 (1d6–1), or 
+kukri +11/+6 (1d3–1/18-20) 
+Ranged heavy crossbow +15 (1d8+3/19-20) 
+Special Attacks it was meant to be (1/day), smite evil 1/day (+13 attack and AC, +2 damage), sneaky bolt 
+Bloodline Spell-Like Abilities (CL 15th; Concentration +29) 
+16/day – touch of destiny (+8 insight bonus) 
+Evangelist Spell-Like Abilities (CL 16th; Concentration +31; choose one of the following each day) 
+3/day – comprehend languages 
+2/day – calm emotions 
+1/day – glibness 
+Paladin Spell-Like Abilities (CL 2
+nd; Concentration +17) 
+At Will – detect evil 
+Oracle Spells Known (CL 2
+nd; Concentration +17) 
+1st  (7/day) – bane, bless, cure light wounds 
+0  (at will) – create water, detect poison, guidance, purify food and drink, stabilize 
+Sorcerer Spells Known (CL 15th; Concentration +29) 
+7th  (6/day) – banishment, greater age resistanceUM 
+6th  (8/day) – disintegrate, greater heroism, misleadB, permanent image 
+5th  (9/day) – break enchantmentB, cone of cold, telekinesis, teleport, wall of force 
+4th  (9/day) – ball lightingAPG, enervation, fire shield, freedom of movementB, greater invisibility 
+3rd  (9/day) – aqueous orbAPG, dispel magic, fireball, fly, protection from energyB 
+2
+nd (9/day) – acid arrow, blurB, disguise otherB UM, glitterdust, hideous laughter, knock
+B, scorching ray, 
+see invisibility 
+1st  (10/day) – alarm
+B, endure elements, magic missile, protection from evil, shield, true strike 
+0  (at will) – arcane mark, detect magic, light, mage hand, mending, message, open/close, 
+prestidigitation, read magic 
+Bloodline destined; Deity Abadar; Mystery lore 
+STATISTICS 
+Abilities Str 8 (+1), Dex 16 (+5), Con 18 (+6), Int 17 (+5), Wis 13 (+3), Cha 37 (+15) 
+Base Atk +10; CMB +9; CMD 40 
+Feats Craft Wondrous Items, Defensive Combat Training, Deific Obedience, Eschew Materials
+B, Maximize 
+SpellB, Noble Scion (scion of war), Reward of Life, Silent Spell, Spell Perfection (disintegrate), Still 
+Spell 
+Skills Acrobatics +9 (+5 when jumping), Appraise +9, Bluff +34, Climb +5, Craft (all) +9, Diplomacy +34, 
+Disguise +34 (+38 in cities), Escape Artist +9, Fly +11 (+17 with fly), Heal +7, Intimidate +19, 
+Knowledge (arcana) +24, Knowledge (religion) +11, Perception +22, Perform (all) +19, Ride +9, Sense 
+
+Motive +7, Spellcraft +24, Stealth +28, Survival +7, Swim +5, Use Magic Device +28; Racial 
+Modifiers +2 Perception 
+SQ aligned class (sorcerer), aura of good (moderate), bloodline arcana (gains a luck bonus to saves 
+when casting personal-range spells), city dweller, code of conduct, detect evil, diplomat, esoteric 
+training, fleet of foot, gift of tongues (dwarven, elven), lay on hands (1d6, 14/day), multitude of talents, 
+obedience, oracle’s curse: lame, senior guild member (wondrous items), sidestep secret, skilled 
+(Disguise, Stealth), spellcasting guild member (80 fame, 80 PP), spiritual form (16 minutes/day), 
+weapon familiarity 
+Combat Gear crossbow bolts (10), potions (cure light wounds 10), wand of cure light wounds (50 charges); 
+Other Gear amulet of natural armor +5, belt of mighty constitution +6, bracers of armor +8, cloak of 
+resistance +4 (doubles as muleback cords), flail, gems (collectively worth 200gp), hat of disguise, 
+headband of alluring charisma +6 (charisma), heavy crossbow, ioun stones (clear spindle, dusty rose 
+prism, iridescent spindle, pale blue rhomboid, pale green prism), kukri, masterwork backpack, 
+merchant’s scale, old keys, pages of spell knowledge (disguise other, knock), ring of evasion, robes of 
+arcane heritage, stone of good luck, tender (10gp, 200sp, 100cp), tome of leadership and influence +5 
+(read) 
+Encumbrance light 64 lb. 8 oz., medium 129 lb. 12 oz., heavy 195 lb.; Weight Carried 16 lb. 3 oz. (excluding 
+tender) 
+SPECIAL ABILITIES 
+Aligned Class (Ex) You gain all the class features for one chosen class, essentially adding every evangelist 
+level beyond 1
+st to your aligned class to determine what class features you gain. You still retain the Hit 
+Dice, base attack bonus, saving throw bonuses, and skill ranks of the evangelist prestige class, but gain 
+all other class features of your aligned class as well as those of the evangelist prestige class. 
+Bloodline Arcana Whenever you cast a spell with a range of personal, you gain a luck bonus equal to the 
+spell’s level on your saving throws for 1 round. 
+City Dweller (Ex) You never become lost in cities of more than 5,000 inhabitants—upon entering a city, even 
+for the first time, you can always retrace your steps and intuit where particular districts must be. 
+Furthermore, you pick up local accents and vernacular instantly, giving you the cant of a citizen. You 
+also gain a +4 sacred or profane bonus on Disguise and Knowledge (local) checks while in the bounds of 
+a city. 
+Divine Grace (Su) You gain a bonus equal to your Charisma bonus on all saving throws (included above). 
+Fated (Su) You gain a +1 luck bonus on all of your saving throws and to your AC during surprise rounds and 
+when you are otherwise unaware of an attack. At 7
+th-level and every four levels thereafter, this bonus 
+increases by +1, to a maximum of +5 at 19
+th-level. 
+Gift of Tongues You know an additional two languages, which you can speak and write fluently. 
+It Was Meant To Be (Su) You may reroll any one attack roll, critical hit confirmation roll, or level check made 
+to overcome spell resistance. You must decide to use this ability after the first roll is made but before the 
+results are revealed by the GM. You must take the second result, even if it is worse. At 9th-level, you can 
+use this ability once per day. At 17th-level, you can use this ability twice per day. 
+Lay On Hands (Su) You can heal wounds (your own or those of others) by touch. Each day you can use this 
+ability a number of times equal to ½ your paladin level plus your Charisma modifier. With one use of 
+this ability, you can heal 1d6 hit points of damage for every two paladin levels you possess. Using this 
+ability is a standard action, unless you target yourself, in which case it is a swift action. Despite the 
+name of this ability, you only need one free hand to use this ability. Alternatively, you can use this 
+healing power to deal damage to undead creatures, dealing 1d6 points of damage for every two paladin 
+levels you possess. Using lay on hands in this way requires a successful melee touch attack and doesn’t 
+provoke an attack of opportunity. Undead do not receive a saving throw against this damage. 
+Esoteric Training Due to your membership in a spellcasting guild (and Fame score of 80) you gain a +3 bonus 
+to your caster level with sorcerer spells and a +1 bonus to your caster level with oracle spells (up to a 
+maximum of your character level). These bonuses grant you additional spells known and spells per day 
+for your modified caster level. 
+
+Multitude of Talents (Ex) You gain a +4 sacred bonus on any skill check attempted with a skill in which you 
+have no ranks. This bonus applies only to skill checks that can be made untrained. 
+Obedience (Ex) In order to maintain the abilities granted by the evangelist prestige class, including all abilities 
+gained from aligned class, you must perform a daily obedience to your chosen deity. 
+Oracle’s Curse: Lame Your base land speed is reduced by 10 feet (included above). Additionally, your speed 
+is never reduced due to encumbrance. You are immune to the fatigued condition (but not exhaustion). 
+Protective Grace (Su) You gain a +2 Dodge bonus to your armor class (included above). 
+Sidestep Secret (Su) Add your Charisma modifier (instead of your Dexterity modifier) to your Armor Class, 
+CMD, and all Reflex saving throws. Your armor’s maximum Dexterity bonus applies to your Charisma 
+instead of your Dexterity. 
+Skilled Disguise and Stealth are always considered class skills for you. 
+Smite Evil (Su) Once per day, as a swift action, you can choose one target within sight to smite. If this target is 
+evil, you add your Charisma bonus to your attack rolls and add your paladin level to all damage rolls 
+made against the target of your smite. If the target of smite evil is an outsider with the evil subtype, an 
+evil-aligned dragon, or an undead creature, the bonus to damage on the first successful attack increases 
+to 2 points of damage per paladin level you possess. Regardless of the target, smite evil attacks 
+automatically bypass any DR the creature might possess. In addition, while smite evil is in effect, you 
+gain a deflection bonus equal to your Charisma modifier to your AC against attacks made by the target 
+of the smite. If you target a creature that is not evil, your smite is wasted with no effect. The smite evil 
+effect remains until the target of the smite is dead or the next time you rest and regain your uses of this 
+ability. 
+Sneaky Bolt (Ex) Three times per day, you can snipe with a crossbow while hidden, and have little chance of 
+revealing your location. You must declare your use of this ability before you roll your attack. You can 
+use this ability only if your target is within 30 feet of you and unaware of your presence or precise 
+location. Once you roll your attack, immediately attempt a Stealth check for sniping without the normal 
+–20 penalty. 
+Spiritual Form (Su) You gain the ability to assume a spiritual form. Assuming this form is a standard action, 
+and you can remain in spiritual form for a number of minutes per day equal to your character level. This 
+duration does not need to be consecutive, but it must be used in 1-minute increments. Returning to your 
+normal form is a free action. While in spiritual form, you gain a +4 bonus to Charisma and a pair of 
+wings (granting you a fly speed of 40 feet with good maneuverability). 
+Touch of Destiny (Sp) You can touch a creature as a standard action, giving it an insight bonus on attack rolls, 
+skill checks, ability checks, and saving throws equal to ½ your sorcerer level (minimum 1) for 1 round. 
+You can use this ability a number of times per day equal to 3 + your Charisma modifier. 
+Weapon Familiarity You are proficient with slings and treat any weapon with the word “halfling” in its name 
+as a martial weapon. 
+Within Reach (Su) Your ultimate destiny is drawing near. Once per day, when an attack or spell that causes 
+damage would result in your death, you may attempt a DC 20 Will save. If successful, you are instead 
+reduced to –1 hit points and are automatically stabilized. The bonus from your fated ability applies to 
+this save. 
+ 

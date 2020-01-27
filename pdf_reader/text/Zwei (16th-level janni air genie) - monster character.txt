@@ -1,0 +1,90 @@
+
+
+Zwei 
+  
+
+Male janni sorcerer 4/eldritch knight 10 
+N Medium outsider (native) 
+Init +10; Senses darkvision 60 ft.; Perception +28 
+Languages Auran, Celestial, Common; telepathy 100 ft. 
+DEFENSE 
+AC 34, touch 19, flat-footed 28 (+10 armor, +6 Dex, +4 
+deflection, +4 natural) 
+hp 221 (20 HD) 
+Fort +20, Ref +21, Will +20 
+Defensive Abilities evasion; Resist fire 10 
+OFFENSE 
+Speed 40 ft. (6 squares), fly 20 ft. (perfect); Flyby Attack 
+Melee +2 adamantine spell storing falchion +28/+23/+18/+13  
+(2d4+17 plus vampiric touch/15-20 plus 2d6 bleed) with Arcane Strike 
++2 adamantine spell storing falchion +23/+18/+13/+8 (2d4+32 plus vampiric touch/15-20 plus 2d6 
+bleed) with Arcane Strike and Power Attack 
+Ranged electricity ray +24 touch (1d6+2 electricity) 
+Special Attacks spell critical 
+Spell-like Abilities (CL 8
+th except where noted; Concentration +20) 
+10/day – elemental ray (1d6+2 electricity, CL 13th) 
+3/day – invisibility (self only), plane shift (willing targets to elemental planes, Astral Plane, or Material 
+Plane only), speak with animals 
+2/day – change size 
+1/day – create food and water, ethereal jaunt (for 1 hour) 
+Sorcerer Spells Known (CL 15
+th, cast spells as 13
+th; Concentration +20) 
+6th-level (5/day) – chain lightning, greater heroism 
+5th-level (7/day) – cone of cold, teleport, wall of force 
+4th-level (7/day) – arcane eye, greater invisibility, stoneskinM 
+3rd-level (8/day) – dispel magic, haste, vampiric touch 
+2nd-level (8/day) – alter self, flaming sphere, knock, resist energy 
+1st-level (8/day) – comprehend languages, electrifying handsB (as burning hands, but deals electricity 
+damage), expeditious retreat, grease, shield, true strike 
+0-level (at will) – detect magic, detect poison, ghost sound, mage hand, mending, message, open/close, 
+read magic, prestidigitation   
+Bloodline elemental (air) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 22 (+6), Con 18 (+4), Int 16 (+3), Wis 21 (+5), Cha 24 (+7) 
+Base Atk +18; CMB +25 (+28 with falchion); CMD 45 
+Feats Additional Traits, Arcane Armor Training, Arcane Strike, Bleeding Crit, Crit Focus, Dazzling Display, 
+Eschew Materials
+B, Flyby Attack, Improved Critical (falchion), Improved Initiative
+B, Intimidating 
+Prowess, Power Attack
+B, Shatter Defenses, Weapon Focus (falchion
+B), Weapon Specialization 
+(falchion
+B) 
+Skills Bluff +16, Diplomacy +13, Intimidate +37, Knowledge (nobility +12, planes +26), Perception +28, Sense 
+Motive +28, Spellcraft +26, Stealth +15 
+SQ arcane bloodline (change energy damage spells to electricity), diverse training, traits (anatomist, magical 
+knack: sorcerer) 
+
+Combat Gear arcane spell scrolls of true seeing (2); Other Gear +2 adamantine spell storing falchion, +5 
+mithral brigandine (as kikko armor), amulet of natural armor +3, belt of physical perfection +4, boots 
+of striding and springing, cloak of resistance +5, headband of mental prowess +6 (wisdom, charisma), 
+ring of evasion, ring of protection +4, tender (1,595gp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 21 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Anatomist You have studied the workings of anatomy, either as a student at university or as an apprentice 
+mortician or necromancer. You know where to aim your blows to strike vital organs and you gain a +1 
+trait bonus on all rolls made to confirm critical hits (which stacks with the +4 from your Crit Focus feat). 
+Bloodline Arcana Whenever you cast a spell that deals energy damage, you can change the type of damage to 
+electricity. This also changes the spell’s type to electricity. 
+Change Size (Sp) Twice per day, you can magically change a creature’s size. This works just like an enlarge 
+person or reduce person spell (you choose when using the ability), except that the ability can work on a 
+janni as well. A DC 19 Fortitude save negates the effect. The save DC is Charisma-based. This is the 
+equivalent of a 2
+nd-level spell. 
+Elemental Endurance (Ex) You can remain on the Planes of Air, Earth, Fire, or Water for up to 48 hours at a 
+time. Failure to return to the Material Plane before that time expires causes you to take 1 point of 
+damage per additional hour spent on the elemental plane, until you die or return to the Material Plane. 
+Elemental Ray (Sp) Ten times per day, you can unleash a ray of electricity as a standard action, targeting any 
+foe within 30 feet as a ranged touch attack. This ray deals 1d6+3 electricity damage. 
+Spell Critical (Su) Whenever you successfully confirm a critical hit, you can cast a spell as a swift action. The 
+spell must include the target of the attack as one of its targets or in its area of effect. Casting this spell 
+does not provoke an attack of opportunity. You must still meet all of the spell’s components and must 
+roll for arcane spell failure if necessary. 
+Telepathy (Su) You can mentally communicate with any other creature within 100 feet that has a language. It 
+is possible to address multiple creatures at once telepathically, although maintaining a telepathic 
+conversation with more than one creature at a time is just as difficult as simultaneously speaking and 
+listening to multiple people at the same time. 
+ 

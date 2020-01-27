@@ -1,0 +1,138 @@
+
+
+Sanat Norstag 
+Male old human cavalier 12 
+CE Medium human 
+Init +1; Senses Perception +14 
+Languages Abyssal, Common, Dwarven, Giant 
+DEFENSE 
+AC 31, touch 15, flat-footed 30 (+12 armor, +3 deflection, +1 Dex, +1 
+insight, +2 natural, +2 shield) 
+hp 141 (12 HD) 
+Fort +14, Ref +7, Will +8 
+OFFENSE 
+Speed 20 ft. (6 squares), 30 ft. without full plate 
+Melee +3 adamantine greatsword +22/+17/+12 (2d6+13/19-20) or 
++3 adamantine greatsword +22/+17/+12 (2d6+28/19-20) with 
+Challenge, or 
++3 adamantine greatsword +18/+13/+8 (2d6+25/19-20) with Power Attack, or 
++3 adamantine greatsword +18/+13/+8 (2d6+40/19-20) with Power Attack and Challenge 
+Ranged +1 returning chakram +14 (1d8+7) 
+Special Attacks cavalier’s charge, challenge 4/day (+12 damage; additional +3 damage when alone), mighty 
+charge 
+STATISTICS 
+Abilities Str 24 (+7), Dex 12 (+1), Con 18 (+4), Int 16 (+3), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +12; CMB +17; CMD 32 
+Feats Combat Expertise
+B (–4 attack, +4 AC), Dazzling Display
+B, Escape Route
+B, Gang UpB, Intimidating 
+Prowess, Mounted Combat, Outflank
+B, Power Attack (–4 attack, +2/+4/+6 damage), Ride-by Attack, 
+Skill Focus (intimidate), Spirited Charge 
+
+Skills Bluff +15, Climb +17, Handle Animal +15 (+21 with mounts), Intimidate +28, Perception +14, Ride +11 
+(+16 with mount), Sense Motive +17, Swim +17; Armor Check Penalty –5 
+SQ banner, dual talent, expert trainer, greater tactician (9 rounds), mount, order (cockatrice)  
+Gear +1 returning chakram, +3 adamantine greatsword, +3 full plate, amulet of natural armor +2, belt of 
+giant strength +4, cloak of resistance +2, elk mount (see below), hunting dogs (8, as riding dogs), ioun 
+stone (dusty rose prism, nacreous gray sphere; both imbedded), ring of protection +3, sack, stolen 
+goods (art objects, jewelry, and mundane goods worth 250gp), tender (7gp, 7sp) 
+Encumbrance light 233 lb., medium 466 lb., heavy 700 lb.; Weight Carried 64 lb. 8 oz. (excluding stolen 
+goods and tender) 
+   
+
+SPECIAL ABILITIES 
+Banner (Ex) As long as your banner is clearly visible, all allies within 60 feet receive a +6 morale bonus on 
+saving throws against fear and a +5 morale bonus on attack rolls made as part of a charge. The banner 
+must be at least Small or larger and must be carried or displayed by you or your mount to function. 
+Braggart (Ex) You can spend a standard action to extol your own accomplishments and battle prowess. You 
+receive Dazzling Display as a bonus feat. You do not need a weapon in hand to use this ability. You 
+receive a +2 morale bonus on melee attack rolls made against demoralized targets. 
+Cavalier’s Charge (Ex) You receive a +4 bonus on melee attack rolls on a charge while mounted (instead of 
+the normal +2). In addition, you do not suffer any penalty to your AC after making a charge attack while 
+mounted. 
+Challenge (Ex) Four times per day, you can challenge a foe to combat. As a swift action, you choose one target 
+within sight to challenge. Your melee attacks deal extra damage whenever the attacks are made against 
+the target of your challenge. This extra damage is equal to your cavalier level. Challenging a foe 
+requires much of your concentration causing you to take a –2 penalty to your Armor Class, except 
+against attacks made by the target of your challenge. The challenge remains in effect until the target is 
+dead or unconscious or until the combat ends. What’s more, you receive an additional +3 morale bonus 
+to melee damage rolls against the target of your challenge, provided you are the only one threatening the 
+target (not counting your mount). 
+Demanding Challenge (Ex) As long as the target of your challenge is within your threatened area, it takes a –2 
+penalty to its AC from attacks made by anyone other than you. 
+Expert Trainer (Ex) You receive a bonus equal to ½ your cavalier level whenever you use Handle Animal on 
+an animal that serves as a mount. In addition, you can reduce the time needed to teach a mount a new 
+trick or train a mount for a general purpose to 1 day per 1 week required by increasing the DC by +5. 
+You can also train more than one mount at once, although each mount after the first adds +2 to the DC. 
+Greater Tactician (Ex) You receive two teamwork feats as bonus feats. You must meet the prerequisites for 
+these feats. Three times per day, as a swift action, you can grant this feat to all allies within 30 feet who 
+can see and hear you. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every two 
+cavalier levels you possess. Allies do not need to meet the prerequisites of these bonus feats. 
+ Mighty Charge (Ex) Double the threat range of any weapons you wield during a charge while mounted. This 
+increase does not stack with other effects that increase the threat range of the weapon. In addition, you 
+can make a free bull rush, disarm, sunder, or trip combat maneuver if your charge attack is successful. 
+This free combat maneuver does not provoke an attack of opportunity. 
+Steal Glory (Ex) Whenever a creature other than you scores a critical hit against a target that you are 
+threatening, you can make an attack of opportunity against the same target. 
+   
+
+Rudolph 
+Elk Animal Companion 
+N Large animal 
+Init +3; Senses low-light vision; Perception +15 
+DEFENSE 
+AC 29, touch 12, flat-footed 26 (+6 armor, +3 Dex, +11 natural, –1 size) 
+hp 105 (10 HD) 
+Fort +13, Ref +10, Will +5 
+Defensive Abilities devotion, evasion 
+OFFENSE 
+Speed 35 ft. (7 squares), 50 ft. when unarmored; run ×5 
+Melee gore +14 (4d6+7) with Vital Strike, or 
+2 hooves +11 (1d4+3) 
+Space 10 ft.; Reach 5 ft. 
+STATISTICS 
+Abilities Str 24 (+7), Dex 16 (+3), Con 22 (+6), Int 3 (–4), Wis 15 (+2), Cha 5 (–3) 
+Base Atk +7; CMB +15; CMD 28 (32 vs. bull rush/overrun) 
+Feats Armor Proficiency (light
+B, medium), Improved Natural Attack (gore), MultiattackB, Run, Vital Strike, 
+Weapon Focus (gore) 
+
+Skills Perception +15, Stealth –1; Armor Check Penalty –0 
+SQ combat trained, link, tricks (advanced attack, come, defend, down, exclusive, fetch, guard, heel, 
+watch, work) 
+Gear bit and bridle, exotic military saddle, feed (4 days), ioun torch, saddlebags, steel lamellar barding 
+Encumbrance light 699 lb., medium 1,398 lb., heavy 2,100 lb.; Weight Carried 159 lb. (523 lb. with rider) 
+SPECIAL ABILITIES 
+Devotion (Ex) Your animal companion gains a +4 morale bonus on Will saves against enchantment spells and 
+effects (included above). 
+Evasion (Ex) If your animal companion is subjected to an attack that normally allows a Reflex save for half 
+damage, it takes no damage if it makes a successful saving throw. 
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding your animal companion. 
+   
+
+Blitzen, Comet, Cupid, Dasher, Dancer, 
+Donder, Prancer, and Vixen 
+Hunting Dogs 
+N Medium animals 
+Init +2; Senses low-light vision, scent; Perception +8 
+DEFENSE 
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural) 
+hp 13 (2 HD) 
+Fort +5, Ref +5, Will +1 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee bite +3 (1d6+3 plus trip) 
+STATISTICS 
+Abilities Str 15 (+2), Dex 15 (+2), Con 15 (+2), Int 2 (–4), Wis 12 (+1), Cha 6 (–2) 
+Base Atk +1; CMB +3; CMD 15 (19 vs. bull rush/overrun) 
+Feats Skill Focus (perception)
+ 
+
+Skills Acrobatics +6 (+14 when jumping), Perception +8, Survival +1 (+5 scent tracking); Racial Modifiers +4 
+Acrobatics when jumping, +4 Survival when tracking by scent 
+SQ combat trained, tricks (attack, down, fetch, heel, seek, track) 
+Encumbrance light 99 lb., medium 198 lb., heavy 300 lb.; Weight Carried 0 lb. 

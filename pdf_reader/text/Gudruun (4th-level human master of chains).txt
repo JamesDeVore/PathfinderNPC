@@ -1,0 +1,99 @@
+
+
+Gudruun, Master of Chains 
+Male human fighter 4 (two-handed fighter) 
+LE Medium humanoid 
+Init +3; Senses Perception +2 
+Languages Common, Goblin 
+DEFENSE 
+AC 19, touch 13, flat-footed 16 (+6 armor, +3 Dex) 
+hp 41 (4 HD) 
+Fort +6, Ref +4, Will +3 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee mwk chain spear +9 (1d6+8) with Overhand Chop, or 
+mwk chain sword +9 (1d8+8/18-20) with Overhand Chop, or 
+mwk chain sword +7 (1d8+4/18-20) and 
+mwk flying talon +7 (1d4+2) or 
+mwk nunchaku +7 (1d6+2) while duel-wielding, or 
+mwk dire flail +9 (1d8+8) with Overhand Chop, or 
+mwk dire flail +7 (1d8+4) and 
+mwk dire flail +7 (1d8+2) while duel-wielding, or 
+mwk double-chained kama +9 (1d6+8) with Overhand Chop, or 
+mwk double-chained kama +7 (1d6+4) and 
+mwk double-chained kama +7 (1d6+2) with both ends, or  
+mwk dwarven dorn-derger +9 (1d10+8) with Overhand Chop, or 
+mwk flying talon +9 (1d6+4) or 
+mwk flying talon +7 (1d4+4) and 
+mwk flying talon +7 (1d4+2) or 
+mwk nunchaku +7 (1d6+2) while duel-wielding, or 
+ mwk heavy flail +9 (1d10+8/19-20) with Overhand Chop, or 
+mwk kyoketsu shoge +9 (1d4+8) with Overhand Chop, or 
+mwk meteor hammer +9 (1d8+8) with Overhand Chop, or 
+mwk meteor hammer +7 (1d8+4) and 
+mwk meteor hammer +7 (1d8+2) while duel-wielding, or 
+mwk nine-section whip +9 (1d8+8/19-20) with Overhand Chop, or 
+mwk nine-section whip +7 (1d8+4/19-20) and 
+mwk flying talon +7 (1d4+2) or 
+mwk nunchaku +7 (1d6+2) while duel-wielding, or 
+mwk nunchaku +9 (1d6+4) or 
+mwk nunchaku +7 (1d6+4) and 
+mwk flying talon +7 (1d4+2) or 
+mwk nunchaku +7 (1d6+2) while duel-wielding, or 
+mwk sansetsukon +9 (1d10+8/19-20) with Overhand Chop 
+mwk spiked chain +9 (2d4+8) with Overhand Chop, or 
+mwk spiked chain +7 (2d4+4) and 
+mwk flying talon +7 (1d4+2) or 
+mwk nunchaku +7 (1d6+2) while duel-wielding, or 
+mwk spiked chain +5 (2d4+4) and 
+mwk spiked chain +5 (2d4+2) while duel-wielding 
+Ranged mwk chakram +8 (1d8+4) or 
+mwk kyoketsu shoge +8 (1d4+4) 
+Special Attacks overhead chop, shattering strike +1 
+STATISTICS 
+
+Abilities Str 18 (+4), Dex 16 (+3), Con 14 (+2), Int 12 (+1), Wis 14 (+2), Cha 7 (–2) 
+Base Atk +4; CMB +8 (+9 w/sunder, +11 w/trip, +13 w/disarm weapons); CMD 21 (27 vs. disarm/trip) 
+Feats Dirty Fighting
+B, Exotic Weapon Proficiency (nine-section whipB), Improved Disarm, Improved Trip, 
+Martial Versatility (exotic weapon proficiency
+B), Two-Weapon Fighting
+B 
+Skills Acrobatics +6 (+2 when jumping), Climb +10, Craft (weapons) +10, Swim +10; Armor Check Penalty 
+–1 
+Gear +1 chain coat (double-plated modification), hobgoblin mask (worth 25gp), key to manacles, masterwork 
+artisan’s tools, masterwork chain spear, masterwork chain sword (as urumi), masterwork chakram (8), 
+masterwork dire flail, masterwork double-chained kama (both ends), masterwork dwarven dorn-derger, 
+masterwork flying talons (2), masterwork heavy flail, masterwork kusarigama, masterwork kyoketsu 
+shoge, masterwork manacles with good locks (medium 4, small 4), masterwork meteor hammer (both 
+ends), masterwork nine-section whip, masterwork nunchaku (2), masterwork sansetsukon, masterwork 
+spiked chains (2), tender (3sp, 3cp) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 198 lb. 4 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Shattering Strike (Ex) You gain a +1 bonus to CMB and CMD on sunder attempts and on damage rolls made 
+against objects. 
+Overhand Chop (Ex) When you make a single attack (with the attack action or a charge) with a two-handed 
+weapon, you add double your Strength bonus on damage rolls. 
+ 
+WEAPON NOTES 
+Chain Spear (P & S; 2H) trip 
+Chain Sword (S; 1H) distracting; a sword made of sharpened chained links, the chain may be pulled taught and 
+locked into place via a mechanism on the pommel, creating a semi-solid blade; uses urumi weapon stats 
+Dire Flail (B; 2H) disarm, double, trip 
+Double-Chained Kama (S; 2H) double, monk, reach, trip; one end may be picked up as a free action; must 
+choose between using as a double weapon or a reach weapon 
+Dwarven Dorn-Derger (B; 2H) reach; may change between using it as a normal weapon and a reach weapon 
+as a move action 
+Flying Talon (P or S; L) disarm, reach, trip; you cannot make attacks of opportunity with a flying talon and do 
+not threaten any squares with it; light weapon, allowing for pairing with other weapons 
+Heavy Flail (B; 2H) disarm, trip 
+Kusarigama (B or S; 2H) double, grapple, monk, reach, trip 
+Kyoketsu Shoge (P or S; 2H) disarm, grapple, monk, reach 
+Meteor Hammer (B; 2H) reach, trip; may drag opponent 5 ft. instead of trip, meteor mode grants double 
+property while fortress mode grants reach property and +1 shield bonus to AC, switching between these 
+two modes is a free action decided at the start of your turn 
+Nine-Section Whip (B; 1H) blocking, distracting, monk, trip 
+Nunchaku (B; L) disarm, monk; light weapon, allowing for pairing with other weapons 
+Sansetsukon (B; 2H) blocking, disarm, monk 
+Spiked Chain (P; 2H) disarm, trip; may be locked to chain coat, as per a locked gauntlet, becoming a one-
+handed weapon 

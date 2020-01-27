@@ -1,0 +1,72 @@
+
+
+Paegin 
+Male gnoll sorcerer 9 
+LE Medium humanoid (gnoll) 
+Init +2; Senses darkvision 60 ft.; Perception +0 
+Languages Common, Gnoll, Infernal 
+DEFENSE 
+AC 22, touch 11, flat-footed 21 (+7 armor, +1 Dex, +4 natural) 
+hp 66 (11 HD) 
+Fort +11, Ref +8, Will +10; +4 vs. poison 
+Resist fire 10 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee rod of withering +7 touch (1d4 Str plus 1d4 Con 
+damage/ability drain; Fort DC 17 negates) 
+Ranged by weapon +6 
+Bloodline Spell-like Abilities (CL 9
+th; Concentration +16) 
+10/day – corrupting touch (4 rounds) 
+1/day – hellfire (9d6, DC 21) 
+Sorcerer Spells Known (CL 9
+th; Concentration +16) 
+4th  (5/day) – charm monster, enervation, wall of fire 
+3
+rd  (7/day) – dispel magic, fireball, phantom steed (looks like a fiendish dire hyena), suggestion 
+2nd (8/day) – alter self, blindness/deafness, darkness, flaming sphere, scorching ray 
+1st  (8/day) – burning hands, comprehend languages, grease, magic missile, protection from good, 
+shield 
+0  (at will) – bleed, detect magic, detect poison, light, mage hand, message, prestidigitation, read 
+magic 
+Bloodline infernal 
+STATISTICS 
+Abilities Str 12 (+2), Dex 12 (+2), Con 12 (+2), Int 12 (+2), Wis 10 (+1), Cha 24 (+8) 
+Base Atk +5; CMB +6; CMD 17 
+Feats Arcane Armor Mastery, Arcane Armor Training, Armor Proficiency (medium), Craft Rod, Craft Magic 
+Arms and Armor, Craft Wondrous Item, Eschew MaterialsB, Skill Focus (knowledge: planesB) 
+Skills Bluff +16, Diplomacy +16, Intimidate +16, Knowledge (arcana) +13, Knowledge (planes) +18, 
+Linguistics +3, Spellcraft +13, Stealth +22 
+SQ bloodline arcana (+2 DC for charm spells), infernal resistances 
+Combat Gear potion of cure serious wounds; Other Gear +1 mithral chainmail, cloak of resistance +3, 
+amulet of natural armor +3, headband of alluring charisma +6, robe of shadows (see below), rod of 
+withering, stone of good luck (inlaid in amulet), tender (10pp) 
+Encumbrance light 43 lb., medium 86 lb., heavy 130 lb.; Weight Carried 22 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Corrupting Touch (Sp) You can cause a creature to become shaken as a melee touch attack. This effect 
+persists for a number of rounds equal to ½ your sorcerer level. Creatures shaken by this ability radiate an 
+aura of evil, as if they were an evil outsider (see detect evil). Multiple touches do not stack, but they do 
+add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma 
+modifier. 
+Hellfire (Sp) Once per day you can call down a column of hellfire. This 10-foot-radius burst does 1d6 points of 
+fire damage per sorcerer level. Those caught in the area of your blast receive a Reflex save for half 
+damage. Good creatures that fail their saves are shaken for a number of rounds equal to your sorcerer 
+level. The DC of this save is equal to 10 + ½ your sorcerer level + your Charisma modifier. This power 
+has a range of 60 feet. 
+
+ 
+ROBE OF SHADOWS 
+Aura strong evocation; CL 20th 
+Slot robe; Price 40,000gp; Weight 1 lb. 
+ 
+This menacing black robe, created from the hide of a shadow demon, drains away light and sound from its 
+immediate surroundings, granting a +20 competence bonus on Stealth checks to its wearer. Like a black robe of 
+the archmagi, a robe of shadows is attuned to the evil alignment. If it is ever donned by a good character, she 
+immediately gains three permanent negative levels. A neutral character who wears the robe gains two 
+permanent negative levels. While these negative levels remain as long as the garment is worn and cannot be 
+overcome in any way (including restoration spells). These penalties are immediately removed if the robe is 
+removed. 
+ 
+Construction Requirements Craft Wondrous Item, darkness; Cost 20,000gp 
+ 
+  

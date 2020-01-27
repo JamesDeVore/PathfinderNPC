@@ -1,0 +1,115 @@
+
+
+Fultor Spellbreaker 
+Male dwarf barbarian 13 (hurler) 
+CG Medium humanoid (dwarf) 
+Init +3; Senses darkvision 60 ft.; Perception +17 
+Languages Common, Dwarven 
+DEFENSE 
+AC 26, touch 23, flat-footed 23 (+12 armor, +1 deflection, +3 Dex); +2 dodge 
+bonus on overrun 
+hp 172 (13 HD) 
+Fort +13, Ref +9, Will +6; +5 vs. spells, spell-like abilities, and supernatural 
+abilities 
+Defensive Abilities defensive training (+4 dodge bonus to AC vs. giants), 
+improved uncanny dodge, stubborn, superstition +5, trap sense +4; DR 
+3/–; SR 18 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee +4 furious adamantine dwarven waraxe +24/+19/+14 (1d10+14/×3) or 
++4 furious adamantine dwarven waraxe +20/+15/+10 (1d10+26/×3) with Power Attack, or 
++1 armor spikes +21/+16/+11 (1d6+8) or 
++1 armor spikes +17/+12/+7 (1d6+16) with Power Attack, or 
++1 spiked gauntlet +21/+16/+11 (1d4+8) or 
++1 spiked gauntlet +17/+12/+7 (1d4+16) with Power Attack 
+Ranged +1 adaptive composite longbow +17/+12/+7 (1d8+8/×3) 
+Special Attacks greater rage (31 rounds/day), rage powers (greater guarded life, guarded life, overbearing 
+advance, strength surge +13, superstition +5, witch hunter +4), relentless, trample 1/day (2d8+18, DC 
+29) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 16 (+3), Con 16 (+3), Int 10 (+0), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +13; CMB +20 (+22 to bull rush, +30 to overrun); CMD 34 (36 vs. overrun) 
+Feats Armor Proficiency (heavy), Bulette Charge Style, Bulette Leap, Bulette Rampage, Charge Through, 
+Improved Overrun, Power Attack 
+Skills Climb +18, Intimidate +15, Perception +17, Swim +18; Armor Check Penalty –5 
+SQ rock stepper, skilled thrower, weapon familiarity 
+Combat Gear arrows (60), potions (enlarge person 4); Other Gear +1 spiked gauntlet, +1 adaptive composite 
+longbow, +4 furious adamantine dwarven waraxe, +5 tatami-do with +1 armor spikes, belt of giant 
+strength +6, boots of the mastodon, cloak of resistance +2, ring of protection +1, tender (83gp) 
+Encumbrance light 346 lb., medium 693 lb., heavy 1,040 lb.; Weight Carried 79 lb. (excluding tender) 
+ 
+While Raging… 
+DEFENSE 
+AC 23, touch 21, flat-footed 20 (+11 armor, +1 deflection, +3 Dex, –2 rage); +2 dodge bonus on overrun 
+hp 211 (13 HD) 
+Fort +16, Ref +9, Will +9; +5 vs. spells, spell-like abilities, and supernatural abilities 
+Defensive Abilities defensive training (+4 dodge bonus to AC vs. giants), improved uncanny dodge, stubborn, 
+superstition +5, trap sense +4; DR 3/–; SR 18 
+OFFENSE 
+Melee +4 furious adamantine dwarven waraxe +29/+24/+19 (1d10+21/×3) or 
++4 furious adamantine dwarven waraxe +25/+20/+15 (1d10+33/×3) with Power Attack, or 
++1 armor spikes +24/+19/+14 (1d6+11) or 
++1 armor spikes +20/+15/+10 (1d6+19) with Power Attack, or 
+
++1 spiked gauntlet +24/+19/+14 (1d4+11) or 
++1 spiked gauntlet +20/+15/+10 (1d4+19) with Power Attack 
+Ranged +1 adaptive composite longbow +17/+12/+7 (1d8+11/×3) 
+STATISTICS 
+Abilities Str 30 (+10), Dex 16 (+3), Con 22 (+6), Int 10 (+0), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +13; CMB +23 (+25 to bull rush, +33 to overrun); CMD 37 (39 vs. overrun) 
+Skills Climb +23, Intimdiate +15, Perception +17, Swim +23; Armor Check Penalty –3 
+Encumbrance light 532 lb., medium 1,064 lb., heavy 1,600 lb.; Weight Carried 62 lb. (excluding tender) 
+ 
+SPECIAL ABILITIES 
+Defensive Training You gain a +4 dodge bonus to AC against attacks made by Giants (not included above). 
+Greater Guarded Life (Ex) While raging, if you are reduced below 0 hit points, 2 hit points of lethal damage 
+per barbarian level is converted to nonlethal damage. If you are at negative hit points due to lethal 
+damage, you immediately stabilize. 
+Greed You gain a +2 racial bonus on Appraise skill checks made to determine the price of nonmagical goods 
+that contain precious metals or gemstones (not included above). 
+Hatred You receive a +1 bonus on attack rolls against Humanoid creatures of the Orc and Goblinoid subtypes 
+due to special training against these hated foes (not included above). 
+Improved Uncanny Dodge (Ex) You cannot be caught flat-footed, even if the attacker is invisible. You still 
+lose your Dexterity bonus to AC if immobilized. You can still lose your Dexterity bonus to AC if an 
+opponent successfully uses the feint action against you. Additionally, you cannot be flanked (denying 
+rogues their sneak attack), but by a character who possesses improved uncanny dodge and is four levels 
+higher than yourself. 
+Magic Resistant You gain spell resistance equal to 5 + your character level. This resistance can be lowered for 
+1 round as a standard action. You take a –2 penalty on all concentration checks made in relation to 
+arcane spells. 
+Overbearing Advance (Ex) While raging, you inflict damage equal to your Strength bonus whenever you 
+succeed at an overrun combat maneuver. 
+Rage (Ex) You can rage for a number of rounds per day equal to 4 + your Constitution modifier + 2 rounds per 
+barbarian level after 1st. Temporary increases to Constitution, such as those gained from rage and spells 
+like bear’s endurance, do not increase the total number of rounds that you can rage per day. Entering a 
+rage is a free action. The total number of rounds of rage per day is renewed after resting for 8 hours, 
+although these hours do not need to be consecutive. While in rage, you gain a +6 morale bonus to your 
+Strength and Constitution, as well as a +3 morale bonus on Will saves. In addition, you take a –2 penalty 
+to Armor Class. The increase to Constitution grants you 2 hit points per Hit Dice, but these disappear 
+when the rage ends and are not lost first like temporary hit points. While in rage, you cannot use any 
+Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any 
+ability that requires patience or concentration. You can end your rage as a free action and are fatigued 
+after rage for a number of rounds equal to 2 times the number of rounds spent in the rage. You cannot 
+enter a new rage while fatigued or exhausted but can otherwise enter rage multiple times during a single 
+encounter or combat. If you fall unconscious, your rage immediately ends, placing you in peril of death. 
+Relentless You receive a +2 bonus on Combat Maneuver checks made to bull rush or overrun an opponent. 
+This bonus only applies while both you and your opponent are standing on the ground. 
+Rock Stepper You can skillfully negotiate rocky terrain. You ignore difficult terrain created by rubble, broken 
+ground, or steep stairs when you take a 5-foot step. 
+Skilled Thrower (Ex) You are skilled at throwing objects in combat. Increase the range increment of any 
+thrown weapon or object by 10 feet. 
+Strength Surge (Ex) You add your barbarian level on one Strength check or combat maneuver check, or to 
+your Combat Maneuver Defense when an opponent attempts a maneuver against you. This power is 
+used as an immediate action. This power can only be used once per rage. 
+
+Superstition (Ex) You gain a +2 morale bonus on saving throws made to resist spells, supernatural abilities, 
+and spell-like abilities. This bonus increases by +1 for every 4 barbarian levels you have attained. While 
+raging, you cannot be a willing target of any spell and must make saving throws to resist all spells, even 
+those cast by allies. 
+Trap Sense (Ex) You gain a +4 bonus on Reflex saves made to avoid traps and a +4 dodge bonus to AC against 
+attacks made by traps. 
+Weapon Familiarity You are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon 
+with the word “dwarven” in its name as a martial weapon. 
+Witch Hunter (Ex) While raging, you gain a +1 bonus on damage rolls against creatures possessing spells or 
+spell-like abilities. This damage bonus increases by +1 for every four levels of barbarian you have 
+obtained. 

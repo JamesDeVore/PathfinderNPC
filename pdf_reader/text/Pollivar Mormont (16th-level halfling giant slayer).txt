@@ -1,0 +1,64 @@
+
+
+Pollivar “Caltrop” Mormont 
+Male halfling fighter 16 
+LG Small humanoid (halfling) 
+Init +7; Senses Perception +3 
+Languages Common, Halfling 
+DEFENSE 
+AC 39, touch 23, flat-footed 31 (+13 armor, +3 deflection, +7 Dex, +1 
+dodge, +1 insight, +3 natural, +1 size); +1 dodge bonus vs. larger 
+creatures, Mobility 
+hp 145 (16 HD) 
+Fort +16, Ref +16, Will +14; +9 vs. fear, +1 vs. trample, roll twice vs. 
+mind-affecting effects 
+Defensive Abilities bravery +5, fearless, underfoot 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +4 mithral greataxe +35/+30/+25/+20 (1d10+21/×3) or 
++4 mithral greataxe +30/+25/+20/+15 (1d10+36/×3) with Power Attack, or 
+mwk throwing axe +30/+25/+20/+15 (1d4+12) or 
+mwk throwing axe +25/+20/+15/+10 (1d4+22) with Power Attack 
+Ranged +4 adaptive composite longbow +33/+28/+23/+18 (1d6+15/19-20/×3) or 
+mwk throwing axe +30 (1d4+12) 
+Special Attacks advanced weapon training (axes; armed bravery), low blow, weapon training (axes +5, bows 
++4) 
+STATISTICS 
+Abilities Str 24 (+7), Dex 24 (+7), Con 14 (+2), Int 10 (+0), Wis 10 (+0), Cha 12 (+1) 
+Base Atk +16; CMB +22 (+33 with battleaxe); CMD 44 (53 vs. disarm/sunder against axe, 52 disarm/sunder 
+against bow, 60 vs. grapple/trip) 
+Feats Circling Mongoose
+B, Dodge, Following Step, Greater Weapon Focus (greataxe
+B), Improved Sidestep, 
+Juke
+B, Lightning Stance, Mobility, Power AttackB, Risky StrikerB, Sidestep, Spring Attack, Step UpB, 
+Steadfast Slayer
+B, Weapon Focus (greataxe
+B), Weapon Specialization (greataxe
+B), Wind Stance 
+Skills Climb +12, Intimidate +20, Perform (dance) +5, Stealth +24, Swim +12 
+SQ armor training 4, fleet of foot 
+Combat Gear durable arrows (60), potions of fly (5); Other Gear +4 adaptive composite longbow, +4 mithral 
+greataxe, +4 shadow mithral full plate, amulet of natural armor +3, band of the stalwart warrior, belt 
+of physical might +6 (strength, dexterity), boots of speed, bracers of falcon’s aim, cap of the free 
+thinker, cloak of resistance +4, dusty rose prism ioun stone (imbedded), fighter’s kit, gloves of dueling, 
+knight’s pennons (battle, honor), masterwork throwing axe, quick runner’s shirt, ring of protection +3, 
+tender (50pp, 23gp) 
+Encumbrance light 174 lb. 12 oz., medium 349 lb. 8 oz., heavy 525 lb.; Weight Carried 51 lb. 1 oz. 
+(excluding tender) 
+SPECIAL ABILITIES 
+Armed Bravery (Ex) You apply your bravery bonus to Will saving throws. In addition, the DC of Intimidate 
+checks to demoralize you increases by an amount equal to twice your bonus from bravery. 
+Armor Training (Ex) Whenever you wear armor, you reduce the armor check penalty by 4 (to a minimum of 
+0) and increases the maximum Dexterity bonus allowed by your armor by 4. Additionally, you can also 
+move at your normal speed while wearing medium or heavy armor. 
+Bravery (Ex) You gain a +5 bonus on Will saves against fear. 
+Fearless You receive a +2 racial bonus on all saving throws against fear. 
+Fleet of Foot You have a base speed of 30 feet, rather than 20 feet. 
+Low Blow You gain a +1 bonus on critical confirmation rolls against opponents larger than yourself. 
+
+Underfoot You gain a +1 dodge bonus to AC against foes larger than yourself (not included above) and a +1 
+bonus on Reflex saving throws to avoid trample attacks. 
+Weapon Training (Ex) You receive a +5 bonus to attack and damage rolls when using axes, to any combat 
+maneuver checks made with axes, and to your Combat Maneuver Defense when defending against 
+disarm and sunder attempts made against axes. You get similar bonuses with bows, but only at +4. 

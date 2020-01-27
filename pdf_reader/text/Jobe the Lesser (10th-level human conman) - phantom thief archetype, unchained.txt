@@ -1,0 +1,216 @@
+
+
+Jobe the Lesser 
+“Have you heard what is being said about me? Apparently, ‘when 
+Jobe speaks, gold falls from his mouth to fill his pockets!’ 
+Ridiculous I say! My words make diamonds, not mere gold.” 
+ 
+Jobe could have been a great noble, but felt it required too much 
+work and was tediously boring. Instead, he uses his natural talents 
+for trickery  and altering his appearance to  acquire money  and 
+shelter—and  get company for his bed. He isn’t inherently 
+malicious, but feels no remorse for conning the rich and gullible. 
+Ultimately  a self-serving  coward whose  greed drives him to 
+adventure, Jobe  is  a master  scoundrel and jack-of-all-trades 
+specializing in elaborate cons—which typically  end up with him 
+owning large portions of land and other forms of wealth.  He 
+disdains physical violence and often manipulates others into doing 
+his dirty work for him  when violence becomes necessary. His 
+serpent’s tongue never slips from behind his teeth unless there is 
+something to gain for his words. 
+ 
+Hoping to get out from under the shadow of his father, a Chelaxian 
+noble by the name of Jobe the Greater, Jobe the Lesser ran away 
+from home at an early age and largely grew up on the streets surrounded by other criminals and scoundrels. It 
+was there that he learned how to survive as a conman. While young, Jobe would play the part of a pitiable youth 
+with potential, often playing it up for and ingratiating himself with noble families, often convincing them to adopt 
+him or to accept him as an apprentice or servant. Regardless of how he got into their good graces, it almost always 
+ended the same: with broken hearts and heavy pockets. 
+ 
+Now that he is an adult, Jobe travels the world; keeping on the move, both to keep safe from those who would 
+seek retaliation for his deceptions, and also to seek out his next gullible mark or big score. No longer the “innocent 
+child” he used to be, he is now forced to rely on true charm and forged documentation to make a living. His many 
+schemes in various cities have given him valuable information on high and low society, including the means to 
+infiltrate exclusive parties or find the secret ins and outs of castles and mansions. Now a valuable and dangerous 
+member of royal courts and secret societies as a result, Jobe has become quite skilled at using subtle lies and 
+disguises to turn enemies against each other. Using his talents—and a little help from his quickchange cloak—he 
+can infiltrate and spy upon any guild, government, or noble household. 
+ 
+Though Jobe is well known in the criminal underworld, he is rarely spoken of in anything louder than a hushed 
+whisper. Most authorities, on the other hand, remain totally ignorant of his activities or identity. The last detective 
+who came close to exposing Jobe as the fraud that he was, now rots away in a debtors’ prison, having been forced 
+to surrender  all of his assets to  one  “honorable Judge Jobe”  after  finding himself  suddenly unable to pay off 
+outstanding debts he didn’t know he had. Of those few who remain aware of Jobe’s true trade, there are fewer 
+still who wish to repeat the former detective’s mistake and likewise be made an example of. 
+ 
+As a traveling conman, Jobe falls in with all sorts of people and so it is no surprise that he sometimes finds his 
+way into an adventuring party looking to score big. Though he is loath to put his life at risk on the front lines, 
+Jobe might attempt anything at all if there is enough end-game wealth to tempt him. 
+   
+
+Jobe the Lesser 
+Male human unchained rogue 10 (phantom thief) 
+N Medium humanoid 
+Init +4 (+8 in social surprises); Senses Perception +20 
+Languages comprehend languages (writing only); Aklo, Dwarven, Elven, 
+Giant, Gnoll, Gnome, Halfling, Hallit, Iobarian, Kelish, Orc, Osiriani, 
+Polyglot, Shoanti, Skald, Taldane (Common), Tien (Common), 
+Undercommon, Varisian, Vudrani; Includes three additional languages 
+from retraining 
+DEFENSE 
+AC 21, touch 15, flat-footed 17 (+6 armor, +1 deflection, +4 Dex) 
+hp 86 (10 HD) 
+Fort +8, Ref +14, Will +8; +2 vs. compulsions to tell the truth 
+Defensive Abilities evasion, improved uncanny dodge; Immune magical 
+effects that detect lies 
+OFFENSE 
+Speed 30 ft. (6 squares), 20 ft. with backpack 
+Melee +1 short sword +12/+7 (1d6+5/19-20) 
+Ranged +1 shortbow +12/+7 (1d6+1/×3) 
+Special Attacks finesse training (short sword) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 18 (+4), Con 14 (+2), Int 14 (+2), Wis 14 (+2), Cha 18 (+4) 
+Base Atk +7; CMB +7 (+11 with +1 short sword); CMD 22 
+Feats Deceitful, Extra Rogue Talent (2), Persuasive, Skill Focus (bluff
+B, linguisticsB), Voice of the Sibyl, 
+Weapon Finesse
+B 
+Skills Bluff +39 (+42 to lie, +43 to surprise a foe, +49 to appear innocent within area of renown), Diplomacy 
++33 (+35 vs. city officials), Disguise +28, Escape Artist +17, Intimidate +23, Linguistics +21 (+23 to 
+create forgeries, +26 to detect forgeries), Perception +20 (+22 to notice written magical traps, +25 to 
+notice invisibility), Perform (oratory) +7, Sense Motive +20 (+24 to avoid surprise), Sleight of Hand 
++17, Stealth +22; Check Penalty –3 (not included); Racial Bonuses +2 Bluff and Diplomacy 
+SQ broad education, focused study, refined education (bluff, diplomacy, disguise, perception, sense 
+motive), rogue’s edge (bluff, diplomacy, disguise, intimidate, linguistics, perception, sense motive), 
+rogue talents (certainty, coax information, cutting edge, rumormonger, skill mastery), silver tongued, 
+social sense +4, social talents (feign innocence, mockingbird, renown) 
+Combat Gear durable arrows (20); Other Gear +1 shortbow, +1 short sword (concealed, DC 39), +2 shadow 
+mithral shirt, beguiling bangles, belt of agile dexterity +2, blue book, book of letters, chronicler’s kit, 
+forged documents (see below), handy haversack, headband of alluring charisma +2, infiltration kit, 
+pathfinder pouch, quickchange cloak (doubles as a cloak of resistance +3), ring of eloquence, ring of 
+protection +1, sleeves of many garments, spectacles of understanding, tender (10gp), traveler’s any-tool 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 29 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Broad Education (Ex) You can select the combat trick, minor magic, and major magic rogue talents as many 
+times as you like, and you can select the Skill Focus feat as a rogue talent, also as many times as you 
+like. Finally, you can select a vigilante social talent instead of a rogue talent, except for social grace and 
+vigilante social talents that would require her to be a craftsman or professional. For the purpose of 
+vigilante social talents, you do not have a vigilante identity and are always considered to be in your 
+social identity. 
+Certainty (Ex) Twice per day, you can reroll a Diplomacy check you just made and take the better result. 
+
+Coax Information (Ex) You can use Bluff or Diplomacy in place of Intimidate to force an opponent to act 
+friendly toward you. When the duration of the attitude shift ends, that opponents’ attitude toward you 
+returns to its previous level, rather than dropping one level. 
+Evasion (Ex) If you succeed at a Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or 
+no armor. You do not gain the benefit of evasion while helpless. 
+Feign Innocence (Ex) You seem so innocent that it is hard for others to believe that you could be involved in 
+any wrongdoing. Within your area of renown, this provides a nonmagical effect identical to the 
+innocenceAPG spell. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, whenever you make a successful 
+melee attack with a short sword, you add your Dexterity modifier instead of your Strength modifier to 
+the damage roll. If any effect would prevent you from adding your Strength modifier to the damage roll, 
+you do not add your Dexterity modifier. 
+Improved Uncanny Dodge (Ex) You cannot be caught flat-footed, nor do you lose your Dexterity bonus to AC 
+if the attacker is invisible. You still lose your Dexterity bonus to AC if immobilized. You can still lose 
+your Dexterity bonus to AC if an opponent successfully uses the feint action against you. Additionally, 
+you can no longer be flanked. This defense denies another rogue the ability to sneak attack you by 
+flanking you, unless the attacker has at least four more rogue levels than you do. 
+Mockingbird (Ex) You can mimic almost any sort of voice, or even animal calls and sound effects, and you 
+can throw your voice at a distance. This functions similarly to a combination of the ghost sound, 
+ventriloquism, and vocal alteration
+UM spells. 
+Refined Education (Ex) You add Handle Animal, Heal, Ride, Spellcraft, Survival, and all Knowledge skills to 
+your list of class skills. Furthermore, you add half your rogue level on all skill checks using the skills 
+noted in parenthesis above. Additionally, you gain rogue’s edge skill unlocks with each of these skills 
+rather than selecting one skill every 5 levels, and you add half your rogue level to your number of ranks 
+to determine when you receive a skill unlock. 
+Renown (Ex) You can spend 1 week gaining renown among the locals of any community of no more than 
+about 200 individuals (a village, if using settlement population ranges on page 203 of the GameMastery 
+Guide). This could be the entire community or a smaller neighborhood in a larger settlement. You must 
+spend at least 4 hours each day socializing and making contacts. After spending 1 week doing this, all 
+NPCs in the community have a starting attitude toward you that is one category better, as long as each 
+person’s initial attitude would have at least been indifferent. You can hold renown in a limited number 
+of communities (normally one, with other social talents allowing two). If you gain renown in a new 
+community, you must decide which one of your previous communities to lose. 
+Rogue’s Edge (Ex) You have mastered a single skill beyond that skill’s normal boundaries, gaining results that 
+others can only dream about. You gain the skill unlock powers for that skill as appropriate for your 
+number of ranks in that skill. 
+Bluff: You take no penalty to Bluff a creature after a failed check unless you failed by 5 or more and 
+creatures magically attempting to read your thoughts, detect your alignment, or reveal when you are 
+lying must attempt a caster level check (DC = 11 + your ranks in Bluff) or the effect reveals nothing. 
+Diplomacy: The time required to gather information is halved. Alternatively, you can gather 
+information in 10 minutes by accepting a –5 penalty. Additionally, you can attempt to adjust a creature’s 
+attitude in 1 round. If you take 1 minute to adjust a creature’s attitude, however, add your Charisma 
+bonus to the number of hours that attitude change persists, and the duration of the resulting change is 
+measured in days, not hours. 
+Disguise: You can create a disguise as a full-round action. If you take the full normal amount of time 
+to create your disguise, you take no penalty for disguising your gender, race, or age category. 
+Intimidate: If you exceed the DC to demoralize a target by at least 10, it is panicked for 1 round or 
+frightened for 1d4 rounds (your choice) and shaken thereafter. A Will save (DC = 10 + your number of 
+ranks in Intimidate) negates the panicked or frightened condition, but the target is still shaken, even if it 
+has the stalwart ability. The total duration of the fear effects cannot exceed 1 round plus 1 round for 
+every 5 by which you exceed the DC. 
+
+Linguistics: You can use Linguistics instead of Sense Motive to intercept and interpret secret 
+messages (as the Bluff skill). You gain a +2 insight bonus on Perception and Disable Device checks to 
+detect or disarm written magical traps. If you succeed at a Linguistics check by at least 10 when 
+examining writing, you can learn the precise meaning rather than general content, and you never draw 
+false conclusions on a failed check. A successful DC 30 Linguistics check reveals the general meaning 
+of speech, a successful DC 35 check reveals 1d4 pieces of specific information, and a successful DC 40 
+check reveals exact meaning. 
+Perception: You remain alert to sounds even in your sleep, and the normal DC increase to 
+Perception checks when you are sleeping does not apply to you. The distance modifier on the DC of 
+Perception checks you attempt is reduced to +1 per 40 feet. In addition, you gain a +5 bonus on 
+Perception checks to notice or locate an invisible creature or object. 
+Sense Motive: If you were aware of an opponent before rolling initiative (such as when you ambush 
+an enemy or negotiations break down into combat, but not when both sides happen upon each other or 
+you are surprised), you can attempt a Sense Motive check as part of your initiative check (DC = 11 + the 
+highest Bluff modifier among your opponents or DC 15, whichever is higher). If you succeed, you gain 
+a +1 bonus on the initiative check, plus an additional +1 for every 5 by which you exceeded the DC. In 
+addition, after 1 round of conversation, you can read a creature’s surface thoughts (as detect thoughts) 
+by attempting a Sense Motive check at a –20 penalty opposed by the creature’s Bluff check. Finally, 
+when attacked, you can attempt a Sense Motive check as an immediate action opposed by your target’s 
+attack roll. A successful check grants a +2 insight bonus to your AC against attacks from that specific 
+opponent for 1 minute. 
+Rumormonger (Ex) You can attempt to spread a rumor though a small town or larger settlement by making a 
+Bluff check. You can do so a number of times per week equal to your Charisma modifier (minimum 0). 
+The DC is based on the size of the settlement, and it takes a week for the rumor to propagate through the 
+settlement. If the check succeeds, the rumor is practically accepted as fact within the community; 
+succeeding by 5 or more over the DC decreases the time it takes the rumor to propagate by 1d4 days. A 
+failed check means the rumor failed to gain traction, while failing by 5 or more causes the opposite of 
+the rumor or some other competing theory involving the rumor’s subject to take hold. The DCs are as 
+follows: Small town 18, large town 20, small city 25, large city 30 and metropolis 35. 
+Silver Tongued You gain a +2 bonus on Diplomacy and Bluff checks. In addition, when you use Diplomacy to 
+shift a creature’s attitude, you can shift up to three steps up rather than just two. 
+Skill Mastery When making a skill check with Escape Artist, Sleight of Hand, Stealth, or any of the skills 
+selected through the rogue’s edge class feature, you can take 10 even if stress and distractions would 
+normally prevent you from doing so. 
+Social Sense (Ex) You receive a +4 bonus on Sense Motive checks to avoid being surprised by a foe, on Bluff 
+checks to surprise a foe, and on initiative checks for surprise rounds that involve Bluff and Sense Motive 
+checks to determine surprise. 
+ 
+FORGED DOCUMENTS 
+Jobe often carries a large number of forged documents upon his person at any given time (generally hidden in 
+his Pathfinder pouch). The ones shown below are simply the ones that he always carries on his person. He 
+frequently changes the names, organizations, and other minor details of the documents to better fit whatever 
+region he happens to be traveling through. All documents require a DC 43 Linguistics check to spot as 
+forgeries. 
+False Identification Papers: These identification papers are made from relatively cheap, but durable 
+parchment. They appear as though they were created through some kind of printing press. Jobe very rarely 
+reveals his real name or identity to anyone. Thus he has no less than three sets of identification papers 
+identifying him as a bounty hunter currently working for local law enforcement, a simple merchant traveling 
+through town to sell his wares, or a noble in service to the king. All of these identification papers have 
+supporting documents (such as business ledgers, military orders, or royal letters). 
+Letter of Marque: A letter from the mayor (or other leader of the town), this paper letter presumably grants 
+Jobe the Lesser (or one of his personas) the lawful right to loot any local abandoned dungeon, graveyard, ship, 
+
+temple, tomb, or other dwelling place not otherwise currently occupied by living, sentient creatures. It also 
+grants him the exclusive right to sell any such ill–gotten gains once procured. 
+Personal Letter from the King: This finely made handwritten paper letter (complete with royal seal) is 
+carried in an extremely fancy envelope and is presumably written by the king (or other local ruler) himself. It 
+authorizes Jobe the Lesser (or one of his personas) to break the law if such an action would be in service to the 
+royal family and would not severely disrupt the order of the nation. It also entails harsh punishments to any who 
+would delay or otherwise hinder Jobe during his royal duties (such “impediments” include but are not limited to 
+arrest and/or lawful detainment). 

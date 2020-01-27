@@ -1,0 +1,53 @@
+
+
+Nym Amalith 
+Male human fighter 12 
+CG Medium humanoid 
+Init +11; Senses Perception +13 
+Languages Common, Dwarven, Elven 
+DEFENSE 
+AC 32, touch 18, flat-footed 24 (+14 armor, +7 Dex, +1 dodge); Mobility 
+hp 117 (12 HD) 
+Fort +16, Ref +22, Will +14; +3 vs. fear 
+Defensive Abilities bravery +3 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee +1 greatsword +19/+14/+9 (2d6+8/19-20), or 
++1 greatsword +19 (6d6+8/19-20) with Improved Vital Strike 
+Ranged +1 adaptive electric burst composite longbow +24/+19/+14 (1d8+11 
+plus 1d6 electricity/×3 plus 2d10 electricity), or 
++1 adaptive electric burst composite longbow +20/+15/+10 (1d8+19 plus 1d6 electricity/×3 plus 2d10 
+electricity) with Deadly Aim, or 
++1 adaptive electric burst composite longbow +24 (3d8+11 plus 1d6 electricity/×3 plus 2d10 electricity) 
+with Improved Vital Strike, or 
++1 adaptive electric burst composite longbow +20 (3d8+19 plus 1d6 electricity/×3 plus 2d10 electricity) 
+with Improved Vital Strike and Deadly Aim 
+Special Attacks weapon training (bows +2, heavy blades +1) 
+STATISTICS 
+Abilities Str 19 (+4), Dex 24 (+7), Con 14 (+2), Int 14 (+2), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +12; CMB +14; CMD 34 
+Feats Deadly Aim, Dodge, Greater Weapon Focus (longbow
+B), Greater Weapon Specialization (longbow
+B), 
+Improved Initiative, Improved Vital Strike, Mobility, Point Blank ShotB, Precise Shot
+B, Shot on the 
+RunB, Spring Attack, Vital Strike, Weapon Focus (longbow
+B), Weapon Specialization (longbow
+B) 
+Skills Acrobatics +24 (+28 when jumping), Climb +19, Knowledge (local) +8, Perception +13, Stealth +19, 
+Survival +16, Swim +13 
+SQ armor training +3 
+Combat Gear arrows (100), potions of cure light wounds (8), tree feather tokens (2); Other Gear +1 adaptive 
+electric burst composite longbow, +1 greatsword, +5 mithral fullplate, belt of physical might +4 
+(Strength, Dexterity), boots of striding spring, cloak of resistance +2, tender (45gp) 
+Encumbrance light 116 lb., medium 233 lb., heavy 350 lb.; Weight Carried 44 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Armor Training (Ex) When wearing armor, you reduce your armor check penalty by 3 (to a minimum of 0) 
+and increase your armor’s maximum Dexterity modifier limit by 3. In addition, your speed is not 
+reduced for wearing medium or heavy armor. 
+Bravery (Ex) You gain a +3 bonus on Will saves against fear effects (included above). 
+Weapon Training (Ex) You receive a +2 bonus to attack and damage rolls when using heavy bows, to any 
+combat maneuver checks made with bows, and to your Combat Maneuver Defense when defending 
+against disarm and sunder attempts made against bows. You receive a similar bonus with heavy blades, 
+but only at a +1 bonus. 
+ 

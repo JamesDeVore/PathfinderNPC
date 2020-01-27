@@ -1,0 +1,70 @@
+
+
+Ogaro 
+Male human barbarian 8 (urban barbarian) 
+NG Medium humanoid 
+Init +4; Senses Perception +12 
+Languages Common 
+DEFENSE 
+AC 24, touch 16, flat-footed 19 (+7 armor, +4 Dex, +1 
+deflection, +1 dodge, +1 natural); Mobility 
+hp 107 (8 HD) 
+Fort +9, Ref +6, Will +3 
+Defensive Abilities improved uncanny dodge, trap sense +2; 
+DR 1/– 
+OFFENSE 
+Speed 40 ft. (8 squares) 
+Melee +1 greatsword +14/+9 (2d6+8/19-20) or 
++1 greatsword +11/+6 (2d6+17/19-20) with Power Attack, or 
++1 greatsword +16/+11 (2d6+11/19-20) with Strength rage, or 
++1 greatsword +13/+8 (2d6+20/19-20) with Strength rage and Power Attack 
+Ranged mwk chakram +13 (1d8+5) or 
+mwk chakram +15 (1d8+5) with Dexterity rage, or 
+mwk chakram +13 (1d8+7) with Strength rage 
+Special Attacks controlled rage (21 rounds/day), rage powers (clear mind, greater guarded life 16) 
+STATISTICS 
+Abilities Str 20 (+5), Dex 18 (+4), Con 17 (+3), Int 8 (–1), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +8; CMB +13; CMD 29 
+Feats Armor Proficiency (medium
+B), Cleave, Dodge, Mobility, Power Attack (–3 attack; +3/+6/+9 damage) 
+Skills Acrobatics +14 (+23 when jumping), Perception +12, Survival +16; Armor Check Penalty –1 
+Combat Gear potions (bull’s strength 3, cure light wounds 10); Other Gear +1 greatsword, +1 mithral agile 
+breastplate, amulet of natural armor +1, belt of physical might +2 (strength, dexterity), boots of striding 
+and springing, ring of protection +1, tender (49gp) 
+SQ crowd control +4, guarded stance +2 (3 rounds), heart of the wilderness +3 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 25 lb. 5 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Clear Mind (Ex) You may reroll a failed Will save. This power is used as an immediate action after the first 
+save is attempted, but before the results are revealed by the GM. You must take the second result, even 
+if it is worse. This power can only be used once per rage. 
+Controlled Rage (Ex) You can enter a controlled rage as a free action for 21 rounds each day. The total 
+number of rounds of controlled rage per day is renewed after resting for 8 hours, although these hours do 
+not need to be consecutive. While in a controlled rage, you may apply a +4 morale bonus to your 
+Strength, Dexterity, or Constitution. This bonus increases to +6 when you gain greater rage and +8 when 
+you gain mighty rage. You may apply the full bonus to one ability score or may split the bonus between 
+several scores in increments of +2. When using a controlled rage, you gain no bonus on Will saves, take 
+no penalties to AC, and can still use Intelligence-, Dexterity-, and Charisma-based skills. This ability 
+otherwise follows the normal rules for rage. You can end your rage as a free action and you become 
+fatigued afterwards for a number of rounds equal to 2 times the number of rounds spent in the rage. You 
+cannot enter a new rage while fatigued or exhausted but can otherwise enter rage multiple times during a 
+single encounter or combat. If you fall unconscious, your rage immediately ends, placing you in peril of 
+death. 
+
+Crowd Control (Ex) You gain a +1 bonus on attack rolls and a +1 dodge bonus to AC when adjacent to two or 
+more enemies. In addition, your movement is not impeded by crowds, and you gain a bonus equal to ½ 
+your barbarian level on Intimidate checks to influence crowds. 
+Greater Guarded Life (Ex) While raging, if you are reduced below 0 hit points, 2 hit point of lethal damage 
+per barbarian level is converted to nonlethal damage. If you are at negative hit points due to lethal 
+damage, you immediately stabilize. 
+Guarded Stance (Ex) You gain a +2 dodge bonus to your Armor Class against melee attacks for a number of 
+rounds equal to the barbarian’s current Constitution modifier (minimum 1). Activating this ability is a 
+move action that does not provoke an attack of opportunity. 
+Heart of the Wilderness You gain a bonus equal to ½ your character level on Survival checks. You also gain a 
++5 bonus on Constitution checks to stabilize when dying and add ½ your character level to your 
+Constitution score when determining the negative hit point total necessary to kill you. 
+Improved Uncanny Dodge (Ex) You retain your Dexterity bonus to AC even if you are caught flat-footed or 
+struck by an invisible attacker. However, you still lose your Dexterity bonus to AC if immobilized. You 
+cannot be flanked. This defense denies a rogue the ability to sneak attack the barbarian by flanking her, 
+unless the attacker has at least four more rogue levels than the target has barbarian levels. 
+Trap Sense (Ex) You receive a +2 bonus on Reflex saves made to avoid traps and a +2 dodge bonus to AC 
+against attacks made by traps. 

@@ -1,0 +1,138 @@
+
+
+Jotun, the Frost Child 
+“They are distant kindred at best, I do not even speak their tongue.” 
+ 
+Many seasons past, the mothers and fathers of my tribe abandoned me to the 
+icy wastes. This is how it is told to me by my ack-lite brothers and sisters, and 
+I am not so good with words, so listen closely! I wish not to repeat this sad tale 
+more than is needed. 
+ 
+Though I was still a babe, I was very small, smaller than any of the brothers 
+and sisters of my tribe, even though many were of the same age as me. While 
+I lay out on the cold steppes, I was discovered by Ee-ori, who saw in me not 
+the flaws as my kin did, but the perfection that I could one day be. And so it 
+was that I was rescued by an Ee-ori monk, who brought me here to my new 
+home and would call himself “father” to me. He is gone now, and I have since 
+grown, but not old as he did. I am yet young and strong. 
+ 
+The temple’s priests taught me that I am human as they are, at least in part, and that, that is why the frost giants 
+set me out to die—they believed I was not strong, could not be strong. The ack-lites here saved me, raised me, 
+and taught me to be strong. Even though I was already stronger than most of them from the outset, many ack-lites 
+still think there is a long road before me. 
+ 
+I will show them! I will show the frost giants! I will show everybody, even Ee-ori who shall surely test me! I will 
+aspire to greatness, perhaps even to perfection as Ee-ori did, but that is not something I feel I can do here trapped 
+in this mon-stary under the mountain. I am less good with writing than I am with words, and it saddens me to see 
+them all in pain, and that is why I tell you all of this young child, so you can tell my brothers and sisters of the 
+temple that I have gone from here. There now, I have healed all of your wounds; do this for me and I will consider 
+myself repaid. Please thank them for all they have done for me. For without them, I could not have found the long 
+road ahead. 
+ 
+     
+
+Jotun, the Frost Child 
+Male human paladin 8 (Iroran Paladin) 
+LG Medium humanoid 
+Init +2; Senses Perception +1 
+Languages Common 
+DEFENSE 
+AC 20, touch 14, flat-footed 16 (+6 armor, +2 Cha, +2 Dex) 
+hp 79 (8 HD) 
+Fort +12, Ref +8, Will +11; +2 vs cold climates, or to avoid slipping and falling 
+Defensive Abilities divine grace; Immune charm, disease; Resist cold 8 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee unarmed strike +14/+9 (1d8+6 plus 2d6 cold) or 
+unarmed strike +17/+12 (1d8+9 plus 2d6 cold) with Personal Trial, or 
+unarmed strike +11/+6 (1d8+12 plus 2d6 cold) with Power Attack, or 
+unarmed strike +14/+9 (1d8+15 plus 2d6 cold) with Personal Trial and Power Attack, or 
++1 large battleaxe +14/+9 (2d6+8/×3) or 
++1 large battleaxe +17/+12 (2d6+11/×3) with Personal Trial, or 
++1 large battleaxe +11/+6 (2d6+17/×3) with Power Attack, or 
++1 large battleaxe +14/+9 (2d6+20/×3) with Personal Trial and Power Attack 
+Ranged +1 adaptive composite longbow +11/+6 (1d8+5/×3) or 
++1 adaptive composite longbow +14/+9 (1d8+8/×3) with Personal Trial 
+Special Attacks divine body (+2 bonus, 1/day), personal trial 3/day (+3 attack, AC, and saves) 
+Paladin Spells Prepared (CL 5
+th, Concentration +7) 
+2nd (2/day) – bull’s strength, eagle’s splendor 
+1st  (2/day) – challenge evilAPG, divine favor  
+STATISTICS 
+Abilities Str 20 (+5), Dex 14 (+2), Con 14 (+2), Int 8 (–1), Wis 12 (+1), Cha 14 (+2) 
+Base Atk +8; CMB +13; CMD 25 (27 vs. trip) 
+Feats Born of Frost, Icy Stare, Improved Unarmed Strike
+B, Power Attack, Racial Heritage (frost giant
+B), Sure 
+on Ice 
+Skills Acrobatics +8 (+10 in slippery conditions), Climb +11 (+13 in slippery conditions, +17 on ice); Armor 
+Check Penalty –1 
+Combat Gear durable arrows (20), potions (enlarge person 10); Other Gear +1 adaptive composite longbow, 
++1 frost amulet of mighty fists, +1 large battleaxe with effortless lace, +2 chain shirt, cloak of 
+resistance +2, tender (100sp) 
+SQ aura of law (strong), code of conduct, heart of the snows, ki pool (6 points, magic), lay on hands (4d6, 
+6/day), mercy (diseased, fatigue), sense perfection 
+Encumbrance light 133 lb., medium 266 lb., heavy 400 lb.; Weight Carried 45 lb. 10 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Aura of Excellence (Su) You are immune to any effect that would force you to reroll a die against your will or 
+roll twice and take the lower result. Whenever an ally within 10 feet of you would reroll a die against 
+their will, they can roll twice and take the higher result. Whenever an ally within 10 feet would be 
+forced to roll twice and take the lower result, they can instead roll three times and take the 
+second-lowest result. This ability functions only while you are conscious. 
+Aura of Law (Ex) You possess a strong aura of law at all times. 
+Aura of Resolve (Su) You are immune to charm spells and spell-like abilities. Each ally within 10 feet of you 
+gains a +4 morale bonus on saving throws against charm effects. This ability functions only while you 
+are conscious, not if you are unconscious or dead. 
+
+Confident Defense (Ex) When wearing light or no armor and not using a shield, you add 1 point of your 
+Charisma bonus (if any) per paladin class level to your Dexterity bonus to your Armor Class. If you are 
+caught flat-footed or otherwise denied your Dexterity bonus, you also lose this bonus. 
+Divine Body (Su) Once per day you may enhance your unarmed strikes as a standard action by calling upon the 
+aid of a celestial spirit for 1 minute per paladin level. When called, the spirit causes you to shed light as 
+a torch. This spirit grants your unarmed strikes a +2 enhancement bonus. This bonus can be added to the 
+weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of 
+the following weapon properties: axiomatic, brilliant energy, defending, disruption, flaming, flaming 
+burst, holy, keen, merciful, and speed. Adding these properties consumes an amount of bonus equal to 
+the property’s cost modifier. These bonuses are added to any properties your unarmed strikes already 
+have, but duplicate abilities do not stack. If your unarmed strikes are not magical, at least a +1 
+enhancement bonus must be added before any other properties can be added. The bonus and properties 
+granted by the spirit are determined when the spirit is called and cannot be changed until the spirit is 
+called again. 
+Divine Grace (Su) You gain a bonus equal to your Charisma bonus on all saving throws (included above). 
+Divine Health (Ex) You are immune to all diseases, including supernatural and magical diseases, including 
+mummy rot. 
+Heart of the Snows You treat cold climates as one category less severe. Additionally, you gain a +2 racial 
+bonus on Fortitude saving throws against the effects of cold climates, on any check or saving throw to 
+avoid slipping and falling, and to CMD against trip combat maneuvers. This bonus applies on 
+Acrobatics and Climb checks made in slippery conditions. 
+Ki Pool (Su) You gain a number of ki pool points equal to ½ your paladin level + your Charisma modifier. As 
+long as you have at least 1 point in your ki pool, you can make a ki strike. Ki strikes allow your unarmed 
+attacks to be treated as magic weapons for the purpose of overcoming damage reduction. Your unarmed 
+attacks are also treated as cold iron and silver for the purpose of overcoming damage reduction. By 
+spending 1 point from your ki pool, you can make one additional attack at your highest attack bonus 
+when making a flurry of blows attack. In addition, you can spend 1 point to increase your speed by 20 
+feet for 1 round. Finally, you can spend 1 point from your ki pool to give yourself a +4 dodge bonus to 
+AC for 1 round. Each of these powers is activated as a swift action. The ki pool is replenished each 
+morning after 8 hours of rest or meditation; these hours do not need to be consecutive. 
+Lay On Hands (Su) You can heal wounds (your own or those of others) by touch. Each day you can use this 
+ability a number of times equal to ½ your paladin level plus your Charisma modifier. With one use of 
+this ability, you can heal 1d6 hit points of damage for every two paladin levels you possess. Using this 
+ability is a standard action, unless you target yourself, in which case it is a swift action. Despite the 
+name of this ability, you only need one free hand to use this ability. Alternatively, you can use this 
+healing power to deal damage to undead creatures, dealing 1d6 points of damage for every two paladin 
+levels you possess. Using lay on hands in this way requires a successful melee touch attack and doesn’t 
+provoke an attack of opportunity. Undead do not receive a saving throw against this damage. 
+Mercy (Su) When you use your lay on hands ability to heal damage to one target, the target also receives the 
+additional effects from all of your mercies (shown below). A mercy can remove a condition caused by a 
+curse, disease, or poison without curing the affliction. Such conditions return after 1 hour unless the 
+mercy actually removes the affliction that causes the condition. Your mercies allow you to remove the 
+following conditions: disease and fatigue. 
+Personal Trial (Su) Three times per day, you can declare one target within line of sight as your personal trial as 
+a swift action. You gain a +3 insight bonus on attack rolls and damage rolls against that creature, to your 
+AC against attacks made by the target, and on saving throws against the target’s spells and special 
+abilities. The personal trial effect remains until the target of the trial is dead or the next time you rest and 
+regain daily uses of this ability. 
+Sense Perfection (Su) At will, you can detect life forces as if you were using a paladin’s detect evil class 
+ability; however, instead of sensing evil creatures, you sense creatures that have a ki pool. Each such 
+creature has an aura like a cleric of an aligned deity, and treats its current number of ki points as its Hit 
+Dice for the purposes of this ability. 

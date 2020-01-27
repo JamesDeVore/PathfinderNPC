@@ -1,0 +1,319 @@
+
+
+Hama the Wandering Witch 
+“I am the Body Snatcher. The Mind Bender. The Master of Curses. Know my power!” 
+ 
+Formerly a simple herbalist who lived a comfortable life as a respected (and much sought 
+after) member of her village, everything changed for Hama when she started showing the 
+first  symptoms of  motor  neuron  disease.  The  tragic  disease slowly stripped her  of her 
+independence, ultimately leaving her permanently paralyzed and mute. Local clerics were 
+unable to stave off the advancement of the disease, much less cure it, as it proved to be 
+genetic in nature (it is literally part of Hama’s natural state). She suffered for months as a 
+scant handful of people gave her token assistance, allowing her to do little more than 
+survive—worse  yet, many  of the villagers she once loved showed their true character 
+during this time, and were abusive and cruel to her. Through a driving need  for self-
+sufficiency  and  desperate for  a means of escape,  she was able  to  unlock her latent 
+sorcerer’s  powers  through sheer force of will.  To those around her, it seemed a 
+miraculous recovery.  In truth, however,  her newfound  powers  allowed her  to 
+continue functioning in everyday life by possessing the stolen bodies of others with 
+her animated shadow (almost exclusively targeting those who had tormented her). 
+She kept her powers a secret, using magic to conceal her helpless true form and to 
+make her host victims look like herself. In time, she grew drunk on her power and 
+began to take on young lovers via her magical enchantments, some of whom were 
+already spoken for. When her fellow villagers found out  about her  magical 
+influences, they branded her as an evil, manipulative witch and exiled her on pain of death—never realizing the 
+true extent of her powers. 
+ 
+Over the course of the following year, many of the villagers began to disappear. Hama had begun her revenge. 
+The village leaders deduced that Hama was behind the disappearances and they sent a small band of young hunters 
+to her forest hovel to kill her. She ambushed the young hunters and used her abilities to bend them to her will. 
+They returned to their village a week later and promptly began to slaughter their friends and families. By the time 
+the hunters were killed, Hama had made good her escape from the region. The surviving villagers never truly 
+recovered from Hama’s wrath. To this day, few still living know of Hama’s disease, her continued paralysis, or 
+of her ability to possess the bodies of others. 
+ 
+Now alone in the world with a crippling physical condition and nothing but her sorcery with which to aid her, 
+Hama now frequently surrounds herself with powerful pawns for protection. She has since begun traveling the 
+world in her ox-drawn wagon, posing as a harmless old crone and tradeswoman in search of profit. It is her hope 
+that she will one day remove her condition, find the power to stay young and beautiful forever, and obtain more 
+power in its own right.  On occasion, she still sends her former village a reminder of her seething rage. Her 
+vengeance has since become a terrifying bedtime story told to young children to keep them wary of strangers. 
+   
+
+Hama 
+Female human sorcerer 12 
+NE Medium humanoid 
+Init +4; Senses familiar’s alertness; Perception +2 
+Languages Common, Infernal, Sylvan 
+DEFENSE 
+AC 18, touch 14, flat-footed 14 (+4 armor, +4 Dexterity); mage armor 
+hp 104 plus false life (12 HD) 
+Fort +12, Ref +12, Will +14 
+Weaknesses paralyzed 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good); overland flight 
+Melee +2 longspear +9/+4 (1d8+3 plus poison/×3) via shadow weapon 
+Ranged mwk sling +11/+6 (1d4+1 plus poison) 
+Sorcerer Spells Known (CL 12
+th; Concentration +24) 
+6th  (4/day) – major curseVS UM 
+5
+th  (7/day) – baleful polymorph
+VS, dominate personVS B, feeblemindVS, magic jarVSF, overland flightVS B 
+4th  (8/day) – bestow curse
+VS, dimension doorV B, greater invisibility
+VS, remove curse
+VS, shadow 
+projection
+S APG, summon monster IV
+VSF 
+3rd  (8/day) – anthropomorphic animalVS UM, dispel magic
+VS B, gaseous form
+S, greater magic auraVSF UI, 
+haste
+VS, lightning bolt
+VS B, suggestionV, tonguesV 
+2nd (8/day) – alter selfVS, blindness/deafnessV, detect thoughtsVSF, false life
+VS, misdirection
+VS, miserable 
+pity
+VS UM, invisibility
+VS B, see invisibility
+VS B, shatterVS 
+1st  (9/day) – charm person
+VS, feather fallV, identify
+VS B, mage armorVSF B, magic auraVSF, magic 
+missile
+VS B, shield
+VS B, shadow weaponVS UM, silent image
+VSF, sow thoughtVS ARG, true strike
+VF B, 
+unseen servantVS, ventriloquism
+VF 
+0  (at will) – bleedVS, dancing lights
+VS, daze
+VS, detect magic
+VS, detect poisonVS, ghost soundVS, mage 
+handVS, mendingVS, message
+VSF, open/closeVSF, prestidigitation
+VS, read magic
+VSF 
+Bloodline arcane; Key V verbal component, 
+S somatic component, F focus component, B bonus bloodline spell 
+STATISTICS 
+Abilities Str 13 (+1), Dex 18 (+4), Con 18 (+4), Int 14 (+2), Wis 15 (+2), Cha 28 (+12) 
+Base Atk +6; CMB +7; CMD 21 
+Feats Craft Wondrous Item, Cunning Caster, Deceitful, Eschew Materials
+B, Improved Familiar, Penetrating 
+Possession, Silent Spell
+B, Spirit Vision, Still Spell
+B 
+Skills Bluff +31, Craft (alchemy) +10, Diplomacy +27, Disguise +14 (+24 with alter self), Handle Animal +12, 
+Intimidate +12, Knowledge (arcana) +6, Knowledge (nature) +6, Perform (any) +12, Profession 
+(herbalist) +6, Spellcraft +17, Use Magic Device +19; Circumstantial Bonuses +4 on Charisma-based 
+checks to appear friendly, harmless, helpless, or otherwise in need of assistance or deserving of proper 
+respect for someone of her apparent age (+8 bonus against children) 
+SQ arcane bond (consular imp familiar), bloodline arcana (+1 DC for metamagic spells that increase 
+spell level), new arcana (4
+th), metamagic adept (3/day), silver tongued 
+Combat Gear feather tokens (tree 6), poisons (dragon bile 9, oil of taggit 30), sling bullets (10); Other Gear 
+belt of physical perfection +6, cloak of immolation (cursed item, appears to be a cloak of resistance +1), 
+circlet of persuasion*, greater hat of disguise, Hama’s locket of guarded souls (functions as an iron 
+circlet of guarded souls, but uses the neck slot; contains Hama’s true body; see below), headband of 
+alluring charisma +6*, helm of opposite alignment (cursed item, appears to be a hat of disguise), 
+masterwork longspear (sharpened), masterwork sling, mastodon (trained for heavy labor), Osirian spirit 
+jars, oxen (4), pages of spell knowledge* (dominate person, lightning bolt, mage armor, magic missile, 
+see invisibility, shield, true strike), quick runner’s shirt, robe of infinite twine (with concealing pocket), 
+safecamp wagon, shawl of the crone (doubles as a cloak of resistance +4), sleeves of many garments, 
+
+tender (99sp), traveler’s any-tool, whetstone; Downtime Assets capital (goods 100), Hama’s 
+Apothecary (see below) 
+Encumbrance light 50 lb., medium 100 lb., heavy 150 lb.; Weight Carried 28 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Bloodline Arcana Whenever you apply a metamagic feat to a spell that increases the slot used by at least one 
+level, increase the spell’s DC by +1. This bonus does not stack with itself and does not apply to spells 
+modified by the Heighten Spell feat. 
+Metamagic Adept (Ex) Three times per day you can apply any one metamagic feat you know to a spell you are 
+about to cast without increasing the casting time. You must still expend a higher-level spell slot to cast 
+this spell. 
+Ongoing Spells You have used the magic aura and greater magic aura spells and your concealing pocket to 
+prevent all your magical gear and ongoing spells from radiating magic. Additionally, misdirection and 
+an insurmountable nondetection effect further befuddles any attempts to divine truths about you, your 
+familiar, or your gear. You frequently use magic jar to possess your pet mastodon and your greater hat 
+of disguise to resume humanoid form while doing so. Your paralyzed body (as well as any equipment 
+marked above with an asterisk) has been subjected to a minimus containment binding spell (CL 15
+th) 
+temporarily halting the advancement of your degenerative disease. Your body has been bound to your 
+arcane locked locket (superior lock, DC 50 to open, CL 3
+rd), for safekeeping. Should it ever be opened 
+or destroyed, your true body is freed (Spooky possesses the only known key). 
+Paralyzed Due to an incurable genetic disease, you have been left completely paralyzed. You cannot move, 
+speak, or take any physical action. You are rooted to the spot, frozen and helpless. You may still take 
+purely mental actions, such as casting a spell with no components, and friends can still move your limbs 
+or carry you about. The above stats do not reflect this condition. This disease is not transmittable to 
+others. 
+Poisons You carry a variety of poisons, which you often apply to your gloved hand or a victim’s drink: 
+Dragon bile—contact; save Fort DC 26, frequency 1/round for 6 rounds, effect 1d3 Str, cure none. 
+Oil of taggit—ingested; save Fort DC 15, onset 1 minute, effect unconsciousness for 1d3 hours, cure 1 
+save. 
+Silver Tongued When you use Diplomacy to shift a creature’s attitude, it can shift up to three steps up rather 
+than just two. 
+Trade Goods Though you appear poor, you are quite self-sufficient, keeping your wagon always well-stocked. 
+You can secure any nonmagical item worth 25gp or less from your belongings in your wagon in 1d10 
+minutes. You need only track purchases of meals or taxes in excess of 100gp. You must pay 1,000gp 
+each month towards keeping your wagon stocked as your cost of living for each month (the first month 
+of which has already been paid). Additionally, you possess 1,000gp of various trade goods within your 
+wagon which can be used for trade (represented above as earned capital). 
+ 
+Hama (human/mastodon form; as above, except as follows...) 
+Female mastodon sorcerer 12 
+NE Medium animal 
+Init +6; Senses familiar’s alertness; Perception +2 
+Languages Common, Infernal, Sylvan 
+DEFENSE 
+AC 20, touch 16, flat-footed 14 (+4 armor, +6 Dex); mage 
+armor 
+hp 145 plus false life (12 HD) 
+Fort +14, Ref +14, Will +14 
+OFFENSE 
+Melee +2 longspear +20/+15 (1d8+20 plus poison/×3) via 
+shadow weapon 
+Ranged mwk sling +13/+8 (1d4+12 plus poison) 
+
+STATISTICS 
+Abilities Str 34 (+12), Dex 22 (+6), Con 23 (+6), Int 14 (+2), Wis 15 (+2), Cha 28 (+12) 
+Base Atk +6; CMB +18; CMD 34 
+Encumbrance light 932 lb., medium 1,864 lb., heavy 2,800 lb.; Weight Carried 28 lb. (excluding tender) 
+ 
+Spooky the Cat 
+“You could not hope to pronounce my true name.” 
+ 
+Hama’s former cat familiar, Pooky, was sacrificed in a dark ritual  to summon a 
+powerful consular imp who holds the secret knowledge of lichdom. The consular 
+imp took the form of Pooky, though his near palpable aura of evil remains obvious 
+to some  unless concealed by magic. The new “Pooky” was so intimidating and 
+unnerving to most, that he quickly earned the nickname Spooky (which even Hama 
+calls him on occasion). 
+ 
+Spooky is  a vile creature that  goes out of its way  to make the lives of  others 
+(except Hama) miserable. He has been known to  mark strangers or their 
+supplies, contaminate or steal food, take heavy  objects to high heights and 
+drop them atop passerby, attack small pets and children, stare at easily spooked 
+people menacingly,  and generally occupy his free time by being as 
+mischievous as possible. Hama is fiercely protective of her familiar and 
+always takes Spooky’s side when approached about her cat’s troublesome behavior. Spooky never misbehaves in 
+front of Hama unless specifically ordered to do so by Hama herself. 
+ 
+Due to the nature of his arrangement with Hama, he never deliberately brings her to any harm. Instead, he works 
+towards guiding her down a path of corruption and evil by tempting her with the promise of immortality (which 
+Hama falsely believes will allow her to regain her mobility and preserve the natural youth and beauty she once 
+had—a misconception Spooky continues to exploit to his own ends). He hopes that by aiding her along her path 
+to power,  she will  prove to be a wondrous instrument of corruption, destruction, and  misery in the realm of 
+mortals. To that end, Spooky also carries several healing potions with him at all times, should Hama have need 
+of them. Should Hama prove a promising instrument of evil, he has every intention of giving her the secrets of 
+lichdom so that she may remain a pawn of evil for a great many centuries to come. The pain, anguish, and rage 
+that will surely arise out of witnessing her hideous new undead form after the unholy transformation ritual is 
+completed will not only make her easier to control, but it is also something that Spooky hopes to relish for many 
+centuries to come. 
+ 
+   
+
+Spooky 
+Male consular imp familiar 
+LE Tiny outsider (devil, evil, extraplanar, lawful) 
+Init +3; Senses darkvision 60 ft., detect good, detect magic, see in darkness; 
+Perception +7 
+Languages Common, Infernal, Sylvan; empathic link, telepathy 50 ft. 
+DEFENSE 
+AC 22, touch 16, flat-footed 18 (+3 Dex, +1 dodge, +6 natural, +2 size) 
+hp 52 (12 HD) 
+Fort +4, Ref +7, Will +9 
+Defensive Abilities improved evasion; Immune fire, poison; Resist acid 10, cold 10; 
+SR 17 
+OFFENSE 
+Speed 20 ft. (4 squares), fly 50 ft. (perfect) 
+Melee sting +10 (1d4 plus poison) or 
+by spell +10 touch (as the spell) 
+Space 2½ ft.; Reach 0 ft. 
+Special Attacks deliver touch spells 
+Spell-like Abilities (CL 6
+th except where noted) 
+Constant – detect good, detect magic 
+At will – invisibility (self only) 
+1/day – augury, suggestion (Will DC 15 negates) 
+1/week – commune (6 questions, CL 12th) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 17 (+3), Con 10 (+0), Int 13 (+1), Wis 12 (+1), Cha 14 (+2) 
+Base Atk +6; CMB +4; CMD 18 
+Feats Dodge, Weapon Finesse 
+Skills Acrobatics +9, Bluff +17, Diplomacy +17, Craft (alchemy) +9, Fly +21, Knowledge (arcana) +7, 
+Knowledge (nature) +2, Knowledge (planes) +7, Perception +7, Profession (herbalist) +2, Sense Motive 
++4, Spellcraft +16, Stealth +14, Use Magic Device +6 
+SQ alertness, change shape (boar, giant spider, or any small or tiny animal; beast shape II), empathic link, 
+familiar traits, share spells, speak with master 
+Combat Gear potions of cure light wounds (8); Other Gear locket key, pouch 
+Encumbrance light 24 lb. 12 oz., medium 49 lb. 8 oz., heavy 75 lb.; Weight Carried 8 oz. 
+SPECIAL ABILITIES 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+Change Shape (Su) This ability functions as a polymorph spell, the type of which is listed above, but Spooky 
+does not adjust his ability scores (although he does gain any other abilities of the creature he mimics). 
+Deliver Touch Spells (Su) If you and your familiar are in contact at the time you cast a touch spell, you can 
+designate your familiar as the toucher. Your familiar can then deliver the touch spell personally. As 
+usual, if you cast another spell before the touch is delivered, the touch spell dissipates. 
+Empathic Link (Su) Your familiar has an empathic link with you out to one mile. You cannot see through your 
+familiar’s eyes, but the two of you can communicate empathically. Only general emotional content can 
+be communicated. You have the same connection to an item or place that your familiar does. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, your familiar takes no damage if it makes a successful saving throw and half damage even if 
+the saving throw fails. 
+Poison (Ex) Sting—injury; save Fort DC 13; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save. The 
+save DC is Constitution-based, and includes a +2 racial bonus. 
+
+Share Spells You may cast a spell with a target of “You” on your familiar (as a touch spell) instead of on 
+yourself. You may cast spells on your familiar even if the spells do not normally affect creatures of the 
+familiar’s type (magical beast). 
+Speak With Master (Ex) You and your familiar may communicate verbally, using a private language no one 
+else understands. 
+Telepathy (Su) Spooky can mentally communicate with any other creature within 50 feet that has a language. It 
+is possible to address multiple creatures at once telepathically, although maintaining a telepathic 
+conversation with more than one creature at a time is just as difficult as simultaneously speaking and 
+listening to multiple people at the same time. 
+ 
+Hama’s Apothecary 
+ 
+Hama’s Apothecary is a large three-story building among several 
+other shops and businesses. Behind the humble storefront lies the 
+faded grandeur of a decaying manor built a century ago. The first 
+and second floors’ exterior walls are clay brick 1½ feet thick, and 
+the third floor walls are timber 6 inches thick (all requiring a DC 
+25 Climb check to scale). Stone tiles 1 inch thick cover the roof, 
+and unless noted otherwise, the windows are shuttered and nailed 
+shut (hardness 5, hp 15, Break DC 18). The building has one 
+large chimney, which narrows at the top to an opening 1 foot 
+square, as well as a large greenhouse, both of which are protected by reinforced iron grilles (hardness 10, hp 30, 
+Break DC 25). 
+ 
+Benefits of Hama’s Apothecary: 
+•  Counts as an alchemist’s lab. 
+•  Residents, guests, employees, and others who frequent the building gain a +2 bonus on Fortitude saves 
+to resist contracting a disease while in the same settlement. 
+•  By spending an hour conversing with guests in a social manner, the host of the sitting room gains a +1 
+bonus on Bluff, Diplomacy, Intimidate, Knowledge (local), and Perform checks to influence or learn 
+about those guests for the next 24 hours. 
+•  Automatically generates 39gp & 2sp (or 16gp & 8sp with manager), 35 goods, 14 influence, or 21 magic 
+each week, on its own, after expenses. 
+  HAMA’S APOTHECARY 
+Rooms/Teams  Gold  Goods  Influence  Labor  Magic 
+Alchemy Lab (furnished)  +15  +15  -  -  +15 
+Bedroom  +3  -  +3  -  - 
+Greenhouse  +12  +12  +12  -  - 
+Kitchen  +4  +4  -  -  - 
+Lavatory  -  -  -  -  - 
+Office  -  -  -  -  - 
+Sitting Room  -  -  +4  -  - 
+Storage  +2  -  -  -  - 
+Storefront (furnished)  +10  +10  -  -  +10 
+Totals  +46  +41  +19  +0  +25 
+Manager: 1 master smith (3rd-level alchemist), +8 skill modifier (always takes 10), 4gp/day 
+Manager is rarely used, but kept on call for when Hama is away traveling. 
+ 

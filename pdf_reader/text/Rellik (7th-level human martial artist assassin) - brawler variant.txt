@@ -1,0 +1,111 @@
+
+
+Rellik 
+Male human brawler 6/assassin 1 (snakebite striker) 
+LE Medium humanoid 
+Init +4; Senses Perception +12 
+Languages Common, Draconic, Dwarven, Elven, Giant, Gnoll, Gnome, Goblin, 
+Hafling, Orc, Undercommon 
+DEFENSE 
+AC 22, touch 17, flat-footed 16 (+4 armor, +1 deflection, +4 Dex, +2 dodge, +1 
+natural) 
+hp 68 (7 HD) 
+Fort +7, Ref +10, Will +4 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee assassin’s blade +13/+8 (1d6+4 plus poison) or 
+assassin’s blade +11/+11/+6 (1d6+4 plus poison) with Brawler’s Flurry, 
+or 
+unarmed strike +10/+5 (1d8+2 plus poison) or 
+unarmed strike +8/+8/+3 (1d8+2 plus poison) with Brawler’s Flurry 
+Ranged +1 composite shortbow +11/+6 (1d6+3 plus poison/×3) 
+Special Attacks brawler’s flurry (two-weapon fighting), brawler’s strike (magic), close weapon mastery (1d6), 
+death attack (DC 17, 1d6+1 rounds), knockout 1/day (DC 17), snake feint, sneak attack +4d6 
+STATISTICS 
+Abilities Str 14 (+2), Dex 18 (+4), Con 14 (+2), Int 16 (+3), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +6; CMB +8 (+10 with Weapon Finesse); CMD 25 
+SQ brawler’s cunning, martial training, poison use 
+Feats Ability Focus (death attack), Accomplished Sneak Attacker, Adder Strike, Dodge
+B, Improved Unarmed 
+Strike
+B, Master Alchemist, Weapon Finesse
+B, Weapon Focus (punching dagger
+B) 
+Skills Acrobatics +14, Bluff +10, Craft (alchemy) +13, Disable Device +11 (improvised tools), Disguise +10, 
+Linguistics +13, Perception +12, Sleight of Hand +14, Stealth +14 
+Combat Gear arrows (20), poisons (blue whinnis 10, large scorpion venom 15), smokesticks (3); Other 
+Gear +1 composite shortbow (+2 strength), +1 studded leather armor, amulet of natural armor +1, 
+assassin’s blade (as assassin’s dagger, but is a spiked gauntlet), belt of incredible dexterity +2, ring of 
+protection +1, tindertwigs (24) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 29 lb. 8 oz. 
+SPECIAL ABILITIES 
+AC Bonus (Ex) While wearing light or no armor, you gain a +2 dodge bonus to AC and CMD. These bonuses 
+to AC apply against touch attacks. You lose these bonuses while immobilized or helpless, wearing 
+medium or heavy armor, using a shield, or carrying a medium or heavy load. 
+Brawler’s Cunning (Ex) If your Intelligence score is less than 13, it counts as 13 for the purpose of meeting 
+the prerequisites of combat feats. 
+Brawler’s Flurry (Ex) You can make a brawler’s flurry as a full-attack action. When doing so, you have the 
+Two-Weapon Fighting feat when attacking with any combination of unarmed strikes, weapons from the 
+close fighter weapon group, or weapons with the “monk” special feature. You do not need to use two 
+different weapons to use this ability. You apply your full Strength modifier to your damage rolls for all 
+attacks made with brawler’s flurry, whether the attacks are made with an off-hand weapon or a weapon 
+wielded in both hands. You can substitute disarm, sunder, and trip combat maneuvers for unarmed 
+attacks as part of brawler’s flurry. You can’t use natural weapons as part of brawler’s flurry, nor can you 
+make natural weapon attacks in addition to your brawler’s flurry attacks. 
+Brawler’s Strike (Ex) Your unarmed strikes are treated as magic weapons for the purpose of overcoming 
+damage reduction. 
+
+Close Weapon Mastery (Ex) Your damage with close weapons increases. When wielding a close weapon, you 
+use the unarmed strike damage of a brawler 4 levels lower instead of the base damage for that weapon. 
+If the weapon normally deals more damage than this, its damage is unchanged. This ability does not 
+affect any other aspect of the weapon. You can decide to use the weapon’s base damage instead of your 
+adjusted unarmed strike damage—this must be declared before the attack roll is made. 
+Death Attack (Ex) If you study your victim for 3 rounds and then make a sneak attack with a melee weapon 
+that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or 
+killing the target (your choice). Studying the victim is a standard action. The death attack fails if the 
+target detects you or recognizes you as an enemy (although the attack might still be a sneak attack if the 
+target is denied his Dexterity bonus to his Armor Class or is flanked). If the victim of such a death attack 
+fails a Fortitude save (DC 17) against the kill effect, they die. If the saving throw fails against the 
+paralysis effect, the victim is rendered helpless and unable to act for 1d6+2 rounds. If the victim’s 
+saving throw succeeds, the attack is just a normal sneak attack. Once you have completed the 3 rounds 
+of study, you must make the death attack within the next 3 rounds. If a death attack is attempted and 
+fails (the victim makes their save) or if you do not launch the attack within 3 rounds of completing the 
+study, 3 new rounds of study are required before you can attempt another death attack. 
+Knockout (Ex) Once per day you can unleash a devastating attack that can instantly knock a target 
+unconscious. You must announce this intent before making your attack roll. If you hit and the target 
+takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + ½ your 
+brawler level + the higher of your Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. 
+Each round on its turn, the unconscious target may attempt a new saving throw to end the effect as a full 
+round action that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal 
+damage are immune to this ability. 
+Martial Training (Ex) You count your total brawler levels as both fighter levels and monk levels for the 
+purpose of qualifying for feats. You also count as both a fighter and a monk for feats and magic items 
+that have different effects based on whether the character has levels in those classes (such as Stunning 
+Fist and a monk’s robe). This ability does not automatically grant feats normally granted to fighters and 
+monks based on class level, namely Stunning Fist. 
+Poison Use You are trained in the use of poison and cannot accidentally poison yourself when applying poison 
+to a weapon. 
+Poison Blue whinnis—injury; save Fort DC 14, frequency 1/round for 2 rounds, effect 1 Con/unconsciousness 
+1d3 hours, cure 1 save. 
+Snake Feint (Ex) When you use a standard action to feint you can move as part of that action. If you are able to 
+feint as a move action (such as from having the Improved Feint feat), you can feint and move in the 
+same action. 
+Sneak Attack Your attack deals an extra 4d6 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+Unarmed Strike You gain Improved Unarmed Strike as a bonus feat. Your attacks may be with fist, elbows, 
+knees, and feet. This means that you may make unarmed strikes with his hands full. There is no such 
+thing as an off-hand attack for you. You may apply your full Strength bonus on damage rolls for all of 
+your unarmed strikes. Usually your unarmed strikes deal lethal damage, but you can choose to deal 
+nonlethal damage instead with no penalty on your attack roll. You have the same choice to deal lethal or 
+nonlethal damage while grappling. Your unarmed strike is treated as both a manufactured weapon and a 
+natural weapon for the purpose of spells and effects that enhance or improve either manufactured 
+
+weapons or natural weapons. You deal more damage with your unarmed strikes than a normal person 
+would, as shown above. 

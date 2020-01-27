@@ -1,0 +1,128 @@
+
+
+Geyger Yates 
+Male elf unchained rogue 10 (burglar) 
+CN Medium humanoid (elf) 
+Init +8; Senses darkvision 60 ft.; Perception +15 
+Languages Common, Dwarven, Elven, Gnome, Undercommon 
+DEFENSE 
+AC 24, touch 16, flat-footed 18 (+6 armor, +1 deflection, +6 Dex, +1 
+natural) 
+hp 72 (10 HD) 
+Fort +6, Ref +15, Will +7 
+Defensive Abilities danger sense +3, evasion; Immune light-based 
+blindness and dazzle effects 
+OFFENSE 
+Speed 30 ft. (6 squares); run ×5 
+Melee +1 conductive rapier +14/+9 (1d6+7/18-20) or 
+shocking grasp +13 touch (5d6 electricity) 
+Ranged +1 underwater light crossbow +14 (1d8+1/19-20) 
+Special Attacks debilitating injury, finesse training (rapier), sneak attack +5d6 
+Spell-like Abilities (CL 10
+th except where noted; Concentration +13) 
+At will – detect magic, light (CL 11
+th) 
+10/day – shocking grasp (may empower or quicken up to 3/day each) 
+1/day – comprehend languages, detect poison, read magic 
+STATISTICS 
+Abilities Str 10 (+0), Dex 22 (+6), Con 12 (+1), Int 16 (+3), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +7; CMB +13 (+15 steal); CMD 24 (26 vs steal) 
+Feats Agile Maneuvers, Empower Spell-Like Ability (shocking grasp), Extra Rogue Talent (2), Improved 
+StealB, Quicken Spell-Like Ability (shocking grasp), RunB, Weapon Finesse
+B 
+Skills Acrobatics +19 (+29 jumping), Appraise +16, Bluff +13, Climb +13, Disable Device +28, Disguise +13 
+(+23 with disguise self), Escape Artist +25, Knowledge (local) +16, Perception +15 (+18 to avoid 
+surprise, +20 to find traps, +25 to find floor traps within 10 feet), Sleight of Hand +24, Stealth +19 
+SQ careful disarm, compression, distraction, envoy, fleet-footed, rogue’s edge (acrobatics, disable 
+device), lightbringer, rogue talents (combat swipe, dispelling attack, expert leaper, ledge walker, major 
+magic, minor magic, quick disable), trapfinding +5 
+Combat Gear caltrops (3), chime of opening (10 charges), crossbow bolts (10), elixir of vision (2), snapleaf (2); 
+Other Gear +1 conductive rapier, +1 underwater light crossbow, +2 mithral shirt, amulet of natural 
+armor +1, belt of the weasel, burglar’s bracers, cloak of resistance +2, gloves of larceny, hat of 
+disguise, minor burglar boots, pathfinder pouch, ring of protection +1, robe of infinite twine, tender 
+(60sp), traveler’s any-tool, treasure hunter’s goggles, vest of escape 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 32 lb. 8 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Careful Disarm (Ex) Whenever you attempt to disarm a trap using Disable Device, you do not spring the trap 
+unless you fail by 10 or more. If you do set off a trap you were attempting to disarm, you add double 
+your danger sense bonus to avoid the trap. 
+Compression (Ex) You can move through an area as small as one-quarter your space without squeezing or 
+one-eighth your space when squeezing. 
+Danger Sense (Ex) You gain a +3 bonus on Reflex saves to avoid traps and a +3 dodge bonus to AC against 
+attacks made by traps. In addition, you gain a +3 bonus on Perception checks to avoid being surprised by 
+a foe. 
+Debilitating Injury (Ex) When you deal sneak attack damage to a foe, you can also debilitate the target of your 
+attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue talent 
+
+or other special ability). You can choose to apply any one of the 
+following penalties when the damage is dealt. 
+Bewildered: The target becomes bewildered, taking a –2 penalty 
+to AC. The target takes an additional –4 penalty to AC against all 
+attacks made by you. 
+Disoriented: The target takes a –2 penalty on attack rolls. In 
+addition, the target takes an additional –4 penalty on all attack rolls it 
+makes against you. 
+Hampered: All of the target’s speeds are reduced by half (to a 
+minimum of 5 feet). In addition, the target cannot take a 5-foot step. 
+These penalties do not stack with themselves, but additional 
+attacks that deal sneak attack damage extend the duration by 1 
+round. A creature cannot suffer from more than one penalty from 
+this ability at a time. If a new penalty is applied, the old penalty 
+immediately ends. Any form of healing applied to a target suffering 
+from one of these penalties also removes the penalty. 
+Dispelling Attack (Su) An opponent that is dealt sneak attack damage by you is affected by a targeted dispel 
+magic affecting the lowest-level spell effect active on the target. The caster level for this ability is equal 
+to your rogue level. 
+Distraction (Ex) Whenever you are detected while using Stealth, you can immediately attempt a Bluff skill 
+check opposed by the Sense Motive skill of the creature that spotted you. If this check succeeds, the 
+target assumes that the noise was something innocent and disregards the detection. This only functions if 
+the creature cannot see you. This ability can only be used once during a given Stealth attempt. If the 
+same creature detects your presence again, the ability has no effect.  
+Evasion (Ex) If you succeed at a Reflex saving throw against an attack that normally deals half damage on a 
+successful save, you instead take no damage. Evasion can be used only if you are wearing light armor or 
+no armor. You do not gain the benefit of evasion while helpless. 
+Expert Leaper (Ex) When using the Acrobatics skill to jump, you are always considered to have a running 
+start and add your rogue level to the check result. Whenever you deliberately fall, a successful DC 15 
+Acrobatics check allows you to ignore the first 20 feet fallen. For every 5 by which you exceed the DC 
+of this check, you can ignore an additional 10 feet of distance fallen. 
+Finesse Training (Ex) You gain Weapon Finesse as a bonus feat. In addition, you can select any one type of 
+weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it 
+cannot be changed. Whenever you make a successful melee attack with the selected weapon, you add 
+your Dexterity modifier instead of your Strength modifier to the damage roll. If any effect would 
+prevent you from adding your Strength modifier to the damage roll, you do not add your Dexterity 
+modifier. 
+Ledge Walker (Ex) You can move along narrow, uneven, or slippery surfaces (such as ice) at full speed using 
+the Acrobatics skill without penalty. In addition, you are not flat-footed when using Acrobatics to move 
+along such surfaces, and retain your Dexterity bonus to AC. 
+Quick Disable (Ex) It takes you half the normal amount of time to disable a trap using the Disable Device skill 
+(minimum 1 round). When you use Disable Device to open a lock that would normally take a full-round 
+action to open, you reduce the duration to a standard action. 
+Rogue’s Edge (Ex) You have mastered two skills beyond their normal boundaries, gaining results that others 
+can only dream about. 
+Acrobatics: You can move at normal speed through a threatened square without provoking an attack 
+of opportunity by increasing the DC of the check by 5 (instead of by 10). You aren’t denied your 
+Dexterity bonus when attempting Acrobatics checks with DCs of 20 or lower. 
+You can attempt an Acrobatics check at a –10 penalty and use the result as your CMD against trip 
+maneuvers. You can also attempt an Acrobatics check at a –10 penalty in place of a Reflex save to avoid 
+falling. You must choose to use this ability before the trip attempt or Reflex save is rolled. With a 
+successful DC 20 Acrobatics check, you treat an unintentional fall as 10 feet shorter plus 10 feet for 
+
+every 10 by which you exceed the DC, and treat an intentional fall as 10 feet shorter for every 10 by 
+which you exceed the DC. 
+Disable Device: Reduce the time required to disarm a trap or open a lock by taking a –5 penalty on 
+your Disable Device check for each step by which you reduce the time required: 2d4 rounds, 1d4 
+rounds, 1 round, a standard action, a move action, a swift action. 
+When attempting to disable magic traps, you never trigger them, even if you perform the trigger 
+action (such as looking at a symbol). If you fail the check, you can still trigger the trap, and you can’t use 
+this ability to bypass it. 
+Sneak Attack Your attack deals an extra 5d6 damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Ranged 
+attacks can count as sneak attacks only if the target is within 30 feet. This additional damage is precision 
+damage and is not multiplied on a critical hit. With a weapon that deals nonlethal damage (such as a sap, 
+unarmed strike, or whip), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack—
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with total 
+concealment. 
+Trapfinding You add ½ your rogue level on Perception checks to locate traps and on Disable Device checks 
+(minimum +1). You can use Disable Device to disarm magic traps. 

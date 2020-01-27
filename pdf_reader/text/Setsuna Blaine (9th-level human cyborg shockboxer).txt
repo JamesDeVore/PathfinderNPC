@@ -1,0 +1,201 @@
+
+
+Setsuna Blaine, unstable murderd sports star 
+“I’m just too fast—even for you.” 
+
+Setsuna Blaine was a promising young shock boxing star from Verces 
+who trained with skilled Kasatha martial artists. After a few years of 
+success, he slowly began to lose out to more and more cybernetically 
+enhanced challengers. Before long, the crowds stopped attending his 
+matches  and  instead  sought  the  excitement  provided  by  the 
+cybernetically augmented combatants. To save his career and remain 
+competitive, Setsuna opted to undergo a series of drastic cybernetic 
+enhancement surgeries himself. 
+
+Soon after his recovery, Setsuna was forced to begin working with a 
+crooked  fight  promoter  to  gain  the  additional  financial  support  he 
+needed to pay off the debt left over from his many surgeries. Setsuna 
+again found success. He rose through the ranks and eventually won 
+the right to challenge the Pact Worlds’ shock boxing champion. 
+
+During the final match of Setsuna’s athletic career, seconds before he 
+was  about  to  deliver  the  fatal  blow  to  the  reigning  champion,  his 
+cybernetic heart shut down, killing him. Setsuna’s corrupt fight promoter had traded his own fighter’s life for a 
+sure bet on the championship fight. An advanced electronic virus, designed to shut down all his vital systems, 
+had been secretly implanted in Setsuna’s cybernetic systems during his final surgery. 
+
+One of Setsuna’s trusted friends carried his body offstage and attempted to resuscitate him. When that failed, 
+he discovered and managed to isolate the deadly virus, restoring Setsuna’s cybernetic systems back to normal. 
+Still clinically dead, Setsuna was then rushed to the nearest hospital and resuscitated. The doctors and medical 
+androids managed to revive the young shock boxer, but at a terrible cost. Setsuna’s doctors had taken too long, 
+and he suffered massive brain damage as a result. Though his life was saved, Setsuna forever lost much of what 
+still made him human. 
+
+Setsuna now relies on a new cybernetic implant; an artificial processor and exocortex that interacts with and 
+augments his biological brain’s functions, allowing him to continue to stay alive. Merely a shadow of what he 
+once was, and thought dead by most members of the public, Setsuna is now shadowed by a 24-hour caretaker 
+whose job is as much to keep him out of trouble as it is to keep him alive. 
+
+The debilitated sports star one day hopes to uncover the mystery behind his downfall, and try to regain all he 
+once had. To that end, he has taught himself as much as he can about computers and computer viruses. This 
+has  ultimately  allowed him  to  weaponize the  very  computer  virus  that  killed him,  using  it  to disrupt  nearby 
+technological systems. However, between his newfound inability to feel emotions, frequent migraines, heavy 
+drinking, and violent outbursts, such a second chance for this fighter may prove quite impossible. His friends 
+and caretaker, in the meantime, ceaselessly struggle to keep him from landing an extended stay in prison. 
+
+   
+
+SETSUNE BLAINE 
+Male human icon soldier 1/mechanic 8 
+CN Medium humanoid (human) 
+Init +9; Senses darkvision 60 ft., low-light vision; Perception +12 
+
+DEFENSE  SP 73     HP 59     RP 10 
+EAC 27; KAC 29 (armor +13/+15, Dex +3, insight +1) 
+Fort +10, Ref +11 (may reroll), Will +4 
+Defensive Abilities electrostatic field (1d6 E), hyperclocking, overclocking; Resistances electricity 5 
+
+OFFENSE 
+Speed 50 ft. (10 squares) 
+Melee unarmed strike +13 (2d6+24 B) or 
+aurora polarity gauntlets +13 (2d6+10 E; operative, polarize 1d6, powered) 
+Ranged tactical infinity rifle +10 (1d6+9 F; boost 1d6) 
+Offensive Abilities combat tracking, miracle worker, overload (DC 15) 
+
+STATISTICS 
+Str 22 (+6); Dex 16 (+3); Con 14 (+2); Int 12 (+1); Wis 10 (+0); Cha 13 (+1) 
+Skills Acrobatics +14, Athletics +20 (+28 to jump), Computers +15, Culture +7, Engineering +12, Perception 
++14, Profession (athlete) +14; Armor Check Penalty –1 
+Feats Improved Unarmed Strike, MobilityB, Sidestep, Skill Focus (athleticsB), Step Up, Step Up and 
+Strike, Versatile Specialization 
+Languages Common, Kasatha, Vercite 
+Other Abilities artificial intelligence (exocortex), bypass +2, celebrity, custom rig (datajack), exocortex mods 
+(speed), expert rig (security I), memory module, nightvision processor, primary fighting style (blitz), 
+rapid response, remote hack (DC 23), theme knowledge, visual data processor, weapon specialization, 
+wireless hack 
+Combat Gear spare ammunition (battery); Other Gear advanced armored keikogi (as iridishell, see below; 
+upgrade: Mk I electrostatic field), aurora polarity gauntlets (weapon accessory: inertial dampener), 
+clothing (everyday, professional, travel), credstick (31 credits), hygiene kit, personal comm unit, ring of 
+slams (as ring of fangs, but see below), tactical infinity rifle; Augmentations cardiac accelerator, 
+prosthetic limbs (2 arms), standard datajack, synaptic accelerators (Strength Mk II, Dexterity Mk I) 
+Encumbrance Limits unencumbered 0 - 11, encumbered 12 - 22, overburdened 23+; Current Bulk 5.3 
+
+SPECIAL ABILITIES 
+Bypass (Ex) You are skilled at getting inside computer systems and electronic devices. You gain a +2 insight 
+bonus to Computers and Engineering skill checks (included above). 
+Celebrity You are famous enough that pretty much everyone has either heard of you or can quickly find 
+information about you (it’s a DC 10 Culture check to recognize your name and a DC 20 Culture check 
+for someone to recognize you out of context from your appearance alone). Among those who follow 
+your iconic profession, you’ve built up both fans and detractors due to your celebrity. If you’re looking 
+for a generic person like “a doctor who can treat this disease,” you can almost always find one who’s a 
+fan and whose attitude starts as friendly or helpful to you; this takes 2d4 hours. At the GM’s discretion, 
+fans might give you services (although not goods) for a discount or even for free. 
+Combat Tracking (Ex) Your exocortex provides you with enhanced combat ability, granting you proficiency 
+with heavy armor and longarms. You also gain weapon specialization in longarms just as if your class 
+granted proficiency. As a move action during combat, you can designate a foe for your exocortex to 
+
+track. As long as that target is in sight, the exocortex feeds you telemetry, vulnerabilities, and combat 
+tactics, allowing you to make attacks against that target as if your base attack bonus from your 
+mechanic levels were equal to your mechanic level. Designating another target causes you to 
+immediately lose this bonus against the previous target. 
+Custom Rig (Ex) While using this rig, you always count as having the appropriate tool or basic kit for any 
+Computers or Engineering skill check you attempt. In addition, you can use your custom rig as a 
+personal comm unit. If your custom rig is damaged, destroyed, lost, or stolen, you can kitbash a new 
+one from any engineering kit, hacking kit, or other technological toolkit, reconfiguring the materials 
+into a new custom rig with 1 hour of work. You can have only one custom rig at a time. If you create a 
+new custom rig, your old one functions as a normal toolkit of whatever type you made it from and can 
+no longer be used with your mechanic tricks. 
+Exocortex Mods (Ex) Your land speed increases by 10 feet (included above). 
+Expert Rig (Ex) Whenever you use your custom rig to successfully hack into a computer, you can also disable 
+one countermeasure installed in the system (except firewalls). In addition, your custom rig can now be 
+used as any engineering or hacking specialty kit of item level 6th or lower, and it has the features of a 
+computer with a tier equal to half your level with the artificial personality, hardened, or security I 
+upgrade module. It also has an audio/video recorder. You can add extra modules or countermeasures 
+to your custom rig at the normal prices. You can also use your custom rig to communicate over an 
+encrypted channel with your ship, allowing you to access your ship’s downloaded data sets and 
+transponder at a range of 5 miles. If you have a drone, you can issue commands to or directly control 
+your drone at the same range. 
+Hyperclocking (Ex) You gain a +1 insight bonus to AC (included above). In addition, whenever you fail a Reflex 
+saving throw, you can spend 1 Resolve Point to reroll the saving throw and take the higher result. 
+Memory Module (Ex) You can use your exocortex’s memory module to enhance your own knowledge. Once 
+per day, as a reaction while not in combat, you can reroll a failed skill check to recall knowledge. In 
+addition, your exocortex grants you the Skill Focus feat as a bonus feat. You can’t use your exocortex’s 
+memory module while combat tracking is activated. Every time you gain a mechanic level, you can 
+rebuild your exocortex’s memory module, replacing the exocortex’s bonus Skill Focus feat with Skill 
+Focus in a different skill. 
+Miracle Worker (Ex) As a move action, you can repair damage to a starship’s systems or modify a suit of armor 
+or weapon to function more efficiently. To use this ability, you must be able to handle the item 
+affected without impediment. You can use this ability once per day. The exact effect of this ability 
+depends on the object or system you are modifying. 
+Armor: You grant a +2 enhancement bonus to a suit of armor’s EAC and KAC for 1 minute. 
+Weapon: You grant a +2 enhancement bonus to a weapon’s attack and damage rolls for 1 minute. 
+Damaged Ship: You restore a number of Hull Points equal to the starship's base frame HP 
+increment. If this raises the ship’s HP over a multiple of its Critical Threshold, you can repair critical 
+damage to one system per multiple, reducing its severity by one step. Using this ability during starship 
+combat is your action for the turn, and you can do it only during the engineering phase. 
+Nightvision Processor (Ex) Your visual data processor allows you to see better in conditions of poor lighting, 
+granting you low-light vision and darkvision to a range of 60 feet. 
+Overclocking (Ex) You gain a +2 insight bonus to initiative checks and Reflex saves (included above). 
+Overload (Ex) As a standard action, you can cause a short in an electronic device, including most ranged 
+energy weapons, melee weapons with the powered special property, or a single armor upgrade. This 
+makes the device nonfunctional for 1 round. Overload doesn’t cause a locked door, safe, or other 
+device to open, but it prevents anyone from opening it for 1 round. You can use this ability on any 
+electronic device within range of your exocortex’s wireless hack. If you use overload on an item or 
+armor upgrade in someone’s possession, the owner can attempt a Reflex saving throw to negate the 
+effect (DC = 10 + half your mechanic level + your Intelligence modifier). Overload doesn’t affect 
+
+androids, cybernetics, drones, powered armor, robots, or creatures with the technological subtype (all 
+of which have shielding against this sort of attack), or items larger than Medium. Once a device has 
+been successfully overloaded, a residual static charge prevents that device from being overloaded 
+again for 1 minute. 
+Rapid Response (Ex) You gain a +4 bonus to initiative checks and increase your land speed by 10 feet (included 
+above). 
+Remote Hack (Ex) You can use your custom rig to attempt Computers and Engineering skill checks at a range 
+of 40 feet. A target of this ability (or a creature attending or observing your target) can attempt a 
+Perception or Sense Motive check (DC = 10 + 1½ × your mechanic level + your Intelligence modifier) to 
+determine that you are the origin of this activity. 
+Theme Knowledge When attempting a Profession or Culture check to recall knowledge about other icons of 
+your profession or details about your profession’s cultural aspects, decrease the DC by 5. You gain a +1 
+bonus to checks with your chosen Profession skill. Culture also becomes a class skill for you. 
+Visual Data Processor (Ex) You notice even the smallest shifts in movement, temperature, and vibration, 
+gaining the insight bonus from your bypass class feature to Perception skill checks (included above). 
+Weapon Specialization (Ex) You gain the Weapon Specialization feat as a bonus feat for each weapon type 
+with which the Mechanic class grants you proficiency. 
+Wireless Hack (Ex) Instead of combat tracking, your exocortex can access another computer system within 20 
+feet, allowing it to attempt a Computers check against that computer each round, using your skill 
+bonus. This counts as a standard action for the purpose of the Computers skill. You must remain within 
+20 feet of the computer system for the entire time your exocortex is interacting with the computer. If 
+the task requires multiple actions (or even rounds) to accomplish, you can spend your actions to work 
+in concert with your exocortex, counting both your action and the exocortex’s effective standard action 
+toward the total time required. 
+
+GEAR DESCRIPTIONS 
+Armored Keikogi A keikogi is a martial arts training uniform that originated among the many martial arts 
+traditions of ancient Tian Xia. It comprised primarily of three parts that were usually cut from different 
+fabrics: a very heavy jacket, lighter canvas pants, and a cotton belt. Though like the shorter styles of 
+kimono, a keikogi was invariably made from heavy-weight cotton or cotton blend. Due to the nature of 
+martial arts practice, they commonly had heavier stitching and double-layered knee patches to provide 
+durability. An armored keikogi is not meant for training however, but for war, and has been upgraded 
+with modern high-tech fibers, concealed fortified plates, contingent force fields, and rebreathers to 
+protect the wearer in hostile environmental conditions. It is statistically identical to iridishell armor and 
+uses the same naming conventions for its quality rating (basic, advanced, or superior). 
+Cardiac Accelerator This implant plugs directly into your heart and can be triggered to overclock the 
+performance of your heart and circulatory system. When you run, charge, or take a move action to 
+move, you can spend 1 Resolve Point to increase your speed (in the relevant mode of movement) by 
+20 feet for that action. This extra movement is treated as an enhancement bonus (and thus does not 
+stack with the 20-foot land speed boost granted by your speed suspension implant). Alternatively, you 
+can spend 1 Resolve Point as a reaction when you attempt a Reflex saving throw to gain a +1 
+enhancement bonus to your roll. 
+Custom Rig Your custom rig is installed as a cybernetic augmentation system in your brain, exists as part of 
+your exocortex, and is easily accessible via datajack. It has the features of a computer with a tier equal 
+to half your mechanic level with the security I upgrade (tier 4 computer, DC 30 to hack) and lockout 
+(one attempt) and wipe countermeasures (one attempt, wipes any stored audio/visual recording data). 
+Professional Clothing Your professional clothing consists of a vibrant robe and a pair of athletic shorts meant 
+to be worn during shockboxing matches or, at times, during press conferences. The uniform is also 
+commonly worn with protective headgear, a mouth guard, arm wraps, and a pair of polarity gauntlets. 
+
+Ring of Slams When you wear this ring, your arms become far denser, giving you a powerful slam attack. You 
+can choose to have your unarmed attacks deal lethal bludgeoning damage, and if you are 3rd level or 
+higher, you automatically gain a special version of the Weapon Specialization feat that adds double 
+your level to the damage of these unarmed attacks (rather than adding your level). Usage of such items 
+during shock boxing matches is grounds for immediate disqualification. 

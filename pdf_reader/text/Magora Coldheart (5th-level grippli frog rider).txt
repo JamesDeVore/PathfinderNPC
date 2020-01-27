@@ -1,0 +1,112 @@
+
+
+Magora Coldheart 
+Female grippli cavalier 5 (beast rider) 
+NG Small humanoid (grippli) 
+Init +3; Senses darkvision 60 ft.; Perception +10 
+Languages Boggard, Common, Grippli 
+DEFENSE 
+AC 24, touch 14, flat-footed 21 (+7 armor, +3 Dex, +3 shield, +1 
+size) 
+hp 50 (5 HD) 
+Fort +7, Ref +5, Will +4 
+OFFENSE 
+Speed 30 ft. (6 squares), climb 20 ft. 
+Melee +1 longsword +9 (1d6+3/19-20) or 
++1 longsword +13 (2d6+6/19-20) with Spirited Charge, or 
++1 lance +9 (1d6+3/×3) or 
++1 lance +13 (3d6+9/×3) with Spirited Charge 
+Ranged mwk composite longbow +10 (1d6+2/×3) or 
+net +9 touch (entangle) 
+Special Attacks cavalier’s charge, challenge 2/day (+5 damage, +2 allies’ attacks) 
+STATISTICS 
+Abilities Str 14 (+2), Dex 16 (+3), Con 14 (+2), Int 13 (+1), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +5; CMB +6; CMD 19 
+Feats Escape Route
+B, Mounted Combat, Ride-By Attack, Spirited Charge 
+Skills Climb +15, Handle Animal +8, Perception +10, Ride +8 (+12 with Darter), Stealth +4 (+8 in marshes or 
+forests), Survival +10 (+12 to help allies find food or avoid weather hazards), Swim +7; Armor Check 
+Penalty –3; Racial Bonus +4 Stealth in marshes or forests 
+SQ aid allies +3, banner, exotic mount (giant frog), order (Dragon), swamp stride, tactician (5 rounds), weapon 
+familiarity 
+Combat Gear bronze-headed darkwood arrows (20), potions of cure light wounds (20); Other Gear +1 bronze 
+breastplate, +1 heavy darkwood shield, +1 darkwood lance, +1 bronze longsword, banner (mounted on 
+back of breastplate), cloak of resistance +1, darkwood composite longbow (+2 strength bonus), nets (3), 
+tender (57gp) 
+Encumbrance light 43 lb. 8 oz., medium 87 lb., heavy 131 lb. 4 oz.; Weight Carried 27 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Aid Allies (Ex) Whenever you use the aid another action to assist one of your allies, the ally receives a +3 
+bonus to his Armor Class, attack roll, saving throw, or skill check. At 8th-level, and every six levels 
+thereafter, this bonus increases by an additional +1. 
+Banner (Ex) Your banner becomes a symbol of inspiration to your allies and companions. As long as your 
+banner is clearly visible, all allies within 60 feet receive a +2 morale bonus on saving throws against fear 
+and a +1 morale bonus on attack rolls made as part of a charge. The banner must be at least Small or 
+larger and must be carried or displayed by you or your mount to function. 
+Cavalier’s Charge (Ex) You learn to make more accurate charge attacks while mounted. You receive a +4 
+bonus on melee attack rolls on a charge while mounted (instead of the normal +2). In addition, you do 
+not suffer any penalty to your AC after making a charge attack while mounted. 
+Challenge (Ex) Twice per day, you can challenge a foe to combat. As a swift action, you choose one target 
+within sight to challenge. Your melee attacks deal extra damage whenever the attacks are made against 
+the target of your challenge. This extra damage is equal to your cavalier level. Challenging a foe 
+requires much of your concentration. You take a –2 penalty to your Armor Class, except against attacks 
+made by the target of your challenge. The challenge remains in effect until the target is dead or 
+unconscious or until the combat ends. In addition, whenever you issue a challenge, your allies receive a 
+
++1 circumstance bonus on melee attack rolls against the target of your challenge whenever you are 
+threatening the target. This bonus increases by +1 for every four cavalier levels you possess. 
+Swamp Stride (Ex) You can move through difficult terrain at your normal speed while within a swamp. 
+Magically altered terrain affects you normally. 
+Tactician (Ex) Once per day as a standard action, you can grant one of your teamwork class bonus feats to all 
+allies within 30 feet who can see and hear you. Allies retain the use of this bonus feat for 3 rounds plus 1 
+round for every two cavalier levels you possess. Allies do not need to meet the prerequisites of these 
+bonus feats. 
+ 
+Darter 
+Giant Frog Animal Companion 
+N Medium animal 
+Init +3; Senses low-light vision, scent; Perception –1 
+DEFENSE 
+AC 19, touch 12, flat-footed 17 (+4 armor, +2 Dex, +3 natural) 
+hp 45 (5 HD) 
+Fort +7, Ref +7, Will +0 
+Defensive Abilities evasion 
+OFFENSE 
+Speed 30 ft. (6 squares), swim 30 ft. 
+Melee bite +7 (1d6+4 plus grab) or 
+tongue +7 (grab/pull) 
+Space 5 ft.; Reach 5 ft. (15 ft. with tongue) 
+Special Attacks pull (tongue, 5 ft.), swallow whole (1d4 bludgeoning damage, AC 11, 4 hp), tongue 
+STATISTICS 
+Abilities Str 18 (+4), Dex 16 (+3), Con 16 (+3), Int 2 (–4), Wis 9 (–1), Cha 6 (–2) 
+Base Atk +3; CMB +7; CMD 20 (24 vs. overrun and trip) 
+Feats Armor Proficiency (light), Endurance
+B, Escape Route, Skill Focus (acrobatics) 
+Skills Acrobatics +13, Swim +11; Armor Check Penalty –1 
+SQ combat trained, link, tricks (attack, come, defend, down, fetch, guard, heel, stay) 
+Gear bit and bridle, exotic military saddle, masterwork chain shirt barding, saddlebags 
+Encumbrance light 150 lb., medium 300 lb., heavy 450 lb.; Weight Carried 74 lb. 
+SPECIAL ABILITIES 
+Link (Ex) You can handle your animal companion as a free action, or push it as a move action, even if you 
+don’t have any ranks in the Handle Animal skill. You gain a +4 circumstance bonus on all wild empathy 
+checks and Handle Animal checks made regarding an animal companion. 
+Pull (Ex) A giant frog can choose to make a free combat maneuver check with a successful tongue attack. If 
+successful, this check pulls a creature 5 feet closer. This ability only works on creatures of a size equal 
+to or smaller than the giant frog. Creatures pulled in this way do not provoke attacks of opportunity and 
+stop if the pull would move them into a solid object or creature. 
+Swallow Whole (Ex) If a giant frog begins its turn with an opponent grappled in its mouth, it can attempt a new 
+combat maneuver check (as though attempting to pin the opponent). If it succeeds, it swallows its prey, 
+and the opponent takes bite damage. The opponent must be up to one size category smaller than the 
+giant frog. Being swallowed causes a creature to take damage each round, as shown above. A swallowed 
+creature keeps the grappled condition, while the giant frog does not. A swallowed creature can try to cut 
+its way free with any light slashing or piercing weapon (the amount of cutting damage required to get 
+free is equal to 
+1/10 the giant frog’s total hit points), or it can just try to escape the grapple. The Armor 
+Class of the interior of a giant frog is normally 10 + ½ its natural armor bonus, with no modifiers for 
+size or Dexterity. If a swallowed creature cuts its way out, the giant frog cannot use swallow whole 
+
+again until the damage is healed. If the swallowed creature escapes the grapple, success puts it back in 
+the giant frog’s mouth, where it may be bitten or swallowed again. 
+Tongue (Ex) A giant frog’s tongue is a primary attack with reach equal to three times the frog’s normal reach 
+(15 feet for a Medium giant frog). A giant frog’s tongue deals no damage on a hit, but can be used to 
+grab. A giant frog does not gain the grappled condition while using its tongue in this manner. 
+ 

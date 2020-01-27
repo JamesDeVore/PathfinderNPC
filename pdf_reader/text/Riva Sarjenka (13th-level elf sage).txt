@@ -1,0 +1,101 @@
+
+
+Riva Sarjenka 
+Female venerable tower elf sorcerer 13 (wildblooded) 
+NE Medium humanoid (elf) 
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +19 
+Languages Celestial, Common, Draconic, Elven, Gnoll, Gnome, Goblin, Orc, 
+Sylvan 
+DEFENSE 
+AC 18, touch 14, flat-footed 14 (+4 armor, +4 Dex); mage armor 
+hp 86 plus greater false life (13 HD) 
+Fort +10, Ref +12, Will +14 
+Defensive Abilities no need to eat, drink, or breathe; Immunities aging, 
+alignment discernment, bleed, detect thoughts, discern lies, falling 
+damage, magic sleep effects 
+OFFENSE 
+Speed 40 ft. (8 squares), fly 40 ft. (average); overland flight 
+Melee staff +6/+1 (1d6) 
+Ranged arcane bolt +10 touch (1d4+8 force) 
+Spell-like Abilities (CL 14
+th; Concentration +25) 
+20/day – arcane bolt 
+Sorcerer Spells Known (CL 14
+th, or CL 16th vs. SR; Concentration +25, +27 to cast defensively) 
+6
+th  (6/day) – analyze dweomer
+F B, conjure black puddingUM M, legend lore
+M F B, repulsionF, true 
+seeingM B 
+5th  (8/day) – fabricate
+M, overland flight
+B, telekinesis, teleport 
+4th  (8/day) – bestow curse, dimension doorB, enervation, greater false lifeUM, greater invisibility, 
+scrying
+F N 
+3
+rd  (9/day) – dispel magic
+B, major image, slow, strangling hair
+UM, vampiric touch 
+2nd (9/day) – blindness/deafness, darkvision, detect thoughts, invisibility
+B, mirror image, shatter 
+1st  (9/day) – identify
+B, interrogation
+UM, mage armor, magic missile, shield, ventriloquism 
+0  (at will) – arcane mark, bleed, detect magic, light, mage hand, mending, message, open/close, 
+prestidigitation 
+Wizard Spells Prepared (CL 14
+th, or CL 16th vs. SR; Concentration +25, +27 to cast defensively) 
+5th  – cloudkill, dominate person 
+4th  – black tentacles 
+3rd  – fireball, haste, heroism, lightning bolt 
+2nd – resist energy (2) 
+1st  – endure elements, feather fall 
+Bloodline arcane (sage) 
+STATISTICS 
+Abilities Str 10 (+0), Dex 18 (+4), Con 14 (+2), Int 32 (+11), Wis 15 (+2), Cha 13 (+1) 
+Base Atk +6; CMB +6; CMD 20 
+Feats AlertnessB, Arcane Blast, Arcane Shield, Craft Wondrous Item, Eschew Materials
+B, Heighten Spell, 
+Reach Spell, Scribe Scroll
+B, Silent Spell, Still SpellB, Versatile Spontaneity 
+Skills Acrobatics +4 (+13 when jumping), Diplomacy +1 (+3 gather information), Disguise +11, Fly +11, 
+Knowledge (arcana) +29, Knowledge (dungeoneering) +24, Knowledge (engineering) +24, Knowledge 
+(geography) +24, Knowledge (history) +24, Knowledge (local) +24, Knowledge (nature) +24, 
+Knowledge (nobility) +24, Knowledge (planes) +27, Knowledge (religion) +24, Perception +19, Sense 
+Motive +19 (+21 social hunch), Spellcraft +29 (+31 magic item identification); Racial Bonuses +2 
+Diplomacy to gather information, +2 Sense Motive to get a hunch about a social situation, +2 Spellcraft 
+to identify magical items 
+SQ arcane focus, bloodline arcana (sorcerer abilities are Intelligence-based, +2 Knowledge: arcana and 
+Spellcraft checks), elven magic, new arcana (4
+th, 6th ×2), metamagic adept (4/day), urbanite 
+
+Combat Gear arcane spell scrolls (alter self, gust of wind, locate object, see invisibility), material components 
+(conjure black pudding, legend lore, true seeing); Other Gear blessed book (contains all core wizard 
+spells of 5
+th-level and lower), boots of striding and springing, cloak of resistance +4, focus components 
+(analyze dweomer, legend lore, repulsion, scrying), hat of disguise, headband of vast intellect +6 
+(knowledge: local, perception, sense motive), ioun stones (clear spindle, dark blue rhomboid, deep red 
+sphere, iridescent spindle, nacreous gray sphere [implanted], orange prism, pearly white spindle, pink 
+rhomboid), ring of feather falling, ring of mind shielding, robes of arcane heritage, staff (as 
+quarterstaff), tender (5gp), tome of clear thought +1 (already read) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 9 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Arcane Bolt (Sp) You can unleash a ray of magic force as a standard action, targeting any foe within 30 feet as 
+a ranged touch attack. This ray deals 1d4 points of damage + 1 for every two sorcerer levels you 
+possess. This damage is treated as a spell of a level equal to half your sorcerer level, and is a force 
+effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier (plus 6 
+additional uses due to favored class bonuses). 
+Arcane Focus You gain a +2 racial bonus on Concentration checks made to cast arcane spells defensively. 
+Concealed Gear You have used the magic aura spell to prevent all of your magical gear from radiating magic. 
+Additionally, your implanted ioun stone has been painstakingly hidden, requiring a DC 29 Perception 
+check to find when actively searched. 
+Metamagic Adept (Ex) Four times per day you can apply any one metamagic feat you know to a spell you are 
+about to cast without increasing the casting time. You must still expend a higher-level spell slot to cast 
+this spell. 
+New Arcana (Ex) You gain a small number of bonus spells. These spells are marked with a superscript “N” 
+above. 
+School Power (Ex) The DC for any spells you cast from the necromancy school increases by +2. This bonus 
+stacks with the bonus granted by Spell Focus. 
+Urbanite You gain a +2 racial bonus on Diplomacy checks made to gather information and on Sense Motive 
+checks made to get a hunch about a social situation. 

@@ -1,0 +1,191 @@
+
+
+Thom Merrilin 
+  
+
+Male middle-aged human bard 8 
+NG Medium humanoid 
+Init +2; Senses Perception +13 
+Languages Alklo, Common, Sylvan 
+DEFENSE 
+AC 22, touch 14, flat-footed 20 (+6 armor, +2 Dex, +2 deflection, +2 natural) 
+hp 66 (8 HD) 
+Fort +5, Ref +9, Will +9; +4 vs. bardic performance, language-dependent, 
+and sonic 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +1 keen rapier +8 (1d6+2/15-20) 
+Ranged by weapon +8 
+Special Attacks bardic performance 21 rounds/day (move action; countersong, dirge of doom, distraction, 
+fascinate, inspire competence +3, inspire courage +2, suggestion) 
+Bard Spells Known (CL 8th; Concentration +11) 
+3rd-level (3/day) – cure serious wounds, dispel magic, displacement, good hope, purging finale
+APG, 
+reviving finaleAPG 
+2nd-level (5/day) – acute senses
+UM, cure moderate wounds, gallant inspiration
+APG, heroism, mirror 
+image, see invisibility, silence 
+1st-level (5/day) – cure light wounds, feather fall, grease, moment of greatnessUC, remove fear, saving 
+finale
+APG, silent image 
+0-level (at will) – detect magic, mage hand, sparkAPG 
+STATISTICS 
+Abilities Str 12 (+1), Dex 15 (+2), Con 14 (+2), Int 14 (+2), Wis 14 (+2), Cha 16 (+3) 
+Base Atk +6; CMB +7; CMD 21 
+Feats Butterfly’s Sting, Combat Expertise, Leadership (base 11, cohort 13, followers 10), Lingering 
+Performance
+B, Outflank 
+Skills Bluff +14, Diplomacy +14, Knowledge (arcana) +13, Knowledge (dungeoneering) +13, Knowledge 
+(engineering) +13, Knowledge (geography) +13, Knowledge (history) +13, Knowledge (local) +13, 
+Knowledge (nature) +13, Knowledge (nobility) +13, Knowledge (planes) +13, Knowledge (religion) 
++13, Perception +13, Perform (oratory) +14, Perform (string) +14, Sense Motive +14, Spellcraft +13, 
+Stealth +9; Armor Check Penalty –4 
+Gear +1 heavy steel shield, +1 keen rapier, amulet of natural armor +2, cloak of resistance +1, Elven chain, 
+ring of protection +2, tender (49gp) 
+SQ bardic knowledge +4, lore master 1/day, versatile performance (oratory, string) 
+Encumbrance light 43 lb., medium 86 lb., heavy 130 lb.; Weight Carried 38 lb. (excluding tender) 
+ 
+   
+
+SPECIAL ABILITIES 
+Bardic Knowledge (Ex) You add half your class level (minimum 1) to all Knowledge skill checks and may 
+make all Knowledge skill checks untrained. 
+Bardic Performance: You can use this ability for a number of rounds per day equal to 4 + your Charisma 
+modifier. At each level after 1st you can use bardic performance for 2 additional rounds per day. Each 
+round, you can produce any one of the types of bardic performance that you have mastered, as indicated 
+by your level. Starting a bardic performance is a move action, but it can be maintained each round as a 
+free action. Changing a bardic performance from one effect to another requires you to stop the previous 
+performance and start a new one as a standard action. A bardic performance cannot be disrupted, but it 
+ends immediately if the bard is killed, paralyzed, stunned, knocked unconscious, or otherwise prevented 
+from taking a free action to maintain it each round. You cannot have more than one bardic performance 
+in effect at one time. Each bardic performance has audible components, visual components, or both. If a 
+bardic performance has audible components, the targets must be able to hear you for the performance to 
+have any effect, and such performances are language dependent. You have a 20% chance to fail when 
+attempting to use a bardic performance with an audible component while deaf. If you fail this check, the 
+attempt still counts against your daily limit. Deaf creatures are immune to bardic performances with 
+audible components. If a bardic performance has a visual component, the targets must have line of sight 
+to you for the performance to have any effect. You have a 50% chance to fail when attempting to use a 
+bardic performance with a visual component while blind. If you fail this check, the attempt still counts 
+against your daily limit. Blind creatures are immune to bardic performances with visual components. 
+Countersong (Su) You can counter magic effects that depend on sound (but not spells that have verbal 
+components). Each round of the countersong you make a Perform (keyboard, percussion, wind, string, 
+or sing) skill check. Any creature within 30 feet of you (including yourself) that is affected by a sonic or 
+language-dependent magical attack may use your Perform check result in place of its saving throw if, 
+after the saving throw is rolled, the Perform check result proves to be higher. If a creature within range 
+of the countersong is already under the effect of a non-instantaneous sonic or language-dependent 
+magical attack, it gains another saving throw against the effect each round it hears the countersong, but 
+it must use your Perform skill check result for the save. Countersong does not work on effects that don't 
+allow saves. Countersong relies on audible components. 
+Dirge of Doom (Su) You can use your performance to foster a sense of growing dread in your enemies, causing 
+them to become shaken. To be affected, an enemy must be within 30 feet and able to see and hear your 
+performance. The effect persists for as long as the enemy is within 30 feet and you continue your 
+performance. This performance cannot cause a creature to become frightened or panicked, even if the 
+targets are already shaken from another effect. Dirge of doom is a mind-affecting fear effect, and it 
+relies on audible and visual components. 
+Distraction (Su) You can use your performance to counter magic effects that depend on sight. Each round of 
+the distraction, you make a Perform (act, comedy, dance, or oratory) skill check. Any creature within 30 
+feet of you (including yourself) that is affected by an illusion (pattern) or illusion (figment) magical 
+attack may use your Perform check result in place of its saving throw if, after the saving throw is rolled, 
+the Perform skill check proves to be higher. If a creature within range of the distraction is already under 
+the effect of a non-instantaneous illusion (pattern) or illusion (figment) magical attack, it gains another 
+saving throw against the effect each round it sees the distraction, but it must use your Perform skill 
+check result for the save. Distraction does not work on effects that don't allow saves. Distraction relies 
+on visual components. 
+
+Fascinate (Su) You can use your performance to cause one or more creatures to become fascinated with you. 
+Each creature to be fascinated must be within 90 feet, able to see and hear you, and capable of paying 
+attention to you. You must also be able to see the creatures affected. The distraction of a nearby combat 
+or other dangers prevents this ability from working. For every three bard levels you have attained 
+beyond 1st, you can target one additional creature with this ability. Each creature within range receives a 
+Will save (DC 10 + ½ your bard level + your Cha modifier) to negate the effect. If a creature’s saving 
+throw succeeds, you cannot attempt to fascinate that creature again for 24 hours. If its saving throw fails, 
+the creature sits quietly and observes the performance for as long as you continue to maintain it. While 
+fascinated, a target takes a –4 penalty on all skill checks made as reactions, such as Perception checks. 
+Any potential threat to the target allows the target to make a new saving throw against the effect. Any 
+obvious threat, such as someone drawing a weapon, casting a spell, or aiming a weapon at the target, 
+automatically breaks the effect. Fascinate is an enchantment (compulsion), mind-affecting ability. 
+Fascinate relies on audible and visual components in order to function. 
+Inspire Competence (Su) You can use your performance to help an ally succeed at a task. That ally must be 
+within 30 feet and be able to hear you. The ally gets a +2 competence bonus on skill checks with a 
+particular skill as long as she continues to hear your performance. This bonus increases by +1 for every 
+four bard levels you have attained beyond 3
+rd (+3 at 7
+th, +4 at 11th, +5 at 15th, and +6 at 19th). Certain 
+uses of this ability are infeasible, such as Stealth, and may be disallowed at the GM’s discretion. A bard 
+can’t inspire competence in himself. Inspire competence relies on audible components. 
+Inspire Courage (Su) You can use your performance to inspire courage in your allies (including yourself), 
+bolstering them against fear and improving their combat abilities. To be affected, an ally must be able to 
+perceive your performance. An affected ally receives a +1 morale bonus on saving throws against charm 
+and fear effects and a +1 competence bonus on attack and weapon damage rolls. At 5
+th level, and every 
+six bard levels thereafter, this bonus increases by +1, to a maximum of +4 at 17
+th level. Inspire courage 
+is a mind-affecting ability. Inspire courage can use audible or visual components. The bard must choose 
+which component to use when starting his performance. 
+Lore Master (Ex) You can take 10 on any Knowledge skill check that you have ranks in. You can choose not 
+to take 10 and can instead roll normally. In addition, once per day, you can take 20 on any Knowledge 
+skill check as a standard action. You can use this ability one additional time per day for every six levels 
+he possesses beyond 5
+th, to a maximum of three times per day at 17th level. 
+Suggestion (Sp) You can use your performance to make a suggestion (as per the spell) to a creature you have 
+already fascinated (see above). Using this ability does not disrupt the fascinate effect, but it does require 
+a standard action to activate (in addition to the free action to continue the fascinate effect). You can use 
+this ability more than once against an individual creature during an individual performance. Making a 
+suggestion does not count against your daily use of bardic performance. A Will saving throw (DC 10 + 
+½ your bard level + your Cha modifier) negates the effect. This ability affects only a single creature. 
+Suggestion is an enchantment (compulsion), mind affecting, language-dependent ability and relies on 
+audible components. 
+Versatile Performance (Ex) You can choose one type of Perform skill. You can use your bonus in that skill in 
+place of your bonus in associated skills. When substituting in this way, you use your total Perform skill 
+bonus, including class skill bonus, in place of its associated skill’s bonus, whether or not you have ranks 
+in that skill or if it is a class skill. At 6th level, and every 4 levels thereafter, you can select an additional 
+type of Perform to substitute. 
+Well-Versed (Ex) You become resistant to the bardic performance of others, and to sonic effects in general. 
+You gain a +4 bonus on saving throws made against bardic performance, sonic, and language-dependent 
+effects. 
+ 
+   
+
+Perrin Aybara (cohort) 
+  
+
+Male human fighter 6 
+NG Medium humanoid 
+Init +1; Senses Perception +7 
+Languages Common 
+DEFENSE 
+AC 21, touch 11, flat-footed 20 (+10 armor, +1 Dex) 
+hp 66 (6 HD) 
+Fort +7, Ref +3, Will +5; +2 vs. fear 
+Defensive Abilities bravery +2 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. unarmored 
+Melee +1 tetsubo +13/+8 (1d10+10/×4) or 
++1 tetsubo +13/+6 (1d10+16/×4) with Power Attack, or 
++1 tetsubo +13 (2d10+10/×4) with Vital Strike, or 
++1 tetsubo +13 (2d10+16/×4) with Vital Strike and Power Attack 
+Ranged mwk composite longbow +8/+3 (1d8+4/×3) 
+Special Attacks weapon training (hammers +1) 
+STATISTICS 
+Abilities Str 18 (+4), Dex 13 (+1), Con 14 (+2), Int 10 (+0), Wis 12 (+1), Cha 8 (–1) 
+Base Atk +6; CMB +10 (+13 with tetsubo); CMD 21 (24 with tetsubo) 
+Feats Exotic Weapon Proficiency (tetsubo)
+B, Furious Focus, Iron Will, Outflank, Power AttackB (–2 attack, 
++2/+4/+6 damage), Weapon Focus (tetsubo
+B), Weapon Specialization (tetsuboB), Vital StrikeB 
+Skills Perception +7, Survival +10; Armor Check Penalty –4 
+SQ armor training 1 
+Combat Gear arrows (40), potions of cure light wounds (4); Gear +1 full plate, +1 tetsubo, masterwork 
+composite longbow (+4 strength bonus) 
+Encumbrance light 100 lb., medium 200 lb., heavy 300 lb.; Weight Carried 69 lb. 4 oz. 
+SPECIAL ABILITIES 
+Armor Training (Ex) Whenever you are wearing armor, you reduce the armor check penalty by 1 (to a 
+minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 1 (included 
+above). Additionally, you can move at your normal speed while wearing medium armor. 
+Bravery (Ex) You gain a +2 bonus to Will saves against fear. 
+Weapon Training (Ex) Whenever you attack with a hammer you gain a +1 bonus on attack and damage rolls. 
+You also add this bonus to any combat maneuver checks made with weapons from this group. This 
+bonus also applies to your Combat Maneuver Defense when defending against disarm and sunder 
+attempts made against weapons from this group. 
+ 

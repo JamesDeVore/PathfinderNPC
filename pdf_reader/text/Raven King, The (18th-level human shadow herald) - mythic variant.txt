@@ -1,0 +1,421 @@
+
+
+Revin Bitter (aka The Raven King) 
+“My methods are a means to an end, no different than pruning weeds in order 
+to let an orchid flourish. Those who stand in the way of my vision oppose me 
+because they fear me, but more than that they fear what I represent: change.” 
+ 
+Revin is a man of unnatural birth, a man of prophecy, and a man of vision. 
+During the Age of Darkness a curious Elohim visited a clan of darkfolk 
+cultists that had long lived under the ash clouds of Golarion. The cultists 
+came to worship “the Great Beyonder” as their living god. In front of a 
+thousand witnesses, the Elohim created Revin from the bone of a raven and 
+the flesh of a sour, blue fruit. The cultists took this as fulfillment of a 
+thousand year old prophecy and hailed the infant newborn as their new lord 
+and leader—a blessing from their god who was destined to bring about 
+everlasting paradise for their people. Just as mysteriously as the Elohim had 
+arrived, it disappeared again, abandoning the cult to their wayward beliefs. 
+ 
+Emboldened by the Elohim’s brief appearance, the cult successfully executed a vicious coup, wresting control 
+of their lands from its current leaders, and setting the stage for the methodical genocide of all nonbelievers 
+within their kingdom over the next one-hundred years. Soon after this violent revolution ended, Revin came of 
+age and took the throne. The darkfolk flourished as they never had under Revin Bitter’s benevolent rule. 
+ 
+Raised to believe in the divine right of kings in general, and in his own divinity in particular, Revin grew up 
+with the proverbial silver spoon in his mouth. As a boy, he showed remarkable affinity for both physical 
+activities—especially the martial pursuits—and the ins and outs of courtly etiquette and intrigue. Though both 
+traits made him quite popular with the young girls of his realm, Revin’s wealth and natural abilities also gave 
+him an excessively healthy sense of self-importance, a personality flaw that would forever force him to keep his 
+own people at arm’s length—even his longtime companion, Hollymorel Arroway. Despite his apparent 
+indifference, Revin is a capable and wise ruler who cares a great deal for the wellbeing of the people entrusted 
+to him by the Great Beyonder. His uncanny leadership skills and the absolute dominion he holds over his 
+subjects served to bring his darkfolk out of barbarism and into the realm of laws and culture, a fact for which 
+they love him. 
+ 
+Tragedy struck in –4294 AR when the skies finally cleared of the dust from Earthfall allowing light to reach 
+Golarion’s surface once more. The drastic environmental changes that followed dramatically effected the 
+surface-fairing darkfolk, causing them to slowly starve. Revin’s health in particular was acutely effected, 
+causing him to fall ill, eventually becoming comatose. For the first time since his rise to power, his kingdom fell 
+into despair, as much for the apparent loss of their leader as they were for their own suffering. This time period 
+would later be known as the beginning of the Age of Anguish. 
+ 
+After nearly a thousand years of absence, the Great Beyonder heard the cries of grief of Revin’s people and 
+returned to them. Every last citizen was then lead from their ruined kingdom under the accursed sun, and taken 
+far beyond the stars where no light could ever reach them. Though the journey took thousands of years, for 
+Revin’s people, it seemed as if but an instant. As before, once the Beyonder finished its task, it simply 
+abandoned them without so much as an explanation. 
+ 
+Now stranded on the Plane of Shadow and completely oblivious to the passing of time, Revin’s people were 
+forced to eke out a living in a land wholly alien to them. Though Revin recovered from his ordeal and resumed 
+rule over his people, it was clear to him that he was no longer immortal and would eventually age and die just 
+like the rest of his subjects—a secret known only to his friend and caretaker, Lady Arroway. The fear that the 
+widespread knowledge of his newfound mortality would once again plunge his people into chaos has made 
+
+Revin desperate to secure a promising future for his people at any cost, even if it means taking back their 
+homeland from its current inhabitants on the Material Plane and enveloping it in an everlasting darkness. 
+ 
+Revin Bitter 
+Male human fighter 8/shadowdancer 10 (mythic trickster 8) 
+LN Medium humanoid 
+Init +21; Senses darkvision 60 ft.; Perception +27 
+Languages Aklo, Auran, Common, Dark Folk, Sylvan, Undercommon 
+DEFENSE 
+AC 51, touch 30, flat-footed 37 (+11 armor, +5 deflection, +13 Dex, +1 
+dodge, +1 insight, +4 natural, +6 shield); Mobility 
+hp 227 (18 HD) 
+Fort +19, Ref +26, Will +17; +3 vs. fear 
+Defensive Abilities alien resistance, bravery +3, defensive roll, enduring 
+armor, hard to kill, improved evasion, improved uncanny dodge, 
+mirror dodge, mythic saving throws, shadow master, slippery mind, 
+unstoppable, unusual anatomy 50%; DR 10/– in dim light; SR 32 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee +5 agile adamantine rapier +37/+32/+27 (1d6+23/15-20/×3 plus 2d6+8 bleed) 
+Ranged +5 adaptive composite longbow +32/+27/+22 (1d8+7/×3) or 
+acidic ray +28 touch (1d6+11 acid) 
+Special Attacks trickster attack (fleet charge), mythic power (19/day, surge +1d10), weapon training (light 
+blades +3) 
+Spell-Like Abilities (CL 10
+th, except where noted; Concentration +17) 
+10/day – acidic ray (CL 22
+nd) 
+5/day – silent image (DC 18) 
+4/day – greater shadow conjuration (DC 24) 
+3/day – plane shift (CL 16
+th) 
+2/day – shadow evocation (DC 22) 
+1/day – raven form (CL 18
+th), tengu wings (CL 18
+th) 
+STATISTICS 
+Abilities Str 14 (+2), Dex 36 (+13), Con 18 (+4), Int 20 (+5), Wis 22 (+6), Cha 24 (+10) 
+Base Atk +15; CMB +17 (+28 with Weapon Finesse, +37 with rapier); CMD 47 (54 vs. rapier, 49 vs. bow) 
+Feats Bleeding Critical
+M, Combat Reflexes
+B, Critical Focus
+M, Dodge, Eldritch Heritage (aberrant), Extra Path 
+Ability
+M, Greater Eldritch Heritage (alien resistance), Improved Critical (rapierBM), Improved Eldritch 
+Heritage (unusual anatomy), Leadership (base 29 / cohort 28 / followers 30), Mobility
+B, Racial Heritage 
+(tenguB), Skill FocusB (acrobatics, knowledge: dungeoneering, stealth), Spring AttackB, Tengu Raven 
+Form, Tengu Wings, Weapon Finesse
+B, Weapon Focus (rapier
+B), Weapon Specialization (rapier
+B) 
+Skills Acrobatics +40, Appraise +13, Bluff +31, Climb +10, Craft (all) +13, Diplomacy +36, Disable Device 
++21, Disguise +18, Escape Artist +34, Fly +21, Handle Animal +18, Heal +14, Intimidate +31, 
+Knowledge (dungeoneering) +24, Knowledge (nobility) +20, Knowledge (others) +13, Linguistics +13, 
+Perception +27, Perform (dance) +23, Perform (others) +18, Sense Motive +24, Sleight of Hand +34, 
+Spellcraft +13, Stealth +40, Survival +14, Swim +10, Use Magic Device +18 
+SQ amazing initiative, armor training 3, class mimic, farwalker (2), focused study, force of will, good 
+fortune 1/day, hide in plain sight (dim light), master dilettante, path dabbling (enduring armor), perfect 
+lie, perfect mimic (DC 25), recuperation, rogue talents (combat trick, finesse rogue, weapon training), 
+shadow jump (340 feet/day), shadow master, summon shadow, vanishing move 
+Combat Gear durable arrows (60); Gear +5 adaptive composite longbow, +5 agile adamantine rapier, +5 
+buckler, amulet of natural armor +4, belt of physical perfection +6, boots of teleportation, cloak of 
+resistance +5, gloves of dueling, headband of mental superiority +6 (bluff, diplomacy, intimidate), 
+
+jewelry (worth 4,000gp), luck blade (1 wish), ring of friend shield, ring of protection +5, robe of arcane 
+heritage, royal crown (functions as a circlet of persuasion and a dusty rose prism ioun stone), sash of the 
+war champion, Suzerain scepter, tender (60pp) 
+Encumbrance light 58 lb., medium 116 lb., heavy 175 lb.; Weight Carried 35 lb. (excluding tender) 
+SPECIAL ABILITIES 
+Acidic Ray (Sp) You can fire an acidic ray as a standard action, targeting any foe within 30 feet as a ranged 
+touch attack. The acidic ray deals 1d6 points of acid damage + 1 for every two effective sorcerer levels 
+you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier. 
+Alien Resistance (Su) You gain spell resistance equal to your effective sorcerer level + 10. 
+Amazing Initiative (Ex) You gain a bonus on initiative checks equal to your mythic tier (included above). In 
+addition, as a free action on your turn, you can expend one use of mythic power to take an additional 
+standard action during that turn. This additional standard action can’t be used to cast a spell. You can’t 
+gain an extra action in this way more than once per round. 
+Armor Training (Ex) Whenever you are wearing armor, you reduce the armor check penalty by 3 (to a 
+minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 3. In addition, you 
+can also move at your normal speed while wearing medium or heavy armor. 
+Class Mimic (Su) As a standard action, you can expend one use of mythic power and touch a willing creature 
+to copy one of that creature’s class features. You gain the use of this class feature for 10 minutes per tier, 
+using the level of the creature touched as your level for any effects based on level. You can’t copy an 
+ability that has a limited number of uses per day (such as rage, smite evil, or spellcasting) or an ability 
+that involves a companion (such as eidolon, hunter’s bond, or nature bond). You can have only one use 
+of this ability in effect at one time. If you use this ability again, any previous use immediately ends. You 
+can’t copy the same ability more than once per day. 
+Darkvision (Ex) You gain darkvision out to a range of 60 feet. If you already have darkvision, the range 
+increases by 30 feet. 
+Defensive Roll (Ex) You can roll with a potentially lethal blow to take less damage from it than you otherwise 
+would. Once per day, when you would be reduced to 0 or fewer hit points by damage in combat (from a 
+weapon or other blow, not a spell or special ability), you can attempt to roll with the damage. To use this 
+ability, you must attempt a Reflex saving throw (DC = damage dealt). If the save succeeds, you take 
+only half damage from the blow; if it fails, you take full damage. You must be aware of the attack and 
+able to react to it in order to execute your defensive roll—if you are denied your Dexterity bonus to AC, 
+you can’t use this ability. Since this effect would not normally allow a character to make a Reflex save 
+for half damage, your evasion ability does not apply to the defensive roll. 
+Enduring Armor (Su) You are protected by armor made of force. This armor grants you an armor bonus to AC 
+equal to 3 + your tier. This ability is an abjuration effect with a spell level equal to your tier. If this 
+armor is dispelled or otherwise ended, you can reactivate it as a swift action. 
+Fleet Charge (Ex) As a swift action, you can expend one use of mythic 
+power to move up to your speed. At any point during this movement, 
+you can make a single melee or ranged attack at your highest attack 
+bonus, adding your tier to the attack roll. This is in addition to any 
+other attacks you make this round. Damage from this attack bypasses 
+all damage reduction. 
+Force of Will (Ex) You can exert your will to force events to unfold as you 
+would like. As an immediate action, you can expend one use of 
+mythic power to reroll a d20 roll you just made, or force any non-
+mythic creature to reroll a d20 roll it just made. You can use this 
+ability after the results are revealed. Whoever rerolls a roll must take 
+the result of the second roll, even if it is lower. 
+Good Fortune You may reroll one roll you just made, before the results are 
+revealed, once per day. You lose this ability if you are ever parted 
+from your luck blade. 
+
+Hard to Kill (Ex) Whenever you’re below 0 hit points, you automatically stabilize without needing to attempt a 
+Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose 
+hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points 
+when below 0 hit points. In addition, you don’t die until your total number of negative hit points is equal 
+to or greater than double your Constitution score. 
+Hide in Plain Sight (Su) You can use the Stealth skill even while being observed. As long as you are within 10 
+feet of an area of dim light, you can hide yourself from view in the open without anything to actually 
+hide behind. You cannot, however, hide in your own shadow. 
+Improved Evasion (Ex) You take no damage at all on successful saving throws against attacks that allow a 
+Reflex saving throw for half damage. What’s more, you take only half damage even if you fail your 
+saving throw. 
+Improved Uncanny Dodge (Ex) You cannot be caught flat-footed, even if the attacker is invisible. You still 
+lose your Dexterity bonus to AC if immobilized. You can still lose your Dexterity bonus to AC if an 
+opponent successfully uses the feint action against you, however. Additionally, you can no longer be 
+flanked. This defense denies a rogue the ability to sneak attack you by flanking you, unless the attacker 
+has at least four more rogue levels than you have levels in classes with uncanny dodge. 
+Master Dilettante (Ex) You are passingly familiar with almost every subject and have dabbled in numerous 
+fields and activities. You gain a competence bonus equal to your tier on all untrained skill checks. You 
+can attempt all skill checks untrained, even if the skill normally cannot be used untrained. 
+Mirror Dodge (Su) When hit by a melee or ranged attack, you can expend one use of mythic power as an 
+immediate action to replace yourself with an illusory duplicate and teleport to any open square within 30 
+feet of your current position. You take no damage from this attack, which instead destroys your illusory 
+duplicate (similar to mirror image). Using this ability requires a line of effect to the square into which 
+you teleport. 
+Mythic Saving Throws (Ex) Whenever you succeed at a saving throw against a spell or special ability, you 
+suffer no effects as long as that ability didn’t come from a mythic source (such as a creature with a 
+mythic tier or mythic ranks). If you fail a saving throw that results from a mythic source, you take the 
+full effects as normal. 
+Perfect Lie (Ex) When telling a lie, you can expend one use of mythic power to make the lie indiscernible from 
+the truth by both Sense Motive and magic. Obvious proof of your falsehood still reveals the lie for what 
+it is, but in absence of proof, those who hear your lie believe it. 
+Perfect Mimic (Su) You can use the Disguise skill as a full-round action. When you attempt to impersonate a 
+specific person, those familiar with the individual receive only half the normal bonus from familiarity to 
+see through your disguise. If you expend one use of mythic power when creating a disguise to 
+impersonate an individual, you can read that creature’s mind as if using detect thoughts with a range of 1 
+mile. This allows you to better mimic the individual, granting you a further +10 bonus on opposed 
+Disguise skill checks. The target of your impersonation receives a Will saving throw (DC 10 + your tier 
++ your Charisma modifier) to negate the detect thoughts aspect of this ability. 
+Recuperation (Ex) You are restored to full hit points after 8 hours of rest so long as you aren’t dead. In 
+addition, by expending one use of mythic power and resting for 1 hour, you regain a number of hit 
+points equal to half your full hit points (up to a maximum of your full hit points) and regain the use of 
+any class features that are limited to a certain number of uses per day (such as barbarian rage, bardic 
+performance, spells per day, and so on). This rest is treated as 8 hours of sleep for such abilities. This 
+rest doesn’t refresh uses of mythic power or any mythic abilities that are limited to a number of times 
+per day. 
+Shadow Call (Sp) You can create creatures and effects out of raw shadow. This ability functions as greater 
+shadow conjuration, using your shadowdancer level as the caster level. You can use this ability four 
+times per day. The DC for this ability is Charisma-based. 
+Shadow Illusion (Sp) You can create visual illusions. This ability functions as silent image, using your 
+shadowdancer level as the caster level. You can use this ability five times per day. The DC for this 
+ability is Charisma-based. 
+
+Shadow Jump (Su) You gain the ability to travel between shadows as if by means of a dimension door spell. 
+The limitation is that the magical transport must begin and end in an area with at least some dim light. 
+You can jump up to a total of 320 feet each day in this way. This amount can be split among many 
+jumps, but each one, no matter how small, counts as a 10-foot increment. 
+Shadow Master (Su) Whenever you are in an area of dim light, you gain DR 10/– and a +2 luck bonus on all 
+saving throws. In addition, whenever you successfully score a critical hit against a foe who is in an area 
+of dim light, that foe is blinded for 1d6 rounds. 
+Shadow Power (Sp) You can use raw shadow to damage your foes. This ability functions as shadow evocation, 
+using your shadowdancer level as the caster level. You can use this ability twice per day. The DC for 
+this ability is Charisma-based. 
+Shield Other Due to your ring of friend shield, you are constantly under the effect of shield other. Therefore, 
+any time you would suffer hit point damage, you only take half the normal amount. The ring’s mate is in 
+the possession of Lady Arroway (see below), and it is she who takes the remaining half of your hit point 
+damage. 
+Slippery Mind (Ex) This ability represents your ability to wriggle free from magical effects that would 
+otherwise control or compel you. If you are affected by an enchantment spell or effect and fail your 
+saving throw, you can attempt it again 1 round later at the same DC. You get only this one extra chance 
+to succeed on your saving throw. 
+Summon Shadow (Su) You can summon a shadow, an undead shade. Unlike a normal shadow, this shadow’s 
+alignment matches yours, and the creature cannot create spawn. The summoned shadow receives a +4 
+bonus on Will saves made to halve the damage from positive channeled energy and the shadow cannot 
+be turned or commanded. This shadow serves as a companion to you and can communicate intelligibly 
+with you. This shadow has a number of hit points equal to half your total. The shadow uses your base 
+attack bonus and base save bonuses. If a shadow companion is destroyed, or you choose to dismiss it, 
+you must attempt a DC 15 Fortitude save. If the saving throw fails, you gain one permanent negative 
+level. A successful saving throw avoids this negative level. A destroyed or dismissed shadow companion 
+cannot be replaced for 30 days. 
+Surge (Su) You can call upon your mythic power to overcome difficult challenges. You can expend one use of 
+mythic power to increase any d20 roll you just made by rolling 1d10 and adding it to the result. Using 
+this ability is an immediate action taken after the result of the original roll is revealed. This can change 
+the outcome of the roll. 
+Unstoppable (Ex) You can expend one use of mythic power as a free action to immediately end any one of the 
+following conditions currently affecting you: bleed, blind, confused, cowering, dazed, dazzled, 
+deafened, entangled, exhausted, fascinated, fatigued, frightened, nauseated, panicked, paralyzed, shaken, 
+sickened, staggered, or stunned. All other conditions and effects remain, even those resulting from the 
+same spell or effect that caused the selected condition. You can use this ability at the start of your turn 
+even if a condition would prevent you from acting. 
+Unusual Anatomy (Ex) You have a 50% chance to ignore any critical hit or sneak attack scored against you. 
+Vanishing Move (Su) As a swift action, you can make yourself invisible until the end of your turn. This effect 
+ends if you do anything other than move. If you expend one use of mythic power when using this ability, 
+it instead acts as greater invisibility using double your tier as your caster level. 
+Weapon Training (Ex) You receive a +3 bonus to attack and damage rolls when using light blades, to any 
+combat maneuver checks made with light blades, and to 
+your Combat Maneuver Defense when defending against 
+disarm and sunder attempts made against light blades. 
+   
+
+Hollymorel Arroway (aka Lady Arroway) 
+“You are in the presence of your lord and master. Speak so that your idle tongue does not waste his time 
+further—lest you lose it.” 
+ 
+Hollymorel is the great, great, great granddaughter of the darkfolk’s cult leader at the time of Revin’s 
+incarnation. Groomed from birth to serve and protect her lord, she has become the closest thing Revin has to a 
+friend and queen, even though they never married. Lady Arroway is fanatically loyal to Revin and, though she 
+was always meant to be his companion and would give her life to fulfill his wishes, he treats her with cold 
+indifference at worst, and as a caring brother would treat a naïve younger sister at best. 
+ 
+Hollymorel Arroway 
+Female fetchling cleric 16 (cloistered cleric, merciful healer) 
+N Medium outsider (native) 
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +5 
+Languages Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, 
+Dwarven, Elven, Giant, Gnome, Gnoll, Halfling, Ignan, Infernal, 
+Sylvan, Terran, Undercommon 
+DEFENSE 
+AC 40, touch 19, flat-footed 37 (+11 armor, +5 deflection, +3 Dex, +1 
+insight, +4 natural, +6 shield) 
+hp 136 (16 HD) 
+Fort +18, Ref +13, Will +20 
+Defensive Abilities shadow blending, shadowy resistance; Resist cold 5, 
+electricity 5 
+OFFENSE 
+Speed 30 ft. (6 squares) 
+Melee staff of shadows +15/+10/+5 (1d6+3) with greater magic weapon 
+Ranged by weapon +14 
+Spell-Like Abilities (CL 16
+th; Concentration +19) 
+1/day – memory lapseAPG, shadow walk (self only), plane shift (self only, material/shadow plane only) 
+Cleric Spells Prepared (CL 16
+th; Concentration +21) 
+8
+th (2/day) – mass cure critical wounds
+D, summon monster VIII 
+7th (3/day) – regenerate
+D, greater scrying, repulsion 
+6th (3/day) – banishment, healD (2) 
+5th (5/day) – break enchantmentD, breath of life, greater forbid actionUM, spell resistance, true seeing
+M, 
+4th (5/day) – blessing of fervorAPG, communal protection from energyUC, greater magic weapon, 
+neutralize poison
+D, tongues 
+3rd (5/day) – create food and water, cure serious woundsD, invisibility purge, prayer, remove 
+blindness/deafness 
+2nd (5/day) – remove disease
+D, remove paralysis, shatter, silence, status 
+1st (6/day) – comprehend languages, cure light woundsD, deathwatch, diagnose disease
+UM, remove fear, 
+remove sickness
+UM 
+0 (at will) – detect poison, guidance, read magic 
+Domain Healing (restoration) 
+STATISTICS 
+Abilities Str 8 (–1), Dex 16 (+3), Con 16 (+3), Int 13 (+1), Wis 21 (+5), Cha 16 (+3) 
+Base Atk +12; CMB +11; CMD 30 
+Feats Contingent Channeling, Craft Magic Arms and Armor, Craft Wondrous Item, Craft Staff, Extra Channel 
+(2), Forge Ring, Scribe ScrollB, Selective Channeling 
+
+Skills Acrobatics +2 (–1 when jumping), Diplomacy +22, Heal +24, Knowledge (history) +20, Knowledge 
+(local) +20, Knowledge (planes) +11, Knowledge (the others) +9, Linguistics +20, Spellcraft +20, 
+Stealth +4; Armor Check Penalty –1 (excluding climb and jump); Racial Bonuses +2 Knowledge 
+(planes), +2 Stealth 
+SQ aura of good (overwhelming), channel positive energy 10/day (10d6 healing), healer’s blessing, merciful 
+healing (exhausted, fatigued, nauseated, sickened), restorative touch 8/day, skilled, spontaneous casting 
+(cure spells) 
+Combat Gear divine spell scrolls (cure light wounds 10, heal 6), staff of shadows (darkness [1 charge], lunar 
+veilUM [2 charges], CL 13th; doubles as a masterwork quarterstaff); Other Gear +5 glamered mithral 
+agile breastplate, +5 mithral buckler, amulet of natural armor +5, bejeweled belt pendent (worth 
+1,500gp; subject of a refuge spell, calls the Raven King), belt of physical might +4 (dexterity, 
+constitution), cloak of resistance +5, healer’s ribbon (acts as a headband of inspired wisdom +4, a dusty 
+rose prism ioun stone, and a phylactery of positive channeling, worn as a hair ribbon), jewelry (worth 
+500gp), ring of friend shield, ring of protection +5 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 23 lb. 
+SPECIAL ABILITIES 
+Aura of Good (Ex) You have a particularly powerful aura corresponding to your deity’s alignment (see the 
+detect evil spell for details). 
+Breadth of Knowledge You gain a bonus on Knowledge skill checks equal to half your class level (minimum 
++1, included above) and can make Knowledge skill checks untrained. 
+Channel Energy (Su) You can release waves of positive energy by channeling the power of your faith through 
+your holy symbol. This energy can be used to cause or heal damage, depending on the type of energy 
+channeled and the creatures targeted. Channeling energy causes a burst that affects all living in a 30-foot 
+radius centered on you. The amount of healing is equal to 1d6 points of damage plus 1d6 points of 
+damage for every two cleric levels beyond 1
+st. Creatures healed by channeled energy cannot exceed their 
+maximum hit point total—all excess healing is lost. You may channel energy a number of times per day 
+equal to 3 + your Charisma modifier. This is a standard action that does not provoke an attack of 
+opportunity. You can choose whether or not to include yourself in this effect. You must be able to 
+present her holy symbol to use this ability. 
+Combat Medic (Ex) You do not provoke attacks of opportunity when using the Heal skill to stabilize another 
+creature or when casting healing spells. 
+Healer’s Blessing (Su) All of your cure spells are treated as if they were empowered, increasing the amount of 
+damage healed by half (+50%). This does not apply to damage dealt to undead with a cure spell. This 
+does not stack with the Empower Spell metamagic feat. 
+Merciful Healing (Su) You can channel positive energy to relieve one or more harmful conditions. When you 
+channel energy you can remove the exhausted, fatigued, nauseated or sickened conditions from up to 
+three living creatures that you heal within your channel energy burst. Feats and effects that affect a 
+paladin’s mercy also affect this ability. 
+Restorative Touch (Su) You can touch a creature, letting the healing power of your deity flow through you to 
+relieve the creature of a minor condition. Your touch can remove the dazed, fatigued, shaken, sickened, 
+or staggered condition. You choose which condition is removed. You can use this ability a number of 
+times per day equal to 3 + your Wisdom modifier. 
+Shadow Blending (Su) Attacks against you in dim light have a 50% miss chance instead of the normal 20% 
+miss chance. This ability does not grant total concealment; it just increases the miss chance. 
+True Healer (Su) When you channel holy energy, you can choose to apply the benefits of merciful healing or 
+to reroll any 1s when determining how much damage you heal with the holy energy. You must choose 
+which benefit to take before you roll to see how much damage you heal. 
+Verbal Instruction (Ex) You can use the aid another action to assist an ally within 30 feet on a skill or ability 
+check. The ally must be able to hear and understand your instructions. For every three cleric levels 
+beyond 3rd, you can instruct one additional ally. If all allies are not engaged in the same task, using this 
+ability is a full-round action rather than a standard action. 
+
+Well-Read (Ex) You gain a +2 bonus on skill checks, caster level checks, and saving throws if such rolls 
+pertain to mundane or magical glyphs, runes, scrolls, symbols, and other writings (not included above). 
+ 
+Umbravan (aka The King’s Shadow) 
+“Your life hangs by a mere thread to be cut short by my master’s command!” 
+ 
+Umbravan is the literal living manifestation of the Raven King’s shadow, brought forth by Revin’s strange 
+powers to seek out and slay any enemies that would threaten him or his kingdom. 
+ 
+Umbravan 
+Shadow Companion 
+LN Medium undead (incorporeal) 
+Init +2; Senses darkvision 60 ft.; Perception +8 
+DEFENSE 
+AC 15, touch 15, flat-footed 12 (+2 deflection, +2 Dex, +1 dodge) 
+hp 97 (3 HD) 
+Fort +11, Ref +9, Will +6; +4 vs. positive channeled energy 
+Defensive Abilities incorporeal, channel resistance +2; Immune undead 
+traits 
+OFFENSE 
+Speed fly 40 ft. (good) 
+Melee incorporeal touch +17 touch (1d6 strength damage) 
+Ranged by weapon +17 
+STATISTICS 
+Abilities Str –, Dex 14 (+2), Con –, Int 6 (–2), Wis 12 (+1), Cha 15 (+2) 
+Base Atk +15; CMB +17; CMD 29 
+Feats Dodge, Skill Focus (perception) 
+Skills Fly +11, Perception +8, Stealth +8 (+12 in dim light, +4 in bright light); Racial Bonuses +4 Stealth in 
+dim light (–4 in bright light) 
+SPECIAL ABILITIES 
+Strength Damage (Su) A shadow’s touch deals 1d6 points of Strength damage to a living creature. This is a 
+negative energy effect. A creature dies if this Strength damage equals or exceeds its actual Strength 
+score. 
+ 
+Other Minions: The Raven King’s other followers generally stay within his kingdom and handle his personal 
+affairs while he is away, leaving the plane of shadow only when called upon. They primarily consist of 
+fetchling rogues and clerics (often trained in the arts of fleshwarping) as well as other darkfolk. 
+However, King Revin is often accompanied by a retinue of four battle mage and four battle monk 
+bodyguards (as presented in the NPC Gallery in the GameMastery Guide). 

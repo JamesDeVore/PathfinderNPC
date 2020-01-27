@@ -1,0 +1,105 @@
+
+
+Thelyn Cabor 
+Male grippli wizard 13 (exploiter wizard) 
+NG Small humanoid (grippli) 
+Init +3; Senses darkvision 60 ft.; Perception +15 
+Languages Boggard, Common, Draconic, Elven, Gnome, Goblin, Grippli, 
+Sylvan; Feral Speech 
+DEFENSE 
+AC 18, touch 14, flat-footed 15 (+4 armor, +3 Dex, +1 size); mage armor 
+hp 99 plus false life (13 HD) 
+Fort +10, Ref +11, Will +14 
+OFFENSE 
+Speed 30 ft. (6 squares), climb 20 ft. 
+Melee by weapon +6 
+Ranged by weapon +10 
+Special Attacks arcane reservoir (9/day, 16 max) 
+Wizard Spells Prepared (CL 14
+th; Concentration +22) 
+7th  (2/day) – greater teleport, summon monster VII 
+6th  (3/day) – beast shape IV, greater heroism, summon monster VI 
+5th  (4/day) – cloudkill, hold monster, overland flight, wall of stone 
+4th  (6/day) – black tentacles, charm monster, confusion (2), wall of fire, wall of ice 
+3
+rd  (6/day) – dispel magic, haste, heroism, protection from energy, slow, wind wall 
+2nd (6/day) – acid arrow (2), false life, invisibility, mirror image, shatter 
+1st  (6/day) – enlarge person, mage armor (2), feather fall, shield (2) 
+0  (at will) – detect magic, light, mage hand, prestidigitation 
+STATISTICS 
+Abilities Str 8 (–1), Dex 16 (+3), Con 14 (+2), Int 26 (+8), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +6; CMB +4; CMD 17 
+Feats Craft Staff, Craft Wand
+B, Craft Wondrous ItemB, Feral Speech*, Forge Ring, Master Alchemist, 
+Multimorph*, Scribe ScrollB, Skill Focus (use magic device), Staff-Like Wand* 
+Skills Acrobatics +3 (+12 when jumping), Appraise +24, Climb +20 (may take 10), Craft (alchemy) +24, 
+Disguise +10, Escape Artist +16, Knowledge (arcana) +24, Knowledge (nature) +24, Perception +15, 
+Spellcraft +24, Stealth +30 (+34 in forests or marshes), Use Magic Device +19; Racial Bonuses +4 
+Stealth in forests or marshes 
+SQ arcanist exploits (dimensional slide 130 ft., potent magic, quick study, spell tinkerer [DC 16]), swamp 
+stride, weapon familiarity 
+Combat Gear acid (6), alchemical grease (6), alchemist’s fire (6), antiplague (6), antitoxin (6), bloodblocks (6), 
+liquid ice (6), soothe syrup (6), staff of swarming insects (10 charges), wand of reach cure serious 
+wounds (50 charges, close range), wand of fireball (50 charges), wand of lightning bolt (50 charges), 
+wand of magic missile (50 charges); Other Gear blessed book (99 pages remaining) with bookplate of 
+recall, boots of striding and springing, cloak of resistance +4, contingency focus, glove of storing 
+(contains cure wand), handy haversack, headband of vast intellect +6 (climb, escape artist, stealth), 
+lucky platinum coin, orange prism ioun stone, ring of chameleon power, spell component pouch, spring-
+loaded wrist sheathes (2, contain fireball and lightning bolt wands), spellbook (full), tender (275gp), 
+traveler’s any-tool 
+Spellbook all core wizard spells of 6
+th-level and lower plus greater teleport and summon monster VII 
+Encumbrance light 19 lb. 8 oz., medium 39 lb. 12 oz., heavy 60 lb.; Weight Carried 15 lb. 3 oz. (excluding 
+tender) 
+SPECIAL ABILITIES 
+Arcane Discoveries You have opted to use a variety of arcane discoveries over feats. They are marked in the 
+feats section with an asterisk. 
+
+Arcane Reservoir (Su) You have an innate pool of magical energy that you can draw upon to fuel your arcanist 
+exploits and enhance your spells. Your arcane reservoir can hold a maximum amount of magical energy 
+equal to 3 + your wizard level. Each day, when preparing spells, your arcane reservoir fills with raw 
+magical energy, gaining a number of points equal to 3 + ½ your wizard level. Any points you had from 
+the previous day are lost. You can also regain these points through the consume spells class feature and 
+some arcanist exploits. The arcane reservoir can never hold more points than the maximum amount 
+noted above; points gained in excess of this total are lost. Points from the arcanist reservoir are used to 
+fuel many of your powers. In addition, you can expend 1 point from your arcane reservoir as a free 
+action whenever you cast an arcanist spell. If you do, you can choose to increase the caster level by 1 or 
+increase the spell’s DC by 1. You can expend no more than 1 point from your reservoir on a given spell 
+in this way. 
+Contingency If ever targeted or caught in the area of a spell or effect that deals energy damage, you become 
+subject to a protection from energy spell against the incoming energy type. This effect comes into effect 
+fast enough to prevent some or all of the incoming damage. Effects that cause energy damage, but don’t 
+specifically target you (such as deliberately walking into a fire), do not activate this contingency. 
+Dimensional Slide (Su) You can expend 1 point from your arcane reservoir to create a dimensional crack that 
+you can step through to reach another location. This ability is used as part of a move action or withdraw 
+action, allowing you to move up to 10 feet per wizard level to any location you can see. This counts as 5 
+feet of movement. You can only use this ability once per round. You do not provoke attacks of 
+opportunity when moving in this way, but any other movement you attempt as part of your move action 
+provokes as normal. 
+Feral Speech (Su) You gain the ability to speak with and understand the response of any animal as if using 
+speak with animals, though each time you speak to animals, you must decide to communicate with either 
+amphibians, birds, fish, mammals, reptiles, or vermin, and can only speak to and understand animals of 
+that type. You can make yourself understood as far as your voice carries. This discovery does not 
+predispose any animal addressed toward you in any way. 
+Multimorph (Su) When you cast a spell of the polymorph subschool on yourself, you may expend 1 minute of 
+the spell’s duration as a standard action to assume another form allowed by the spell. You can do this as 
+often as you like, subject to the duration of the spell. 
+Potent Magic (Su) Whenever you expend 1 point from your arcane reservoir to increase the caster level of a 
+spell, the caster level increases by 2 instead of 1. Whenever you expend 1 point from your arcane 
+reservoir to increase the spell’s DC, it increases by 2 instead of 1. 
+Quick Study (Ex) You can prepare a spell in place of an existing spell by expending 1 point from your arcane 
+reservoir. Using this ability is a full-round action that provokes an attack of opportunity. You must be 
+able to reference your spellbook when using this ability. The spell prepared must be of the same level as 
+the spell being replaced. 
+Spell Tinkerer (Su) You can alter an existing spell effect by expending 1 point from your arcane reservoir. To 
+use this ability, you must be adjacent to the spell effect (or the effect’s target) and be aware of the effect. 
+You can choose to increase or decrease the remaining duration of the spell by 50%. This ability can be 
+used on unwilling targets, but you must succeed at a melee touch attack, and the target may attempt a 
+Will saving throw to negate the effect. This ability cannot be used on a given spell effect more than 
+once. This ability has no effect on spells that are instantaneous or have a duration of permanent. 
+Staff-Like Wand Similar to using a magic staff, you use your own Intelligence score and relevant feats to set 
+the DC for saves against spells you cast from a wand, and you can use your caster level when activating 
+the power of a wand if it’s higher than the caster level of the wand. 
+Swamp Stride (Ex) You can move through difficult terrain at your normal speed while within a swamp. 
+Magically altered terrain affects you normally. 
+Weapon Familiarity You are proficient with nets. 

@@ -1,0 +1,61 @@
+
+
+Wellby Tosscobble 
+Male halfling rogue 7 (sniper) 
+NG Small humanoid (halfling) 
+Init +5; Senses Perception +17 
+Languages Common, Elven, Gnome, Halfling 
+DEFENSE 
+AC 21, touch 16, flat-footed 16 (+5 armor, +5 Dex, +1 size) 
+hp 65 (7 HD) 
+Fort +4, Ref +10, Will +2; +2 vs. fear 
+Defensive Abilities evasion, uncanny dodge 
+OFFENSE 
+Speed 20 ft. (4 squares) 
+Melee club +8 (1d4+1) 
+Ranged +1 composite shortbow +12 (1d4+2/×3) or 
+club +11 (1d4+1) 
+Special Attacks accuracy, deadly range +20 ft., skulker, sneak attack +4d6 
+STATISTICS 
+Abilities Str 12 (+1), Dex 21 (+5), Con 14 (+2), Int 10 (+0), Wis 10 (+0), Cha 10 (+0) 
+Base Atk +5; CMB +5; CMD 20 
+Feats Expert Sniper, Go Unnoticed, Skill Focus (stealth), Hellcat Stealth 
+Skills Acrobatics +18 (+14 when jumping), Climb +16, Disable Device +19, Escape Artist +23, Perception +17, 
+Sleight of Hand +15, Stealth +27 (+31 with camouflage, no penalties when sniping), Swim +16; Racial 
+Modifiers +2 Perception 
+SQ rogue talents (camouflage, fast stealth, sniper’s eye), swift as shadows, weapon familiarity 
+Combat Gear arrows (60); Other Gear +1 mithral shirt, +1 composite shortbow (+1 strength bonus), boots of 
+elvenkind, cloak of elvenkind, clubs (4), eyes of the eagle, gloves of swimming and climbing, vest of 
+escape 
+Encumbrance light 32 lb. 4 oz., medium 64 lb. 8 oz., heavy 97 lb. 8 oz.; Weight Carried 18 lb. 8 oz. 
+SPECIAL ABILITIES 
+Accuracy (Ex) You halve all range increment penalties when making ranged attacks with a bow or crossbow. 
+Camouflage (Ex) Once per day, you can craft simple but effective camouflage from the surrounding foliage. 
+You need 1 minute to prepare the camouflage, but once you do, it is good for the rest of the day or until 
+you fail a saving throw against an area effect spell that deals fire, cold, or acid damage, whichever 
+comes first. You gain a +4 bonus on Stealth checks while within terrain that matches the foliage used to 
+make the camouflage. This ability cannot be used in areas without natural foliage. 
+Deadly Range (Ex) You increase the range at which you can apply your sneak attack damage by 20 feet (for a 
+total of 50 feet). 
+Evasion (Ex) If you make a successful Reflex saving throw against an attack that normally deals half damage 
+on a successful save, you instead take no damage. Evasion can be used only if you are wearing light 
+armor or no armor. If you are helpless, you do not gain the benefit of evasion. 
+Fast Stealth (Ex) You may move at full speed while using the Stealth skill at no penalty. 
+Skulker You gain a +1 racial bonus on attacks against foes who are denied their Dexterity bonus to AC. 
+Sneak Attack Your attack deals 4d6 extra damage anytime your target would be denied a Dexterity bonus to 
+AC (whether the target actually has a Dexterity bonus or not), or when you flank your target. Should you 
+score a critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as 
+sneak attacks only if the target is within 50 feet. With a weapon that deals nonlethal damage (like a sap, 
+whip, or an unarmed strike), you can make a sneak attack that deals nonlethal damage instead of lethal 
+damage. You cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, 
+not even with the usual –4 penalty. You must be able to see the target well enough to pick out a vital 
+
+spot and must be able to reach such a spot. You cannot sneak attack while striking a creature with 
+concealment. 
+Sniper’s Eye (Ex) You can apply your sneak attack damage on ranged attacks targeting foes within 30 feet that 
+benefit from concealment. Foes with total concealment are still immune. 
+Swift as Shadows You possess incredible stealth even while moving through obstructed areas. Reduce the 
+penalty for using Stealth while moving by 5, and reduce the Stealth check penalty for sniping by 10. 
+Uncanny Dodge (Ex) You retain your Dexterity bonus to AC even if you are caught flat-footed or struck by an 
+invisible attacker. However, you still lose your Dexterity bonus to AC if immobilized. 
+ 

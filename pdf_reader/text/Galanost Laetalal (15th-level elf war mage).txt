@@ -1,0 +1,140 @@
+
+
+Galanost Laetalal 
+Male old elf evoker 15 
+LN Medium humanoid (elf) 
+Init +5; Senses familiar’s alertness, low-light vision; Perception +23 or +26 
+Languages Celestial, Common, Draconic, Elven, Gnoll, Gnome, Goblin, Orc, 
+Sylvan; comprehend languages 
+DEFENSE 
+AC 41, touch 20, flat-footed 36 (+10 armor, +4 deflection, +5 Dex, +1 insight, 
++5 natural, +6 shield) 
+hp 144 plus greater false life (15 HD) 
+Fort +13, Ref +15, Will +15; +4 vs. mind-affecting effects 
+DR 10/magic vs. ranged attacks; Immune magical sleep 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 40 ft. (good); overland flight 
+Melee +5 longsword +16/+11 (1d8+12/19-20) with one-handed Arcane Strike, or 
++5 longsword +16/+11 (1d8+14/19-20) with two-handed Arcane Strike 
+Ranged oathbow +14/+9 (1d8+12/×3) with Arcane Strike, or 
+oathbow +17/+12 (1d8+12 plus 2d6/×4) with Arcane Strike against sworn enemy 
+Special Attacks intense spells (+7 damage) 
+Arcane School Spell-Like Abilities (CL 15
+th; Concentration +23, or +28 when casting defensively; arcane 
+spell failure 10%) 
+At-will – elemental wall (15 rounds/day) 
+11/day – force missile (1d4+7 damage) 
+Wizard Spells Prepared (CL 15
+th; Concentration +23, or +28 when casting defensively; arcane spell failure 
+10%) 
+8th  (3/day) – form of the dragon III, screen, sunburst 
+7th  (4/day) – control weather, selective widened fireball, greater teleport (2) 
+6th  (5/day) – age resistance
+UM, chain lightning, freezing sphere, repulsion, widened fireball 
+5
+th  (6/day) – cone of cold, cloudkill (2), overland flight, sending, wall of force 
+4th  (7/day) – enlarged fireball, fire shield, greater false lifeUM, greater invisibility (2), ice storm, 
+selective fireball 
+3rd  (7/day) – fireball (2), haste, lightning bolt (2), phantom steed, vampiric touch 
+2nd (7/day) – mage armor, protection from arrows, resist energy (2), scorching ray (2), shatter 
+1st  (7/day) – feather fall, magic missile (3), mount, shield, unseen servant 
+0  (at will) – arcane mark, light, message, prestidigitation 
+Arcane School evocation; O Opposition schools spell; Opposition Schools divination, enchantment 
+STATISTICS 
+Abilities Str 18 (+4), Dex 20 (+5), Con 16 (+3), Int 27 (+8), Wis 12 (+1), Cha 16 (+3) 
+Base Atk +7; CMB +11 (+16 with longsword); CMD 31 
+Feats AlertnessB (with familiar nearby), Arcane Armor Training, Arcane Strike, Armor Proficiency (light, 
+medium), Craft Magic Arms and ArmorB, Craft Wondrous Item, Enlarge SpellB, Mounted Combat, 
+Scribe Scroll
+B, Selective Spell, Trick Riding, Widen SpellB 
+Skills Acrobatics +10, Fly +20 (+27 with overland flight), Knowledge (arcana) +26, Knowledge (engineering) 
++26, Knowledge (geography) +26, Knowledge (nobility) +26, Perception +23 (+26 on sight-based and 
+opposed checks in bright light, +27 with familiar nearby, or +30 with both), Ride +20, Spellcraft +31 
+(+33 to identify magic items), Stealth +25, Survival +16; Racial Bonuses +2 Perception, +2 Spellcraft 
+to identify magic items 
+SQ arcane bond (hawk familiar), elven magic, ongoing spells, weapon familiarity 
+Combat Gear arcane spell scrolls (true strike 3), arrows (20), feather tokens (bird 5), potion of bull’s strength; 
+Other Gear +5 mithral kikko armor, +5 longsword, +5 mithral buckler, all-seeing glass eye (as 
+embedded dusty rose prism ioun stone), amulet of natural armor +5, belt of physical perfection +4, 
+
+boots of elvenkind, bracers of sworn vengeance, cloak of elvenkind (doubles as a cloak of resistance 
++5), eyes of the eagle, gloves of elvenkind, headband of vast intellect +6 (fly, perception, stealth), ivory 
+statuette (contingency focus), jingasa of the fortunate soldier, oathbow (+4 strength bonus), ring of 
+protection +4, spellbooks (3) (12 pages remaining), spell component pouch, tender (36gp, 5sp) 
+Spellbook 8
+th—form of the dragon III, screen, sunburst, telekinetic sphere; 7th—control weather, delayed blast 
+fireball, greater scrying
+O, greater teleport, mass hold personO; 6th—age resistance
+UM, chain lightning, 
+circle of death, contingency, control water, freezing sphere, guards and wards, move earth, permanent 
+image, repulsion, transformation
+M, wall of iron; 5th—cone of cold, dominate personO, mage’s private 
+sanctum, overland flight, permanency
+M, sending, teleport, wall of force, wall of sound
+UM, wall of stone; 
+4th—contagion, fire shield, greater false lifeUM, greater invisibility, ice storm, wall of fire; 3rd—dispel 
+magic, fireball, fly, haste, lightning bolt, magic circle against evil, phantom steed, slow, vampiric touch; 
+2
+nd—bear’s endurance, bull’s strength, cat’s grace, false life, protection from arrows, resist energy, 
+scorching ray, shatter; 1st—alarm, charm personO, comprehend languagesO, endure elements, feather 
+fall, grease, hold portal, mage armor, magic missile, mount, shield, true strike
+O, unseen servant; 0—all 
+Encumbrance light 86 lb., medium 173 lb., heavy 260 lb.; Weight Carried 44 lb. 1 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Contingency Should you ever become grievously wounded (fall below 25 hit points), you are immediately 
+teleported (as per the spell) to a nearby allied temple. 
+Elemental Wall (Sp) You can create a wall of energy that lasts for a number of rounds per day equal to your 
+wizard level. These rounds do not need to be consecutive. This wall deals acid, cold, electricity, or fire 
+damage, determined when you create it. The elemental wall otherwise functions like wall of fire. 
+Force Missile (Sp) As a standard action you can unleash a force missile that automatically strikes a foe, as 
+magic missile. The force missile deals 1d4 points of damage plus the damage from your intense spells 
+evocation power. This is a force effect. You can use this ability a number of times per day equal to 3 + 
+your Intelligence modifier. 
+Intense Spells (Su) Whenever you cast an evocation spell that deals hit point damage, add ½ your wizard level 
+to the damage. This bonus only applies once to a spell, not once per missile or ray, and cannot be split 
+between multiple missiles or rays. This damage is of the same type as the spell. 
+Weapon Familiarity You are proficient with longbows (including composite longbows), longswords, rapiers, 
+and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name 
+as a martial weapon. 
+   
+
+Kratos 
+Male hawk familiar 
+LN Tiny magical beast 
+Init +3; Senses low-light vision; Perception +14 
+DEFENSE 
+AC 27, touch 15, flat-footed 24 (+4 armor, +3 Dex, +8 natural, +2 size) 
+hp 72 (15 HD) 
+Fort +5, Ref +8, Will +11 
+Defensive Abilities improved evasion; SR 20 
+OFFENSE 
+Speed 10 ft. (2 squares), fly 60 ft. (average) 
+Melee 2 talons +12 (1d4–2), or 
+by spell +12 touch 
+Space 2½ ft.; Reach 0 ft. 
+Special Attacks deliver touch spells 
+STATISTICS 
+Abilities Str 6 (–2), Dex 17 (+3), Con 11 (+0), Int 13 (+1), Wis 14 (+2), Cha 7 (–2) 
+Base Atk +7; CMB +5; CMD 16 
+Feats Weapon Finesse 
+Skills Fly +7, Handle Animal +13, Knowledge (arcana) +16, Knowledge (engineering) +16, Knowledge 
+(geography) +16, Knowledge (nobility) +16, Perception +28, Ride +18, Spellcraft +16, Stealth +21, 
+Survival +17; Racial Modifier +8 Perception 
+SQ alertness, empathic link, familiar traits, share spells, speak with birds, scry on familiar, speak with master 
+Encumbrance light 10 lb., medium 20 lb., heavy 30 lb.; Weight Carried 0 lb. 
+SPECIAL ABILITIES 
+Alertness (Ex) While your familiar is within arm’s reach, you gain the Alertness feat. 
+Deliver Touch Spells (Su) If you and your familiar are in contact at the time you cast a touch spell, you can 
+designate your familiar as the toucher. Your familiar can then deliver the touch spell personally. As 
+usual, if you cast another spell before the touch is delivered, the touch spell dissipates. 
+Empathic Link (Su) You have an empathic link with your familiar out to one mile. You cannot see through 
+your familiar’s eyes, but you both can communicate empathically. Only general emotional content can 
+be communicated. You have the same connection to an item or place that your familiar does. 
+Improved Evasion (Ex) When subjected to an attack that normally allows a Reflex saving throw for half 
+damage, your familiar takes no damage if it makes a successful saving throw and half damage even if 
+the saving throw fails. 
+Share Spells Any spell you cast on yourself also affects your familiar if it is within 5 feet at the time of casting. 
+If the spell is continuous, it stops affecting your familiar if it moves farther than 5 feet away. Your 
+familiar may accept such spells even if it would normally be an invalid target. 
+Speak With Master (Ex) You and your familiar may communicate verbally, using a private language no one 
+else understands. 

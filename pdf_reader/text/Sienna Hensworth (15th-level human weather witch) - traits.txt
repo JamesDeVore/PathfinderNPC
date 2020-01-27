@@ -1,0 +1,306 @@
+
+
+Sienna Hensworth 
+Female Tian human aerokineticist 15 (elemental purist) 
+N Medium humanoid 
+Init +8; Senses Perception +20 
+Languages Aklo, Ancient Osiriani, Aquan, Auran, Azlanti, Dtang, Erutaki, 
+Giant, Hallit, Hon-La, Hwan, Ignan, Iobarian, Jistka, Kelish, Minatan, 
+Minkaian, Osiriani, Polyglot, Senzar, Shadowtongue, Shoanti, Shory, 
+Skald, Sylvan, Taldane, Tekritanin, Terran, Thassilonian, Tien, Varisian, 
+Varki, Vudrani, Undercommon 
+DEFENSE 
+AC 31, touch 23, flat-footed 23 (+8 armor, +5 deflection, +8 Dex) 
+hp 195 (15 HD); maxed hit points via retraining 
+Fort +20, Ref +22, Will +12; +2 vs. very hot conditions, severe heat, breath 
+weapons, and cloud vapors and gases 
+Defensive Abilities enveloping winds (30% miss chance) 
+OFFENSE 
+Speed 30 ft. (6 squares), fly 60 ft. (good) 
+Melee electric blade +19/+14/+9 touch (8d6+1 electricity) or 
+thunderstorm blade +19/+14/+9 (16d6+19 half bludgeoning, half electricity) 
+Ranged electric blast +19 touch (8d6+1 electricity) or 
+thunderstorm blast +19 (16d6+19 half bludgeoning, half electricity) 
+Special Attacks elemental overflow +5, kinetic blast, metakinesis (empower, maximize, quicken) 
+Kineticist Wild Talents Known (CL 15
+th; Concentration +21) 
+Defense – enveloping winds (30% miss chance) 
+Infusions – chain (3 burn), cyclone (3 burn, Ref DC 25 half), disintegrating infusion* (4 burn, Fort DC 
+23 partial), eruption* (2 burn, Ref DC 25 half), extended range (1 burn), fan of flames* (1 burn, 
+Ref DC 25 half), kinetic blade (1 burn), thundering (1 burn, Fort DC 23 negates), torrent (2 burn, 
+Ref DC 25 half) 
+Kinetic Blasts – electric blast, thunderstorm blast (2 burn) 
+Utility – air’s leap, air’s reach, basic aerokinesis, engulfing winds, greater windsight, ride the blast, 
+skilled kineticist, wind manipulator, windsight, wings of air 
+STATISTICS 
+Abilities Str 8 (–1), Dex 26 (+8), Con 22 (+6), Int 14 (+2), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +11; CMB +10 (+19 with Weapon Finesse); CMD 33 
+Feats Additional Traits, Extra Wild Talent (3), Fast Learner, Orator, Skill Focus (fly
+B, linguisticsB), Toughness, 
+Weapon Finesse 
+Skills Acrobatics +26 (+41 to jump), Bluff –1 (+27 to tell a falsehood or conceal information), Diplomacy –1 
+(+27 to change the attitude of a creature), Fly +46, Intimidate –1 (+27 to force a creature to cooperate), 
+Knowledge (geography) +13, Knowledge (local) +13, Knowledge (nature) +18, Linguistics +27 (+29 to 
+make forgeries), Perception +20, Stealth +26, Survival +21 (+22 to find food and water, +23 to avoid 
+getting lost); Racial Bonuses +2 Knowledge (geography), +2 Knowledge (local), +2 Survival to avoid 
+becoming lost 
+SQ basic aerokinesis, burn (5 points/round, maximum 6), elemental impossibility, gather power, 
+infusion specialization 4, limited buffer 1, supercharge, traits (child of nature, devotee of the green, 
+weathered emissary, world traveler), wayfarer 
+Gear belt of physical might +6 (Dexterity, Constitution), bracers of armor +8, cloak of resistance +5, 
+dungeoneering kit (deluxe), forger’s kit (concealed, DC 26 to find), lesser talisman of life’s breath, 
+Pathfinder’s kit, ring of protection +5, tender (180gp) 
+Encumbrance light 26 lb., medium 53 lb., heavy 80 lb.; Weight Carried 47 lb. (4 lb. without kits; excludes 
+tender) 
+ 
+
+Sienna Hensworth (with elemental overflow) 
+As above except as follows… 
+Init +10; Senses Perception +20 
+DEFENSE 
+AC 33, touch 25, flat-footed 23 (+8 armor, +5 deflection, +10 Dex) 
+hp 195 plus 5 burn (15 HD) 
+Fort +21, Ref +24, Will +12; +2 vs. very hot conditions, severe heat, breath 
+weapons, and cloud vapors and gases 
+Defensive Abilities enveloping winds (55% miss chance), fortification (25% 
+negation) 
+OFFENSE 
+Melee electric blade +26/+21/+16 touch (8d6+1 electricity) or 
+thunderstorm blade +26/+21/+16 (16d6+19 half bludgeoning, half 
+electricity) 
+Ranged electric blast +26 touch (8d6+11 electricity) or 
+thunderstorm blast +26 (16d6+29 half bludgeoning, half electricity) 
+Kineticist Wild Talents Known (CL 15
+th; Concentration +22) 
+Defense – enveloping winds (base 30% miss chance) 
+Infusions – chain (3 burn), cyclone (3 burn, Ref DC 27 half), disintegrating infusion* (4 burn, Fort DC 
+24 partial), eruption* (2 burn, Ref DC 27 half), extended range (1 burn), fan of flames* (1 burn, 
+Ref DC 27 half), kinetic blade (1 burn), thundering (1 burn, Fort DC 24 negates), torrent (2 burn, 
+Ref DC 27 half) 
+Kinetic Blasts – electric blast, thunderstorm blast (2 burn) 
+Utility – air’s leap, air’s reach, basic aerokinesis, engulfing winds, greater windsight, ride the blast, 
+skilled kineticist, wind manipulator, windsight, wings of air 
+STATISTICS 
+Abilities Str 10 (+0), Dex 30 (+10), Con 24 (+7), Int 14 (+2), Wis 14 (+2), Cha 10 (+0) 
+Base Atk +11; CMB +11 (+21 with Weapon Finesse); CMD 36 
+Feats Additional Traits, Extra Wild Talent (3), Fast Learner, Orator, Skill Focus (flyB, linguisticsB), Toughness, 
+Weapon Finesse 
+Skills Acrobatics +28 (+43 to jump), Bluff –1 (+27 to tell a falsehood or conceal information), Diplomacy –1 
+(+27 to change the attitude of a creature), Fly +48, Intimidate –1 (+27 to force a creature to cooperate), 
+Knowledge (geography) +13, Knowledge (local) +13, Knowledge (nature) +18, Linguistics +27 (+29 to 
+make forgeries), Perception +20, Stealth +28, Survival +21 (+22 to find food and water, +23 to avoid 
+getting lost); Racial Bonuses +2 Knowledge (geography), +2 Knowledge (local), +2 Survival to avoid 
+becoming lost 
+SQ basic aerokinesis, burn (5 points/round, maximum 9), elemental impossibility, gather power, 
+infusion specialization 4, limited buffer 1, supercharge, traits (child of nature, devotee of the green, 
+weathered emissary, world traveler), wayfarer 
+Gear belt of physical might +6 (Dexterity, Constitution), bracers of armor +8, cloak of resistance +5, 
+dungeoneering kit (deluxe), forger’s kit (concealed, DC 33 to find), lesser talisman of life’s breath, 
+Pathfinder’s kit, ring of protection +5, tender (180gp) 
+Encumbrance light 33 lb., medium 66 lb., heavy 100 lb.; Weight Carried 47 lb. (4 lb. without kits; excludes 
+tender) 
+SPECIAL ABILITIES 
+Burn (Ex) Some of your wild talents allow you to accept burn in exchange for a greater effect, while others 
+require you to accept a certain amount of burn to use that talent at all. For each point of burn you accept, 
+you take 1 point of nonlethal damage per character level. This damage can’t be healed by any means 
+other than getting a full night’s rest, which removes all burn and associated nonlethal damage. Nonlethal 
+damage from burn can’t be reduced or redirected, and if you are incapable of taking nonlethal damage 
+
+then you can’t accept burn. You can accept only 1 point of burn per round. You can’t choose to accept 
+burn if it would put your total number of points of burn higher than 3 + you Constitution modifier 
+(though you can be forced to accept more burn from a source outside your control). Whilst you possess 
+burn you can never benefit from abilities that allow you to ignore or alter the affects you receive from 
+nonlethal damage. 
+Child of Nature You gain a +2 trait bonus on Survival checks to find food and water, and a +1 trait bonus on 
+Knowledge (nature) checks. Survival is always a class skill for you. 
+Devotee of the Green You gain a +1 trait bonus on Knowledge (geography) and Knowledge (nature) checks, 
+and Knowledge (geography) is always a class skill for you. 
+Elemental Defense (Su) You have the following defense wild talent. 
+Enveloping Winds: You constantly surround yourself with a whirling torrent of air, crackling arcs of 
+lightning, or both to protect yourself from ranged attacks. All ranged attacks made with physical 
+weapons suffer a 30% miss chance against you, except for attacks from massive weapons such as a 
+giant’s thrown boulder or a ballista. This ability has no effect on ray attacks. By accepting 1 point of 
+burn, you can increase the miss chance by 5% until the next time your burn is removed. You can 
+continue to accept points of burn to increase the miss chance further, up to a maximum of 75%. 
+Whenever you accept burn while using an air wild talent, the energy surging through you causes your 
+enveloping winds to also affect non-physical ranged attacks such as ray attacks for 1 round. You can 
+dismiss or restore this effect as an immediate action. 
+Elemental Impossibility (Su) You possess up to three impossible infusions—a form infusion or substance 
+infusion that does not need to be associated with your primary element’s type (marked above by 
+asterisks). If the infusion can be applied to your kinetic blasts normally, you can use it as normal. If the 
+infusion is not an associated infusion, you can accept 1 point of burn as a free action to enter a state of 
+elemental impossibility for one minute. This burn cannot be reduced in any way. While in this state, you 
+can apply your impossible infusions to your kinetic blast, even if it is not an associated infusion for the 
+blast type; however, if an infusion can be applied only to energy blasts or only to physical blasts, you 
+can apply it only to a kinetic blast of that type. 
+Elemental Overflow (Ex) Your body surges with energy from your element whenever you accept burn, 
+causing you to glow with a nimbus of fire, weep water from your pores, or experience some other 
+thematic effect. You receive a bonus on your attack rolls with kinetic blasts equal to the total number of 
+points of burn you currently possess, to a maximum bonus of +1 for every 3 kineticist levels you 
+possess. You also receive a bonus on damage rolls with your kinetic blast equal to double the bonus on 
+attack rolls. You can suppress the visual effects of elemental overflow by concentrating for 1 full round, 
+but doing so suppresses all of this ability’s other benefits, as well. The next time you use any wild talent, 
+the visual effects and benefits return instantly. As your body becomes more and more suffused with your 
+element, you begin to gain more powerful benefits. Whenever you possess at least 3 points of burn, you 
+gain a +2 size bonus to two physical ability scores of your choice. Whenever you have at least 5 points 
+of burn, these bonuses increase to a +4 size bonus to one physical ability score of your choice and a +2 
+size bonus to each of your other two physical ability scores. You also gain a chance to ignore the effects 
+of a critical hit or sneak attack equal to 5% × your current number of points of burn. 
+Gather Power (Su) If you have both hands free you can gather energy or elemental matter as a move action. 
+Gathering power creates an extremely loud, visible display in a 20-foot radius centered on you, as the 
+energy or matter swirls around you. Gathering power in this way allows you to reduce the total burn cost 
+of a blast wild talent you use in the same round by 1 point. You can instead gather power for 1 full 
+round in order to reduce the total burn cost of a blast wild talent used on your next turn by 2 points (to a 
+minimum of 0 points). If you do so, you can also gather power as a move action during your next turn to 
+reduce the burn cost by a total of 3 points. If you take damage during or after gathering power and 
+before using the kinetic blast that releases it, you must succeed at a concentration check (DC = 10 + 
+damage taken + effective spell level of your kinetic blast) or lose the energy in a wild surge that forces 
+you to accept a number of points of burn equal to the number of points by which your gathered power 
+would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 
+points. 
+
+Infusion Specialization (Ex) Whenever you use one or more infusions with a blast, you reduce the combined 
+burn cost of the infusions by 4. This can’t reduce the total cost of the infusions used below 0. 
+Infusions (Su) The following infusions alter your blasts. You can apply at most one form infusion and one 
+substance infusion to your blasts. 
+Chain (form): Your electric blast leaps from target to target. When you hit a target with your infused 
+blast, you can attempt a ranged touch attack against an additional target that is within 30 feet of the first. 
+Each additional attack originates from the previous target, which could alter cover and other conditions. 
+Each additional target takes 1d6 fewer points of damage than the last, and you can’t chain the blast back 
+to a previous target. You can continue chaining your blasts until a blast misses or fails to deal damage, 
+or until your blast is reduced to a single damage die. 
+Cyclone (form): All creatures and objects within a 20-foot-radius burst centered on you take half 
+your blast’s normal amount of damage. The saving throw DC is Dexterity-based. 
+Disintegrating Infusion: You can use force to rip your targets apart. Against creatures, your kinetic 
+blast deals double its normal amount of damage, but targets receive a saving throw to reduce the damage 
+to half the blast’s normal amount of damage (for a total of ¼ of the blast’s increased damage). Any 
+creature reduced to 0 or fewer hit points by the blast is disintegrated, as the spell disintegrate. You can 
+use the infused blast to destroy force effects or objects as disintegrate, but for each force effect or 10-
+foot cube of nonliving matter you destroy in this way, you must accept 1 point of burn, which can’t be 
+reduced by effects such as infusion specialization or gather power. 
+Eruption (form): Your kinetic blast erupts from the ground in a pillar centered anywhere within 120 
+feet of you. The pillar affects all creatures and objects in a 10-foot-radius cylinder that extends 40 feet 
+above the ground. An energy blast infused with eruption deals its normal damage to each target, while a 
+physical blast deals half its normal amount of damage. The saving throw DC is Dexterity-based. 
+Extended Range (form): Your kinetic blast can strike any target within 120 feet. 
+Fan of Flames (form): Your kinetic blast fans out, damaging all creatures and objects in a 15-foot 
+cone. The saving throw DC is Dexterity-based. 
+Kinetic Blade (form): By accepting 1 point of burn you form a weapon using your kinetic abilities. 
+You create a non-reach, light or one-handed weapon in your hand formed of pure energy or elemental 
+matter. The kinetic blade’s shape is purely cosmetic and doesn’t affect the damage dice, critical threat 
+range, or critical multiplier of the kinetic blade, nor does it grant the kinetic blade any weapon special 
+features. You can use this form infusion once as part of an attack action, a charge action, or a full-attack 
+action in order to make melee attacks with your kinetic blade. Since it’s part of another action (and isn’t 
+an action itself), using this wild talent doesn’t provoke any additional attacks of opportunity. The kinetic 
+blade deals your kinetic blast damage on each hit (applying any modifiers to your kinetic blast’s damage 
+as normal, but not your Strength modifier). The blade disappears at the end of your turn. The weapon 
+deals the same damage type that your kinetic blast deals, and it interacts with Armor Class and spell 
+resistance as normal for a blast of its type. The kinetic blade doesn’t add the damage bonus from 
+elemental overflow.  
+Thundering Infusion (substance): Your lightning brings with it a peal of thunder. Whenever your 
+infused blast hits a foe and penetrates spell resistance, that foe becomes deafened, even if the blast 
+doesn’t deal damage. 
+Torrent (form): A torrent of energy buffets or burns all foes in a 30-foot line, dealing half your 
+normal amount of blast damage (or full damage for energy blasts). The saving throw DC is Dexterity-
+based. 
+Kinetic Blast (Sp) As a standard action, you can unleash a kinetic blast at a single target up to a range of 30 
+feet. You must have at least one hand free to aim the blast. All damage from a kinetic blast is treated as 
+magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the 
+purpose of feats such as Weapon Focus. You are never considered to be wielding or gripping the kinetic 
+blast (regardless of effects from form infusions), and you can’t use Vital Strike feats with kinetic blasts. 
+Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts 
+always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms). A 
+readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its 
+
+descriptor. A kinetic blast that deals energy damage of any type (including force) has the corresponding 
+descriptor. 
+Limited Buffer (Su) You possess an internal buffer with which to store extra energy. The buffer starts empty 
+and doesn’t replenish each day, but you can accept 1 point of burn to add 1 point to the buffer as a 
+full-round action, to a maximum of 1 point total. Once you add points to your buffer, they remain 
+indefinitely until you spend them. When you would otherwise accept burn, you can spend 1 point from 
+your buffer to avoid accepting 1 point of burn. You cannot spend more than 1 point from your buffer in 
+this way for a single wild talent. Points spent from the internal buffer don’t activate elemental overflow 
+or add to its effects. Similarly, this buffer can be used to exceed the limit on the number of points of 
+burn you can accept in a single turn. 
+Metakinesis (Su) You gain the ability to alter your kinetic blasts as if with metamagic feats by accepting burn. 
+By accepting 1 point of burn, you can empower your kinetic blast (as if using Empower Spell); by 
+accepting 2 points of burn, you can maximize your kinetic blast as if using Maximize Spell; by 
+accepting 3 points of burn, you can quicken your kinetic blast as if using Quicken Spell. 
+Supercharge (Su) When using gather power as a move action, you can reduce the total burn cost of a single 
+wild talent by 2 points instead of 1. When using gather power for 1 full round, you can reduce the burn 
+cost of a single wild talent by 3 points instead of 2. 
+Utility You have the following utility wild talents. 
+Air’s Leap (Su): You are always considered to have a running start when jumping, you add your 
+kineticist level as a bonus on all Acrobatics checks to jump, you jump twice as far or high as the results 
+of your check indicate, and you can accept 1 point of burn when jumping to double the distance you 
+jump again (to a total of four times as far). 
+Air’s Reach (Su): When using air blasts, air wild talents, or composite blasts that include air, double 
+the blast’s effective range. This effect applies after altering the range due to effects such as the extended 
+range infusion. This doubles only the blast’s effective range, not the area of effect for infusions like 
+cloud and cyclone. 
+Basic Aerokinesis (Sp): You can create a light breeze that blows against a creature or object from a 
+direction of your choice that follows the target wherever it goes. The breeze grants the subject a +2 
+bonus on saves against very hot conditions, severe heat, breath weapons, and cloud vapors and gases 
+(such as cloudkill, stinking cloud, and inhaled poisons). This wild talent doesn’t function without air or 
+while underwater. You can have only one such breeze active at any one time. 
+You can also use your aerokinesis to make it harder to detect you or others by scent. You can 
+designate a number of creatures or objects equal to your Constitution bonus. These creatures and objects 
+always count as being downwind for the purpose of determining the distance at which they can be 
+detected by scent. This effect lasts for 1 hour or until you use basic aerokinesis again, whichever comes 
+first. 
+Engulfing Winds (Sp): You bend your winds into a formidable barrier. Until the start of your next 
+turn, you lose the benefits of enveloping winds, but can create a wind wall as the spell. You can extend 
+the wall’s duration to 1 round per kineticist level by accepting 1 point of burn. 
+Ride the Blast (Sp): You can use this wild talent as part of activating a kinetic blast other than 
+telekinetic blast. You transform yourself into your element or energy and send yourself along with your 
+kinetic blast. You appear at the end of the blast’s path, adjacent to the blast’s target (or final target, for 
+form infusions like chain) or at the center of the burst or spread for form infusions like explosion. This 
+ability doesn’t work with form infusions that involve melee attacks (such as kinetic blade) or that use a 
+cone shape (such as spray). 
+Skilled Kineticist (Su): You gain a bonus equal to ½ your kineticist level on skill checks with the 
+skills your primary element added to your class skill list, and you can use the Knowledge skill associated 
+with your primary element to identify elementals of your primary element’s subtype. 
+Wind Manipulator (Sp): You can call forth mighty winds in an enormous area. As a standard action, 
+you can alter the wind around you as if using control winds, but the change remains only for as long as 
+you continue to take a standard action to concentrate on this effect. If you accept 1 point of burn, you 
+
+can extend the duration to 10 minutes per kineticist level you possess without your needing to 
+concentrate. 
+Windsight (Su): You can see through mist and fog (including fog cloud and similar magic). In areas 
+of moderate or stronger wind, you can see and hear as if you were standing at both your own position 
+and a position a number of feet in the wind’s direction equal to the wind’s speed in miles per hour, 
+potentially allowing you to see around corners and other obstacles. 
+Windsight, Greater (Su): You can send a slight breeze in a path up to 480 feet long and then back to 
+where you wait. This allows you to use your windsight wild talent to catch a quick glimpse and hear a 
+tiny snippet from any location that could be reached by the wind traveling that distance (the wind’s path 
+can’t pass through openings smaller than 1 inch in diameter). The breeze travels 100 feet per round, so 
+what you see and hear is delayed by 1 round for every 50 feet of the path. If you spend at least 10 
+minutes to set up a steady flow of wind, you can concentrate for up to 1 minute per level to gain 
+continuous visual and auditory information for as long as you concentrate, delayed by 1 round for every 
+100 feet the wind travels (since the steady flow of wind has to travel only one way). While there is no 
+invisible sensor to detect with this ability, creatures along the path of the breeze may notice a light wind, 
+though it may not seem out of the ordinary. 
+Wings of Air (Sp): The air bends to your will, allowing you to soar to great heights. You are 
+constantly under the effects of fly. If this effect is dispelled, you can call it forth again as a standard 
+action. 
+Wayfarer You gain a +2 racial bonus on Survival checks to avoid becoming lost, Knowledge (geography) 
+checks, and Knowledge (local) checks. Whenever you gain a rank in Linguistics, you learn two 
+languages rather than one. 
+Weathered Emissary You gain a +1 trait bonus on all Linguistics and Survival checks, and Linguistics is 
+always a class skill for you. 
+World Traveler You gain a +1 trait bonus on Knowledge (local) checks, and Knowledge (local) is always a 
+class skill for you. 
+ 
+DUNGEONEERING KIT, DELUXE 
+This bundle of essential supplies for exploring ruins and abandoned cities include two candles, chalk, a hammer 
+and four pitons, 50 feet of silk rope, two sacks, three sunrods, four tindertwigs, and an everburning torch. 
+ 
+FORGER’S KIT 
+These inks, pens, papers, templates for certificates, and tools for modifying or copying official seals facilitates 
+the creation of counterfeit documents. It grants a +2 circumstance bonus on Linguistic checks made for the 
+purpose of making forgeries. 
+ 
+PATHFINDER’S KIT 
+This kit consists of a backpack, a bedroll, a belt pouch, a clay mug, a dagger, two fishhooks, a flint and steel, a 
+sewing needle, a signal whistle, 50 feet of string, 50 feet of thread, a waterskin, a week’s worth of trail rations, 
+and a whetstone. Leaving the bedroll and rations at camp or on a mount reduces the weight by 12 pounds. 

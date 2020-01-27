@@ -1,0 +1,69 @@
+
+
+Lailah Hael 
+Female unique aasimar oracle 9 
+CG Medium outsider (native) 
+Init +0; Senses darkvision 60 ft., deaf; Perception +19 
+Languages Celestial, Common, Elven, Sylvan 
+DEFENSE 
+AC 29, touch 14, flat-footed 27 (+9 armor, +2 deflection, +2 Dex, +1 natural, 
++5 shield) 
+hp 74 (9 HD) 
+Fort +6, Ref +6, Will +9; +2 vs. death effects 
+Resist acid 5, cold 5, electricity 5 
+Weakness cold iron 
+OFFENSE 
+Speed 20 ft. (4 squares), 30 ft. when unarmored and unencumbered 
+Melee mwk dagger +6/+1 (1d4–1/19-20) or 
+mwk heavy shield +2/–3 (1d4–1) 
+Ranged mwk sling +9 (1d4–1) or 
+mwk dagger +9 (1d4–1/19-20) 
+Special Attacks channel energy 10/day (DC 24, 5d6), revelations (channel, enhanced cures, life link) 
+Oracle Spells Known (CL 9
+th, Concentration +18) 
+4th  (6/day) – blessing of fervor
+APG, cure critical woundsB, restoration
+B, summon monster IV 
+3rd  (8/day) – communal resist energy
+UC, cure serious woundsB, magic circle against evil, neutralize 
+poisonB, prayer 
+2nd  (8/day) – cure moderate wounds
+B, graceAPG, lesser restoration
+B, shield otherF, silence, status 
+1st  (9/day) – bless, command, cure light woundsB, deathwatch, detect undeadB, diagnose disease
+UM, 
+sanctuary 
+0  (at will) – create water, detect magic, detect poison, guidance, light, mending, purify food and drink, 
+stabilize 
+Mystery life 
+STATISTICS 
+Abilities Str 8 (–1), Dex 14 (+2), Con 14 (+2), Int 14 (+2), Wis 14 (+2), Cha 28 (+9) 
+Base Atk +6; CMB +5; CMD 19 
+Feats Beacon of Hope, Fey Foundling, Heighten Spell, Reach Spell, Selective Channeling 
+Skills Diplomacy +23, Heal +14, Knowledge (nature) +14, Perception +19 (+15 on opposed checks), Sense 
+Motive +14, Survival +14; Armor Check Penalty –5; Racial Bonuses +2 Diplomacy, +2 Perception 
+SQ charismatic, oracle’s curse: deaf 
+Combat Gear sling bullets (10), potions (cure light wounds 6); Other Gear +3 chainmail, +3 heavy wooden 
+shield, amulet of natural armor +1, cloak of resistance +1, headband of alluring charisma +4, healer’s 
+kit (5 uses), masterwork backpack, masterwork dagger, masterwork sling, ring of protection +2, tender 
+(8gp, 9sp) 
+Encumbrance light 30 lb., medium 60 lb., heavy 90 lb.; Weight Carried 63 lb. 6 oz. (excluding tender) 
+SPECIAL ABILITIES 
+Channel (Su) You can channel positive energy like a cleric, using your oracle level +1 as your effective cleric 
+level when determining the amount of damage healed (or caused to undead) and the DC. You can use 
+this ability a number of times per day equal to 1 + your Charisma modifier. 
+Charismatic As a variant aasimar, you gain a +6 racial bonus to Charisma, rather than +2. Unlike normal 
+aasimar, you have no spell-like abilities. 
+Enhanced Cures (Su) Whenever you cast a cure spell, the maximum number of hit points healed is based on 
+your oracle level, not the limit based on the spell. 
+Life Link (Su) As a standard action, you may create a bond between yourself and another creature. Each round 
+
+at the start of your turn, if the bonded creature is wounded for 5 or more hit points below its maximum 
+hit points, it heals 5 hit points and you take 5 hit points of damage. You may have one bond active per 
+oracle level. This bond continues until the bonded creature dies, you die, the distance between you and 
+the other creature exceeds medium range, or you end it as an immediate action (if you have multiple 
+bonds active, you may end as many as you want as part of the same immediate action). 
+Oracle’s Curse: Deaf You cannot hear and suffer all of the usual penalties for being deafened. You cast all of 
+your spells as if they were modified by the Silent Spell feat. This does not increase their level or casting 
+time. You receive a +3 competence bonus on Perception checks that do not rely upon hearing, and the 
+initiative penalty for being deaf is reduced to –2. 
