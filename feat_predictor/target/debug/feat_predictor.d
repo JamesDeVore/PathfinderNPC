@@ -1,0 +1,1 @@
+C:\Users\jdevo\Desktop\Projects\PathfinderAI\feat_predictor\target\debug\feat_predictor.exe: C:\Users\jdevo\Desktop\Projects\PathfinderAI\feat_predictor\src\main.rs C:\Users\jdevo\Desktop\Projects\PathfinderAI\feat_predictor\src\sql_lite.rs
