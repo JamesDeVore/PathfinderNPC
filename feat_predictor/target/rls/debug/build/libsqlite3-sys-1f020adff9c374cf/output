@@ -1,7 +1,0 @@
-cargo:rerun-if-env-changed=SQLITE3_INCLUDE_DIR
-cargo:rerun-if-env-changed=SQLITE3_LIB_DIR
-cargo:rerun-if-env-changed=SQLITE3_STATIC
-cargo:rerun-if-env-changed=PATH
-cargo:rerun-if-env-changed=VCPKGRS_DYNAMIC
-cargo:link-target=sqlite3
-cargo:rustc-link-lib=dylib=sqlite3
