@@ -1,0 +1,1 @@
+C:\Users\jdevo\Desktop\Projects\PathfinderAI\feat_predictor\target\release\feat_predictor.exe: C:\Users\jdevo\Desktop\Projects\PathfinderAI\feat_predictor\src\main.rs C:\Users\jdevo\Desktop\Projects\PathfinderAI\feat_predictor\src\neural_net.rs C:\Users\jdevo\Desktop\Projects\PathfinderAI\feat_predictor\src\sql_lite.rs

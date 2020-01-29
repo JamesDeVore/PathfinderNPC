@@ -1,13 +1,12 @@
 extern crate rusqlite;
 
-use rusqlite::NO_PARAMS;
 use rusqlite::Error;
+use rusqlite::NO_PARAMS;
 use rusqlite::{Connection, Result};
-use std::io::{self, prelude::*, BufReader};
 use std::collections::HashMap;
+use std::io::{self, prelude::*, BufReader};
 
 pub fn create() -> Result<()> {
-
     let conn = Connection::open("feats.db")?;
 
     conn.execute(
@@ -26,13 +25,8 @@ struct Feat {
 
 pub fn select() -> Result<()> {
     let conn = Connection::open("feats.db")?;
-        // let contents = fs::read_to_string()
-        // .expect("Something went wrong reading the file");
-
-        // conn.execute(&contents,NO_PARAMS)?;
-        // println!("{}",contents);
-        // let file = File::open("./src/data/feats1.sql").unwrap();
-        // let reader = BufReader::new(file);
+    // let file = File::open("./src/data/feats1.sql").unwrap();
+    // let reader = BufReader::new(file);
 
     // for line in reader.lines() {
     //     let formatted = line.unwrap();
@@ -41,10 +35,7 @@ pub fn select() -> Result<()> {
     //     println!("Inserted one");
     // }
 
-    
-    let mut stmt = conn.prepare(
-        "SELECT * from feats where id = '50'",
-    )?;
+    let mut stmt = conn.prepare("SELECT * from feats where id = '50'")?;
     let feats = stmt.query_map(NO_PARAMS, |row| {
         Ok(Feat {
             id: row.get(0)?,
@@ -52,20 +43,16 @@ pub fn select() -> Result<()> {
         })
     })?;
     for feat in feats {
-        println!("{:?}",feat.unwrap() );
+        println!("{:?}", feat.unwrap());
     }
-
-    
 
     Ok(())
 }
 
-pub fn select_all_feats() -> std::result::Result<HashMap<String,String>,Error> {
+pub fn select_all_feats() -> std::result::Result<HashMap<String, String>, Error> {
     let mut all_feats = HashMap::new();
     let conn = Connection::open("feats.db")?;
-    let mut stmt = conn.prepare(
-        "SELECT * from feats",
-    )?;
+    let mut stmt = conn.prepare("SELECT * from feats")?;
     let feats = stmt.query_map(NO_PARAMS, |row| {
         Ok(Feat {
             id: row.get(0)?,
@@ -74,8 +61,10 @@ pub fn select_all_feats() -> std::result::Result<HashMap<String,String>,Error> {
     })?;
     for feat in feats {
         let unwrapped = feat.unwrap();
-        all_feats.insert(unwrapped.feat_name.to_string(),unwrapped.id.to_string());
-        
+        all_feats.insert(
+            unwrapped.feat_name.to_string().trim().to_lowercase(),
+            unwrapped.id.to_string(),
+        );
     }
     Ok(all_feats)
 }

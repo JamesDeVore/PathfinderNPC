@@ -1,218 +1,218 @@
-Brew Potion,Extra Discovery,Fast Learner,Fleshwarper,Master Alchemist,Planar Preservationist,Throw Anything,
-Craft Wondrous Items,Defensive Combat Training,Greater Spell Focus,Spell Penetration,
-Ability Focus,Undead Master,
-Furious Focus,Improved Spell Sharing,Stealth Synergy,Vital Strike,
-Combat Casting,Craft Wondrous Item,Double Slice,Improved Two-Weapon Fighting,Two-Weapon  Fighting,Weapon Focus,
-Accomplished Sneak Attacker,Craft Rod,Craft Wondrous Item,Cunning,Defensive Combat Training,Improved Initiative,Scale and Skin,Scribe Scroll,Skill Focus,Stealthy,Weapon Finesse,
-Accomplished Sneak Attacker,Craft Rod,Craft Wondrous Item,Defensive Combat Training,Improved  Initiative,Scale and Skin,Scribe Scroll,Skill Focus,Stealthy,Weapon Finesse,
-Demonologist,Glimpse Beyond,
-Advanced Armor Training,Combat Reflexes,Shield Brace,Shield FocusB,
-Combat Casting,Dodge,Eschew Materials,Great Fortitude,Improved Initiative,Lightning Reflexes,Mobility,Power Attack,Spring Attack,Toughness,Vital Strike,
-Combat Casting,Dodge,Eschew Materials,Great Fortitude,Improved Initiative,Lightning Reflexes,Mobility,Power Attack,Spring Attack,
-Alertness,Craft Construct,Craft Magic Arms and Armor,Craft Wondrous Items,Greater Spell  Penetration,Heighten Spell,Magical Aptitude,Planned Spontaneity,Preferred Spell,Spell Penetration,
-Alter Binary Mindscape,Psychic Combatant,
-Command Undead,Craft Wondrous Item,Dual Path,
-Command Undead,Craft Wondrous Item,Extend Spell,Heighten Spell,Quicken Spell,Spell Focus,
-Combat Reflexes,Extra Wild Talent,
-Ability Focus,Craft Staff,Craft Wondrous Item,Forge Ring,Improved Initiative,Spirit  Talker,Spiritual Guardian,
-Double Slice,Intimidating Prowess,Martial Weapon Proficiency,Multiweapon Fighting,Throw Anything,
-Animal Ally,Boon Companion,Mounted Combat,Nature Soul,Weapon Finesse,
-Alignment Channel,Toughness,
-Deceitful,Duck and Cover,LeadershipB,Swap Places,Toughness,
-Furious Focus,Improved Shield Focus,Mobile Bulwark Style,Mobile Fortress,Mobile Stronghold,Power Attack,Shield Brace,Shield Focus,Tower Shield Specialist,Weapon Focus,
-Extra Evolution,Trick Riding,
-Eschew Materials,Evolved Familiar,
-Alertness,Blind-Fight,Blinded Blade Style,Blinded Competence,Blinded Master,Deflect Arrows,Dodge,Greater Blind-Fight,Improved Blind-Fight,Improved Trip,Signature Skill,Spring AttackB,
-Ability Focus,
-Weapon Finesse,
-Clustered Shots,Deadly Aim,Disposable Weapon,Distance Thrower,Far Shot,Improvised Weapon  Mastery,Point Blank Shot,Precise Shot,Quick Draw,Rapid Shot,Splintering Weapon,Throw  Anything,Weapon Focus,
-Craft Wondrous Item,Fey Foundling,Fey Friend,Greater Spell Focus,
-Combat Casting,Craft Wondrous Items,Defensive Combat Training,Extend Spell,Greater Spell Focus,Toughness,
-Cooperative Crafting,Craft Staff,Craft Wondrous Item,Eschew Materials,Extend Spell,Heighten  Spell,Intensified Spell,Preferred Spell,Reach Spell,Scribe Scroll,
-Additional Traits,Dodge,Fast Learner,Improved Initiative,Intensify Spell,Power Attack,Weapon  Focus
-Additional Traits,Craft Construct,Craft Magical Arms and Armor,Craft Wondrous Item,Deft Hands,Eye of the Arclord,Major Spell Expertise,Well-Prepared,
-Combat Expertise,Whirlwind Attack,
-Dazzling Display,Double Slice,Greater Two-Weapon Fighting,Improved Critical,
-Double Slice,Greater Weapon Focus,
-Divine Protection,Evolved Companion,
-Dazzling Display,Disheartening Display,Extra Revelation,Greater Dirty Trick,Improved Critical,
-Animal Soul,Combat Expertise,Extra Feature,Escape Route,Ferocious Loyalty,Improved Spell  Sharing,Multiattack,Outflank,Pack Flanking,Precise Strike,
-Crane Style,Dodge,Dragon Style,Improved Unarmed Strike,Mobility,Quarterstaff Master,Stunning Fist,Weapon Focus,
-Combat Reflexes,Dodge,Improved Unarmed Strike,Mobility,Skill Focus,Spring  Attack,Stealthy,Weapon Finesse,
-Alertness,Athletic,Combat Reflexes,Deft Hands,Deceitful,Dodge,Improved Unarmed Strike,Mobility,Outflank,Skill Focus,Stealthy,Stunning FistB,
-Advanced Weapon Training,Clustered Shots,Combat Reflexes,
-Agile Maneuvers,Combat Reflexes,
-Hard-Headed,Ironguts,Ironhide,Sea Legs,Steel Soul,
-Dwarven Fury,Dwarven Hatred Style,Dwarven Seething,Furious Focus,Greater Weapon Focus,
-Craft Wondrous Item,Deepsight,Extra Revelation,Improved Initiative,Noble Scion,
-Augment Summoning,Craft Magic Arms and Armor,Craft Wondrous Item,Escape Route,Extra  Evolution,Improved Share Spells,Spell Focus,Superior Summoning,
-Augment Summoning,Craft Magic Arms and Armor,Craft Wondrous Item,Escape Route,Extra  Evolution,Improved Share Spells,Spell Focus,Superior Summoning,
-Combat Casting,Dodge,Eschew Materials,Great Fortitude,Improved Initiative,Lightning Reflexes,Mobility,Power Attack,Spring Attack,
-Craft Wondrous Item,Greater Spell Focus,
-Acrobatic Steps,Martial Versatility,
-Brew Potion,Extra Bombs,Master Alchemist,Point Blank Shot,Precise Shot,Shared Insight,Throw  Anything,Toughness,
-Advanced Weapon Training,
-Combat Reflexes,
-Bludgeoner,Deft Hands,Sap Adept,Sap Master,Weapon Finesse,Weapon Focus,Weapon  Versatility,
-Additional Traits,Deceitful,Forge Ring,LeadershipB,
-Dodge,Double Slice,Endurance,Improved Two-Weapon Fighting,Mobility,Track,Two-Weapon  Fighting,Weapon Finesse,Weapon Focus,
-Cleave,Cleaving Finish,Eldritch Heritage,
-Combat Expertise,Combat Reflexes,Stunning Fist,Vicious  StompB,
-Additional Traits,Improved Initiative,
-Dirty Fighting,Dodge,Fleet,Spider Step,Spring Attack,Stunning FistB,
-Dodge,Elemental Fist,Fleet,Spring Attack,
-Boon Companion,Deadly Aim,Endurance,Point Blank Shot,Precise Shot,Rapid ShotB,
-Armor Proficiency,Bulette Charge Style,Bulette Leap,Bulette Rampage,Charge Through,Improved Overrun,Power Attack,
-AlertnessB,Craft Magic Arms and Armor,Craft Wondrous Item,Enlarge Spell,Mounted Combat,Scribe Scroll,Selective Spell,Trick Riding,Widen SpellB,
-Double Slice,Exotic Weapon Proficiency,
-Power Attack,
-Combat Reflexes,Eschew Materials,Power Attack,
-Dodge,Effortless Trickery,Mobility,Eschew Materials,Greater Spell Focus,
-Agile Maneuvers,Empower Spell-Like Ability,Run,Weapon Finesse,
-Attune Gem,Craft Wondrous Item,Greater Spell Focus,Spell Penetration,
-Ability Focus,
-Ability Focus,
-Deadly Grappler,Dirty Fighting,Greater Grapple,Improved Grapple,Kraken Style,
-Ability Focus,
-Dirty Fighting,Exotic Weapon Proficiency,Two-Weapon Fighting,
-Catfolk Exemplar,Extra Rage Power,Power Attack,Raging Vitality,Run,
-Catfolk Exemplar,Raging Vitality,RunM,
-Additional Traits,Vital Strike,
-Additional Traits,
-Armor Proficiency,Extra Wild Talent,Weapon Finesse,
-Craft Wondrous Item,Dimensional Agility,Dimensional Assault,Dimensional Dervish,Dimensional  Savant,Eldritch Claws,Echoing Spell,Quicken Spell,Silent Spell,Skill Focus,
-Craft Wondrous Item,Cunning Caster,Deceitful,Eschew Materials,Improved Familiar,Penetrating  Possession,Silent Spell,Spirit Vision,Still Spell,
-Craft Wondrous Item,Echoing Spell,Extend Spell,Greater Spell Specialization,Multimorph,
-Craft Wondrous Item,Command Undead,Dispel Focus,Favored Prestige Class,Spell Penetration,
-Aldori Dueling Disciple,Aldori Dueling Mastery,Combat Reflexes,Duelist of the Roaring Falls,Duelist of the Shrouded Lake,Exotic Weapon Proficiency,
-Craft Wondrous Item,Diehard,Elemental Focus,Improved Great Fortitude,Rime Spell,ToughnessM,
-Craft Wondrous Item,Diehard,Elemental Focus,Improved Great Fortitude,Rime Spell,Toughness,
-Brew Potion,Craft Wondrous Item,Extra Hex,Master Alchemist,
-Angel Wings,Angelic Blood,Dazing Assault,Deadly Aim,
-Alertness,Devastating Strike,Furious Focus,Mauler’s Endurance,Outflank,Power Attack,Precise Strike,Spirit’s Gift,Toughness,Vital Strike,
-Armor Focus,
-Craft Magic Arms and Armor,Craft Wondrous Item,Extra Arcana,Focused Overseer,Focused Worker,Intensify Spell,
-Dazzling Display,Dramatic Display,Extra Arcana,
-Advanced Armor Training,Shield Focus,Shield Master,Shield Slam,Stumbling Bash,Toppling Bash,Two Weapon Fighting,
-Boon Companion,Divine Protection,Spontaneous Nature’s Ally,
-Deceitful,Extra Rogue Talent,Voice of the Sibyl,Weapon Finesse,
-Deceitful,Extra Rogue Talent,Voice of the Sibyl,Weapon Finesse,
-Alertness,Cunning,Dazing Spell,Eschew Materials,Solar Spell,Steadfast Personality,Toughness,
-Born of Frost,Icy Stare,Improved Unarmed Strike,Power Attack,Racial Heritage,Sure  on Ice,
-Craft Wand,Craft Wondrous Item,Eschew Materials,Extend Spell,Greater Spell Focus,
-Cleave,Cleaving Finish,Combat Reflexes,Quick Draw,Stunning  Fist,Two-Weapon Fighting,
-Combat Reflexes,
-Combat Reflexes,Dodge,Following Step,Improved Unarmed Strike,Mobility,Spring Attack,Step Up,Step Up and Strike,Weapon Finesse,
-Craft Wondrous Items,Greater Spell Focus,
-Brew Potion,Kobold Sniper,Master Alchemist,Point Blank Shot,Precise Shot,Rapid Shot,Quick  Draw,Throw Anything,
-Craft Construct,Craft Magic Arms and Armor,Craft Wondrous Items,Empower Spell,Eschew  Materials,Healer’s Hands,Master Alchemist,Signature Skill,
-Brew Potion,Extra Hex,Improved Familiar,Master Alchemist,Telepathic Link,
-Dazzling Display,Disheartening Display,Exotic Weapon Proficiency,
-Beacon of Hope,Fey Foundling,Heighten Spell,Reach Spell,Selective Channeling,
-Deadly Aim,Eldritch Claws,Intimidating Prowess,Multiattack,Power Attack,Throw Anything,
-Command Undead,Craft Wondrous Item,Extra Revelation,
-Craft Magic Arms and Armor,Exotic Weapon Proficiency,
-Endurance,Exotic Weapon Proficiency,Master Alchemist,Point Blank Shot,Precise Shot,Rapid Shot,
-Deadly Aim,
-Brew Potion,Extra Discovery,
-Augment Summoning,Craft Construct,Craft Magic Arms and Armor,Craft Wondrous Item,Improved  Familiar,Racial Heritage,Tengu Raven Form,Tengu  Wings,
-Combat Expertise,Dodge,Greater Disarm,Greater Trip,Mobility,Improved Disarm,Improved Trip,Spring Attack,Whirlwind Attack,
-Charge Through,Furious Focus,Improved Initiative,Improved Overrun,Intimidating Prowess,Power  Attack,Toughness,Weapon Focus,
-Escape Route,Mounted Combat,Ride-By Attack,Spirited Charge,
-Exotic Weapon Proficiency,Point Blank Shot,
-Fleet,Natural Spell,Shaping Focus,Wild Speech,
-Child of Two Worlds,
-Advanced Weapon Training,Arc Slinger,Craft Magic Arms and Armor,
-Catch Off-Guard,Combat ExpertiseB,Step Up,Step Up and Strike,Vital Strike,
-Deadly Aim,Rapid  Shot,Two-Weapon Fighting,
-Additional Traits,Alertness,Combat Casting,Craft Wondrous Item,Improved Familiar,Scribe Scroll,
-Alertness,Combat Expertise,Dazzling Display,Exotic Weapon Proficiency,
-Advanced Weapon Training,
-Acrobatic,Additional Traits,Athletic,Augment Summoning,Craft Wondrous Items,Endurance,Run,Scribe Scroll,Spell Focus,Superior Summoning,Toughness,
-Dodge,Double Slice,Quick Draw,Run,Two-Weapon Fighting,
-Craft Wondrous Item,Dazing Spell,Empower Spell,Eschew Materials,Flyby Attack,Focused Spell,Lingering Spell,Reach Spell,Quicken Spell,Seeking Spell,Widen Spell,
-Craft Wondrous Item,Cunning Caster,Deceitful,Eschew Materials,False Focus,Silent Spell,Still  Spell,
-Chokehold,Dirty Fighting,Greater Bull Rush,Greater Grapple,Improved Bull Rush,Improved  Grapple,Improved Unarmed Strike,Power Attack,Quick Bull Rush,
-Armor Proficiency,Improved Vital Strike,Natural Spell,Vital Strike,Wild Speech,
-Deadly Aim,Dodge,Greater Weapon Focus,
-Combat Expertise,Combat ReflexesRime Spell,Shield Focus,
-Combat Reflexes,Rime Spell,Shield Focus,
-Armor Proficiency,
-Advanced Armor Training,Advanced Weapon Training,Cunning,Fast Learner,Improved Bravery,Improved Improvisation,Improvisation,Power Attack,
-Animal Ally,Boon Companion,Cavalry Formation,Dazing Assault,Ferocious Loyalty,Mounted  Combat,Mounted Skirmisher,Nature Soul,Power Attack,Ride-by Attack,Spirited Charge,Trick  Riding,Wheeling Charge,
-Beacon of Hope,Craft Wondrous Items,Exotic Weapon Proficiency,Purifying Channel,Realistic Likeness,Quick  Channel,Quick Draw,Selective Channeling,Weapon Finesse,
-Arcane Armor Mastery,Arcane Armor Training,Armor Proficiency,
-Circling Mongoose,Dodge,Following Step,Greater Weapon Focus,Wind Stance,
-Power Attack,Risky Striker,
-Conceal Spell,Cunning Caster,Deceitful,Eschew Materials,Improved Conceal Spell,Silent Spell,Spell Focus,Still Spell,Subtle Enchantments,
-Greater Spell Penetration,Point Blank Shot,Precise Shot,Spell Penetration,Weapon Finesse,Weapon  Focus,
-Bleeding Critical M,Combat Reflexes,Critical Focus M,Dodge,Eldritch Heritage,
-Bleeding Critical,Combat Reflexes,Critical Focus,Dodge,Eldritch Heritage,
-Greater Spell Specialization,Run,Scribe Scroll,Shadow Grasp,Solid Shadows,Spell Focus,Tenebrous Spell,Umbral Spell,
-Ability Focus,
-Ability Focus,
-Accomplished Sneak Attacker,Craft Wand,Deft Hands,Eschew Materials,Experimental Spellcaster,Weapon Finesse,
-Childlike,Master Alchemist,Pass for Human,Weapon Finesse,
-Blood of Heroes,Craft Wondrous Item,Exotic Weapon Proficiency,Outflank,Precise Strike,Quick Draw,Scribe Scroll,
-Craft Wondrous Item,Endurance,Exotic Weapon Proficiency,Extend Spell,Lookout,Outflank,Precise Strike,Quick Draw,Reach Spell,Scribe Scroll,
-Extra Wild Talent,Kinetic Invocation,Point Blank Shot,Precise Shot,
-Alertness,Arcane Blast,Arcane Shield,Craft Wondrous Item,Eschew Materials,Heighten Spell,Reach Spell,Scribe Scroll,Silent Spell,Still Spell,Versatile Spontaneity,
-Brew Potion,Deadly Aim,Exotic Weapon Proficiency,Improved Vital Strike,Point Blank  Shot,Precise Shot,Rapid Shot,Throw Anything,Two-Weapon Fighting,Vital Strike,
-Craft Wondrous Item,Dazing Spell,Elemental Focus,
-Craft Wondrous Item,Dazing Spell,Elemental Focus,
-Eschew Materials,Greater Spell Focus,Toughness,Undead Master,Weapon Finesse,
-Combat Expertise,Spirited Charge,
-Craft Rod,Craft Wondrous Item,Deific Obedience,Empower Spell,Favored Enemy Spellcasting,
-Craft Wondrous Item,Destructive Dispel,Dispel Focus,Dispel Synergy,Dual Path M,Widen  SpellB,
-Craft Wondrous Item,Destructive Dispel,Dispel Focus,Dispel Synergy,Greater Dispel Focus,Greater  Spell Specialization,Improved Counterspell,Quicken Spell,Scribe Scroll,Selective Spell,Spell  Focus,Widen Spell,
-Cleave,Cleaving Finish,Flanking Foil,Furious Focus,Giant Killer,Goblin Cleaver,Great Cleave,Improved Cleaving Finish,Improved Surprise Follow-Through,Orc Hewer,Power Attack,Strike Back,Surprise Follow-Through,
-Deadly Finish,Dual Path M,
-Furious Focus,Greater Penetrating Strike,
-Improved Unarmed Strike,Mobility,Sidestep,Skill Focus . Usage of such items  during shock boxing matches is grounds for immediate disqualification.,
-Craft Wondrous Item,Eldritch Researcher,
-Craft Wondrous Item,Elemental Focus,
-Burning Spell,Craft Wondrous Item,Dodge,Elemental Focus,Still Spell,Widen Spell,
-Combat Reflexes,Deadly Aim,Dodge,Improved Initiative,Mobility,Point Blank  Shot,Rapid Shot,
-Craft Wondrous Items,Defensive Combat Training,Deific Obedience,Eschew Materials,Maximize  Spell,Noble Scion,Still  Spell,
-Craft Staff,Craft Wondrous Item,Deadly Aim,Forge Ring,Heighten Spell,Intensified Spell,Maximize  Spell,Power Attack,Preferred Spell,
-Additional Traits,Extra Wild Talent,Toughness,Weapon Finesse,
-Dazzling Display,Enforcer,Intimidating Prowess,Persuasive,Shatter Defenses,Sap Adept,Sap  Master,Skill Focus,
-Dazzling Display,Enforcer,Extra Rogue Talent,
-Blind-Fight,Combat Expertise,Combat Reflexes,Extra Wild Talent,Moonlight Stalker,Point Blank  Shot,Precise Shot,Weapon Finesse,
-Craft Rod,Craft Wondrous Item,Cypher Magic,Cypher Script,Scribe Scroll,Spell Focus,
-Brew Potion,Master Alchemist,Mounted Combat,Skill Focus,Stealthy,Throw  Anything,
-Alertness,Cosmopolitan,
-Brew Potion,Far Shot,Point Blank Shot,Precise Shot,Throw Anything,Weapon Focus,
-Escape Route,Mounted Combat,Mounted Shield,Power Attack,Ride-By Attack,Shield Focus,Spirited Charge,
-Dodge,Toughness,
-Childlike,Cosmopolitan,
-Childlike,Cosmopolitan,
-Armor Proficiency,Craft Magic Arms and Armor,Tower Shield Proficiency,
-Ability Focus,
-Attuned to the Wild,
-Combat Expertise,Lunge,Outslug Style,
-Bodyguard,Combat Patrol,Combat Reflexes,Dodge,In Harm’s Way,Mobility,Power Attack,Stand Still,Two-Weapon Fighting,
-Craft Staff,Craft Wand,Craft Wondrous Item,Feral Speech*,Forge Ring,Master Alchemist,Multimorph*,Scribe Scroll,Skill Focus,Staff-Like Wand*,
-Butterfly’s Sting,Combat Expertise,Leadership,Lingering  Performance,Outflank,
-Ability Focus,Stunning Fist,
-Brew Potion,Deflect Arrows,Dodge,Snatch Arrows,Throw Anything,
-Accomplished Sneak Attacker,Weapon Focus,
-Elven Spirit,Stealthy,
-Eschew Materials,Greater Spell Focus,
-Craft Wondrous Item,Dirty Fighting,Exotic Weapons Proficiency,Improved Grapple,
-Craft Wondrous Item,Dirty Fighting,Exotic Weapon Proficiency,Improved Grapple,
-Expanded Arcana,Extend Spell,Flyby Attack,Hover,Logical Spell,Maximize Spell,Merciful Spell,Quicken Spell,Wingover,
-Expert Sniper,Go Unnoticed,Skill Focus,Hellcat Stealth,Weapon Finesse,
-Expert Sniper,Go Unnoticed,Skill Focus,Hellcat Stealth,
-Dimensional Agility,Dodge,Empower Spell,Eschew Materials,Extend Spell,Extra Path Ability M,Improved Initiative,Mythic Spell Lore M,Toughness,
-Armor Proficiency,
-Craft Wondrous Item,Echoing Spell,Eschew Materials,Greater Spell Focus,
-Craft Wondrous Item,Eschew Materials,Go Unnoticed,Greater Spell Focus,Still SpellB,
+Brew Potion,Extra Discovery,Fast Learner,Fleshwarper,Master Alchemist,Planar Preservationist,Throw Anything
+Craft wondrous item,Defensive Combat Training,Greater Spell Focus,Spell Penetration
+Ability Focus,Undead Master
+Furious Focus,Improved Spell Sharing,Stealth Synergy,Vital Strike
+Combat Casting,Craft Wondrous Item,Double Slice,Improved Two-Weapon Fighting,Two-Weapon Fighting,Weapon Focus
+Accomplished Sneak Attacker,Craft Rod,Craft Wondrous Item,Cunning,Defensive Combat Training,Improved Initiative,Scale and Skin,Scribe Scroll,Skill Focus,Stealthy,Weapon Finesse
+Accomplished Sneak Attacker,Craft Rod,Craft Wondrous Item,Defensive Combat Training,Improved Initiative,Scale and Skin,Scribe Scroll,Skill Focus,Stealthy,Weapon Finesse
+Demonologist,Glimpse Beyond
+Fortified Armor Training,Combat Reflexes,Shield Brace,Shield Focus
+Combat Casting,Dodge,Eschew Materials,Great Fortitude,Improved Initiative,Lightning Reflexes,Mobility,Power Attack,Spring Attack,Toughness,Vital Strike
+Combat Casting,Dodge,Eschew Materials,Great Fortitude,Improved Initiative,Lightning Reflexes,Mobility,Power Attack,Spring Attack
+Alertness,Craft Construct,Craft Magic Arms and Armor,Craft wondrous item,Greater Spell Penetration,Heighten Spell,Magical Aptitude,Planned Spontaneity,Preferred Spell,Spell Penetration
+Alter Binary Mindscape,Psychic Combatant
+Command Undead,Craft Wondrous Item,Dual Path
+Command Undead,Craft Wondrous Item,Extend Spell,Heighten Spell,Quicken Spell,Spell Focus
+Combat Reflexes,Extra Wild Talent
+Ability Focus,Craft Staff,Craft Wondrous Item,Forge Ring,Improved Initiative,Spirit Talker,Spiritual Guardian
+Double Slice,Intimidating Prowess,Martial Weapon Proficiency,Multiweapon Fighting,Throw Anything
+Animal Ally,Boon Companion,Mounted Combat,Nature Soul,Weapon Finesse
+Alignment Channel,Toughness
+Deceitful,Duck and Cover,Leadership,Swap Places,Toughness
+Furious Focus,Greater Shield Focus,Mobile Bulwark Style,Mobile Fortress,Mobile Stronghold,Power Attack,Shield Brace,Shield Focus,Tower Shield Specialist,Weapon Focus
+Extra Evolution,Trick Riding
+Eschew Materials,Evolved Familiar
+Alertness,Blind-Fight,Blinded Blade Style,Blinded Competence,Blinded Master,Deflect Arrows,Dodge,Greater Blind-Fight,Improved Blind-Fight,Improved Trip,Signature Skill,Spring Attack
+Ability Focus
+Weapon Finesse
+Clustered Shots,Deadly Aim,Disposable Weapon,Distance Thrower,Far Shot,Improvised Weapon Mastery,point-blank Shot,Precise Shot,Quick Draw,Rapid Shot,Splintering Weapon,Throw Anything,Weapon Focus
+Craft Wondrous Item,Fey Foundling,Fey Friend,Greater Spell Focus
+Combat Casting,Craft wondrous item,Defensive Combat Training,Extend Spell,Greater Spell Focus,Toughness
+Cooperative Crafting,Craft Staff,Craft Wondrous Item,Eschew Materials,Extend Spell,Heighten Spell,Intensified Spell,Preferred Spell,Reach Spell,Scribe Scroll
+Additional Traits,Dodge,Fast Learner,Improved Initiative,Intensified Spell,Power Attack,Weapon Focus
+Additional Traits,Craft Construct,Craft Magical Arms and Armor,Craft Wondrous Item,Deft Hands,Eye of the Arclord,Major Spell Expertise,Well-Prepared
+Combat Expertise,Whirlwind Attack
+Dazzling Display,Double Slice,Greater Two-Weapon Fighting,Improved Critical
+Double Slice,Greater Weapon Focus
+Divine Protection,Evolved Familiar
+Dazzling Display,Disheartening Display,Extra Revelation,Greater Dirty Trick,Improved Critical
+Animal Soul,Combat Expertise,Extra Feature,Escape Route,Ferocious Loyalty,Improved Spell Sharing,Multiattack,Outflank,Pack Flanking,Precise Strike
+Crane Style,Dodge,Dragon Style,Improved Unarmed Strike,Mobility,Quarterstaff Master,Stunning Fist,Weapon Focus
+Combat Reflexes,Dodge,Improved Unarmed Strike,Mobility,Skill Focus,Spring Attack,Stealthy,Weapon Finesse
+Alertness,Athletic,Combat Reflexes,Deft Hands,Deceitful,Dodge,Improved Unarmed Strike,Mobility,Outflank,Skill Focus,Stealthy,Stunning Fist
+Advanced Weapon Training,Clustered Shots,Combat Reflexes
+Agile Maneuvers,Combat Reflexes
+Hard-Headed,Ironguts,Ironhide,Sea Legs,Steel Soul
+Dwarven Fury,Dwarven Hatred Style,Dwarven Seething,Furious Focus,Greater Weapon Focus
+Craft Wondrous Item,Deepsight,Extra Revelation,Improved Initiative,Noble Scion
+Augment Summoning,Craft Magic Arms and Armor,Craft Wondrous Item,Escape Route,Extra Evolution,Improved Share Spells,Spell Focus,Superior Summoning
+Augment Summoning,Craft Magic Arms and Armor,Craft Wondrous Item,Escape Route,Extra Evolution,Improved Share Spells,Spell Focus,Superior Summoning
+Combat Casting,Dodge,Eschew Materials,Great Fortitude,Improved Initiative,Lightning Reflexes,Mobility,Power Attack,Spring Attack
+Craft Wondrous Item,Greater Spell Focus
+Acrobatic Steps,Martial Versatility
+Brew Potion,Extra Bombs,Master Alchemist,point-blank Shot,Precise Shot,Shared Insight,Throw Anything,Toughness
+Advanced Weapon Training
+Combat Reflexes
+Bludgeoner,Deft Hands,Sap Adept,Sap Master,Weapon Finesse,Weapon Focus,Weapon Versatility
+Additional Traits,Deceitful,Forge Ring,Leadership
+Dodge,Double Slice,Endurance,Improved Two-Weapon Fighting,Mobility,Track,Two-Weapon Fighting,Weapon Finesse,Weapon Focus
+Cleave,Cleaving Finish,Eldritch Heritage
+Combat Expertise,Combat Reflexes,Stunning Fist,Vicious Stomp
+Additional Traits,Improved Initiative
+Dirty Fighting,Dodge,Fleet,Spider Step,Spring Attack,Stunning Fist
+Dodge,Elemental Fist,Fleet,Spring Attack
+Boon Companion,Deadly Aim,Endurance,point-blank Shot,Precise Shot,Rapid Shot
+Heavy Armor Proficiency,Bulette Charge Style,Bulette Leap,Bulette Rampage,Charge Through,Improved Overrun,Power Attack
+Alertness,Craft Magic Arms and Armor,Craft Wondrous Item,Enlarge Spell,Mounted Combat,Scribe Scroll,Selective Spell,Trick Riding,Widen Spell
+Double Slice,Exotic Weapon Proficiency
+Power Attack
+Combat Reflexes,Eschew Materials,Power Attack
+Dodge,Effortless Trickery,Mobility,Eschew Materials,Greater Spell Focus
+Agile Maneuvers,Empower Spell-Like Ability,Run,Weapon Finesse
+Attune Gem,Craft Wondrous Item,Greater Spell Focus,Spell Penetration
+Ability Focus
+Ability Focus
+Brutal Grappler,Dirty Fighting,Greater Grapple,Improved Grapple,Kraken Style
+Ability Focus
+Dirty Fighting,Exotic Weapon Proficiency,Two-Weapon Fighting
+Catfolk Exemplar,Extra Rage Power,Power Attack,Raging Vitality,Run
+Catfolk Exemplar,Raging Vitality,Run
+Additional Traits,Vital Strike
+Additional Traits
+Heavy Armor Proficiency,Extra Wild Talent,Weapon Finesse
+Craft Wondrous Item,Dimensional Agility,Dimensional Assault,Dimensional Dervish,Dimensional Savant,Eldritch Claws,Echoing Spell,Quicken Spell,Silent Spell,Skill Focus
+Craft Wondrous Item,Cunning Caster,Deceitful,Eschew Materials,Improved Familiar,Penetrating Possession,Silent Spell,Spirit Vision,Still Spell
+Craft Wondrous Item,Echoing Spell,Extend Spell,Greater Spell Specialization,Multimorph
+Craft Wondrous Item,Command Undead,spell focus,Favored Prestige Class,Spell Penetration
+Aldori Dueling Disciple,Aldori Dueling Mastery,Combat Reflexes,Duelist of the Roaring Falls,Duelist of the Shrouded Lake,Exotic Weapon Proficiency
+Craft Wondrous Item,Diehard,Elemental Focus,Improved Great Fortitude,Rime Spell,Toughness
+Craft Wondrous Item,Diehard,Elemental Focus,Improved Great Fortitude,Rime Spell,Toughness
+Brew Potion,Craft Wondrous Item,Extra Hex,Master Alchemist
+Angel Wings,Angelic Blood,Dazing Assault,Deadly Aim
+Alertness,Devastating Strike,Furious Focus,Mauler’s Endurance,Outflank,Power Attack,Precise Strike,Spirit’s Gift,Toughness,Vital Strike
+Armor Focus
+Craft Magic Arms and Armor,Craft Wondrous Item,Extra Arcana,Focused Overseer,Focused Worker,Intensified Spell
+Dazzling Display,Dramatic Display,Extra Arcana
+Advanced Armor Training,Shield Focus,Shield Master,Shield Slam,Stumbling Bash,Toppling Bash,two-weapon Fighting
+Boon Companion,Divine Protection,Spontaneous Nature’s Ally
+Deceitful,Extra Rogue Talent,Voice of the Sibyl,Weapon Finesse
+Deceitful,Extra Rogue Talent,Voice of the Sibyl,Weapon Finesse
+Alertness,Cunning,Dazing Spell,Eschew Materials,Solar Spell,Steadfast Personality,Toughness
+Born of Frost,Icy Stare,Improved Unarmed Strike,Power Attack,Racial Heritage,Sure on Ice
+Craft Wand,Craft Wondrous Item,Eschew Materials,Extend Spell,Greater Spell Focus
+Cleave,Cleaving Finish,Combat Reflexes,Quick Draw,Stunning Fist,Two-Weapon Fighting
+Combat Reflexes
+Combat Reflexes,Dodge,Following Step,Improved Unarmed Strike,Mobility,Spring Attack,Step Up,Step Up and Strike,Weapon Finesse
+Craft wondrous item,Greater Spell Focus
+Brew Potion,Kobold Sniper,Master Alchemist,point-blank Shot,Precise Shot,Rapid Shot,Quick Draw,Throw Anything
+Craft Construct,Craft Magic Arms and Armor,Craft wondrous item,Empower Spell,Eschew Materials,Healer’s Hands,Master Alchemist,Signature Skill
+Brew Potion,Extra Hex,Improved Familiar,Master Alchemist,Telepathic Link
+Dazzling Display,Disheartening Display,Exotic Weapon Proficiency
+Beacon of Hope,Fey Foundling,Heighten Spell,Reach Spell,Selective Channeling
+Deadly Aim,Eldritch Claws,Intimidating Prowess,Multiattack,Power Attack,Throw Anything
+Command Undead,Craft Wondrous Item,Extra Revelation
+Craft Magic Arms and Armor,Exotic Weapon Proficiency
+Endurance,Exotic Weapon Proficiency,Master Alchemist,point-blank Shot,Precise Shot,Rapid Shot
+Deadly Aim
+Brew Potion,Extra Discovery
+Augment Summoning,Craft Construct,Craft Magic Arms and Armor,Craft Wondrous Item,Improved Familiar,Racial Heritage,Tengu Raven Form,Tengu Wings
+Combat Expertise,Dodge,Greater Disarm,Greater Trip,Mobility,Improved Disarm,Improved Trip,Spring Attack,Whirlwind Attack
+Charge Through,Furious Focus,Improved Initiative,Improved Overrun,Intimidating Prowess,Power Attack,Toughness,Weapon Focus
+Escape Route,Mounted Combat,Ride-By Attack,Spirited Charge
+Exotic Weapon Proficiency,point-blank Shot
+Fleet,Natural Spell,Shaping Focus,Wild Speech
+Child of Two Worlds
+Advanced Weapon Training,Arc Slinger,Craft Magic Arms and Armor
+Catch Off-Guard,Combat ExpertiseB,Step Up,Step Up and Strike,Vital Strike
+Deadly Aim,Rapid Shot,Two-Weapon Fighting
+Additional Traits,Alertness,Combat Casting,Craft Wondrous Item,Improved Familiar,Scribe Scroll
+Alertness,Combat Expertise,Dazzling Display,Exotic Weapon Proficiency
+Advanced Weapon Training
+Acrobatic,Additional Traits,Athletic,Augment Summoning,Craft wondrous item,Endurance,Run,Scribe Scroll,Spell Focus,Superior Summoning,Toughness
+Dodge,Double Slice,Quick Draw,Run,Two-Weapon Fighting
+Craft Wondrous Item,Dazing Spell,Empower Spell,Eschew Materials,Flyby Attack,Focused Spell,Lingering Spell,Reach Spell,Quicken Spell,Seeking Spell,Widen Spell
+Craft Wondrous Item,Cunning Caster,Deceitful,Eschew Materials,False Focus,Silent Spell,Still Spell
+Chokehold,Dirty Fighting,Greater Bull Rush,Greater Grapple,Improved Bull Rush,Improved Grapple,Improved Unarmed Strike,Power Attack,Quick Bull Rush
+Heavy Armor Proficiency,Improved Vital Strike,Natural Spell,Vital Strike,Wild Speech
+Deadly Aim,Dodge,Greater Weapon Focus
+Combat Expertise,Combat Reflexes,Rime Spell,Shield Focus
+Combat Reflexes,Rime Spell,Shield Focus
+Heavy Armor Proficiency
+Advanced Armor Training,Advanced Weapon Training,Cunning,Fast Learner,Improved Bravery,Improved Improvisation,Improvisation,Power Attack
+Animal Ally,Boon Companion,Cavalry Formation,Dazing Assault,Ferocious Loyalty,Mounted Combat,Mounted Skirmisher,Nature Soul,Power Attack,Ride-by Attack,Spirited Charge,Trick Riding,Wheeling Charge
+Beacon of Hope,Craft wondrous item,Exotic Weapon Proficiency,Purifying Channel,Realistic Likeness,Quick Channel,Quick Draw,Selective Channeling,Weapon Finesse
+Arcane Armor Mastery,Arcane Armor Training,Heavy Armor Proficiency
+Circling Mongoose,Dodge,Following Step,Greater Weapon Focus,Wind Stance
+Power Attack,Risky Striker
+Conceal Spell,Cunning Caster,Deceitful,Eschew Materials,Improved Conceal Spell,Silent Spell,Spell Focus,Still Spell,Subtle Enchantments
+Greater Spell Penetration,point-blank Shot,Precise Shot,Spell Penetration,Weapon Finesse,Weapon Focus
+Bleeding Critical,Combat Reflexes,Critical Focus,Dodge,Eldritch Heritage
+Bleeding Critical,Combat Reflexes,Critical Focus,Dodge,Eldritch Heritage
+Greater Spell Specialization,Run,Scribe Scroll,Shadow Grasp,Solid Shadows,Spell Focus,Tenebrous Spell,Umbral Spell
+Ability Focus
+Ability Focus
+Accomplished Sneak Attacker,Craft Wand,Deft Hands,Eschew Materials,Experimental Spellcaster,Weapon Finesse
+Childlike,Master Alchemist,Pass for Human,Weapon Finesse
+Blood of Heroes,Craft Wondrous Item,Exotic Weapon Proficiency,Outflank,Precise Strike,Quick Draw,Scribe Scroll
+Craft Wondrous Item,Endurance,Exotic Weapon Proficiency,Extend Spell,Lookout,Outflank,Precise Strike,Quick Draw,Reach Spell,Scribe Scroll
+Extra Wild Talent,Kinetic Invocation,point-blank Shot,Precise Shot
+Alertness,Arcane Blast,Arcane Shield,Craft Wondrous Item,Eschew Materials,Heighten Spell,Reach Spell,Scribe Scroll,Silent Spell,Still Spell,Versatile Spontaneity
+Brew Potion,Deadly Aim,Exotic Weapon Proficiency,Improved Vital Strike,point-blank Shot,Precise Shot,Rapid Shot,Throw Anything,Two-Weapon Fighting,Vital Strike
+Craft Wondrous Item,Dazing Spell,Elemental Focus
+Craft Wondrous Item,Dazing Spell,Elemental Focus
+Eschew Materials,Greater Spell Focus,Toughness,Undead Master,Weapon Finesse
+Combat Expertise,Spirited Charge
+Craft Rod,Craft Wondrous Item,Deific Obedience,Empower Spell,Favored Enemy Spellcasting
+Craft Wondrous Item,Destructive Dispel,spell focus,Dispel Synergy,Dual Path M,Widen Spell
+Craft Wondrous Item,Destructive Dispel,spell focus,Dispel Synergy,Greater spell focus,Greater Spell Specialization,Improved Counterspell,Quicken Spell,Scribe Scroll,Selective Spell,Spell Focus,Widen Spell
+Cleave,Cleaving Finish,Flanking Foil,Furious Focus,Giant Killer,Goblin Cleaver,Great Cleave,Improved Cleaving Finish,Improved Surprise Follow-Through,Orc Hewer,Power Attack,Strike Back,Surprise Follow-Through
+Deadly Finish,Dual Path M
+Furious Focus,Greater Penetrating Strike
+Improved Unarmed Strike,Mobility,Sidestep,Skill Focus
+Craft Wondrous Item,Eldritch Researcher
+Craft Wondrous Item,Elemental Focus
+Burning Spell,Craft Wondrous Item,Dodge,Elemental Focus,Still Spell,Widen Spell
+Combat Reflexes,Deadly Aim,Dodge,Improved Initiative,Mobility,point-blank Shot,Rapid Shot
+Craft wondrous item,Defensive Combat Training,Deific Obedience,Eschew Materials,Maximize Spell,Noble Scion,Still Spell
+Craft Staff,Craft Wondrous Item,Deadly Aim,Forge Ring,Heighten Spell,Intensified Spell,Maximize Spell,Power Attack,Preferred Spell
+Additional Traits,Extra Wild Talent,Toughness,Weapon Finesse
+Dazzling Display,Enforcer,Intimidating Prowess,Persuasive,Shatter Defenses,Sap Adept,Sap Master,Skill Focus
+Dazzling Display,Enforcer,Extra Rogue Talent
+Blind-Fight,Combat Expertise,Combat Reflexes,Extra Wild Talent,Moonlight Stalker,point-blank Shot,Precise Shot,Weapon Finesse
+Craft Rod,Craft Wondrous Item,Cypher Magic,Cypher Script,Scribe Scroll,Spell Focus
+Brew Potion,Master Alchemist,Mounted Combat,Skill Focus,Stealthy,Throw Anything
+Alertness,Cosmopolitan
+Brew Potion,Far Shot,point-blank Shot,Precise Shot,Throw Anything,Weapon Focus
+Escape Route,Mounted Combat,Mounted Shield,Power Attack,Ride-By Attack,Shield Focus,Spirited Charge
+Dodge,Toughness
+Childlike,Cosmopolitan
+Childlike,Cosmopolitan
+Light Armor Proficiency,Craft Magic Arms and Armor,Tower Shield Proficiency
+Ability Focus
+Attuned to the Wild
+Combat Expertise,Lunge,Outslug Style
+Bodyguard,Combat Patrol,Combat Reflexes,Dodge,In Harm’s Way,Mobility,Power Attack,Stand Still,Two-Weapon Fighting
+Craft Staff,Craft Wand,Craft Wondrous Item,Feral Speech*,Forge Ring,Master Alchemist,Multimorph*,Scribe Scroll,Skill Focus,Staff-Like Wand*
+Butterfly’s Sting,Combat Expertise,Leadership,Lingering Performance,Outflank
+Ability Focus,Stunning Fist
+Brew Potion,Deflect Arrows,Dodge,Snatch Arrows,Throw Anything
+Accomplished Sneak Attacker,Weapon Focus
+Elven Spirit,Stealthy
+Eschew Materials,Greater Spell Focus
+Craft Wondrous Item,Dirty Fighting,Exotic Weapons Proficiency,Improved Grapple
+Craft Wondrous Item,Dirty Fighting,Exotic Weapon Proficiency,Improved Grapple
+Expanded Arcana,Extend Spell,Flyby Attack,Hover,Logical Spell,Maximize Spell,Merciful Spell,Quicken Spell,Wingover
+Expert Sniper,Go Unnoticed,Skill Focus,Hellcat Stealth,Weapon Finesse
+Expert Sniper,Go Unnoticed,Skill Focus,Hellcat Stealth
+Dimensional Agility,Dodge,Empower Spell,Eschew Materials,Extend Spell,Extra Path Ability M,Improved Initiative,Mythic Spell Lore M,Toughness
+Light Armor Proficiency
+Craft Wondrous Item,Echoing Spell,Eschew Materials,Greater Spell Focus
+Craft Wondrous Item,Eschew Materials,Go Unnoticed,Greater Spell Focus,Still Spell
 Far Shot,Fast Talk,Improved Initiative,Improved Unarmed Strike,Skill Focus
-Additional Traits,Arcane Armor Training,Arcane Strike,Bleeding Crit,Crit Focus,Dazzling Display,Eschew Materials,Flyby Attack,Improved Critical,
-Brew Potion,Throw Anything,Toughness,Weapon Focus,
-Point Blank Shot,Precise Shot,Brew Potion,Throw Anything
-Brew Potion,Throw Anything,Point Blank Shot,Precise Shot,Far Shot
+Additional Traits,Arcane Armor Training,Arcane Strike,Bleeding critical,critical Focus,Dazzling Display,Eschew Materials,Flyby Attack,Improved Critical
+Brew Potion,Throw Anything,Toughness,Weapon Focus
+point-blank Shot,Precise Shot,Brew Potion,Throw Anything
+Brew Potion,Throw Anything,point-blank Shot,Precise Shot,Far Shot
 Improved Natural Armor
 Improved Natural Armor,Weapon Focus
 Improved Natural Armor,Light Armor Proficiency
@@ -221,18 +221,18 @@ Light Armor Proficiency,Toughness,Improved Initiative
 Improved Natural Armor,Toughness
 Light Armor Proficiency,Medium Armor Proficiency,Toughness
 Improved Natural Attack,Power Attack,Weapon Focus
-Light Armor Proficiency,Weapon Focus Improved Natural Armor,Power Attack,Narrow Frame
-Light Armor Proficiency,Medium Armor Proficiency,Combat Reflexes,Toughness,Weapon Focus Dodge
+Light Armor Proficiency,weapon focus,Improved Natural Armor,Power Attack,Narrow Frame
+Light Armor Proficiency,Medium Armor Proficiency,Combat Reflexes,Toughness,weapon focus,Dodge
 Weapon Focus,Power Attack
-Amateur Gunslinger,Gunsmithing,Point Blank Shot,Precise Shot,Rapid Reload
-Weapon Focus Toughness,Lightning Reflexes,Power Attack,Cornugon Smash
-Eschew Materials,Point Blank Shot,Precise Shot,Weapon Focus,Arcane Strike,Deadly Aim,Weapon Specialization,Rapid Shot,Manyshot,Dodge
-Scribe Scroll,Spell Focus,Greater Spell Focus,Elemental Focus,Greater Elemental Focus,Weapon Focus,Point Blank Shot,Precise Shot,Rapid Shot,Improved Initiative,Lightning Reflexes
-Arcane Strike,Combat Casting,Disruptive,Spellbreaker,Toughness,Spellsong,Uncanny Concentration,Point Blank Shot,Precise Shot,Lingering Performance,Discordant Voice,Weapon Focus
-Lingering Performance,Magic Aptitude,Great Fortitude,Point Blank Shot,Precise Shot
+Amateur Gunslinger,Gunsmithing,point-blank Shot,Precise Shot,Rapid Reload
+weapon focus,Toughness,Lightning Reflexes,Power Attack,Cornugon Smash
+Eschew Materials,point-blank Shot,Precise Shot,Weapon Focus,Arcane Strike,Deadly Aim,Weapon Specialization,Rapid Shot,Manyshot,Dodge
+Scribe Scroll,Spell Focus,Greater Spell Focus,Elemental Focus,Greater Elemental Focus,Weapon Focus,point-blank Shot,Precise Shot,Rapid Shot,Improved Initiative,Lightning Reflexes
+Arcane Strike,Combat Casting,Disruptive,Spellbreaker,Toughness,Spellsong,Uncanny Concentration,point-blank Shot,Precise Shot,Lingering Performance,Discordant Voice,Weapon Focus
+Lingering Performance,Magic Aptitude,Great Fortitude,point-blank Shot,Precise Shot
 Toughness,Dodge,Improved Initiative,Shield Focus
 Deceitful,Skill Focus
-Point Blank Shot,Precise Shot
+point-blank Shot,Precise Shot
 Toughness,Power Attack,Weapon Focus,Iron Will,Lightning Reflexes
 Power Attack,Cleave,Weapon Focus,Blind-Fight
 Combat Expertise,Improved Disarm,EWP
@@ -244,86 +244,87 @@ Elemental Focus,Greater Elemental Focus,Spell focus,Greater Spell focus,Toughnes
 Combat Casting,Uncanny Concentration,Toughness,Improved Initiative
 Improved Initiative,Spell Focus,Toughness
 Toughness,Improved Initiative
-Scribe Scroll,Spell Focus,Greater Spell Focus,Elemental Focus,Greater Elemental Focus,Weapon Focus,Point Blank Shot,Precise Shot,Rapid Shot,Improved Initiative,Lightning Reflexes
-Eschew Materials,Point Blank Shot,Precise Shot,Weapon Focus,Arcane Strike,Deadly Aim,Weapon Specialization,Rapid Shot,Manyshot,Dodge
-power attack,1 - furious focus,3 - lightning reflexes,5 - weapon focus,7 combat reflexes,9 - improved critical,11 - critical focus,13 - improved lightning reflexes,15 - staggering critical  6 - great fort,9 - improved initiative,12- iron will,bonus - Eschew Materials
+Scribe Scroll,Spell Focus,Greater Spell Focus,Elemental Focus,Greater Elemental Focus,Weapon Focus,point-blank Shot,Precise Shot,Rapid Shot,Improved Initiative,Lightning Reflexes
+Eschew Materials,point-blank Shot,Precise Shot,Weapon Focus,Arcane Strike,Deadly Aim,Weapon Specialization,Rapid Shot,Manyshot,Dodge
+power attack,furious focus,lightning reflexes,weapon focus,combat reflexes,improved critical,critical focus,improved lightning reflexes,staggering critical,
+great fortitude,improved initiative,iron will,Eschew Materials
 Eschew Materials,Iron Will,Combat Reflexes,Weapon Focus,Lightning Reflexes,Dodge,Mobility
-Eschew Materials,Power Attack,Weapon Focus Toughness
+Eschew Materials,Power Attack,weapon focus,Toughness
 Weapon Focus,Toughness
 Improved Initiative,Toughness
-Stunning Fist,Improved Unarmed Strike,Dodge,Deflect Arrows,Weapon Focus Bleeding Attack,Toughness,Nimble Moves
-Power Attack,Dodge,Improved Sunder,Weapon Focus,Weapon Specialization Greater Weapon Focus,Toughness,Iron Will,Improved Iron Will,Lightning Reflexes,Improved Lightning Reflexes,Greater Sunder
+Stunning Fist,Improved Unarmed Strike,Dodge,Deflect Arrows,weapon focus,Bleeding Attack,Toughness,Nimble Moves
+Power Attack,Dodge,Improved Sunder,Weapon Focus,Weapon specialization,Greater Weapon Focus,Toughness,Iron Will,Improved Iron Will,Lightning Reflexes,Improved Lightning Reflexes,Greater Sunder
 Improved Grapple,Improved Initiative,Toughness,Iron Will,Greater Grapple,Grabbing Style,Grabbing Drag,Improved Trip,Improved Iron Will
 Improved Unarmed Strike,Improved Grapple,Improved Initiative,Grabbing Style,Iron Will
-Improved Unarmed Strike,Combat Expertise,Improved Disarm,Improved Initiative,Toughness,Weapon Focus Dodge
+Improved Unarmed Strike,Combat Expertise,Improved Disarm,Improved Initiative,Toughness,weapon focus,Dodge
 Improved Unarmed Strike,Combat Expertise,Improved Trip,Weapon Focus,Dodge
-Improved Unarmed Strike,Improved Initiative,Weapon Focus 
-Improved Initiative,Weapon Focus Weapon Specialization Fencing Grace,Dodge,Combat Reflexes,Greater Weapon Focus 
-Black Cat,Weapon Focus Dodge,Weapon Finesse Improved Initiative,Weapon Specialization 
-Combat Casting,Toughness,Eschew Materials,Spell Focus Greater Spell Focus Weapon Focus Improved Counterspell,Destructive Dispel,Spontaneous Metafocus Bouncing Spell
+Improved Unarmed Strike,Improved Initiative,weapon focus
+Improved Initiative,weapon focus,Weapon specialization,Fencing Grace,Dodge,Combat Reflexes,Greater weapon focus
+Black Cat,weapon focus,Dodge,Weapon Finesse,Improved Initiative,Weapon Specialization 
+Combat Casting,Toughness,Eschew Materials,spell focus,Greater spell focus,weapon focus,Improved Counterspell,Destructive Dispel,Spontaneous Metafocus Bouncing Spell
 Toughness,Weapon Focus,Improved Initiative,Dodge
-Alertness,Exotic Weapon Proficiency Two-Weapon Fighting,Weapon Focus Improved Two-Weapon Fighting,Two-Weapon Defense,Double Slice,Toughness,Improved Critical Weapon Specialization 
-Two-Weapon Fighting,Alertness,Improved Initiative,Toughness,Exotic Weapon Proficiency Weapon Focus Two-Weapon Defense,Weapon Specialization 
-Alertness,EWP Improved Initiative,Piranha Strike,Two-Weapon Fighting,Weapon Finesse,Weapon Focus Weapon Specialization 
+Alertness,Exotic Weapon Proficiency,Two-Weapon Fighting,weapon focus,Improved Two-Weapon Fighting,Two-Weapon Defense,Double Slice,Toughness,Improved Critical, Weapon Specialization 
+Two-Weapon Fighting,Alertness,Improved Initiative,Toughness,Exotic Weapon Proficiency,weapon focus,Two-Weapon Defense,Weapon Specialization 
+Alertness,EWP Improved Initiative,Piranha Strike,Two-Weapon Fighting,Weapon Finesse,weapon focus,Weapon Specialization 
 Scribe Scroll,Brew Potion,Craft Wondrous Item,Craft Ooze,Craft Magical Arms and Armor,Craft Construct,Inscribe Magical Tattoo
-Scribe Scroll,Skill Focus Skill Focus 
+Scribe Scroll,Skill Focus, Skill Focus 
 Combat Casting,Toughness,Selective Channeling,Improved Channel,Extra Channel
-Selective Channeling,Quick Channel,Point Blank Shot,Precise Shot,Martial Weapon Proficiency
+Selective Channeling,Quick Channel,point-blank Shot,Precise Shot,Martial Weapon Proficiency
 Selective Channeling,Toughness,Dodge
 Improved Unarmed Strike,Improved Grapple
-Improved Initiative,Weapon Focus 
-Weapon Focus Power Attack,Shield Focus,Pack Attack
+Improved Initiative,weapon focus
+weapon focus,Power Attack,Shield Focus,Pack Attack
 Pack Attack,Dodge,Skill Focus 
-Skill Focus Weapon Focus Paired Opportunists
-Skill Focus Weapon Focus Paired Opportunists
-Improved Initiative,Weapon Focus Weapon Specialization Fencing Grace,Dodge,Combat Reflexes,Greater Weapon Focus 
-Black Cat,Weapon Focus Dodge,Weapon Finesse Improved Initiative,Weapon Specialization
-Weapon Focus Weapon Specialization Point Blank Shot,Precise Shot,Spider Climber
+skill focus,weapon focus,Paired Opportunists
+skill focus,weapon focus,Paired Opportunists
+Improved Initiative,weapon focus,Weapon specialization,Fencing Grace,Dodge,Combat Reflexes,Greater weapon focus
+Black Cat,weapon focus,Dodge,Weapon Finesse,Improved Initiative,Weapon Specialization
+weapon focus,Weapon specialization,point-blank Shot,Precise Shot,Spider Climber
 Drow Nobility
 Eschew Materials,Drow Nobility
 Exotic Weapon Proficiency 
-Point Blank Shot
-Scribe Scroll,Spell Focus Greater Spell Focus Toughness
+point-blank Shot
+Scribe Scroll,spell focus,Greater spell focus,Toughness
 Weapon Focus,Weapon Finesse,Toughness,Power Attack
 Scribe Scroll,Craft Magic Arms and Armor,Craft Wondrous Item,Craft Wand,Forge Ring,Craft Rod
-Weapon Focus Weapon of the Chosen Improved Weapon of the Chosen Greater Weapon of the Chosen Weapon Specialization Toughness,Lightning Reflexes
+weapon focus,Weapon of the Chosen,Improved Weapon of the Chosen,Greater Weapon of the Chosen,Weapon Specialization,Toughness,Lightning Reflexes
 Escape Route,Outflank,Pack Attack,Precise Strike
 Power Attack,Improved Sunder,Improved Initiative,Iron Will
-Weapon Focus Improved Initiative
-Weapon Focus Weapon Specialization Power Attack,Greater Weapon Focus Toughness,Dodge,Improved Initiative,Lightning Reflexes,Iron Will,Iron Hide
-Improved Unarmed Strike,Stunning Fist,Lingering Invisibility,Weapon Focus Toughness,Scorpion Style,Gorgon’s Fist
-Weapon Focus Toughness,Combat Expertise,Improved Trip,Greater Trip,Dodge,Combat Casting
-Natural Spell,Spell Focus Augment Summoning,Improved Initiative,
-Weapon Focus Toughness
-Power Attack,Combat Expertise,Improved Trip,Weapon Focus Phalanx Formation,Weapon Specialization,Toughness,Greater Trip,Lunge,Iron Will,Dodge,Mobility,Sidestep
-Weapon Focus Weapon Specialization Cornugon Smash,Intimidating Prowess,Toughness,Power Attack,Furious Focus
-Weapon Focus Point Blank Shot,Precise Shot,Rapid Shot,Manyshot,Deadly Aim,Improved Initiative,Weapon Specialization 
-Dodge,Iron Will,Toughness,Shield Focus,Improved Initiative,Weapon Focus Weapon Specialization 
-Two-Weapon Fighting,Combat Expertise,Exotic Weapon Proficiency Weapon Focus Improved Disarm,Improved Shield Bash
+weapon focus,Improved Initiative
+weapon focus,Weapon specialization,Power Attack,Greater weapon focus,Toughness,Dodge,Improved Initiative,Lightning Reflexes,Iron Will,Iron Hide
+Improved Unarmed Strike,Stunning Fist,Lingering Invisibility,weapon focus,Toughness,Scorpion Style,Gorgon’s Fist
+weapon focus,Toughness,Combat Expertise,Improved Trip,Greater Trip,Dodge,Combat Casting
+Natural Spell,spell focus,Augment Summoning,Improved Initiative
+weapon focus,Toughness
+Power Attack,Combat Expertise,Improved Trip,weapon focus,Phalanx Formation,Weapon Specialization,Toughness,Greater Trip,Lunge,Iron Will,Dodge,Mobility,Sidestep
+weapon focus,Weapon specialization,Cornugon Smash,Intimidating Prowess,Toughness,Power Attack,Furious Focus
+weapon focus,point-blank Shot,Precise Shot,Rapid Shot,Manyshot,Deadly Aim,Improved Initiative,Weapon Specialization 
+Dodge,Iron Will,Toughness,Shield Focus,Improved Initiative,weapon focus,Weapon Specialization 
+Two-Weapon Fighting,Combat Expertise,Exotic Weapon Proficiency,weapon focus,Improved Disarm,Improved Shield Bash
 Toughness,Dodge,Shield Focus,Shield Wall,Saving Shield
-Shield Focus,Dodge,Improved Initiative,Toughness,Weapon Focus 
-Toughness,Weapon Focus 
+Shield Focus,Dodge,Improved Initiative,Toughness,weapon focus
+Toughness,weapon focus
 Weapon Focus,Improved Initiative,Power Attack
-Weapon Focus Toughness,Combat Expertise,Improved Trip,Greater Trip,Dodge,Combat Casting
-Iron Will,Martial Weapon Proficiency Point Blank Shot,Power Attack,Precise Shot,Quick Draw,Combat Casting,Improved Initiative,Spell Focus Selective Channeling,Toughness
-Iron will,Martial Weapon Proficiency Point Blank Shot,Power Attack,Precise Shot,Quick Draw,Improved Initiative,Dodge,Weapon Focus 
-Iron Will,Martial Weapon Proficiency Point Blank Shot,Power Attack,Precise Shot,Quick Draw,Shield Focus,Missile Shield,Dodge,Cornugon Smash
-Iron Will,Martial Weapon Proficiency Point Blank Shot,Power Attack,Precise Shot,Quick Draw,Combat Casting,Improved Initiative
+weapon focus,Toughness,Combat Expertise,Improved Trip,Greater Trip,Dodge,Combat Casting
+Iron Will,martial weapon proficiency, point-blank shot,Power Attack,Precise Shot,Quick Draw,Combat Casting,Improved Initiative,spell focus,Selective Channeling,Toughness
+Iron will,martial weapon proficiency, point-blank shot,Power Attack,Precise Shot,Quick Draw,Improved Initiative,Dodge,weapon focus
+Iron Will,martial weapon proficiency, point-blank shot,Power Attack,Precise Shot,Quick Draw,Shield Focus,Missile Shield,Dodge,Cornugon Smash
+Iron Will,martial weapon proficiency, point-blank shot,Power Attack,Precise Shot,Quick Draw,Combat Casting,Improved Initiative
 Combat Reflexes,Improved Iron Will,Improved Sunder,Iron Will,Power Attack,Vital Strike,Improved Initiative,Lightning Reflexes,Great Fortitude,Toughness
-Cleave,Intimidating Prowess,MWP Power Attack,Weapon Focus Weapon Focus(Heavy Mace)
-Weapon Focus Power Attack,Toughness,Improved Critical Improved Sunder,Greater Sunder
+Cleave,Intimidating Prowess,MWP Power Attack,Weapon Focus
+weapon focus,Power Attack,Toughness,Improved Critical, Improved Sunder,Greater Sunder
 Gnome Weapon Focus,Weapon Focus,Power Attack,Improved Sunder
 Breadth of Experience
-Gunsmithing,Brew Potion,Throw Anything,Point Blank Shot,Precise Shot,Rapid Shot,Two-weapon fighting,Improved two-weapon fighting,Rapid Reload 
+Gunsmithing,Brew Potion,Throw Anything,point-blank Shot,Precise Shot,Rapid Shot,Two-weapon fighting,Improved two-weapon fighting,rapid reload
 Elemental Focus 
-Gunsmithing,Rapid Reload Point Blank Shot,Precise Shot,Rapid Shot,Weapon Focus 
-Gunsmithing,Rapid Reload Point Blank Shot
-Iron Will,Martial Weapon Proficiency Point Blank Shot,Power Attack,Precise Shot,Quick Draw,Combat Casting,Improved Initiative,Spell Focus Selective Channeling,Toughness
-Burn! Burn! Burn!,Flame Heart,Brew Potion,Throw Anything,Weapon Focus Toughness
+Gunsmithing,rapid reload,point-blank Shot,Precise Shot,Rapid Shot,weapon focus
+Gunsmithing,rapid reload,point-blank Shot
+Iron Will,martial weapon proficiency, point-blank shot,Power Attack,Precise Shot,Quick Draw,Combat Casting,Improved Initiative,spell focus,Selective Channeling,Toughness
+Burn! Burn! Burn!,Flame Heart,Brew Potion,Throw Anything,weapon focus,Toughness
 Eschew Materials,Elemental Focus Greater Elemental Focus 
-Point Blank Shot,Rapid Reload Goblin Gunslinger,Gunsmithing
+point-blank Shot,Rapid Reload,Goblin Gunslinger,Gunsmithing
 Roll With It
-Eschew Materials,Spell Elemental Focus 
+Eschew Materials,Spell focus,Elemental Focus 
 Dodge
 Weapon Focus
 Improved Initiative,Toughness,Power Attack,Cleave,Shield of Swings,Lightning Reflexes,Iron Will,Great Fortitude,Weapon Focus,Dodge,Weapon Specialization
@@ -332,38 +333,38 @@ Combat Expertise,Improved Feint,Underfoot,Dodge,Mobility,Passing Trick,Improved 
 Weapon Finesse,Weapon Focus,Signature Skill,Improved Initiative,Piranha Strike,Toughness
 Weapon Focus,Cautious Fighter,Blundering Defense,Desperate Swing,Dodge,Weapon Specialization
 Weapon Finesse,Signature Skill,Improved Steal,Improved Initiative,Toughness,Dodge
-Weapon Focus,Wall of Flesh
+Weapon Focus,Wall ofFlesh
 Power Attack,Cornugon Smash,Intimidating Prowess
 Combat Reflexes,Improved Feint
 Improved Initiative,Weapon Focus,Toughness
 Accursed Hex,Improved Initiative,Skill Focus,Toughness
 Combat Casting,Dodge
-Skill Focus,Weapon focus,Point Blank shot,Precise Shot
+Skill Focus,Weapon focus,point-blank shot,Precise Shot
 Escape Route,Lookout,Swap Places,Power Attack,Weapon Focus,Shield Focus,Step Up,Dodge,Toughness,Lightning Reflexes
 Dodge
 Weapon Focus,Improved Initiative
 Outflank,Improved Unarmed Strike,Improved Grapple,Toughness,Weapon Focus,Weapon Focus,Step Up,Improved Critical,Greater Grapple,Improved Initiative,Coordinated Maneuvers,Coordinated Defense,Coordinated Reposition,Escape Route
-Toughness,Dodge,Point Blank Shot,Precise Shot,Stealth Synergy,Stick Together
+Toughness,Dodge,point-blank Shot,Precise Shot,Stealth Synergy,Stick Together
 Outflank,Toughness,Coordinated Maneuvers,Escape Route,Precise Strike
 Weapon Focus,Weapon Focus
 Power Attack,Weapon Focus,Scorpion Style,Dodge,Combat Reflexes
 Improved Unarmed Strike,Toughness,Weapon Focus,Dodge,Deflect Arrows,Pummeling Style,Weapon Specialization,Improved Trip,Pummeling Bully,Pummeling Charge
-Improved Unarmed Strike,Power Attack,Improved Initiative,Toughness,Dodge,Weapon Focus,Improved Grapple,Stunning Fist,
+Improved Unarmed Strike,Power Attack,Improved Initiative,Toughness,Dodge,Weapon Focus,Improved Grapple,Stunning Fist
 Weapon Focus,Dodge,Endurance,Improved unarmed strike,Exotic weapon proficiency,Mobility,Disorienting maneuver,Belier’s bite,Stunning fist
 Improved Unarmed Strike,Stunning Fist,Improved Grapple,Combat Expertise,Improved Trip,Grabbing Style,Weapon Focus
 Weapon Focus,Combat Casting,Toughness,Improved Combat Casting,Dodge,Extra Arcane Pool,Arcane Strike,Light and Medium Armor Proficiencies
 Exotic Weapon Proficiency,Weapon Focus,Combat Expertise,Improved Disarm,Combat Casting,Toughness,Flaring Spell
 Quarterstaff Mastery,Weapon Focus,Weapon Specialization,Combat Casting
 Weapon Focus,Combat Casting
-Point Blank Shot,Precise Shot,Weapon Focus,Improved Initative
+point-blank Shot,Precise Shot,Weapon Focus,Improved Initiative
 Weapon Focus,Toughness
 Toughness,Improved Initiative,Weapon Focus,Power Attack,Great Fortitude,Quick Draw
 Power Attack,Toughness,Weapon Focus,Cleave
 Improved Initiative,Weapon Focus
 Improved Initiative,Weapon Focus,Power Attack,Iron Will,Toughness,Signature Skill
 Weapon Finesse,Dodge,Weapon Focus
-Weapon Finesse,Weapon Focus,Skill Focus,
-Weapon Finesse,Point Blank Shot
+Weapon Finesse,Weapon Focus,Skill Focus
+Weapon Finesse,point-blank Shot
 Scribe Scroll,Toughness,Weapon Focus,Craft Wondrous Item,Combat Casting,Forge Ring,Spell Focus,Spell Focus,Greater Spell Focus,Craft Rod
 Scribe Scroll,Combat Casting,Spell Focus,Greater Spell Focus,Elemental Focus,Spell Focus
 Exotic Weapon Proficiency,Weapon Focus,Combat Expertise,Improved Disarm,Combat Casting,Toughness,Flaring Spell
@@ -371,27 +372,27 @@ Toughness,Two-Weapon Fighting,Power Attack,Endurance,Double Slice,Diehard,Deathl
 Foment the Blood,Ironhide,Toughness,Weapon Focus,Dodge,Lightning Reflexes,Improved Initiative
 Ironhide,Craft Wondrous Item,Toughness,Accursed Hex,Amplified Hex,Split Hex,Spell Focus
 Toughness,Iron Will,Lightning Reflexes,Power Attack,Improved Sunder,Greater Sunder,Weapon Focus
-oughness,Iron Will,Lightning Reflexes,Power Attack,Improved Sunder,Greater Sunder,Weapon Focus
+Toughness,Iron Will,Lightning Reflexes,Power Attack,Improved Sunder,Greater Sunder,Weapon Focus
 Power attack,Ferocious Tenacity,Intimidating Prowess
 Weapon Focus,Power Attack,Two-Weapon Fighting,Toughness
-Martial Weapon Proficiency,Weapon Focus,Improved Critical,Power Attack,Point Blank Shot,Precise Shot,Combat Casting
+Martial Weapon Proficiency,Weapon Focus,Improved Critical,Power Attack,point-blank Shot,Precise Shot,Combat Casting
 Toughness,Selective Channeling,Nimble Moves,Combat Casting
 Improved Initiative,Combat Casting
 Toughness,Dodge
 Weapon Focus,Weapon Finesse,Combat Reflexes,Two-Weapon Fighting,Improved Two-Weapon Fighting,Improved Two-Weapon Feint,Piranha Strike,Improved Initiative
 Acrobatic,Combat Expertise,Slayer’s Feint,Two-Weapon Fighting,Two-Weapon Feint,Weapon Finesse,Weapon Focus
-Point Blank Shot,Precise Shot,Rapid Shot
+point-blank Shot,Precise Shot,Rapid Shot
 Improved Initiative,Weapon Focus
-Weapon Focus,Point Blank Shot,Precise Shot,Rapid Shot,Deadly Aim,Point Blank Master,Toughness,Improved Critical,Improved Precise Shot,Improved Initiative
+Weapon Focus,point-blank Shot,Precise Shot,Rapid Shot,Deadly Aim,point-blank Master,Toughness,Improved Critical,Improved Precise Shot,Improved Initiative
 Endurance,Aspect of the Beast,Improved Natural Attack,Cornugon Smash,Weapon Focus,Power Attack,Toughness,Intimidating Gaze
-Endurance,Point-blank shot,Precise Shot,Quick Draw,Weapon Focus,Dodge,Close-Quarters Thrower,False Opening
-Two Weapon Fighting,Improved Two Weapon Fighting,Weapon Focus,Double Slice,Exotic Weapon Proficiency,Improved Initiative,Endurance
+Endurance,point-blank shot,Precise Shot,Quick Draw,Weapon Focus,Dodge,Close-Quarters Thrower,False Opening
+two-weapon Fighting,Improved two-weapon Fighting,Weapon Focus,Double Slice,Exotic Weapon Proficiency,Improved Initiative,Endurance
 Toughness,Improved Initiative
 Combat Casting,Uncanny Concentration,Toughness,Spell Focus,Greater Spell Focus,Dodge,Lightning Reflexes,Iron Will
 Combat Casting,Uncanny Concentration,Toughness,Spell Focus
 Toughness,Improved Initiative
 Toughness,Improved Initiative
-Precise Shot,Point Blank Shot,Rapid Shot,Weapon Focus
+Precise Shot,point-blank Shot,Rapid Shot,Weapon Focus
 Weapon Focus,Power Attack
 Weapon Focus,Shield Focus
 Toughness,Accursed Hex,Improved Initiative,Lightning Reflexes
@@ -400,11 +401,11 @@ Power Attack,Weapon Focus,Weapon Specialization,Cornugon Smash,Furious Focus,Tou
 Weapon Focus,Power Attack
 Weapon Focus,Weapon Finesse,Combat Reflexes,Two-Weapon Fighting,Improved Two-Weapon Fighting,Improved Two-Weapon Feint,Piranha Strike,Improved Initiative
 Acrobatic,Combat Expertise,Slayer’s Feint,Two-Weapon Fighting,Two-Weapon Feint,Weapon Finesse,Weapon Focus
-Point Blank Shot,Precise Shot,Rapid Shot
+point-blank Shot,Precise Shot,Rapid Shot
 Combat Expertise,Two-Weapon Fighting,Two-Weapon Feint,Improved Two-Weapon Fighting,Improved Two-Weapon Feint,Slayer’s Feint,Weapon Finesse,Weapon Focus,Toughness,Dodge,Piranha Strike
 Combat Expertise,Improved Dirty Trick,Power Attack,Net Adept,Net Maneuvering,Net Trickery,Weapon Focus
-Weapon Focus,Point Blank Shot,Precise Shot,Rapid Shot,Improved Initiative,Point Blank Master,Focused Shot
-Point Blank,Precise Shot
+Weapon Focus,point-blank Shot,Precise Shot,Rapid Shot,Improved Initiative,point-blank Master,Focused Shot
+point-blank shot,Precise Shot
 Improved Initiative,Dodge
 Improved Counterspell,Weapon Focus,Combat Casting,Uncanny Concentration,Toughness,Lightning Reflexes
 Toughness,Power Attack,Combat Casting,Extra Rage Power
@@ -421,11 +422,11 @@ Endurance,Great Fortitude,Skill Focus
 Dodge,Improved Initiative,Skill Focus
 Improved Initiative,Iron Will,Power Attack
 Eschew Materials,Improved Initiative,Spell Focus,Greater Spell Focus,Combat Casting,Weapon Focus,Iron Will,Empower Spell
-Point Blank Shot,Precise Shot,Weapon Focus,Spell Focus,Eschew Materials
+point-blank Shot,Precise Shot,Weapon Focus,Spell Focus,Eschew Materials
 Spell focus,Greater spell focus
 Eschew Materials,Combat Casting,Improved Initiative
 Weapon Focus,Weapon Focus,Power Attack,Toughness,Improved Grapple,Blood Beak,Weapon Specialization,Weapon Specialization,Greater Weapon Focus,Greater Weapon Focus,Greater Grapple,Rapid Grappler
-Dodge,Weapon Focus,Close-Quarters Thrower,Point Blank Shot,Precise Shot,Distance Thrower
+Dodge,Weapon Focus,Close-Quarters Thrower,point-blank Shot,Precise Shot,Distance Thrower
 Weapon Finesse,Weapon Focus,Improved Initiative,Dodge,Toughness,Mobility
 Dueling Mastery,Exotic Weapon Proficiency,Weapon Focus,Weapon Finesse,Dazzling Display,Improved Initiative,Weapon Specialization,Combat Expertise,Improved Disarm,Greater Disarm,Directed Disarm
 Dueling Mastery,Exotic Weapon Proficiency,Weapon Focus,Weapon Finesse,Dazzling Display,Improved Initiative,Weapon Specialization,Combat Expertise,Improved Disarm,Greater Disarm
@@ -439,22 +440,22 @@ Armor of the Pit,Combat Casting,Weapon Focus,Dodge,Toughness
 Sacred Summons,Spell Focus,Augment Summoning,Armor of the Pit
 Improved Sunder,Weapon Focus,Weapon Specialization,Power Attack
 Power Attack,Weapon Focus,Toughness
-Throw Anything,Brew Potion,Point Blank Shot,Precise Shot,Weapon Focus
+Throw Anything,Brew Potion,point-blank Shot,Precise Shot,Weapon Focus
 Eschew Materials,Spell Focus,Greater Spell Focus,Combat Casting
 Monstrous Mask,Weapon Focus
 Armor of the Pit,Dodge
-Toughness,Weapon Focus,Point Blank Shot,Precise Shot,Rapid Shot,Deadly Aim,Improved Initiative
+Toughness,Weapon Focus,point-blank Shot,Precise Shot,Rapid Shot,Deadly Aim,Improved Initiative
 Warrior Priest,Toughness,Weapon Focus,Shield Focus,Great Fortitude,Lightning Reflexes
 Toughness,Weapon Focus,Power Attack,Combat Expertise,Improved Trip,Improved Initiative,Weapon Specialization,Iron Will,Toughness,Lightning Reflexes
 Scribe Scroll,Toughness,Improved Initiative,Spell Focus,Greater Spell Focus,Combat Casting
 Scribe Scroll,Improved Familiar,Toppling Spell,Bouncing Spell,Toughness,Combat Casting,Brew Potion
 Scribe Scroll,Spell Focus,Greater Spell Focus,Elemental Focus,Greater Elemental Focus,Furious Spell
-Exotic Weapon Proficiency,Gunsmithing,Rapid Reload,Weapon focus,Point blank shot,Precise Shot
+Exotic Weapon Proficiency,Gunsmithing,Rapid Reload,Weapon focus,point-blank shot,Precise Shot
 Scribe Scroll,Toughness,Improved Initiative
 Toughness,Improved Initiative
 Scribe Scroll,Combat Casting,Improved Initiative
 Combat Casting,Uncanny Concentration,Improved Initiative,Toughness,Spell Focus,Greater Spell Focus,Lightning Reflexes,Dodge,Great Fortitude,Iron Will
-Gunsmithing,Point Blank Shot,Precise Shot,Rapid Shot,Two Weapon Fighting,Rapid Reload,Combat Casting
+Gunsmithing,point-blank Shot,Precise Shot,Rapid Shot,two-weapon Fighting,Rapid Reload,Combat Casting
 Toughness,Improved Initiative,Dodge
 Combat Casting,Improved Initiative
 Weapon Focus,Toughness,Combat Casting,Power Attack,Lightning Reflexes,Furious Focus,Quick Draw,Iron Will,Cleave,Weapon Specialization,Greater Weapon Focus,Greater Weapon Specialization
