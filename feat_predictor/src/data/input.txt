@@ -23,8 +23,7 @@ Furious Focus,Greater Shield Focus,Mobile Bulwark Style,Mobile Fortress,Mobile S
 Extra Evolution,Trick Riding
 Eschew Materials,Evolved Familiar
 Alertness,Blind-Fight,Blinded Blade Style,Blinded Competence,Blinded Master,Deflect Arrows,Dodge,Greater Blind-Fight,Improved Blind-Fight,Improved Trip,Signature Skill,Spring Attack
-Ability Focus
-Weapon Finesse
+Weapon Finesse,Eschew Materials,Drow Nobility,Ability Focus
 Clustered Shots,Deadly Aim,Disposable Weapon,Distance Thrower,Far Shot,Improvised Weapon Mastery,point-blank Shot,Precise Shot,Quick Draw,Rapid Shot,Splintering Weapon,Throw Anything,Weapon Focus
 Craft Wondrous Item,Fey Foundling,Fey Friend,Greater Spell Focus
 Combat Casting,Craft wondrous item,Defensive Combat Training,Extend Spell,Greater Spell Focus,Toughness
@@ -51,8 +50,6 @@ Combat Casting,Dodge,Eschew Materials,Great Fortitude,Improved Initiative,Lightn
 Craft Wondrous Item,Greater Spell Focus
 Acrobatic Steps,Martial Versatility
 Brew Potion,Extra Bombs,Master Alchemist,point-blank Shot,Precise Shot,Shared Insight,Throw Anything,Toughness
-Advanced Weapon Training
-Combat Reflexes
 Bludgeoner,Deft Hands,Sap Adept,Sap Master,Weapon Finesse,Weapon Focus,Weapon Versatility
 Additional Traits,Deceitful,Forge Ring,Leadership
 Dodge,Double Slice,Endurance,Improved Two-Weapon Fighting,Mobility,Track,Two-Weapon Fighting,Weapon Finesse,Weapon Focus
@@ -65,20 +62,17 @@ Boon Companion,Deadly Aim,Endurance,point-blank Shot,Precise Shot,Rapid Shot
 Heavy Armor Proficiency,Bulette Charge Style,Bulette Leap,Bulette Rampage,Charge Through,Improved Overrun,Power Attack
 Alertness,Craft Magic Arms and Armor,Craft Wondrous Item,Enlarge Spell,Mounted Combat,Scribe Scroll,Selective Spell,Trick Riding,Widen Spell
 Double Slice,Exotic Weapon Proficiency
-Power Attack
+Power Attack,Advanced Weapon Training,Combat Reflexes
 Combat Reflexes,Eschew Materials,Power Attack
 Dodge,Effortless Trickery,Mobility,Eschew Materials,Greater Spell Focus
 Agile Maneuvers,Empower Spell-Like Ability,Run,Weapon Finesse
 Attune Gem,Craft Wondrous Item,Greater Spell Focus,Spell Penetration
-Ability Focus
-Ability Focus
+Ability Focus,Ability Focus,Ability Focus
 Brutal Grappler,Dirty Fighting,Greater Grapple,Improved Grapple,Kraken Style
-Ability Focus
 Dirty Fighting,Exotic Weapon Proficiency,Two-Weapon Fighting
 Catfolk Exemplar,Extra Rage Power,Power Attack,Raging Vitality,Run
 Catfolk Exemplar,Raging Vitality,Run
-Additional Traits,Vital Strike
-Additional Traits
+Additional Traits,Vital Strike,Additional Traits
 Heavy Armor Proficiency,Extra Wild Talent,Weapon Finesse
 Craft Wondrous Item,Dimensional Agility,Dimensional Assault,Dimensional Dervish,Dimensional Savant,Eldritch Claws,Echoing Spell,Quicken Spell,Silent Spell,Skill Focus
 Craft Wondrous Item,Cunning Caster,Deceitful,Eschew Materials,Improved Familiar,Penetrating Possession,Silent Spell,Spirit Vision,Still Spell
@@ -90,7 +84,6 @@ Craft Wondrous Item,Diehard,Elemental Focus,Improved Great Fortitude,Rime Spell,
 Brew Potion,Craft Wondrous Item,Extra Hex,Master Alchemist
 Angel Wings,Angelic Blood,Dazing Assault,Deadly Aim
 Alertness,Devastating Strike,Furious Focus,Mauler’s Endurance,Outflank,Power Attack,Precise Strike,Spirit’s Gift,Toughness,Vital Strike
-Armor Focus
 Craft Magic Arms and Armor,Craft Wondrous Item,Extra Arcana,Focused Overseer,Focused Worker,Intensified Spell
 Dazzling Display,Dramatic Display,Extra Arcana
 Advanced Armor Training,Shield Focus,Shield Master,Shield Slam,Stumbling Bash,Toppling Bash,two-weapon Fighting
@@ -101,7 +94,6 @@ Alertness,Cunning,Dazing Spell,Eschew Materials,Solar Spell,Steadfast Personalit
 Born of Frost,Icy Stare,Improved Unarmed Strike,Power Attack,Racial Heritage,Sure on Ice
 Craft Wand,Craft Wondrous Item,Eschew Materials,Extend Spell,Greater Spell Focus
 Cleave,Cleaving Finish,Combat Reflexes,Quick Draw,Stunning Fist,Two-Weapon Fighting
-Combat Reflexes
 Combat Reflexes,Dodge,Following Step,Improved Unarmed Strike,Mobility,Spring Attack,Step Up,Step Up and Strike,Weapon Finesse
 Craft wondrous item,Greater Spell Focus
 Brew Potion,Kobold Sniper,Master Alchemist,point-blank Shot,Precise Shot,Rapid Shot,Quick Draw,Throw Anything
@@ -113,8 +105,7 @@ Deadly Aim,Eldritch Claws,Intimidating Prowess,Multiattack,Power Attack,Throw An
 Command Undead,Craft Wondrous Item,Extra Revelation
 Craft Magic Arms and Armor,Exotic Weapon Proficiency
 Endurance,Exotic Weapon Proficiency,Master Alchemist,point-blank Shot,Precise Shot,Rapid Shot
-Deadly Aim
-Brew Potion,Extra Discovery
+Deadly Aim,Combat Reflexes,Armor Focus,Brew Potion,Extra Discovery
 Augment Summoning,Craft Construct,Craft Magic Arms and Armor,Craft Wondrous Item,Improved Familiar,Racial Heritage,Tengu Raven Form,Tengu Wings
 Combat Expertise,Dodge,Greater Disarm,Greater Trip,Mobility,Improved Disarm,Improved Trip,Spring Attack,Whirlwind Attack
 Charge Through,Furious Focus,Improved Initiative,Improved Overrun,Intimidating Prowess,Power Attack,Toughness,Weapon Focus
@@ -149,8 +140,7 @@ Greater Spell Penetration,point-blank Shot,Precise Shot,Spell Penetration,Weapon
 Bleeding Critical,Combat Reflexes,Critical Focus,Dodge,Eldritch Heritage
 Bleeding Critical,Combat Reflexes,Critical Focus,Dodge,Eldritch Heritage
 Greater Spell Specialization,Run,Scribe Scroll,Shadow Grasp,Solid Shadows,Spell Focus,Tenebrous Spell,Umbral Spell
-Ability Focus
-Ability Focus
+Ability Focus,Ability Focus,Ability Focus
 Accomplished Sneak Attacker,Craft Wand,Deft Hands,Eschew Materials,Experimental Spellcaster,Weapon Finesse
 Childlike,Master Alchemist,Pass for Human,Weapon Finesse
 Blood of Heroes,Craft Wondrous Item,Exotic Weapon Proficiency,Outflank,Precise Strike,Quick Draw,Scribe Scroll
@@ -181,14 +171,11 @@ Dazzling Display,Enforcer,Extra Rogue Talent
 Blind-Fight,Combat Expertise,Combat Reflexes,Extra Wild Talent,Moonlight Stalker,point-blank Shot,Precise Shot,Weapon Finesse
 Craft Rod,Craft Wondrous Item,Cypher Magic,Cypher Script,Scribe Scroll,Spell Focus
 Brew Potion,Master Alchemist,Mounted Combat,Skill Focus,Stealthy,Throw Anything
-Alertness,Cosmopolitan
 Brew Potion,Far Shot,point-blank Shot,Precise Shot,Throw Anything,Weapon Focus
 Escape Route,Mounted Combat,Mounted Shield,Power Attack,Ride-By Attack,Shield Focus,Spirited Charge
-Dodge,Toughness
-Childlike,Cosmopolitan
-Childlike,Cosmopolitan
+Childlike,Cosmopolitan,Alertness
+Childlike,Cosmopolitan,Dodge,Toughness
 Light Armor Proficiency,Craft Magic Arms and Armor,Tower Shield Proficiency
-Ability Focus
 Attuned to the Wild
 Combat Expertise,Lunge,Outslug Style
 Bodyguard,Combat Patrol,Combat Reflexes,Dodge,In Harm’s Way,Mobility,Power Attack,Stand Still,Two-Weapon Fighting
@@ -280,10 +267,7 @@ skill focus,weapon focus,Paired Opportunists
 Improved Initiative,weapon focus,Weapon specialization,Fencing Grace,Dodge,Combat Reflexes,Greater weapon focus
 Black Cat,weapon focus,Dodge,Weapon Finesse,Improved Initiative,Weapon Specialization
 weapon focus,Weapon specialization,point-blank Shot,Precise Shot,Spider Climber
-Drow Nobility
-Eschew Materials,Drow Nobility
-Exotic Weapon Proficiency 
-point-blank Shot
+point-blank Shot,Drow Nobility,Exotic Weapon Proficiency 
 Scribe Scroll,spell focus,Greater spell focus,Toughness
 Weapon Focus,Weapon Finesse,Toughness,Power Attack
 Scribe Scroll,Craft Magic Arms and Armor,Craft Wondrous Item,Craft Wand,Forge Ring,Craft Rod
@@ -323,10 +307,8 @@ Iron Will,martial weapon proficiency, point-blank shot,Power Attack,Precise Shot
 Burn! Burn! Burn!,Flame Heart,Brew Potion,Throw Anything,weapon focus,Toughness
 Eschew Materials,Elemental Focus Greater Elemental Focus 
 point-blank Shot,Rapid Reload,Goblin Gunslinger,Gunsmithing
-Roll With It
 Eschew Materials,Spell focus,Elemental Focus 
-Dodge
-Weapon Focus
+Weapon Focus,Dodge,Roll With It
 Improved Initiative,Toughness,Power Attack,Cleave,Shield of Swings,Lightning Reflexes,Iron Will,Great Fortitude,Weapon Focus,Dodge,Weapon Specialization
 Weapon Focus,Power Attack,Combat Expertise,Improved Trip,Improved Initiative,Weapon Specialization,Iron Will,Toughness
 Combat Expertise,Improved Feint,Underfoot,Dodge,Mobility,Passing Trick,Improved Initiative,Weapon Focus
@@ -341,8 +323,7 @@ Accursed Hex,Improved Initiative,Skill Focus,Toughness
 Combat Casting,Dodge
 Skill Focus,Weapon focus,point-blank shot,Precise Shot
 Escape Route,Lookout,Swap Places,Power Attack,Weapon Focus,Shield Focus,Step Up,Dodge,Toughness,Lightning Reflexes
-Dodge
-Weapon Focus,Improved Initiative
+Weapon Focus,Improved Initiative,Dodge
 Outflank,Improved Unarmed Strike,Improved Grapple,Toughness,Weapon Focus,Weapon Focus,Step Up,Improved Critical,Greater Grapple,Improved Initiative,Coordinated Maneuvers,Coordinated Defense,Coordinated Reposition,Escape Route
 Toughness,Dodge,point-blank Shot,Precise Shot,Stealth Synergy,Stick Together
 Outflank,Toughness,Coordinated Maneuvers,Escape Route,Precise Strike
@@ -377,8 +358,7 @@ Power attack,Ferocious Tenacity,Intimidating Prowess
 Weapon Focus,Power Attack,Two-Weapon Fighting,Toughness
 Martial Weapon Proficiency,Weapon Focus,Improved Critical,Power Attack,point-blank Shot,Precise Shot,Combat Casting
 Toughness,Selective Channeling,Nimble Moves,Combat Casting
-Improved Initiative,Combat Casting
-Toughness,Dodge
+Improved Initiative,Combat Casting,Toughness,Dodge
 Weapon Focus,Weapon Finesse,Combat Reflexes,Two-Weapon Fighting,Improved Two-Weapon Fighting,Improved Two-Weapon Feint,Piranha Strike,Improved Initiative
 Acrobatic,Combat Expertise,Slayer’s Feint,Two-Weapon Fighting,Two-Weapon Feint,Weapon Finesse,Weapon Focus
 point-blank Shot,Precise Shot,Rapid Shot

@@ -11,3 +11,4 @@ features = ["bundled"]
 
 [dependencies]
 rusty-machine = "0.5.4"
+rand = "0.7.3"

@@ -2,20 +2,20 @@ extern crate rusqlite;
 
 use rusqlite::Error;
 use rusqlite::NO_PARAMS;
-use rusqlite::{Connection, Result};
+use rusqlite::{Connection};
 use std::collections::HashMap;
-use std::io::{self, prelude::*, BufReader};
+// use std::io::{self, prelude::*, BufReader};
 
-pub fn create() -> Result<()> {
-    let conn = Connection::open("feats.db")?;
+// pub fn create() -> Result<()> {
+//     let conn = Connection::open("feats.db")?;
 
-    conn.execute(
-        "CREATE TABLE feats(id VARCHAR(4)  NOT NULL PRIMARY KEY ,feat_name    VARCHAR(34) NOT NULL,feat_type  VARCHAR(15) NOT NULL,description_text VARCHAR(339));",
-        NO_PARAMS,
-    )?;
+//     conn.execute(
+//         "CREATE TABLE feats(id VARCHAR(4)  NOT NULL PRIMARY KEY ,feat_name    VARCHAR(34) NOT NULL,feat_type  VARCHAR(15) NOT NULL,description_text VARCHAR(339));",
+//         NO_PARAMS,
+//     )?;
 
-    Ok(())
-}
+//     Ok(())
+// }
 
 #[derive(Debug)]
 struct Feat {
@@ -23,31 +23,31 @@ struct Feat {
     feat_name: String,
 }
 
-pub fn select() -> Result<()> {
-    let conn = Connection::open("feats.db")?;
-    // let file = File::open("./src/data/feats1.sql").unwrap();
-    // let reader = BufReader::new(file);
+// pub fn select() -> Result<()> {
+//     let conn = Connection::open("feats.db")?;
+//     // let file = File::open("./src/data/feats1.sql").unwrap();
+//     // let reader = BufReader::new(file);
 
-    // for line in reader.lines() {
-    //     let formatted = line.unwrap();
-    //     println!("{}",&formatted );
-    //     conn.execute(&formatted,NO_PARAMS)?;
-    //     println!("Inserted one");
-    // }
+//     // for line in reader.lines() {
+//     //     let formatted = line.unwrap();
+//     //     println!("{}",&formatted );
+//     //     conn.execute(&formatted,NO_PARAMS)?;
+//     //     println!("Inserted one");
+//     // }
 
-    let mut stmt = conn.prepare("SELECT * from feats where id = '50'")?;
-    let feats = stmt.query_map(NO_PARAMS, |row| {
-        Ok(Feat {
-            id: row.get(0)?,
-            feat_name: row.get(1)?,
-        })
-    })?;
-    for feat in feats {
-        println!("{:?}", feat.unwrap());
-    }
+//     let mut stmt = conn.prepare("SELECT * from feats where id = '50'")?;
+//     let feats = stmt.query_map(NO_PARAMS, |row| {
+//         Ok(Feat {
+//             id: row.get(0)?,
+//             feat_name: row.get(1)?,
+//         })
+//     })?;
+//     for feat in feats {
+//         println!("{:?}", feat.unwrap());
+//     }
 
-    Ok(())
-}
+//     Ok(())
+// }
 
 pub fn select_all_feats() -> std::result::Result<HashMap<String, String>, Error> {
     let mut all_feats = HashMap::new();
