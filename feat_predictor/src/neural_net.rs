@@ -1,7 +1,7 @@
 extern crate rand;
 extern crate rusty_machine;
 
-use crate::sql_lite::select_all_feats_id;
+use crate::feat_map::select_all_feats_id;
 use rand::seq::SliceRandom;
 use rand::thread_rng;
 use rusty_machine::learning::nnet::{BCECriterion, NeuralNet};
@@ -18,10 +18,11 @@ pub fn run_nn(feat_vec: Vec<String>) {
     //I think I might have to train over and over again, so
     //return a bunch of 1x49 matricies instead of what I am now
     //because 29+ layers doesn't really make sense
-    let feat_map = select_all_feats_id().unwrap();
+    let feat_map = select_all_feats_id();
         // println!("{:?}", &index);
         let mut results : HashMap<String,String> = HashMap::new();
         let (inputs, targets) = produce_input_and_output(feat_vec.len());
+        
     for _i in 1..100 {
         
 
@@ -135,27 +136,16 @@ fn produce_input_and_output(min_feats: usize) -> (Vec<Matrix<f64>>, Vec<Matrix<f
             }
         }
     }
-    // let mut total_layers = total_i_layers;
-    // if total_layers > total_o_layers {
-    //     total_layers = total_o_layers;
-    // }
-    // input.resize(10,Vec::new());
-    // output.resize(10,Vec::new());
-    // println!("output len = {:?}", &output.len());
+
     return (input, output);
 }
 fn randomize_feat_order(input: std::result::Result<String, std::io::Error>) -> String {
-    // // let all_feats = sql_lite::select_all_feats().unwrap();
-    // // println!("{:?}",all_feats );
-    // let file = File::open("./src/data/input.txt").unwrap();
-    // let reader = BufReader::new(file);
-    // let mut output_file = File::create("./src/random_input.txt").unwrap();
-    // for line in reader.lines().take(3) {
+
     let mut collected: Vec<String> = input.unwrap().split(",").map(String::from).collect();
     let mut rng = thread_rng();
     collected.shuffle(&mut rng);
 
     collected.join(",")
 
-    // }
+
 }

@@ -119,7 +119,7 @@ INSERT INTO feats(id,feat_name,feat_type,description_text) VALUES (118,'Nimble M
 INSERT INTO feats(id,feat_name,feat_type,description_text) VALUES (119,'Penetrating Strike','Combat','Your attacks are capable of penetrating the defenses of some creatures.');
 INSERT INTO feats(id,feat_name,feat_type,description_text) VALUES (120,'Persuasive','General','You are skilled at swaying attitudes and intimidating others into your way of thinking.');
 INSERT INTO feats(id,feat_name,feat_type,description_text) VALUES (121,'Pinpoint Targeting','Combat','You can target the weak points in your opponent''s armor.');
-INSERT INTO feats(id,feat_name,feat_type,description_text) VALUES (122,'Point-Blank Shot','Combat','You are especially accurate when making ranged attacks against close targets.');
+INSERT INTO feats(id,feat_name,feat_type,description_text) VALUES (122,'Point Blank Shot','Combat','You are especially accurate when making ranged attacks against close targets.');
 INSERT INTO feats(id,feat_name,feat_type,description_text) VALUES (123,'Power Attack','Combat','You can make exceptionally deadly melee attacks by sacrificing accuracy for strength.');
 INSERT INTO feats(id,feat_name,feat_type,description_text) VALUES (124,'Precise Shot','Combat','You are adept at firing ranged attacks into melee.');
 INSERT INTO feats(id,feat_name,feat_type,description_text) VALUES (125,'Quick Draw','Combat','You can draw weapons faster than most.');

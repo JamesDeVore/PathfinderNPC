@@ -1,15 +1,13 @@
 mod neural_net;
-mod sql_lite;
+mod feat_map;
 
-// use std::fs::File;
-// use std::io::prelude::*;
-// use std::io::BufReader;
+
 use std::env;
 fn main() {
     // sql_lite::create().unwrap();
     // sql_lite::select().unwrap();
     // produce_numerical_inputs();
-    let all_feats = sql_lite::select_all_feats().unwrap();
+    let all_feats = feat_map::select_all_feats();
     let args: String = env::args()
         .skip(1)
         .map(|x| String::from(x).trim().to_lowercase().to_string())
@@ -28,7 +26,7 @@ fn main() {
         })
         .collect();
 
-    // println!("{:?}", &split);
+    println!("{:?}", &split);
     neural_net::run_nn(split);
     // randomize_feat_order()
 }

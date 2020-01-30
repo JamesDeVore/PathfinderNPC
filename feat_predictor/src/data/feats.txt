@@ -1,0 +1,1478 @@
+1,Acrobatic
+2,Acrobatic Steps
+3,Agile Maneuvers
+4,Alertness
+5,Alignment Channel
+6,Animal Affinity
+7,Arcane Armor Mastery
+8,Arcane Armor Training
+9,Arcane Strike
+10,Heavy Armor Proficiency
+11,Light Armor Proficiency
+12,Medium Armor Proficiency
+13,Athletic
+14,Augment Summoning
+15,Bleeding Critical
+16,Blind-Fight
+17,Blinding Critical
+18,Brew Potion
+19,Catch Off-Guard
+20,Channel Smite
+21,Cleave
+22,Combat Casting
+23,Combat Expertise
+24,Combat Reflexes
+25,Command Undead
+26,Craft Magic Arms and-Armor
+27,Craft Rod
+28,Craft Wand
+29,Craft Staff
+30,Craft Wondrous Item
+31,Critical Focus
+32,Critical Mastery
+33,Dazzling Display
+34,Deadly Aim
+35,Deadly Stroke
+36,Deafening Critical
+37,Deceitful
+38,Defensive Combat Training
+39,Deflect Arrows
+40,Deft Hands
+41,Diehard
+42,Disruptive
+43,Dodge
+44,Double Slice
+45,Elemental Channel
+46,Empower Spell
+47,Endurance
+48,Enlarge Spell
+49,Eschew Materials
+50,Exhausting Critical
+51,Exotic Weapon Proficiency
+52,Extend Spell
+53,Extra Channel
+54,Extra Ki
+55,Extra Lay On Hands
+56,Extra Mercy
+57,Extra Performance
+58,Extra Rage
+59,Far Shot
+60,Fleet
+61,Forge Ring
+62,Gorgon's Fist
+63,Great Cleave
+64,Great Fortitude
+65,Greater Bull Rush
+66,Greater Disarm
+67,Greater Feint
+68,Greater Grapple
+69,Greater Overrun
+70,Greater Penetrating Strike
+71,Greater Shield Focus
+72,Greater Spell Focus
+73,Greater Spell Penetration
+74,Greater Sunder
+75,Greater Trip
+76,Greater Two-Weapon Fighting
+77,Greater Vital Strike
+78,Greater Weapon Focus
+79,Greater Weapon Specialization
+80,Heighten Spell
+81,Improved Bull Rush
+82,Improved Channel
+83,Improved Counterspell
+84,Improved Critical
+85,Improved Disarm
+86,Improved Familiar
+87,Improved Feint
+88,Improved Grapple
+89,Improved Great Fortitude
+90,Improved Initiative
+91,Improved Iron Will
+92,Improved Lightning Reflexes
+93,Improved Overrun
+94,Improved Precise Shot
+95,Improved Shield Bash
+96,Improved Sunder
+97,Improved Trip
+98,Improved Two-Weapon Fighting
+99,Improved Unarmed Strike
+100,Improved Vital Strike
+101,Improvised Weapon Mastery
+102,Intimidating Prowess
+103,Iron Will
+104,Leadership
+105,Lightning Reflexes
+106,Lightning Stance
+107,Lunge
+108,Magical Aptitude
+109,Manyshot
+110,Martial Weapon Proficiency
+111,Master Craftsman
+112,Maximize Spell
+113,Medusa's Wrath
+114,Mobility
+115,Mounted Archery
+116,Mounted Combat
+117,Natural Spell
+118,Nimble Moves
+119,Penetrating Strike
+120,Persuasive
+121,Pinpoint Targeting
+122,Point Blank Shot
+123,Power Attack
+124,Precise Shot
+125,Quick Draw
+126,Quicken Spell
+128,Rapid Shot
+129,Ride-By Attack
+130,Run
+131,Scorpion Style
+132,Scribe Scroll
+133,Selective Channeling
+134,Self-Sufficient
+135,Shatter Defenses
+136,Shield Focus
+137,Shield Proficiency
+138,Shield Slam
+139,Shot on the Run
+140,Sickening Critical
+141,Silent Spell
+142,Simple Weapon Proficiency
+143,Skill Focus
+144,Snatch Arrows
+145,Spell Focus
+146,Spell Mastery
+147,Spell Penetration
+148,Spellbreaker
+149,Spirited Charge
+150,Spring Attack
+151,Staggering Critical
+152,Stand Still
+153,Stealthy
+154,Step Up
+155,Still Spell
+156,Strike Back
+157,Stunning Critical
+158,Stunning Fist
+159,Throw Anything
+160,Tiring Critical
+161,Toughness
+162,Tower Shield Proficiency
+163,Trample
+164,Turn Undead
+165,Two-Weapon Defense
+166,Two-Weapon Fighting
+167,Two-Weapon Rend
+168,Unseat
+169,Vital Strike
+170,Weapon Finesse
+171,Weapon Focus
+172,Weapon Specialization
+173,Whirlwind Attack
+174,Widen Spell
+175,Wind Stance
+176,Additional Traits
+177,Ability Focus
+178,Awesome Blow
+179,Craft Construct
+180,Empower Spell-Like Ability
+181,Flyby Attack
+182,Hover
+183,Improved Natural Armor
+184,Improved Natural Attack
+185,Multiattack
+186,Quicken Spell-Like Ability
+187,Snatch
+188,Wingover
+189,Allied Spellcaster
+190,Arcane Blast
+191,Arcane Shield
+192,Arcane Talent
+193,Aspect of the Beast
+194,Bashing Finish
+195,Bloody Assault
+196,Bodyguard
+197,Bouncing Spell
+198,Breadth of Experience
+199,Bull Rush Strike
+200,Charge Through
+201,Childlike
+202,Cloud Step
+203,Cockatrice Strike
+204,Combat Patrol
+205,Cooperative Crafting
+206,Coordinated Defense
+207,Coordinated Maneuvers
+208,Cosmopolitan
+209,Covering Defense
+210,Crippling Critical
+211,Crossbow Mastery
+212,Dastardly Finish
+213,Dazing Assault
+214,Dazing Spell
+215,Deep Drinker
+216,Deepsight
+217,Disarming Strike
+218,Disrupting Shot
+219,Disruptive Spell
+220,Diviner's Delving
+221,Dreadful Carnage
+222,Duck and Cover
+223,Eagle Eyes
+224,Eclectic
+225,Ectoplasmic Spell
+226,Eldritch Claws
+227,Elemental Fist
+228,Elemental Focus
+229,Elemental Spell
+230,Elven Accuracy
+231,Enforcer
+232,Expanded Arcana
+233,Extra Bombs
+234,Extra Discovery
+235,Extra Hex
+236,Extra Rage Power
+237,Extra Revelation
+238,Extra Rogue Talent
+239,Fast Drinker
+240,Fast Healer
+241,Favored Defense
+242,Fight On
+243,Focused Shot
+244,Focused Spell
+245,Following Step
+246,Furious Focus
+247,Gang Up
+248,Gnome Trickster
+249,Go Unnoticed
+250,Greater Blind-Fight
+251,Greater Dirty Trick
+252,Greater Drag
+253,Greater Elemental Focus
+254,Greater Reposition
+255,Greater Shield Specialization
+256,Greater Steal
+257,Groundling
+258,Heroic Defiance
+259,Heroic Recovery
+260,Improved Blind-Fight
+261,Improved Dirty Trick
+262,Improved Drag
+263,Improved Ki Throw
+264,Improved Reposition
+265,Improved Second Chance
+266,Improved Share Spells
+267,Improved Sidestep
+268,Improved Steal
+269,Improved Stonecunning
+270,Intensified Spell
+271,In Harm's Way
+272,Ironguts
+273,Ironhide
+274,Keen Scent
+275,Ki Throw
+276,Leaf Singer
+277,Light Step
+278,Lingering Performance
+279,Lingering Spell
+280,Lookout
+281,Low Profile
+282,Lucky Halfling
+283,Major Spell Expertise
+284,Master Alchemist
+285,Merciful Spell
+286,Minor Spell Expertise
+287,Missile Shield
+288,Mounted Shield
+289,Mounted Skirmisher
+290,Outflank
+291,Paired Opportunists
+292,Parry Spell
+293,Parting Shot
+294,Pass For Human
+295,Perfect Strike
+296,Persistent Spell
+297,Point Blank Master
+298,Practiced Tactician
+299,Precise Strike
+300,Preferred Spell
+301,Punishing Kick
+302,Pushing Assault
+303,Racial Heritage
+304,Raging Vitality
+305,Ray Shield
+306,Razortusk
+307,Reach Spell
+308,Rending Claws
+309,Repositioning Strike
+310,Saving Shield
+311,Second Chance
+312,Selective Spell
+313,Shadow Strike
+314,Shared Insight
+315,Sharp Senses
+316,Shield of Swings
+317,Shield Specialization
+318,Shield Wall
+319,Shielded Caster
+320,Sickening Spell
+321,Sidestep
+322,Smash
+323,Smell Fear
+324,Sociable
+325,Spell Perfection
+326,Spider Step
+327,Stabbing Shot
+328,Steel Soul
+329,Step Up and Strike
+330,Stone-Faced
+331,Stone Sense
+332,Stone Singer
+333,Stunning Assault
+334,Summoner's Call
+335,Sundering Strike
+336,Swap Places
+337,Swift Aid
+338,Taunt
+339,Team Up
+340,Teleport Tactician
+341,Tenacious Transmutation
+342,Thundering Spell
+343,Touch of Serenity
+344,Trick Riding
+345,Tripping Strike
+346,Under and Over
+347,Underfoot
+348,Vermin Heart
+349,War Singer
+350,Well-Prepared
+351,Adder Strike
+352,Adept Champion
+353,Amateur Gunslinger
+354,Arc Slinger
+355,Back to Back
+356,Betrayer
+357,Binding Throw
+358,Bludgeoner
+359,Boar Ferocity
+360,Boar Shred
+361,Boar Style
+362,Body Shield
+363,Bolstered Resilience
+364,Bonebreaker
+365,Branded for Retribution
+366,Break Guard
+367,Broken Wing Gambit
+368,Cartwheel Dodge
+369,Cavalry Formation
+370,Channeled Revival
+371,Channeling Scourge
+372,Charging Hurler
+373,Chokehold
+374,Cleaving Finish
+375,Close-Quarters Thrower
+376,Clustered Shots
+377,Combat Medic
+378,Combat Style Master
+379,Contingent Channeling
+380,Coordinated Charge
+381,Crane Riposte
+382,Crane Style
+383,Crane Wing
+384,Crusader's Fist
+385,Crusader's Flurry
+386,Crushing Blow
+387,Deadly Finish
+388,Death from Above
+389,Death or Glory
+390,Deathless Initiate
+391,Deathless Master
+392,Deathless Zealot
+393,Deceptive Exchange
+394,Defensive Weapon Training
+395,Deft Shootist Deed
+396,Destructive Dispel
+397,Devastating Strike
+398,Dimensional Agility
+399,Dimensional Assault
+400,Dimensional Dervish
+401,Dimensional Maneuvers
+402,Dimensional Savant
+403,Discordant Voice
+404,Disengaging Feint
+405,Disengaging Flourish
+406,Disengaging Shot
+407,Disorienting Maneuver
+408,Dispel Synergy
+409,Dispelling Critical
+410,Dispelling Fist
+411,Disposable Weapon
+412,Disruptive Recall
+413,Distance Thrower
+414,Djinni Spin
+415,Djinni Spirit
+416,Djinni Style
+417,Domain Strike
+418,Double Bane
+419,Drag Down
+420,Dragon Ferocity
+421,Dragon Roar
+422,Dragon Style
+423,Dramatic Display
+424,Earth Child Binder
+425,Earth Child Style
+426,Earth Child Topple
+427,Efreeti Stance
+428,Efreeti Style
+429,Efreeti Touch
+430,Elusive Redirection
+431,Enfilading Fire
+432,Escape Route
+433,Expert Driver
+434,Extra Bane
+435,Extra Grit
+436,False Opening
+437,Feint Partner
+438,Felling Escape
+439,Felling Smash
+440,Feral Combat Training
+441,Field Repair
+442,Final Embrace
+443,Final Embrace Horror
+444,Final Embrace Master
+445,Flanking Foil
+446,Fortified Armor Training
+447,Furious Finish
+448,Gory Finish
+449,Greater Channel Smite
+450,Greater Rending Fury
+451,Greater Snap Shot
+452,Greater Whip Mastery
+453,Guided Hand
+454,Gunsmithing
+455,Hammer the Gap
+456,Harmonic Sage
+457,Haunted Gnome
+458,Haunted Gnome Assault
+459,Haunted Gnome Shroud
+460,Hero's Display
+461,Hex Strike
+462,Horse Master
+463,Impact Critical Shot
+464,Impaling Critical
+465,Improved Back to Back
+466,Improved Charging Hurler
+467,Improved Cleaving Finish
+468,Improved Devastating Strike
+469,Improved Feint Partner
+470,Improved Impaling Critical
+471,Improved Rending Fury
+472,Improved Snap Shot
+473,Improved Stalwart
+474,Improved Two-Weapon Feint
+475,Improved Whip Mastery
+476,Instant Judgment
+477,Intimidating Bane
+478,Janni Rush
+479,Janni Style
+480,Janni Tempest
+481,Jawbreaker
+482,Kirin Path
+483,Kirin Strike
+484,Kirin Style
+485,Knockout Artist
+486,Landing Roll
+487,Leaping Shot Deed
+488,Mantis Style
+489,Mantis Torment
+490,Mantis Wisdom
+491,Marid Coldsnap
+492,Marid Spirit
+493,Marid Style
+494,Master Combat Performer
+495,Master Siege Engineer
+496,Masterful Display
+497,Maximized Spellstrike
+498,Menacing Bane
+499,Merciful Bane
+500,Mocking Dance
+501,Monastic Legacy
+502,Monkey Moves
+503,Monkey Shine
+504,Monkey Style
+505,Moonlight Stalker
+506,Moonlight Stalker Feint
+507,Moonlight Stalker Master
+508,Murderer's Circle
+509,Neckbreaker
+510,Net Adept
+511,Net and Trident
+512,Net Maneuvering
+513,Net Trickery
+514,Nightmare Fist
+515,Nightmare Striker
+516,Nightmare Weaver
+517,No Name
+518,Opening Volley
+519,Pack Attack
+520,Panther Claw
+521,Panther Parry
+522,Panther Style
+523,Passing Trick
+524,Performance Weapon Mastery
+525,Performing Combatant
+526,Pin Down
+527,Pinning Knockout
+528,Pinning Rend
+529,Pinpoint Poisoner
+530,Planar Wild Shape
+531,Prone Shooter
+532,Prone Slinger
+533,Quick Bull Rush
+534,Quick Dirty Trick
+535,Quick Drag
+536,Quick Reposition
+537,Quick Steal
+538,Raging Brutality
+539,Raging Deathblow
+540,Raging Hurler
+541,Raging Throw
+542,Rapid Grappler
+544,Rebounding Leap
+545,Rebuffing Reduction
+546,Rending Fury
+547,Revelation Strike
+548,Rhetorical Flourish
+549,Ricochet Shot Deed
+550,Righteous Healing
+551,Sap Adept
+552,Sap Master
+553,Savage Display
+554,School Strike
+555,Sea Legs
+556,Secret Stash Deed
+557,Seize the Moment
+558,Shaitan Earthblast
+559,Shaitan Skin
+560,Shaitan Style
+561,Shake It Off
+562,Shapeshifter Foil
+563,Shapeshifting Hunter
+564,Shared Judgment
+565,Siege Commander
+566,Siege Engineer
+567,Siege Gunner
+568,Signature Deed
+569,Skilled Driver
+570,Slayer's Knack
+571,Sling Flail
+572,Snake Fang
+573,Snake Style
+574,Snap Shot
+575,Snapping Turtle Clutch
+576,Snapping Turtle Shell
+577,Snapping Turtle Style
+578,Sneaking Precision
+579,Sorcerous Strike
+580,Spell Bane
+581,Spinning Throw
+582,Splintering Weapon
+583,Stage Combatant
+584,Stalwart
+585,Stealth Synergy
+586,Strangler
+587,Strong Comeback
+588,Stunning Pin
+589,Sure Grasp
+590,Sword and Pistol
+591,Tandem Trip
+592,Target of Opportunity
+593,Team Pickpocketing
+594,Tiger Claws
+595,Tiger Pounce
+596,Tiger Style
+597,Trapper's Setup
+598,Twin Thunders
+599,Twin Thunders Flurry
+600,Twin Thunders Master
+601,Two-Handed Thrower
+602,Two-Weapon Feint
+603,Vicious Stomp
+604,Wave Strike
+605,Whip Mastery
+606,Abundant Revelations
+607,Accursed Critical
+608,Accursed Hex
+609,Advanced Ranger Trap
+610,Antagonize
+611,Blighted Critical
+612,Blighted Critical Mastery
+613,Burning Spell
+614,Channeled Shield Wall
+615,Concussive Spell
+616,Create Reliquary Arms and Shields
+617,Create Sanguine Elixir
+618,Defending Eidolon
+619,Deny Death
+620,Detect Expertise
+621,Die for Your Master
+622,Divine Interference
+623,Dragonbane Aura
+624,Echoing Spell
+625,Eldritch Heritage
+626,Ensemble
+627,Evolved Familiar
+628,Exploit Lore
+629,Extra Arcana
+630,Extra Arcane Pool
+631,Extended Bane
+632,Extra Cantrips or Orisons
+633,Extra Evolution
+634,Extra Ranger Trap
+635,Extra Summons
+636,Eyes of Judgment
+637,Fast Empathy
+638,Favored Judgment
+639,Fearless Aura
+640,Fire Music
+641,Flaring Spell
+642,Focused Eidolon
+643,Gliding Steps
+644,Grant Initiative
+645,Greater Blighted Critical
+646,Greater Eldritch Heritage
+647,Greater Mercy
+648,Greater Spell Specialization
+649,Greater Wild Empathy
+650,Implant Bomb
+651,Improved Eldritch Heritage
+652,Improved Monster Lore
+653,Insightful Gaze
+654,Intimidating Gaze
+655,Judgment Surge
+656,Ki Stand
+657,Learn Ranger Trap
+658,Life Lure
+659,Moonlight Summons
+660,Mystic Stride
+661,Oracular Intuition
+662,Painful Anchor
+663,Piercing Spell
+664,Planar Preservationist
+665,Powerful Shape
+666,Prodigy
+667,Prophetic Visionary
+668,Pure Faith
+669,Quarterstaff Master
+670,Quick Channel
+671,Quick Wild Shape
+672,Radiant Charge
+673,Remote Bomb
+674,Resilient Eidolon
+675,Reward of Grace
+676,Reward of Life
+677,Ricochet Splash Weapon
+678,Rime Spell
+679,Sacred Summons
+680,Sense Link
+681,Shaping Focus
+682,Sin Seer
+683,Skeleton Summoner
+684,Sorcerous Bloodstrike
+685,Spell Bluff
+686,Spell Hex
+687,Spell Specialization
+688,Spellsong
+689,Split Hex
+690,Split Major Hex
+691,Spontaneous Metafocus
+692,Starlight Summons
+693,Sunlight Summons
+694,Superior Summoning
+695,Thanatopic Spell
+696,Theurgy
+697,Thoughtful Discernment
+698,Threnodic Spell
+699,Toppling Spell
+700,Tripping Staff
+701,Tripping Twirl
+702,Ultimate Mercy
+703,Ultimate Resolve
+704,Uncanny Alertness
+705,Uncanny Concentration
+706,Undead Master
+707,Unsanctioned Detection
+708,Unsanctioned Knowledge
+709,Versatile Channeler
+710,Vigilant Eidolon
+711,Voice of the Sibyl
+712,Warrior Priest
+713,Wild Speech
+714,Witch Knife
+715,Word of Healing
+716,Brewmaster
+717,Cleave Through
+718,Cloven Helm
+719,Dented Helm
+720,Giant Killer
+721,Goblin Cleaver
+722,Hard-Headed
+723,Ledge Walker
+724,Orc Hewer
+725,Shatterspell
+726,Toxic Recovery
+727,Attuned to the Wild
+728,Elven Battle Training
+729,Guardian of the Wild
+730,Mage of the Wild
+731,Spirit of the Wild
+732,Casual Illusionist
+733,Expanded Resistance
+734,Gnome Weapon Focus
+735,Great Hatred
+736,Vast Hatred
+737,Discerning Eye
+738,Elven Spirit
+739,Exile's Path
+740,Half-Drow Paragon
+741,Human Spirit
+742,Multitalented Mastery
+743,Neither Elf nor Human
+744,Seen and Unseen
+745,Shared Manipulation
+746,Beast Rider
+747,Blood Vengeance
+748,Destroyer's Blessing
+749,Ferocious Resolve
+750,Ferocious Summons
+751,Ferocious Tenacity
+752,Gore Fiend
+753,Horde Charge
+754,Improved Surprise Follow-Through
+755,Resilient Brute
+756,Surprise Follow-Through
+757,Sympathetic Rage
+758,Tenacious Survivor
+759,Thrill of the Kill
+760,Adaptive Fortune
+761,Blundering Defense
+762,Cautious Fighter
+763,Courageous Resolve
+764,Desperate Swing
+765,Fortunate One
+766,Improved Low Blow
+767,Lucky Healer
+768,Lucky Strike
+769,Risky Striker
+770,Sure and Fleet
+771,Surprise Strike
+772,Uncanny Defense
+773,Bestow Luck
+774,Critical Versatility
+775,Dauntless Destiny
+776,Defiant Luck
+777,Fast Learner
+778,Fearless Curiosity
+779,Heroic Will
+780,Huntmaster
+781,Improved Improvisation
+782,Improvisation
+783,Inexplicable Luck
+784,Intimidating Confidence
+785,Martial Mastery
+786,Martial Versatility
+787,Surge of Success
+788,Angel Wings
+789,Angelic Blood
+790,Angelic Flesh
+791,Celestial Servant
+792,Channel Force
+793,Greater Channel Force
+794,Heavenly Radiance
+795,Improved Channel Force
+796,Metallic Wings
+797,Black Cat
+798,Catfolk Exemplar
+799,Claw Pounce
+800,Feline Grace
+801,Nimble Striker
+802,Blood Drinker
+803,Blood Feaster
+804,Blood Salvage
+805,Diverse Palate
+806,Natural Charmer
+807,Drow Nobility
+808,Greater Drow Nobility
+809,Improved Drow Nobility
+810,Improved Umbral Scion
+811,Noble Spell Resistance
+812,Shadow Caster
+813,Spider Step
+814,Spider Summoner
+815,Umbral Scion
+816,Natural Jouster
+817,Lastwall Phalanx
+818,LastwallPhalanx
+819,Legacy of Ozem
+820,Peacemaker
+821,Siphon Poison
+822,Worldwound Walker
+823,Dark Sight
+824,Gloom Sight
+825,Gloom Strike
+826,Improved Dark Sight
+827,Shadow Ghost
+828,Shadow Walker
+829,Burn! Burn! Burn!
+830,Fire Hand
+831,Fire Tamer
+832,Flame Heart
+833,Goblin Gunslinger
+834,Tangle Feet
+835,Deafening Explosion
+836,Demoralizing Lash
+837,Focusing Blow
+838,Hobgoblin Discipline
+839,Taskmaster
+840,Terrorizing Display
+841,Blazing Aura
+842,Blistering Feint
+843,Elemental Jaunt
+844,Firesight
+845,Inner Flame
+846,Scorching Weapons
+847,Draconic Aspect
+848,Draconic Breath
+849,Draconic Glide
+850,Draconic Paragon
+851,Kobold Ambusher
+852,Kobold Sniper
+853,Tail Terror
+854,Born Alone
+855,Bullying Blow
+856,Ferocious Action
+857,Foment the Blood
+858,Grudge Fighter
+859,Orc Weapon Expertise
+860,Resolute Rager
+861,Reverse-Feint
+862,Trap Wrecker
+863,Dwarf Blooded
+864,Echoes of Stone
+865,Murmurs of Earth
+866,Oread Burrower
+867,Oread Earth Glider
+868,Stony Step
+869,Burrowing Teeth
+870,Sharpclaw
+871,Tunnel Rat
+872,Airy Step
+873,Cloud Gazer
+874,Inner Breath
+875,Wings of Air
+876,Blood Beak
+877,Carrion Feeder
+878,Long-Nose Form
+879,Scavenger's Eye
+880,Tengu Raven Form
+881,Tengu Wings
+882,Armor of the Pit
+883,Expanded Fiendish Resistance
+884,Fiend Sight
+885,Grasping Tail
+886,Aquatic Ancestry
+887,Hydraulic Maneuver
+888,Steam Caster
+889,Triton Portal
+890,Water Skinned
+891,Mother's Gift
+892,Giant Steps
+893,Lingering Invisibility
+894,Agile Tongue
+895,Magical Tail
+896,Realistic Likeness
+897,Sea Hunter
+898,Spit Venom
+899,Life's Blood
+900,Stretched Wings
+901,Extra Elemental Assault
+902,Incremental Elemental Assault
+903,Stoic Pose
+904,Tree Hanger
+905,Sleep Venom
+906,Shadowy Dash
+916,Belier's Bite
+917,Cornugon Shield
+918,Cornugon Smash
+919,Cornugon Stun
+920,Cornugon Trip
+921,Fury's Fall
+922,Fury's Snare
+923,Hamatula Grasp
+924,Hamatula Strike
+925,Hellcat Pounce
+926,Hellcat Stealth
+927,Osyluth Guile
+928,Bounding Hammer
+929,Darting Viper
+930,Dorn-Dergar Master
+931,Sliding Axe Throw
+932,Stance of the Xorn
+933,Arcane School Spirit
+934,Bewildering Koan
+935,Blood Ties
+936,Babble-Peddler
+937,Caustic Slur
+938,Helpless Prisoner
+939,Invoke Primal Instinct
+940,Tantrum
+941,Witty Feint
+942,Mounted Blade
+943,Elephant Stomp
+944,Jaguar Pounce
+945,Monkey Lunge
+946,Piranha Strike
+947,Rhino Charge
+948,Boon Companion
+949,Critical Conduit
+950,Extra Item Slot
+951,Familiar Focus
+952,Familiar Spell
+953,Jumper
+954,Lithe Attacker
+955,Master ofYour Kind
+956,Narrow Frame
+957,Spell Sponge
+958,Stable Gallop
+959,Sure-Footed
+960,Valiant Steed
+961,Archon Diversion
+962,Archon Justice
+963,Archon Style
+964,Banishing Critical
+965,Blinding Light
+966,Consecrate Spell
+967,Inner Light
+968,Revered Guidance
+969,Sunlit Strike
+970,Supernal Feast
+971,Ancestral Scorn
+972,Banner of Doom
+973,Blinding Sneak Attack
+974,Fiendish Darkness
+975,Fiendish Facade
+976,Fiendish Resilience
+977,Fury of the Tainted
+978,Improved Fiendish Darkness
+979,Improved Fiendish Sorcery
+980,Improved Fury of the Tainted
+981,Monstrous Mask
+982,Terrifying Mask
+983,Wicked Valor
+984,Reckless Aim
+985,Conviction
+986,Hymn Singer
+987,Life-Dominant Soul
+988,Potent HolySymbol
+989,SchooledResolve
+990,Aversion Tolerance
+991,Famine Tolerance
+992,VampiricCompanion
+993,Variant Prayer Scroll
+994,Blinding Flash
+995,Disorienting Blow
+996,Enhanced Ki Throw
+997,Feinting Flurry
+998,Hold the Blade
+999,Improved Feinting Flurry
+1000,Quivering Palm Adept
+1001,Quivering Palm Versatility
+1002,Sleeper Hold
+1003,Stunning Fist Adept
+1004,Arcane Trap Suppressor
+1005,Close Call
+1006,Tactical Reposition
+1007,Coaxing Spell
+1008,Dampen Presence
+1009,Cursed Item Detection
+1010,Ostentatious Display
+1011,TORCH HANDLING
+1012,Arcane Insight
+1013,Bloody Vengeance
+1014,Measured Response
+1015,Riptide Attack
+1016,Spiked Destroyer
+1017,Steady Engagement
+1018,Firebrand
+1019,Ordered Mind
+1020,Destroy Identity
+1021,Fearsome Finish
+1022,Reject Poison
+1023,Shadow Dodge
+1024,Merciless Rush
+1025,Squash Flat
+1026,Shatter Resolve
+1027,Bloodletting
+1028,Aldori Dueling Mastery
+1029,Altitude Affinity
+1030,Andoren Falconry
+1031,Arcane Vendetta
+1032,Careful Speaker
+1033,Cypher Magic
+1034,Cypher Script
+1035,Demon Hunter
+1036,Dervish Dance
+1037,Desert Dweller
+1038,Desperate Battler
+1039,Eye of the Arclord
+1040,Fey Foundling
+1041,Flagbearer
+1042,Focused Discipline
+1043,Fortune Teller
+1044,Free Spirit
+1045,Godless Healing
+1046,Green Faith Acolyte
+1047,Hamatulatsu
+1048,Harmonic Spell
+1049,Harrowed
+1050,Hermean Blood
+1051,Necromantic Affinity
+1052,Noble Scion
+1053,Rapid Reload
+1054,Rugged Northerner
+1055,Scholar
+1056,Secret Signs
+1057,Shade of the Uskwood
+1058,Shrewd Tactician
+1059,Stoic
+1060,Storm-Lashed
+1061,Survivor
+1062,Taldan Duelist
+1063,Totem Spirit
+1064,Varisian Tattoo
+1065,Wand Dancer
+1066,Slaying Sprint
+1067,Greater Serpent Lash
+1068,Serpent Lash
+1069,Circling Offense
+1070,Footslasher
+1071,Topple Foe
+1072,Jackal Heritage
+1073,Drunken Brawler
+1074,Butterfly's Sting
+1075,Divination Guide
+1076,Bullseye Shot
+1077,Nimble Natural Summons
+1078,Charge of the Righteous
+1079,Protector's Strike
+1080,Bestow Hope
+1081,Glorious Heat
+1082,Spear Dancer
+1083,Stone Read
+1084,Undermining Exploit
+1085,Ankle Biter
+1086,Battle Singer
+1087,Dog Killer, Horse Hunter
+1088,Lead from the Back
+1089,Letter Fury
+1090,Roll With It
+1091,Saddle Shrieker
+1092,Combat Distraction
+1093,Vandal
+1094,Ammo Drop
+1095,Halfling Slinger
+1096,Juggle Load
+1097,Large Target
+1098,Whip-Slinger
+1099,Amplified Rage
+1100,Blood Vengeance
+1101,Brutal Grappler
+1102,Destroyer's Blessing
+1103,Ferocious Tenacity
+1104,Ferocious Tenacity
+1105,Fire God's Blessing
+1106,Gore Fiend
+1107,Sympathetic Rage
+1108,Thrill of the Kill
+1109,Warleader's Rage
+1110,Adept Channel
+1111,Cold Celerity
+1112,Tribal Scars
+1113,Witchbreaker
+1114,DEADLY DEALER
+1115,Thunder And Fang
+1116,Chainbreaker
+1117,Devil's Foe
+1118,Eagle Knight Candidate
+1119,Talmandor's Lifting
+1120,Advanced Defensive Combat Training
+1121,Bloodstone Manhunter
+1122,Calm Disposition
+1123,Death's Suitor
+1124,Disassemble Magic Item
+1125,Divine Deception
+1126,Fast Crawl
+1127,Fearsome Barricade
+1128,Grand Master Performer
+1129,Ki Diversity
+1130,Let Them Come
+1131,Master Performer
+1132,Nameless Servitor
+1133,Old Cults Awakener
+1134,Ominous Mien
+1135,Silent Performer
+1136,Touched By Sacred Fire
+1137,Verbose Performer
+1138,Whispered Knowledge
+1139,Blood Of Heroes
+1140,Hero's Fortune
+1141,Luck Of Heroes
+1142,Celestial Obedience
+1143,Accursed
+1144,Arisen
+1145,Battlefield Healer
+1146,Champion
+1147,Damned
+1148,Deny The Reaper
+1149,Eldritch Researcher
+1150,Fearless Zeal
+1151,Feral Heart
+1152,Foeslayer
+1153,Forgotten Past
+1154,Glimpse Beyond
+1155,Innocent Blood
+1156,Liberator
+1157,Lost Legacy
+1158,Magnum Opus
+1159,Monument Builder
+1160,Nation Builder
+1161,Nemesis
+1162,Prophet
+1163,Redemption
+1164,Shamed
+1165,Stronghold
+1166,Thief Of Legend
+1167,Town Tamer
+1168,True Love
+1169,Unforgotten
+1170,Vengeance
+1171,Ancient Draconic
+1172,Improved Learn Ranger Trap
+1173,Kobold Confidence
+1174,Learn Ranger Trap
+1175,Merciless Magic
+1176,Merciless Precision
+1177,Mixed Scales
+1178,Redeemed Kobold
+1179,Scaled Disciple
+1180,Small But Deadly
+1181,Kobold Flood
+1182,Kobold Groundling
+1183,Kobold Style
+1184,Tribe Mentality
+1185,Wall Offlesh
+1186,Apotheosis
+1187,Artifact Hunter
+1188,Blessed
+1189,Damned
+1190,Dynasty Founder
+1191,Explorer
+1192,Foeslayer
+1193,Liberator
+1194,Planar Traveler
+1195,Prophet
+1196,Truth-Seeker
+1197,Object Of Legend
+1198,Center Of Power
+1199,Expert Trainer
+1200,Focused Overseer
+1201,Focused Worker
+1202,Fortunate Ruler
+1203,Fortunate Manager
+1204,Inspirational Commander
+1205,Natural Ruler
+1206,Precocious Youth
+1208,Dog-Sniff-Hate
+1209,Dragoncrafting
+1210,Courage In Numbers
+1211,Overwhelm
+1212,Tandemevasion
+1213,Covering Shield
+1214,Death Frombelow
+1215,Dragonheart
+1216,Dragonslayer
+1217,Flaying Critical
+1218,Porcupine Defense
+1219,Reach Defense
+1220,Snoutgrip
+1221,Wingclipper
+1222,Improved Day Job
+1223,Patient Strike
+1224,Steadfast Mind
+1225,Quick Preparation
+1226,Renown
+1227,Versatile Spontaneity
+1228,Collective Recollection
+1229,Esoteric Advantage
+1230,Uncanny Activation
+1231,Emergency Attunement
+1232,Planned Spontaneity
+1233,Tapestry Traveler
+1234,Cut Your Losses
+1235,Improved Underhanded Teamwork
+1236,Underhanded Teamwork
+1237,Atheist Abjurations
+1238,Divine Defiance
+1239,Divine Denouncer
+1240,Focused Disbelief
+1241,Iconoclast
+1242,Seeds Ofdoubt
+1243,Animal Ally
+1244,Druidic Decoder
+1245,Friend To Animals
+1246,Nature Soul
+1247,Weather Eye
+1248,Bend With The Wind
+1249,Body Control
+1250,Body Mastery
+1251,Combat Meditation
+1252,Meditation Master
+1253,Meditative Concentration
+1254,Perfect Awareness
+1255,Perfect Center
+1256,Slow Time
+1257,Demonic Nemesis
+1258,Exorcist's Rebuttal
+1259,Outer Planes Traveler
+1260,Vengeful Banisher
+1261,Coordinated Distraction
+1262,Punch Through
+1263,Spell Chain
+1264,Babau Rogue Talent
+1265,Flensing Strike
+1266,Improved Stench
+1267,Pungent Stench
+1268,Toxic Stench
+1269,Demonic Possession
+1270,Improved Possession
+1271,Penetrating Possession
+1272,Spirit Vision
+1273,Improved Infuse Weapon
+1274,Multiweapon Defense
+1275,Multiweapon Specialist
+1276,Consume Undeath
+1277,Improved Death-Stealing
+1278,Accursed Hex
+1279,Acrobatic
+1280,Alertness
+1281,Alignment Channel
+1282,Animal Affinity
+1283,Arcane Armor Training
+1284,Arcane Blast
+1285,Arcane Shield
+1286,Arcane Strike
+1287,Ascendant Spell
+1288,Aspect Of The Beast
+1289,Athletic
+1290,Augment Summoning
+1291,Bleeding Critical
+1292,Blind-Fight
+1293,Catch Off-Guard
+1294,Channel Smite
+1295,Charge Through
+1296,Cleave
+1297,Combat Expertise
+1298,Combat Reflexes
+1299,Command Undead
+1300,Critical Focus
+1301,Critical Mastery
+1302,Dastardly Finish
+1303,Dazzling Display
+1304,Deadly Aim
+1305,Deadly Stroke
+1306,Death From Above
+1307,Deceitful
+1308,Deepsight
+1309,Defensive Combat Training
+1310,Deflect Arrows
+1311,Deft Hands
+1312,Detect Expertise
+1313,Disruptive
+1314,Distance Thrower
+1315,Divine Interference
+1316,Dodge
+1317,Dreadful Carnage
+1318,Drink Is Life
+1319,Dual Path
+1320,Eagle Eyes
+1321,Eldritch Heritage
+1322,Elemental Channel
+1323,Elemental Fist
+1324,Elemental Focus
+1325,Elven Accuracy
+1326,Endurance
+1327,Eschew Materials
+1328,Extra Mythic Power
+1329,Extra Path Ability
+1330,Fabulous Figments
+1331,Far Shot
+1332,Fast Empathy
+1333,Fire Music
+1334,Fleet
+1335,Furious Focus
+1336,Gnome Trickster
+1337,Gorgon's Fist
+1338,Great Fortitude
+1339,Guided Hand
+1340,Heroic Defiance
+1341,Heroic Recovery
+1342,Improved Bull Rush
+1343,Improved Channel
+1344,Improved Counterspell
+1345,Improved Critical
+1346,Improved Dirty Trick
+1347,Improved Disarm
+1348,Improved Drag
+1349,Improved Familiar
+1350,Improved Grapple
+1351,Improved Initiative
+1352,Improved Overrun
+1353,Improved Reposition
+1354,Improved Steal
+1355,Improved Stonecunning
+1357,Improved Sunder
+1358,Improved Trip
+1359,Improved Unarmed Strike
+1360,Intimidating Prowess
+1361,Iron Will
+1362,Knockout Artist
+1363,Legendary Teamwork
+1364,Lightning Reflexes
+1365,Lucky Halfling
+1366,Lucky Surge
+1367,Lunge
+1368,Magical Aptitude
+1369,Manyshot
+1370,Marked For Glory
+1371,Maximize Surge
+1372,Medusa's Wrath
+1373,Missile Shield
+1374,Mobility
+1375,Monastic Legacy
+1376,Mounted Archery
+1377,Mounted Combat
+1378,Mythic Companion
+1379,Mythic Crafter
+1380,Mythic Paragon
+1381,Mythic Spell Lore
+1382,Natural Spell
+1383,Nimble Moves
+1384,Penetrating Strike
+1385,Persuasive
+1386,Pinpoint Targeting
+1387,Point-Blank Shot
+1388,Potent Surge
+1389,Power Attack
+1390,Powerful Shape
+1391,Prophetic Visionary
+1392,Quick Draw
+1393,Racial Heritage
+1394,Rapid Reload
+1395,Rapid Shot
+1396,Rhetorical Flourish
+1397,Ride-By Attack
+1398,Run
+1399,Saving Shield
+1400,Scorpion Style
+1401,Selective Channeling
+1402,Self-Sufficient
+1403,Shatter Defenses
+1404,Shield Focus
+1405,Shield Slam
+1406,Shot On The Run
+1407,Skill Focus
+1408,Snatch Arrows
+1409,Sociable
+1410,Spell Focus
+1411,Spell Mastery
+1412,Spell Penetration
+1413,Spellbreaker
+1414,Spirited Charge
+1415,Spontaneous Metafocus
+1416,Spring Attack
+1417,Stealthy
+1418,Strike Back
+1419,Strong Comeback
+1420,Stunning Fist
+1421,Throw Anything
+1422,Titan Strike
+1423,Toughness
+1424,Trample
+1425,Tripping Staff
+1426,Two-Fisted Drinker
+1427,Two-Weapon Defense
+1428,Two-Weapon Fighting
+1429,Two-Weapon Rend
+1430,Undead Master
+1431,Unseat
+1432,Valiant Vault
+1433,Vital Strike
+1434,Voice Of The Sibyl
+1435,Warrior Priest
+1436,Weapon Finesse
+1437,Weapon Focus
+1438,Weapon Specialization
+1439,Witch Knife
+1440,Demonologist
+1441,Demon Grafter
+1442,Demonic Obedience
+1443,Extra Feature
+1444,Fast Change
+1445,Bat Shape
+1446,Bloodmarked Flight
+1447,Dire Bat Shape
+1448,Bear Hug
+1449,Beartrap Bite
+1450,Ferocious Loyalty
+1451,Swarm Scatter
+1452,Swarm Strike
+1453,Motivating Display
+1454,Surprising Combatant
+1455,Violent Display
+1456,Wolf Savage
+1457,Wolf Style
+1458,Wolf Trip
+1459,Bloatmage Initiate
+1460,Multiweapon Fighting
+1461,Stable Spell
+1462,Shadow Gambit
+1463,Shadow Grasp
+1464,Tenebrous Spell
+1465,Umbral Spell
+1466,Inscribe Magical Tattoo
+1467,Extend The Bulwark
+1468,Quillbreaker Defense
+1469,Shield Snag
+1470,Equipment Trick
+1471,Blowout Shot Deed
+1472,Whip-Shot Deed
+1473,False Casting
+1474,False Focus
+1475,Osirionology
+1476,Out Of The Sun
+1477,Thuvian Grenadier
+1478,Undermine
+1479,Horn Of The Criosphinx
+1480,Wings Of The Androsphinx
+1481,Shield Master
+1482,Betraying Blow
+1483,Solo Maneuvers
+1484,Dirty Trick Master
+1485,Divert Harm
+1486,Crisis Of Conscience
+1487,Planar Hunter
+1488,Practiced Leadership
+1489,Fabulist
+1490,Gun Twirling
+1491,Named Bullet
